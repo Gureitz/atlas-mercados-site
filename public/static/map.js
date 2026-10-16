@@ -10,12 +10,15 @@
   function fmtBig(v) {
     if (v >= 1e12) return (v / 1e12).toFixed(2).replace(".", ",") + " tri";
     if (v >= 1e9) return (v / 1e9).toFixed(0).replace(".", ",") + " bi";
-    return (v / 1e6).toFixed(0) + " mi";
+    if (v >= 1e6) return (v / 1e6).toFixed(0) + " mi";
+    return Math.round(v).toLocaleString("pt-BR");
   }
   function fmtUn(v, un) {
     if (v === null || v === undefined) return "sem dado";
     if (un === "R$" || un === "US$") return un + " " + fmtBig(v);
     if (un === "un." || un === "hab") return Math.round(v).toLocaleString("pt-BR") + (un === "un." ? "" : " hab");
+    if (Math.abs(v) >= 1e6) return (v / 1e6).toFixed(1).replace(".", ",") + " mi " + un;
+    if (Math.abs(v) >= 1e3) return Math.round(v).toLocaleString("pt-BR") + " " + un;
     return v.toFixed(1).replace(".", ",") + " " + un;
   }
 

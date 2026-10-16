@@ -1,0 +1,1280 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indústria extrativa e de transformação no Brasil — tamanho por segmento e por UF (PIA 2024) — Atlas Mercados</title>
+<meta name="description" content="Em 2024, as empresas industriais com 5 ou mais pessoas ocupadas tiveram receita líquida de vendas de R$ 6,67 trilhões e valor da transformação industrial de R$ 2,55 trilhões, com 8,3 milhões de pessoas ocupadas, segundo a Pesquisa Industrial Anual do IBGE (tabela 10474); São Paulo concentra 32,6% (tabela 10455). As maiores divisões são fabricação de produtos alimentícios (23,0%), fabricação de coque, de produtos derivados do petróleo e de biocombustíveis (10,3%) e fabricação de produtos químicos (9,3%).">
+<link rel="canonical" href="https://atlasmercados.com.br/economia/industria">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Indústria extrativa e de transformação no Brasil — tamanho por segmento e por UF (PIA 2024) — Atlas Mercados">
+<meta property="og:description" content="Em 2024, as empresas industriais com 5 ou mais pessoas ocupadas tiveram receita líquida de vendas de R$ 6,67 trilhões e valor da transformação industrial de R$ 2,55 trilhões, com 8,3 milhões de pessoas ocupadas, segundo a Pesquisa Industrial Anual do IBGE (tabela 10474); São Paulo concentra 32,6% (tabela 10455). As maiores divisões são fabricação de produtos alimentícios (23,0%), fabricação de coque, de produtos derivados do petróleo e de biocombustíveis (10,3%) e fabricação de produtos químicos (9,3%).">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}.arv .p4{padding-left:90px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv tr.n3 td,.arv tr.n4 td{font-size:11px;color:var(--dim)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .tag{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:0 0 16px}
+  .card{display:block;padding:14px 16px;border:1px solid var(--bd);border-radius:10px;background:var(--panel)}
+  .card:hover{border-color:var(--acc)}
+  .card .t{font-size:11px;color:var(--dim2);text-transform:uppercase;letter-spacing:.06em}
+  .card .v{font-size:19px;margin:6px 0 2px}
+  .card .d{font-size:11px;color:var(--dim)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .bars{height:140px}
+  .bars .b{background:var(--acc)}
+  .bars .b .t{position:absolute;top:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--dim2);white-space:nowrap}
+  .sel{height:32px;background:var(--panel);border:1px solid var(--bd);border-radius:8px;color:var(--tx);padding:0 10px;font-family:inherit;font-size:12px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/economia_industria_pia.parquet", "name": "Pesquisa Industrial Anual — receita, valor da transformação industrial e pessoal por divisão CNAE e UF", "description": "Tabelas da PIA-Empresa/IBGE em formato longo: receita líquida de vendas, valor da transformação industrial (VTI), valor bruto da produção, custos, pessoal ocupado e salários das empresas industriais com 5 ou mais pessoas ocupadas, por seção e divisão CNAE (Brasil, t/10474), por UF (t/10455) e por UF × CNAE nas UFs que o IBGE publica (t/10454).", "url": "https://atlasmercados.com.br/dados/economia_industria_pia", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "inLanguage": "pt-BR", "creator": {"@type": "GovernmentOrganization", "name": "IBGE", "url": "https://www.ibge.gov.br/"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "temporalCoverage": "2024-01-01/2024-12-31", "dateModified": "2026-10-16T19:43:22+00:00", "isBasedOn": [{"@type": "Dataset", "name": "PIA — unidades locais industriais (5 ou mais pessoas ocupadas), UF × CNAE (UFs publicadas)", "url": "https://sidra.ibge.gov.br/tabela/10454", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}, {"@type": "Dataset", "name": "PIA — unidades locais industriais (5 ou mais pessoas ocupadas), Brasil, regiões e UFs", "url": "https://sidra.ibge.gov.br/tabela/10455", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}, {"@type": "Dataset", "name": "PIA — empresas industriais com 5 ou mais pessoas ocupadas, por divisão e grupo CNAE, Brasil", "url": "https://sidra.ibge.gov.br/tabela/10474", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/economia_industria_pia.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/economia_industria_pia.csv"}], "variableMeasured": ["empresas", "pessoal", "receita_liquida", "salarios", "unidades_locais", "valor_adicionado", "vbp", "vbpi", "vti"]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Economia", "item": "https://atlasmercados.com.br/economia"}, {"@type": "ListItem", "position": 3, "name": "Indústria", "item": "https://atlasmercados.com.br/economia/industria"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="on" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Indústria extrativa e de transformação</h1>
+<p class="sub"><a href="/economia">Economia</a> · Pesquisa Industrial Anual - Empresa (PIA) do IBGE · 2024 · <a href="/economia/industria.json">JSON</a></p>
+<div class="chips"><a href="/economia/servicos" class="">Serviços</a><a href="/economia/industria" class="on">Indústria</a><a href="/economia/construcao" class="">Construção</a><a href="/economia/agropecuaria" class="">Agropecuária</a></div>
+<p class="resposta" data-resposta>Em 2024, as empresas industriais com 5 ou mais pessoas ocupadas tiveram receita líquida de vendas de R$ 6,67 trilhões e valor da transformação industrial de R$ 2,55 trilhões, com 8,3 milhões de pessoas ocupadas, segundo a Pesquisa Industrial Anual do IBGE (tabela 10474); São Paulo concentra 32,6% (tabela 10455). As maiores divisões são fabricação de produtos alimentícios (23,0%), fabricação de coque, de produtos derivados do petróleo e de biocombustíveis (10,3%) e fabricação de produtos químicos (9,3%).</p>
+
+
+<article class="panel">
+  <h2>Por segmento <span class="h">Brasil · t/10474 · 2024</span></h2>
+  <div class="scrim" style="overflow:auto">
+  <table class="arv">
+    <thead><tr><th class="l">Segmento</th><th class="l" style="width:150px">Share (calc.)</th><th>Receita líquida de vendas<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th><th>Valor da transformação industrial<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th><th>Valor bruto da produção industrial<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th><th>Pessoal ocupado<br><span class="dim2" style="font-size:9px;font-weight:400">pessoas</span></th><th>Empresas (5+ pessoas)<br><span class="dim2" style="font-size:9px;font-weight:400">un.</span></th></tr></thead>
+    <tbody>
+    
+    <tr class="n0">
+      <td class="nm p0">Total</td>
+      <td class="l"><span class="sh" style="width:100.0px"></span><span class="mono dim" style="font-size:11px">100,0%</span></td>
+      <td class="mono ">R$ 6,7 tri</td><td class="mono ">R$ 2,5 tri</td><td class="mono ">R$ 6,1 tri</td><td class="mono ">8.342.405</td><td class="mono ">193.763</td>
+    </tr>
+    
+    <tr class="n1">
+      <td class="nm p1"><span class="mono acc" style="font-size:10.5px">B</span> Indústrias extrativas</td>
+      <td class="l"><span class="sh" style="width:7.2px"></span><span class="mono dim" style="font-size:11px">7,2%</span></td>
+      <td class="mono ">R$ 480,7 bi</td><td class="mono ">R$ 289,8 bi</td><td class="mono ">R$ 481,0 bi</td><td class="mono ">243.990</td><td class="mono ">3.872</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">05</span> Extração de carvão mineral</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 2,0 bi</td><td class="mono ">R$ 962,9 mi</td><td class="mono ">R$ 1,9 bi</td><td class="mono ">3.278</td><td class="mono ">15</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">05.0</span> Extração de carvão mineral</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 2,0 bi</td><td class="mono ">R$ 962,9 mi</td><td class="mono ">R$ 1,9 bi</td><td class="mono ">3.278</td><td class="mono ">15</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">06</span> Extração de petróleo e gás natural</td>
+      <td class="l"><span class="sh" style="width:2.6px"></span><span class="mono dim" style="font-size:11px">2,6%</span></td>
+      <td class="mono ">R$ 176,0 bi</td><td class="mono ">R$ 131,3 bi</td><td class="mono ">R$ 178,5 bi</td><td class="mono ">9.820</td><td class="mono ">52</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">06.0</span> Extração de petróleo e gás natural</td>
+      <td class="l"><span class="sh" style="width:2.6px"></span><span class="mono dim" style="font-size:11px">2,6%</span></td>
+      <td class="mono ">R$ 176,0 bi</td><td class="mono ">R$ 131,3 bi</td><td class="mono ">R$ 178,5 bi</td><td class="mono ">9.820</td><td class="mono ">52</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">07</span> Extração de minerais metálicos</td>
+      <td class="l"><span class="sh" style="width:3.4px"></span><span class="mono dim" style="font-size:11px">3,4%</span></td>
+      <td class="mono ">R$ 225,8 bi</td><td class="mono ">R$ 110,7 bi</td><td class="mono ">R$ 224,2 bi</td><td class="mono ">104.549</td><td class="mono ">215</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">07.1</span> Extração de minério de ferro</td>
+      <td class="l"><span class="sh" style="width:2.9px"></span><span class="mono dim" style="font-size:11px">2,9%</span></td>
+      <td class="mono ">R$ 193,3 bi</td><td class="mono ">R$ 91,2 bi</td><td class="mono ">R$ 191,2 bi</td><td class="mono ">82.124</td><td class="mono ">86</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">07.2</span> Extração de minerais metálicos não-ferrosos</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 32,5 bi</td><td class="mono ">R$ 19,5 bi</td><td class="mono ">R$ 33,0 bi</td><td class="mono ">22.425</td><td class="mono ">129</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">08</span> Extração de minerais não-metálicos</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 36,5 bi</td><td class="mono ">R$ 22,0 bi</td><td class="mono ">R$ 36,2 bi</td><td class="mono ">82.979</td><td class="mono ">3.390</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">08.1</span> Extração de pedra, areia e argila</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 28,4 bi</td><td class="mono ">R$ 16,9 bi</td><td class="mono ">R$ 27,9 bi</td><td class="mono ">66.738</td><td class="mono ">3.046</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">08.9</span> Extração de outros minerais não-metálicos</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 8,1 bi</td><td class="mono ">R$ 5,1 bi</td><td class="mono ">R$ 8,3 bi</td><td class="mono ">16.241</td><td class="mono ">344</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">09</span> Atividades de apoio à extração de minerais</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 40,4 bi</td><td class="mono ">R$ 24,8 bi</td><td class="mono ">R$ 40,1 bi</td><td class="mono ">43.364</td><td class="mono ">200</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">09.1</span> Atividades de apoio à extração de petróleo e gás natural</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 39,4 bi</td><td class="mono ">R$ 24,1 bi</td><td class="mono ">R$ 39,2 bi</td><td class="mono ">39.620</td><td class="mono ">96</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">09.9</span> Atividades de apoio à extração de minerais, exceto petróleo e gás natural</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 990,0 mi</td><td class="mono ">R$ 727,9 mi</td><td class="mono ">R$ 878,5 mi</td><td class="mono ">3.744</td><td class="mono ">104</td>
+    </tr>
+    
+    <tr class="n1">
+      <td class="nm p1"><span class="mono acc" style="font-size:10.5px">C</span> Indústrias de transformação</td>
+      <td class="l"><span class="sh" style="width:92.8px"></span><span class="mono dim" style="font-size:11px">92,8%</span></td>
+      <td class="mono ">R$ 6,2 tri</td><td class="mono ">R$ 2,3 tri</td><td class="mono ">R$ 5,7 tri</td><td class="mono ">8.098.415</td><td class="mono ">189.891</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">10</span> Fabricação de produtos alimentícios</td>
+      <td class="l"><span class="sh" style="width:23.0px"></span><span class="mono dim" style="font-size:11px">23,0%</span></td>
+      <td class="mono ">R$ 1,5 tri</td><td class="mono ">R$ 443,6 bi</td><td class="mono ">R$ 1,3 tri</td><td class="mono ">2.012.388</td><td class="mono ">31.003</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">10.1</span> Abate e fabricação de produtos de carne</td>
+      <td class="l"><span class="sh" style="width:7.3px"></span><span class="mono dim" style="font-size:11px">7,3%</span></td>
+      <td class="mono ">R$ 484,4 bi</td><td class="mono ">R$ 126,8 bi</td><td class="mono ">R$ 456,2 bi</td><td class="mono ">709.950</td><td class="mono ">2.274</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">10.2</span> Preservação do pescado e fabricação de produtos do pescado</td>
+      <td class="l"><span class="sh" style="width:0.2px"></span><span class="mono dim" style="font-size:11px">0,2%</span></td>
+      <td class="mono ">R$ 10,8 bi</td><td class="mono ">R$ 3,4 bi</td><td class="mono ">R$ 10,2 bi</td><td class="mono ">23.911</td><td class="mono ">492</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">10.3</span> Fabricação de conservas de frutas, legumes e outros vegetais</td>
+      <td class="l"><span class="sh" style="width:0.9px"></span><span class="mono dim" style="font-size:11px">0,9%</span></td>
+      <td class="mono ">R$ 58,9 bi</td><td class="mono ">R$ 25,6 bi</td><td class="mono ">R$ 59,9 bi</td><td class="mono ">98.809</td><td class="mono ">1.422</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">10.4</span> Fabricação de óleos e gorduras vegetais e animais</td>
+      <td class="l"><span class="sh" style="width:4.2px"></span><span class="mono dim" style="font-size:11px">4,2%</span></td>
+      <td class="mono ">R$ 279,7 bi</td><td class="mono ">R$ 33,6 bi</td><td class="mono ">R$ 160,5 bi</td><td class="mono ">57.059</td><td class="mono ">205</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">10.5</span> Laticínios</td>
+      <td class="l"><span class="sh" style="width:2.6px"></span><span class="mono dim" style="font-size:11px">2,6%</span></td>
+      <td class="mono ">R$ 173,9 bi</td><td class="mono ">R$ 45,6 bi</td><td class="mono ">R$ 162,5 bi</td><td class="mono ">171.133</td><td class="mono ">3.398</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">10.6</span> Moagem, fabricação de produtos amiláceos e de alimentos para animais</td>
+      <td class="l"><span class="sh" style="width:2.4px"></span><span class="mono dim" style="font-size:11px">2,4%</span></td>
+      <td class="mono ">R$ 160,6 bi</td><td class="mono ">R$ 48,1 bi</td><td class="mono ">R$ 148,0 bi</td><td class="mono ">162.238</td><td class="mono ">2.876</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">10.7</span> Fabricação e refino de açúcar</td>
+      <td class="l"><span class="sh" style="width:2.4px"></span><span class="mono dim" style="font-size:11px">2,4%</span></td>
+      <td class="mono ">R$ 159,6 bi</td><td class="mono ">R$ 80,7 bi</td><td class="mono ">R$ 153,3 bi</td><td class="mono ">316.111</td><td class="mono ">269</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">10.8</span> Torrefação e moagem de café</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 32,4 bi</td><td class="mono ">R$ 7,0 bi</td><td class="mono ">R$ 26,5 bi</td><td class="mono ">21.648</td><td class="mono ">482</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">10.9</span> Fabricação de outros produtos alimentícios</td>
+      <td class="l"><span class="sh" style="width:2.7px"></span><span class="mono dim" style="font-size:11px">2,7%</span></td>
+      <td class="mono ">R$ 177,1 bi</td><td class="mono ">R$ 72,7 bi</td><td class="mono ">R$ 166,5 bi</td><td class="mono ">451.529</td><td class="mono ">19.585</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">11</span> Fabricação de bebidas</td>
+      <td class="l"><span class="sh" style="width:2.7px"></span><span class="mono dim" style="font-size:11px">2,7%</span></td>
+      <td class="mono ">R$ 182,3 bi</td><td class="mono ">R$ 67,8 bi</td><td class="mono ">R$ 156,1 bi</td><td class="mono ">194.174</td><td class="mono ">2.279</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">11.1</span> Fabricação de bebidas alcoólicas</td>
+      <td class="l"><span class="sh" style="width:1.6px"></span><span class="mono dim" style="font-size:11px">1,6%</span></td>
+      <td class="mono ">R$ 107,4 bi</td><td class="mono ">R$ 35,3 bi</td><td class="mono ">R$ 94,2 bi</td><td class="mono ">84.073</td><td class="mono ">1.302</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">11.2</span> Fabricação de bebidas não-alcoólicas</td>
+      <td class="l"><span class="sh" style="width:1.1px"></span><span class="mono dim" style="font-size:11px">1,1%</span></td>
+      <td class="mono ">R$ 74,8 bi</td><td class="mono ">R$ 32,5 bi</td><td class="mono ">R$ 61,9 bi</td><td class="mono ">110.101</td><td class="mono ">977</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">12</span> Fabricação de produtos do fumo</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 27,9 bi</td><td class="mono ">R$ 9,7 bi</td><td class="mono ">R$ 26,9 bi</td><td class="mono ">17.503</td><td class="mono ">123</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">12.1</span> Processamento industrial do fumo</td>
+      <td class="l"></td>
+      <td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono ">22</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">12.2</span> Fabricação de produtos do fumo</td>
+      <td class="l"></td>
+      <td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono ">101</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">13</span> Fabricação de produtos têxteis</td>
+      <td class="l"><span class="sh" style="width:1.2px"></span><span class="mono dim" style="font-size:11px">1,2%</span></td>
+      <td class="mono ">R$ 78,6 bi</td><td class="mono ">R$ 31,4 bi</td><td class="mono ">R$ 75,9 bi</td><td class="mono ">252.009</td><td class="mono ">5.555</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">13.1</span> Preparação e fiação de fibras têxteis</td>
+      <td class="l"><span class="sh" style="width:0.2px"></span><span class="mono dim" style="font-size:11px">0,2%</span></td>
+      <td class="mono ">R$ 11,5 bi</td><td class="mono ">R$ 4,1 bi</td><td class="mono ">R$ 10,8 bi</td><td class="mono ">30.207</td><td class="mono ">376</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">13.2</span> Tecelagem, exceto malha</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 23,9 bi</td><td class="mono ">R$ 9,2 bi</td><td class="mono ">R$ 23,5 bi</td><td class="mono ">74.970</td><td class="mono ">597</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">13.3</span> Fabricação de tecidos de malha</td>
+      <td class="l"><span class="sh" style="width:0.2px"></span><span class="mono dim" style="font-size:11px">0,2%</span></td>
+      <td class="mono ">R$ 11,3 bi</td><td class="mono ">R$ 3,5 bi</td><td class="mono ">R$ 10,9 bi</td><td class="mono ">23.711</td><td class="mono ">412</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">13.4</span> Acabamentos em fios, tecidos e artefatos têxteis</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 5,6 bi</td><td class="mono ">R$ 2,9 bi</td><td class="mono ">R$ 5,6 bi</td><td class="mono ">29.514</td><td class="mono ">1.153</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">13.5</span> Fabricação de artefatos têxteis, exceto vestuário</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 26,4 bi</td><td class="mono ">R$ 11,7 bi</td><td class="mono ">R$ 25,1 bi</td><td class="mono ">93.607</td><td class="mono ">3.017</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">14</span> Confecção de artigos do vestuário e acessórios</td>
+      <td class="l"><span class="sh" style="width:1.2px"></span><span class="mono dim" style="font-size:11px">1,2%</span></td>
+      <td class="mono ">R$ 82,6 bi</td><td class="mono ">R$ 40,9 bi</td><td class="mono ">R$ 76,5 bi</td><td class="mono ">503.238</td><td class="mono ">22.276</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">14.1</span> Confecção de artigos do vestuário e acessórios</td>
+      <td class="l"><span class="sh" style="width:1.2px"></span><span class="mono dim" style="font-size:11px">1,2%</span></td>
+      <td class="mono ">R$ 80,8 bi</td><td class="mono ">R$ 39,9 bi</td><td class="mono ">R$ 74,6 bi</td><td class="mono ">490.277</td><td class="mono ">21.657</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">14.2</span> Fabricação de artigos de malharia e tricotagem</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 1,8 bi</td><td class="mono ">R$ 1,0 bi</td><td class="mono ">R$ 1,8 bi</td><td class="mono ">12.961</td><td class="mono ">619</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">15</span> Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados</td>
+      <td class="l"><span class="sh" style="width:0.8px"></span><span class="mono dim" style="font-size:11px">0,8%</span></td>
+      <td class="mono ">R$ 54,8 bi</td><td class="mono ">R$ 27,8 bi</td><td class="mono ">R$ 53,7 bi</td><td class="mono ">318.842</td><td class="mono ">4.992</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">15.1</span> Curtimento e outras preparações de couro</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 8,8 bi</td><td class="mono ">R$ 3,2 bi</td><td class="mono ">R$ 8,7 bi</td><td class="mono ">24.476</td><td class="mono ">234</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">15.2</span> Fabricação de artigos para viagem e de artefatos diversos de couro</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 2,7 bi</td><td class="mono ">R$ 1,4 bi</td><td class="mono ">R$ 2,6 bi</td><td class="mono ">18.175</td><td class="mono ">1.003</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">15.3</span> Fabricação de calçados</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 39,4 bi</td><td class="mono ">R$ 21,1 bi</td><td class="mono ">R$ 38,6 bi</td><td class="mono ">250.736</td><td class="mono ">2.854</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">15.4</span> Fabricação de partes para calçados, de qualquer material</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 3,9 bi</td><td class="mono ">R$ 2,1 bi</td><td class="mono ">R$ 3,9 bi</td><td class="mono ">25.455</td><td class="mono ">901</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">16</span> Fabricação de produtos de madeira</td>
+      <td class="l"><span class="sh" style="width:0.9px"></span><span class="mono dim" style="font-size:11px">0,9%</span></td>
+      <td class="mono ">R$ 58,8 bi</td><td class="mono ">R$ 26,4 bi</td><td class="mono ">R$ 57,5 bi</td><td class="mono ">172.311</td><td class="mono ">7.140</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">16.1</span> Desdobramento de madeira</td>
+      <td class="l"><span class="sh" style="width:0.3px"></span><span class="mono dim" style="font-size:11px">0,3%</span></td>
+      <td class="mono ">R$ 16,9 bi</td><td class="mono ">R$ 8,3 bi</td><td class="mono ">R$ 16,8 bi</td><td class="mono ">63.440</td><td class="mono ">3.619</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">16.2</span> Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 41,9 bi</td><td class="mono ">R$ 18,1 bi</td><td class="mono ">R$ 40,8 bi</td><td class="mono ">108.871</td><td class="mono ">3.521</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">17</span> Fabricação de celulose, papel e produtos de papel</td>
+      <td class="l"><span class="sh" style="width:3.0px"></span><span class="mono dim" style="font-size:11px">3,0%</span></td>
+      <td class="mono ">R$ 202,4 bi</td><td class="mono ">R$ 85,5 bi</td><td class="mono ">R$ 200,1 bi</td><td class="mono ">216.252</td><td class="mono ">3.032</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">17.1</span> Fabricação de celulose e outras pastas para a fabricação de papel</td>
+      <td class="l"><span class="sh" style="width:1.4px"></span><span class="mono dim" style="font-size:11px">1,4%</span></td>
+      <td class="mono ">R$ 92,6 bi</td><td class="mono ">R$ 43,3 bi</td><td class="mono ">R$ 93,2 bi</td><td class="mono ">58.236</td><td class="mono ">17</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">17.2</span> Fabricação de papel, cartolina e papel-cartão</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 27,1 bi</td><td class="mono ">R$ 9,8 bi</td><td class="mono ">R$ 27,1 bi</td><td class="mono ">27.460</td><td class="mono ">173</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">17.3</span> Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado</td>
+      <td class="l"><span class="sh" style="width:0.7px"></span><span class="mono dim" style="font-size:11px">0,7%</span></td>
+      <td class="mono ">R$ 45,8 bi</td><td class="mono ">R$ 17,6 bi</td><td class="mono ">R$ 44,2 bi</td><td class="mono ">75.119</td><td class="mono ">1.555</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">17.4</span> Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 36,9 bi</td><td class="mono ">R$ 14,8 bi</td><td class="mono ">R$ 35,6 bi</td><td class="mono ">55.437</td><td class="mono ">1.287</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">18</span> Impressão e reprodução de gravações</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 24,3 bi</td><td class="mono ">R$ 12,7 bi</td><td class="mono ">R$ 23,0 bi</td><td class="mono ">88.703</td><td class="mono ">5.721</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">18.1</span> Atividade de impressão</td>
+      <td class="l"><span class="sh" style="width:0.3px"></span><span class="mono dim" style="font-size:11px">0,3%</span></td>
+      <td class="mono ">R$ 20,6 bi</td><td class="mono ">R$ 10,8 bi</td><td class="mono ">R$ 19,8 bi</td><td class="mono ">72.648</td><td class="mono ">4.523</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">18.2</span> Serviços de pré-impressão e acabamentos gráficos</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 2,9 bi</td><td class="mono ">R$ 1,6 bi</td><td class="mono ">R$ 2,8 bi</td><td class="mono ">15.491</td><td class="mono ">1.172</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">18.3</span> Reprodução de materiais gravados em qualquer suporte</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 728,2 mi</td><td class="mono ">R$ 298,5 mi</td><td class="mono ">R$ 378,9 mi</td><td class="mono ">564</td><td class="mono ">26</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">19</span> Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis</td>
+      <td class="l"><span class="sh" style="width:10.3px"></span><span class="mono dim" style="font-size:11px">10,3%</span></td>
+      <td class="mono ">R$ 685,1 bi</td><td class="mono ">R$ 402,7 bi</td><td class="mono ">R$ 622,9 bi</td><td class="mono ">166.128</td><td class="mono ">304</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">19.1</span> Coquerias</td>
+      <td class="l"></td>
+      <td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono ">2</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">19.2</span> Fabricação de produtos derivados do petróleo</td>
+      <td class="l"></td>
+      <td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono ">148</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">19.3</span> Fabricação de biocombustíveis</td>
+      <td class="l"><span class="sh" style="width:1.7px"></span><span class="mono dim" style="font-size:11px">1,7%</span></td>
+      <td class="mono ">R$ 113,0 bi</td><td class="mono ">R$ 33,9 bi</td><td class="mono ">R$ 101,5 bi</td><td class="mono ">108.585</td><td class="mono ">154</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">20</span> Fabricação de produtos químicos</td>
+      <td class="l"><span class="sh" style="width:9.3px"></span><span class="mono dim" style="font-size:11px">9,3%</span></td>
+      <td class="mono ">R$ 617,9 bi</td><td class="mono ">R$ 168,7 bi</td><td class="mono ">R$ 569,0 bi</td><td class="mono ">366.071</td><td class="mono ">6.089</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">20.1</span> Fabricação de produtos químicos inorgânicos</td>
+      <td class="l"><span class="sh" style="width:2.8px"></span><span class="mono dim" style="font-size:11px">2,8%</span></td>
+      <td class="mono ">R$ 187,3 bi</td><td class="mono ">R$ 49,7 bi</td><td class="mono ">R$ 177,1 bi</td><td class="mono ">80.462</td><td class="mono ">854</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">20.2</span> Fabricação de produtos químicos orgânicos</td>
+      <td class="l"><span class="sh" style="width:0.9px"></span><span class="mono dim" style="font-size:11px">0,9%</span></td>
+      <td class="mono ">R$ 58,0 bi</td><td class="mono ">R$ 15,0 bi</td><td class="mono ">R$ 52,1 bi</td><td class="mono ">24.844</td><td class="mono ">239</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">20.3</span> Fabricação de resinas e elastômeros</td>
+      <td class="l"><span class="sh" style="width:1.4px"></span><span class="mono dim" style="font-size:11px">1,4%</span></td>
+      <td class="mono ">R$ 96,2 bi</td><td class="mono ">R$ 20,3 bi</td><td class="mono ">R$ 92,1 bi</td><td class="mono ">28.105</td><td class="mono ">319</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">20.4</span> Fabricação de fibras artificiais e sintéticas</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 4,2 bi</td><td class="mono ">R$ 1,0 bi</td><td class="mono ">R$ 3,8 bi</td><td class="mono ">3.868</td><td class="mono ">54</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">20.5</span> Fabricação de defensivos agrícolas e desinfestantes domissanitários</td>
+      <td class="l"><span class="sh" style="width:1.4px"></span><span class="mono dim" style="font-size:11px">1,4%</span></td>
+      <td class="mono ">R$ 94,4 bi</td><td class="mono ">R$ 20,1 bi</td><td class="mono ">R$ 76,5 bi</td><td class="mono ">28.080</td><td class="mono ">138</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">20.6</span> Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal</td>
+      <td class="l"><span class="sh" style="width:1.4px"></span><span class="mono dim" style="font-size:11px">1,4%</span></td>
+      <td class="mono ">R$ 90,8 bi</td><td class="mono ">R$ 30,6 bi</td><td class="mono ">R$ 85,4 bi</td><td class="mono ">116.579</td><td class="mono ">2.393</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">20.7</span> Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 37,1 bi</td><td class="mono ">R$ 13,0 bi</td><td class="mono ">R$ 35,8 bi</td><td class="mono ">38.100</td><td class="mono ">943</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">20.9</span> Fabricação de produtos e preparados químicos diversos</td>
+      <td class="l"><span class="sh" style="width:0.7px"></span><span class="mono dim" style="font-size:11px">0,7%</span></td>
+      <td class="mono ">R$ 49,9 bi</td><td class="mono ">R$ 18,9 bi</td><td class="mono ">R$ 46,3 bi</td><td class="mono ">46.033</td><td class="mono ">1.149</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">21</span> Fabricação de produtos farmoquímicos e farmacêuticos</td>
+      <td class="l"><span class="sh" style="width:1.7px"></span><span class="mono dim" style="font-size:11px">1,7%</span></td>
+      <td class="mono ">R$ 113,4 bi</td><td class="mono ">R$ 49,5 bi</td><td class="mono ">R$ 94,6 bi</td><td class="mono ">124.512</td><td class="mono ">404</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">21.1</span> Fabricação de produtos farmoquímicos</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 2,6 bi</td><td class="mono ">R$ 1,0 bi</td><td class="mono ">R$ 2,5 bi</td><td class="mono ">2.136</td><td class="mono ">52</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">21.2</span> Fabricação de produtos farmacêuticos</td>
+      <td class="l"><span class="sh" style="width:1.7px"></span><span class="mono dim" style="font-size:11px">1,7%</span></td>
+      <td class="mono ">R$ 110,8 bi</td><td class="mono ">R$ 48,4 bi</td><td class="mono ">R$ 92,0 bi</td><td class="mono ">122.376</td><td class="mono ">352</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">22</span> Fabricação de produtos de borracha e de material plástico</td>
+      <td class="l"><span class="sh" style="width:3.2px"></span><span class="mono dim" style="font-size:11px">3,2%</span></td>
+      <td class="mono ">R$ 213,4 bi</td><td class="mono ">R$ 81,4 bi</td><td class="mono ">R$ 204,8 bi</td><td class="mono ">434.465</td><td class="mono ">10.190</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">22.1</span> Fabricação de produtos de borracha</td>
+      <td class="l"><span class="sh" style="width:0.8px"></span><span class="mono dim" style="font-size:11px">0,8%</span></td>
+      <td class="mono ">R$ 55,1 bi</td><td class="mono ">R$ 20,8 bi</td><td class="mono ">R$ 50,7 bi</td><td class="mono ">89.112</td><td class="mono ">1.673</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">22.2</span> Fabricação de produtos de material plástico</td>
+      <td class="l"><span class="sh" style="width:2.4px"></span><span class="mono dim" style="font-size:11px">2,4%</span></td>
+      <td class="mono ">R$ 158,3 bi</td><td class="mono ">R$ 60,6 bi</td><td class="mono ">R$ 154,1 bi</td><td class="mono ">345.353</td><td class="mono ">8.517</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">23</span> Fabricação de produtos de minerais não-metálicos</td>
+      <td class="l"><span class="sh" style="width:2.7px"></span><span class="mono dim" style="font-size:11px">2,7%</span></td>
+      <td class="mono ">R$ 182,3 bi</td><td class="mono ">R$ 82,2 bi</td><td class="mono ">R$ 171,3 bi</td><td class="mono ">410.217</td><td class="mono ">15.843</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">23.1</span> Fabricação de vidro e de produtos do vidro</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 24,2 bi</td><td class="mono ">R$ 10,2 bi</td><td class="mono ">R$ 23,2 bi</td><td class="mono ">44.392</td><td class="mono ">1.002</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">23.2</span> Fabricação de cimento</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 33,7 bi</td><td class="mono ">R$ 16,9 bi</td><td class="mono ">R$ 30,9 bi</td><td class="mono ">22.866</td><td class="mono ">31</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">23.3</span> Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes</td>
+      <td class="l"><span class="sh" style="width:0.8px"></span><span class="mono dim" style="font-size:11px">0,8%</span></td>
+      <td class="mono ">R$ 51,7 bi</td><td class="mono ">R$ 22,6 bi</td><td class="mono ">R$ 50,2 bi</td><td class="mono ">127.697</td><td class="mono ">6.184</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">23.4</span> Fabricação de produtos cerâmicos</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 31,5 bi</td><td class="mono ">R$ 15,6 bi</td><td class="mono ">R$ 30,9 bi</td><td class="mono ">128.803</td><td class="mono ">3.781</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">23.9</span> Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 41,3 bi</td><td class="mono ">R$ 16,9 bi</td><td class="mono ">R$ 36,1 bi</td><td class="mono ">86.459</td><td class="mono ">4.845</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">24</span> Metalurgia</td>
+      <td class="l"><span class="sh" style="width:6.5px"></span><span class="mono dim" style="font-size:11px">6,5%</span></td>
+      <td class="mono ">R$ 434,5 bi</td><td class="mono ">R$ 137,7 bi</td><td class="mono ">R$ 424,1 bi</td><td class="mono ">255.437</td><td class="mono ">2.035</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">24.1</span> Produção de ferro-gusa e de ferroligas</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 36,4 bi</td><td class="mono ">R$ 19,2 bi</td><td class="mono ">R$ 37,5 bi</td><td class="mono ">26.767</td><td class="mono ">99</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">24.2</span> Siderurgia</td>
+      <td class="l"><span class="sh" style="width:3.2px"></span><span class="mono dim" style="font-size:11px">3,2%</span></td>
+      <td class="mono ">R$ 212,7 bi</td><td class="mono ">R$ 56,7 bi</td><td class="mono ">R$ 209,3 bi</td><td class="mono ">105.824</td><td class="mono ">410</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">24.3</span> Produção de tubos de aço, exceto tubos sem costura</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 23,9 bi</td><td class="mono ">R$ 8,0 bi</td><td class="mono ">R$ 23,5 bi</td><td class="mono ">21.017</td><td class="mono ">208</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">24.4</span> Metalurgia dos metais não-ferrosos</td>
+      <td class="l"><span class="sh" style="width:2.2px"></span><span class="mono dim" style="font-size:11px">2,2%</span></td>
+      <td class="mono ">R$ 149,9 bi</td><td class="mono ">R$ 49,0 bi</td><td class="mono ">R$ 142,3 bi</td><td class="mono ">72.117</td><td class="mono ">589</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">24.5</span> Fundição</td>
+      <td class="l"><span class="sh" style="width:0.2px"></span><span class="mono dim" style="font-size:11px">0,2%</span></td>
+      <td class="mono ">R$ 11,7 bi</td><td class="mono ">R$ 4,9 bi</td><td class="mono ">R$ 11,4 bi</td><td class="mono ">29.712</td><td class="mono ">729</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">25</span> Fabricação de produtos de metal, exceto máquinas e equipamentos</td>
+      <td class="l"><span class="sh" style="width:2.8px"></span><span class="mono dim" style="font-size:11px">2,8%</span></td>
+      <td class="mono ">R$ 184,4 bi</td><td class="mono ">R$ 77,2 bi</td><td class="mono ">R$ 178,3 bi</td><td class="mono ">479.305</td><td class="mono ">22.667</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">25.1</span> Fabricação de estruturas metálicas e obras de caldeiraria pesada</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 36,7 bi</td><td class="mono ">R$ 16,2 bi</td><td class="mono ">R$ 35,3 bi</td><td class="mono ">142.551</td><td class="mono ">7.288</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">25.2</span> Fabricação de tanques, reservatórios metálicos e caldeiras</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 5,6 bi</td><td class="mono ">R$ 2,4 bi</td><td class="mono ">R$ 5,4 bi</td><td class="mono ">12.102</td><td class="mono ">346</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">25.3</span> Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 30,5 bi</td><td class="mono ">R$ 15,7 bi</td><td class="mono ">R$ 29,8 bi</td><td class="mono ">108.752</td><td class="mono ">6.954</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">25.4</span> Fabricação de artigos de cutelaria, de serralheria e ferramentas</td>
+      <td class="l"><span class="sh" style="width:0.3px"></span><span class="mono dim" style="font-size:11px">0,3%</span></td>
+      <td class="mono ">R$ 20,1 bi</td><td class="mono ">R$ 9,6 bi</td><td class="mono ">R$ 18,6 bi</td><td class="mono ">63.001</td><td class="mono ">3.009</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">25.5</span> Fabricação de equipamento bélico pesado, armas de fogo e munições</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 3,9 bi</td><td class="mono ">R$ 1,9 bi</td><td class="mono ">R$ 4,0 bi</td><td class="mono ">8.442</td><td class="mono ">19</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">25.9</span> Fabricação de produtos de metal não especificados anteriormente</td>
+      <td class="l"><span class="sh" style="width:1.3px"></span><span class="mono dim" style="font-size:11px">1,3%</span></td>
+      <td class="mono ">R$ 87,5 bi</td><td class="mono ">R$ 31,3 bi</td><td class="mono ">R$ 85,2 bi</td><td class="mono ">144.457</td><td class="mono ">5.051</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">26</span> Fabricação de equipamentos de informática, produtos eletrônicos e ópticos</td>
+      <td class="l"><span class="sh" style="width:2.4px"></span><span class="mono dim" style="font-size:11px">2,4%</span></td>
+      <td class="mono ">R$ 158,3 bi</td><td class="mono ">R$ 47,5 bi</td><td class="mono ">R$ 143,4 bi</td><td class="mono ">123.454</td><td class="mono ">1.866</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">26.1</span> Fabricação de componentes eletrônicos</td>
+      <td class="l"><span class="sh" style="width:0.2px"></span><span class="mono dim" style="font-size:11px">0,2%</span></td>
+      <td class="mono ">R$ 14,8 bi</td><td class="mono ">R$ 4,2 bi</td><td class="mono ">R$ 13,9 bi</td><td class="mono ">16.565</td><td class="mono ">447</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">26.2</span> Fabricação de equipamentos de informática e periféricos</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 39,2 bi</td><td class="mono ">R$ 8,0 bi</td><td class="mono ">R$ 32,1 bi</td><td class="mono ">26.188</td><td class="mono ">167</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">26.3</span> Fabricação de equipamentos de comunicação</td>
+      <td class="l"><span class="sh" style="width:1.0px"></span><span class="mono dim" style="font-size:11px">1,0%</span></td>
+      <td class="mono ">R$ 64,1 bi</td><td class="mono ">R$ 18,2 bi</td><td class="mono ">R$ 60,6 bi</td><td class="mono ">32.474</td><td class="mono ">152</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">26.4</span> Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 24,3 bi</td><td class="mono ">R$ 9,3 bi</td><td class="mono ">R$ 22,2 bi</td><td class="mono ">16.373</td><td class="mono ">181</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">26.5</span> Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios</td>
+      <td class="l"><span class="sh" style="width:0.2px"></span><span class="mono dim" style="font-size:11px">0,2%</span></td>
+      <td class="mono ">R$ 13,7 bi</td><td class="mono ">R$ 6,7 bi</td><td class="mono ">R$ 12,4 bi</td><td class="mono ">26.583</td><td class="mono ">706</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">26.6</span> Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 2,1 bi</td><td class="mono ">R$ 1,0 bi</td><td class="mono ">R$ 2,0 bi</td><td class="mono ">4.525</td><td class="mono ">169</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">26.7</span> Fabricação de equipamentos e instrumentos ópticos, fotográficos e cinematográficos</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 171,1 mi</td><td class="mono ">R$ 95,9 mi</td><td class="mono ">R$ 139,6 mi</td><td class="mono ">746</td><td class="mono ">44</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">26.8</span> Fabricação de mídias virgens, magnéticas e ópticas</td>
+      <td class="l"></td>
+      <td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">27</span> Fabricação de máquinas, aparelhos e materiais elétricos</td>
+      <td class="l"><span class="sh" style="width:2.7px"></span><span class="mono dim" style="font-size:11px">2,7%</span></td>
+      <td class="mono ">R$ 178,0 bi</td><td class="mono ">R$ 59,7 bi</td><td class="mono ">R$ 167,7 bi</td><td class="mono ">251.751</td><td class="mono ">3.024</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">27.1</span> Fabricação de geradores, transformadores e motores elétricos</td>
+      <td class="l"><span class="sh" style="width:0.9px"></span><span class="mono dim" style="font-size:11px">0,9%</span></td>
+      <td class="mono ">R$ 56,7 bi</td><td class="mono ">R$ 20,1 bi</td><td class="mono ">R$ 54,3 bi</td><td class="mono ">71.034</td><td class="mono ">483</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">27.2</span> Fabricação de pilhas, baterias e acumuladores elétricos</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 7,0 bi</td><td class="mono ">R$ 2,7 bi</td><td class="mono ">R$ 6,9 bi</td><td class="mono ">14.122</td><td class="mono ">100</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">27.3</span> Fabricação de equipamentos para distribuição e controle de energia elétrica</td>
+      <td class="l"><span class="sh" style="width:0.9px"></span><span class="mono dim" style="font-size:11px">0,9%</span></td>
+      <td class="mono ">R$ 59,8 bi</td><td class="mono ">R$ 18,3 bi</td><td class="mono ">R$ 56,2 bi</td><td class="mono ">75.649</td><td class="mono ">1.139</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">27.4</span> Fabricação de lâmpadas e outros equipamentos de iluminação</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 4,1 bi</td><td class="mono ">R$ 1,7 bi</td><td class="mono ">R$ 3,8 bi</td><td class="mono ">10.167</td><td class="mono ">386</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">27.5</span> Fabricação de eletrodomésticos</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 42,5 bi</td><td class="mono ">R$ 13,5 bi</td><td class="mono ">R$ 39,2 bi</td><td class="mono ">63.687</td><td class="mono ">286</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">27.9</span> Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 7,9 bi</td><td class="mono ">R$ 3,4 bi</td><td class="mono ">R$ 7,2 bi</td><td class="mono ">17.092</td><td class="mono ">630</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">28</span> Fabricação de máquinas e equipamentos</td>
+      <td class="l"><span class="sh" style="width:4.5px"></span><span class="mono dim" style="font-size:11px">4,5%</span></td>
+      <td class="mono ">R$ 301,9 bi</td><td class="mono ">R$ 110,6 bi</td><td class="mono ">R$ 272,6 bi</td><td class="mono ">424.305</td><td class="mono ">9.540</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">28.1</span> Fabricação de motores, bombas, compressores e equipamentos de transmissão</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 43,0 bi</td><td class="mono ">R$ 16,9 bi</td><td class="mono ">R$ 38,1 bi</td><td class="mono ">66.780</td><td class="mono ">975</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">28.2</span> Fabricação de máquinas e equipamentos de uso geral</td>
+      <td class="l"><span class="sh" style="width:1.2px"></span><span class="mono dim" style="font-size:11px">1,2%</span></td>
+      <td class="mono ">R$ 79,1 bi</td><td class="mono ">R$ 28,7 bi</td><td class="mono ">R$ 68,5 bi</td><td class="mono ">126.888</td><td class="mono ">3.274</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">28.3</span> Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária</td>
+      <td class="l"><span class="sh" style="width:1.2px"></span><span class="mono dim" style="font-size:11px">1,2%</span></td>
+      <td class="mono ">R$ 78,3 bi</td><td class="mono ">R$ 27,2 bi</td><td class="mono ">R$ 71,9 bi</td><td class="mono ">91.208</td><td class="mono ">1.522</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">28.4</span> Fabricação de máquinas-ferramenta</td>
+      <td class="l"><span class="sh" style="width:0.2px"></span><span class="mono dim" style="font-size:11px">0,2%</span></td>
+      <td class="mono ">R$ 13,7 bi</td><td class="mono ">R$ 5,6 bi</td><td class="mono ">R$ 11,7 bi</td><td class="mono ">22.722</td><td class="mono ">684</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">28.5</span> Fabricação de máquinas e equipamentos de uso na extração mineral e na construção</td>
+      <td class="l"><span class="sh" style="width:0.8px"></span><span class="mono dim" style="font-size:11px">0,8%</span></td>
+      <td class="mono ">R$ 51,1 bi</td><td class="mono ">R$ 16,5 bi</td><td class="mono ">R$ 48,6 bi</td><td class="mono ">40.582</td><td class="mono ">290</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">28.6</span> Fabricação de máquinas e equipamentos de uso industrial específico</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 36,6 bi</td><td class="mono ">R$ 15,8 bi</td><td class="mono ">R$ 33,9 bi</td><td class="mono ">76.125</td><td class="mono ">2.795</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">29</span> Fabricação de veículos automotores, reboques e carrocerias</td>
+      <td class="l"><span class="sh" style="width:9.1px"></span><span class="mono dim" style="font-size:11px">9,1%</span></td>
+      <td class="mono ">R$ 604,1 bi</td><td class="mono ">R$ 163,4 bi</td><td class="mono ">R$ 541,9 bi</td><td class="mono ">485.788</td><td class="mono ">4.404</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">29.1</span> Fabricação de automóveis, camionetas e utilitários</td>
+      <td class="l"><span class="sh" style="width:4.1px"></span><span class="mono dim" style="font-size:11px">4,1%</span></td>
+      <td class="mono ">R$ 275,2 bi</td><td class="mono ">R$ 55,9 bi</td><td class="mono ">R$ 229,8 bi</td><td class="mono ">84.057</td><td class="mono ">23</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">29.2</span> Fabricação de caminhões e ônibus</td>
+      <td class="l"><span class="sh" style="width:1.5px"></span><span class="mono dim" style="font-size:11px">1,5%</span></td>
+      <td class="mono ">R$ 101,2 bi</td><td class="mono ">R$ 28,1 bi</td><td class="mono ">R$ 96,0 bi</td><td class="mono ">29.365</td><td class="mono ">18</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">29.3</span> Fabricação de cabines, carrocerias e reboques para veículos automotores</td>
+      <td class="l"><span class="sh" style="width:0.5px"></span><span class="mono dim" style="font-size:11px">0,5%</span></td>
+      <td class="mono ">R$ 34,3 bi</td><td class="mono ">R$ 12,4 bi</td><td class="mono ">R$ 34,4 bi</td><td class="mono ">67.301</td><td class="mono ">1.120</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">29.4</span> Fabricação de peças e acessórios para veículos automotores</td>
+      <td class="l"><span class="sh" style="width:2.9px"></span><span class="mono dim" style="font-size:11px">2,9%</span></td>
+      <td class="mono ">R$ 192,1 bi</td><td class="mono ">R$ 66,3 bi</td><td class="mono ">R$ 180,7 bi</td><td class="mono ">293.864</td><td class="mono ">2.040</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">29.5</span> Recondicionamento e recuperação de motores para veículos automotores</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 1,3 bi</td><td class="mono ">R$ 709,0 mi</td><td class="mono ">R$ 958,0 mi</td><td class="mono ">11.201</td><td class="mono ">1.203</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">30</span> Fabricação de outros equipamentos de transporte, exceto veículos automotores</td>
+      <td class="l"><span class="sh" style="width:1.3px"></span><span class="mono dim" style="font-size:11px">1,3%</span></td>
+      <td class="mono ">R$ 87,4 bi</td><td class="mono ">R$ 36,3 bi</td><td class="mono ">R$ 87,4 bi</td><td class="mono ">96.211</td><td class="mono ">794</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">30.1</span> Construção de embarcações</td>
+      <td class="l"><span class="sh" style="width:0.2px"></span><span class="mono dim" style="font-size:11px">0,2%</span></td>
+      <td class="mono ">R$ 10,5 bi</td><td class="mono ">R$ 6,3 bi</td><td class="mono ">R$ 11,2 bi</td><td class="mono ">26.267</td><td class="mono ">222</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">30.3</span> Fabricação de veículos ferroviários</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 7,3 bi</td><td class="mono ">R$ 2,8 bi</td><td class="mono ">R$ 7,1 bi</td><td class="mono ">7.437</td><td class="mono ">42</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">30.4</span> Fabricação de aeronaves</td>
+      <td class="l"></td>
+      <td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono ">54</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">30.5</span> Fabricação de veículos militares de combate</td>
+      <td class="l"></td>
+      <td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono x"><span class="dim2" title="não divulgado pela fonte">—</span></td><td class="mono ">2</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">30.9</span> Fabricação de equipamentos de transporte não especificados anteriormente</td>
+      <td class="l"><span class="sh" style="width:0.6px"></span><span class="mono dim" style="font-size:11px">0,6%</span></td>
+      <td class="mono ">R$ 40,0 bi</td><td class="mono ">R$ 12,8 bi</td><td class="mono ">R$ 38,7 bi</td><td class="mono ">37.196</td><td class="mono ">474</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">31</span> Fabricação de móveis</td>
+      <td class="l"><span class="sh" style="width:0.9px"></span><span class="mono dim" style="font-size:11px">0,9%</span></td>
+      <td class="mono ">R$ 57,9 bi</td><td class="mono ">R$ 26,5 bi</td><td class="mono ">R$ 56,5 bi</td><td class="mono ">251.511</td><td class="mono ">11.006</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">31.0</span> Fabricação de móveis</td>
+      <td class="l"><span class="sh" style="width:0.9px"></span><span class="mono dim" style="font-size:11px">0,9%</span></td>
+      <td class="mono ">R$ 57,9 bi</td><td class="mono ">R$ 26,5 bi</td><td class="mono ">R$ 56,5 bi</td><td class="mono ">251.511</td><td class="mono ">11.006</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">32</span> Fabricação de produtos diversos</td>
+      <td class="l"><span class="sh" style="width:0.8px"></span><span class="mono dim" style="font-size:11px">0,8%</span></td>
+      <td class="mono ">R$ 54,7 bi</td><td class="mono ">R$ 29,0 bi</td><td class="mono ">R$ 50,4 bi</td><td class="mono ">175.854</td><td class="mono ">7.046</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">32.1</span> Fabricação de artigos de joalheria, bijuteria e semelhantes</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 5,4 bi</td><td class="mono ">R$ 3,4 bi</td><td class="mono ">R$ 5,3 bi</td><td class="mono ">19.096</td><td class="mono ">1.101</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">32.2</span> Fabricação de instrumentos musicais</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 228,9 mi</td><td class="mono ">R$ 125,7 mi</td><td class="mono ">R$ 211,2 mi</td><td class="mono ">1.189</td><td class="mono ">61</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">32.3</span> Fabricação de artefatos para pesca e esporte</td>
+      <td class="l"><span class="sh" style="width:0.0px"></span><span class="mono dim" style="font-size:11px">0,0%</span></td>
+      <td class="mono ">R$ 1,5 bi</td><td class="mono ">R$ 765,1 mi</td><td class="mono ">R$ 1,4 bi</td><td class="mono ">5.726</td><td class="mono ">326</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">32.4</span> Fabricação de brinquedos e jogos recreativos</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 3,6 bi</td><td class="mono ">R$ 2,0 bi</td><td class="mono ">R$ 3,5 bi</td><td class="mono ">15.442</td><td class="mono ">409</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">32.5</span> Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos</td>
+      <td class="l"><span class="sh" style="width:0.4px"></span><span class="mono dim" style="font-size:11px">0,4%</span></td>
+      <td class="mono ">R$ 25,3 bi</td><td class="mono ">R$ 14,2 bi</td><td class="mono ">R$ 22,8 bi</td><td class="mono ">71.376</td><td class="mono ">2.325</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">32.9</span> Fabricação de produtos diversos</td>
+      <td class="l"><span class="sh" style="width:0.3px"></span><span class="mono dim" style="font-size:11px">0,3%</span></td>
+      <td class="mono ">R$ 18,7 bi</td><td class="mono ">R$ 8,6 bi</td><td class="mono ">R$ 17,2 bi</td><td class="mono ">63.025</td><td class="mono ">2.824</td>
+    </tr>
+    
+    <tr class="n2">
+      <td class="nm p2"><span class="mono acc" style="font-size:10.5px">33</span> Manutenção, reparação e instalação de máquinas e equipamentos</td>
+      <td class="l"><span class="sh" style="width:1.0px"></span><span class="mono dim" style="font-size:11px">1,0%</span></td>
+      <td class="mono ">R$ 66,2 bi</td><td class="mono ">R$ 38,6 bi</td><td class="mono ">R$ 62,0 bi</td><td class="mono ">277.986</td><td class="mono ">12.558</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">33.1</span> Manutenção e reparação de máquinas e equipamentos</td>
+      <td class="l"><span class="sh" style="width:0.9px"></span><span class="mono dim" style="font-size:11px">0,9%</span></td>
+      <td class="mono ">R$ 58,2 bi</td><td class="mono ">R$ 33,2 bi</td><td class="mono ">R$ 54,5 bi</td><td class="mono ">220.995</td><td class="mono ">10.076</td>
+    </tr>
+    
+    <tr class="n3">
+      <td class="nm p3"><span class="mono acc" style="font-size:10.5px">33.2</span> Instalação de máquinas e equipamentos</td>
+      <td class="l"><span class="sh" style="width:0.1px"></span><span class="mono dim" style="font-size:11px">0,1%</span></td>
+      <td class="mono ">R$ 8,0 bi</td><td class="mono ">R$ 5,4 bi</td><td class="mono ">R$ 7,5 bi</td><td class="mono ">56.991</td><td class="mono ">2.482</td>
+    </tr>
+    
+    </tbody>
+  </table>
+  </div>
+  <div class="dim2" style="font-size:11px;margin-top:8px">Empresas industriais com 5 ou mais pessoas ocupadas (seções B e C da CNAE). Por UF, totais de todas as UFs (t/10455) e a abertura por CNAE só para as UFs que o IBGE publica (t/10454). "—" = a fonte não divulga (sigilo ou não disponível).</div>
+</article>
+
+
+
+<article class="panel" style="margin-top:16px">
+  <h2>Por UF <span class="h">receita líquida de vendas · t/10455 · 2024</span></h2>
+  <div class="maprow">
+    <div id="brmap" data-endpoint="/api/economia/industria/uf.json" data-rotulo="receita líquida de vendas" data-unidade="R$"></div>
+    <div class="scrim" style="overflow:auto;max-height:560px">
+      
+      
+      <div class="rk ">
+        <span class="pos mono">1</span>
+        <span class="nm"><a href="/economia/industria/uf/SP">São Paulo</a></span>
+        <span class="bar" style="width:80.0px"></span><span class="val mono">R$ 2,1 tri <span class="dim2">32,6%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">2</span>
+        <span class="nm"><a href="/economia/industria/uf/MG">Minas Gerais</a></span>
+        <span class="bar" style="width:27.4px"></span><span class="val mono">R$ 710,8 bi <span class="dim2">11,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">3</span>
+        <span class="nm"><a href="/economia/industria/uf/RJ">Rio de Janeiro</a></span>
+        <span class="bar" style="width:21.7px"></span><span class="val mono">R$ 562,4 bi <span class="dim2">8,8%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">4</span>
+        <span class="nm"><a href="/economia/industria/uf/PR">Paraná</a></span>
+        <span class="bar" style="width:21.4px"></span><span class="val mono">R$ 555,8 bi <span class="dim2">8,7%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">5</span>
+        <span class="nm"><a href="/economia/industria/uf/RS">Rio Grande do Sul</a></span>
+        <span class="bar" style="width:17.9px"></span><span class="val mono">R$ 463,6 bi <span class="dim2">7,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">6</span>
+        <span class="nm"><a href="/economia/industria/uf/SC">Santa Catarina</a></span>
+        <span class="bar" style="width:14.4px"></span><span class="val mono">R$ 373,8 bi <span class="dim2">5,9%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">7</span>
+        <span class="nm"><a href="/economia/industria/uf/BA">Bahia</a></span>
+        <span class="bar" style="width:9.1px"></span><span class="val mono">R$ 236,1 bi <span class="dim2">3,7%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">8</span>
+        <span class="nm"><a href="/economia/industria/uf/GO">Goiás</a></span>
+        <span class="bar" style="width:8.3px"></span><span class="val mono">R$ 215,0 bi <span class="dim2">3,4%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">9</span>
+        <span class="nm"><a href="/economia/industria/uf/AM">Amazonas</a></span>
+        <span class="bar" style="width:7.8px"></span><span class="val mono">R$ 201,9 bi <span class="dim2">3,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">10</span>
+        <span class="nm"><a href="/economia/industria/uf/PA">Pará</a></span>
+        <span class="bar" style="width:6.5px"></span><span class="val mono">R$ 168,5 bi <span class="dim2">2,6%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">11</span>
+        <span class="nm"><a href="/economia/industria/uf/PE">Pernambuco</a></span>
+        <span class="bar" style="width:5.5px"></span><span class="val mono">R$ 143,6 bi <span class="dim2">2,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">12</span>
+        <span class="nm"><a href="/economia/industria/uf/MT">Mato Grosso</a></span>
+        <span class="bar" style="width:5.4px"></span><span class="val mono">R$ 138,9 bi <span class="dim2">2,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">13</span>
+        <span class="nm"><a href="/economia/industria/uf/ES">Espírito Santo</a></span>
+        <span class="bar" style="width:4.6px"></span><span class="val mono">R$ 119,3 bi <span class="dim2">1,9%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">14</span>
+        <span class="nm"><a href="/economia/industria/uf/MS">Mato Grosso do Sul</a></span>
+        <span class="bar" style="width:4.2px"></span><span class="val mono">R$ 108,4 bi <span class="dim2">1,7%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">15</span>
+        <span class="nm"><a href="/economia/industria/uf/CE">Ceará</a></span>
+        <span class="bar" style="width:3.7px"></span><span class="val mono">R$ 97,2 bi <span class="dim2">1,5%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">16</span>
+        <span class="nm"><a href="/economia/industria/uf/MA">Maranhão</a></span>
+        <span class="bar" style="width:1.7px"></span><span class="val mono">R$ 43,2 bi <span class="dim2">0,7%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">17</span>
+        <span class="nm"><a href="/economia/industria/uf/RN">Rio Grande do Norte</a></span>
+        <span class="bar" style="width:1.1px"></span><span class="val mono">R$ 28,3 bi <span class="dim2">0,4%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">18</span>
+        <span class="nm"><a href="/economia/industria/uf/AL">Alagoas</a></span>
+        <span class="bar" style="width:0.9px"></span><span class="val mono">R$ 22,1 bi <span class="dim2">0,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">19</span>
+        <span class="nm"><a href="/economia/industria/uf/RO">Rondônia</a></span>
+        <span class="bar" style="width:0.8px"></span><span class="val mono">R$ 21,2 bi <span class="dim2">0,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">20</span>
+        <span class="nm"><a href="/economia/industria/uf/PB">Paraíba</a></span>
+        <span class="bar" style="width:0.8px"></span><span class="val mono">R$ 20,0 bi <span class="dim2">0,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">21</span>
+        <span class="nm"><a href="/economia/industria/uf/SE">Sergipe</a></span>
+        <span class="bar" style="width:0.7px"></span><span class="val mono">R$ 19,2 bi <span class="dim2">0,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">22</span>
+        <span class="nm"><a href="/economia/industria/uf/TO">Tocantins</a></span>
+        <span class="bar" style="width:0.7px"></span><span class="val mono">R$ 18,7 bi <span class="dim2">0,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">23</span>
+        <span class="nm"><a href="/economia/industria/uf/PI">Piauí</a></span>
+        <span class="bar" style="width:0.5px"></span><span class="val mono">R$ 12,2 bi <span class="dim2">0,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">24</span>
+        <span class="nm"><a href="/economia/industria/uf/DF">Distrito Federal</a></span>
+        <span class="bar" style="width:0.4px"></span><span class="val mono">R$ 10,9 bi <span class="dim2">0,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">25</span>
+        <span class="nm"><a href="/economia/industria/uf/AC">Acre</a></span>
+        <span class="bar" style="width:0.1px"></span><span class="val mono">R$ 3,4 bi <span class="dim2">0,1%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">26</span>
+        <span class="nm"><a href="/economia/industria/uf/AP">Amapá</a></span>
+        <span class="bar" style="width:0.1px"></span><span class="val mono">R$ 1,4 bi <span class="dim2">0,0%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">27</span>
+        <span class="nm"><a href="/economia/industria/uf/RR">Roraima</a></span>
+        <span class="bar" style="width:0.0px"></span><span class="val mono">R$ 1,1 bi <span class="dim2">0,0%</span></span>
+        
+      </div>
+      
+      <div class="rk"><span class="pos"></span><span class="nm dim">Brasil</span><span class="val mono acc">R$ 6,4 tri</span></div>
+    </div>
+  </div>
+  
+  <div class="dim2" style="font-size:11px;margin-top:8px">O Brasil desta tabela por UF (t/10455: R$ 6,4 tri) difere do Brasil da tabela por segmento (t/10474: R$ 6,7 tri): são recortes diferentes da mesma pesquisa. A página mostra cada um como publicado e não os mistura.</div>
+</article>
+
+
+<div class="note">
+  <b>Fonte.</b> Pesquisa Industrial Anual - Empresa (PIA) do IBGE, SIDRA t/10474 e t/10455 e t/10454, como publicado; "Mil Reais" convertido para R$. Empresas industriais com 5 ou mais pessoas ocupadas (seções B e C da CNAE). Por UF, totais de todas as UFs (t/10455) e a abertura por CNAE só para as UFs que o IBGE publica (t/10454).
+  Share e somas são calculados nesta página e marcados "(calc.)". Não é recomendação de nada.
+</div>
+<div class="dl" style="font-size:11px;margin-top:8px">
+  <b class="dim">Dados:</b>
+  <a href="/economia/industria.json">JSON desta página</a>
+  <a href="/api/economia/industria/uf.json">JSON por UF</a>
+  <a href="/dados/economia_industria_pia">economia_industria_pia (Parquet e CSV)</a>
+</div>
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Indústria extrativa e de transformação — Brasil. https://atlasmercados.com.br/economia/industria. Dados: IBGE — Pesquisa Industrial Anual - Empresa (PIA) (SIDRA, tabela 10474). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    Identificador da série: <code>ibge-sidra:10474/n1</code> · 
+    Permalink: <a href="https://atlasmercados.com.br/economia/industria">https://atlasmercados.com.br/economia/industria</a>
+     · <a href="/economia/industria.json">JSON</a>
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,35 +1,59 @@
 # Atlas Mercados
 
-> Dados oficiais da economia e do mercado do Brasil, compilados em formato estruturado para leitura e citação por IA: demonstrações de 1229 companhias abertas (CVM), preços (B3), macro (BCB), mercados do comércio por segmento e UF (IBGE: PAC, PMC, CEMPRE, Contas Regionais). Fonte primária em cada número; compilação sob CC BY 4.0 — pode copiar, redistribuir e treinar modelos, citando a fonte.
+> Dados oficiais da economia e do mercado do Brasil, compilados em formato estruturado para leitura e citação por IA: demonstrações de 1229 companhias abertas (CVM), preços (B3), macro (BCB), PIB trimestral e tamanho de cada setor — serviços, indústria, construção, agropecuária e comércio — por segmento e UF (IBGE: CNT, PAS, PIA, PAIC, PAM, PPM, PAC, PMC, CEMPRE, Contas Regionais). Fonte primária em cada número; compilação sob CC BY 4.0 — pode copiar, redistribuir e treinar modelos, citando a fonte.
 
 ## Páginas principais
 
 - [Visão geral](https://atlasmercados.com.br/): agregados, ranking por valor de mercado, macro do BCB
+- [Economia por setor](https://atlasmercados.com.br/economia): PIB trimestral, serviços, indústria, construção e agropecuária por segmento e UF, PIB per capita por UF
 - [Mercados do varejo](https://atlasmercados.com.br/mercados): tamanho por segmento (classes CNAE) e por UF, PMC mensal, VAB
 - [Triagem de companhias](https://atlasmercados.com.br/screener): receita, lucro, margem, P/L, P/VPA das listadas
 - [Mapa macroeconômico](https://atlasmercados.com.br/mapa): PIB por UF (IBGE) e indicadores mundiais (World Bank)
 - [Perfil por companhia](https://atlasmercados.com.br/empresa/PETR3): /empresa/{ticker} — DFP/ITR da CVM desde 2010
 - [Indicadores](https://atlasmercados.com.br/indicadores): Selic, IPCA, dólar, desemprego, PIB… com série histórica
+- [Companhias por setor](https://atlasmercados.com.br/companhias): ranking das listadas por receita em cada setor da CVM (JSON por setor)
 - [Dados para download](https://atlasmercados.com.br/dados): Parquet e CSV, uma página por conjunto
+- [Glossário](https://atlasmercados.com.br/glossario): receita × VAB, PAC e PMC, DFP e ITR, Selic meta × efetiva, IPCA × IGP-M…
 - [Sobre](https://atlasmercados.com.br/sobre) · [Metodologia](https://atlasmercados.com.br/metodologia) · [Licença e como citar](https://atlasmercados.com.br/licenca)
 
 ## Indicadores (último valor na data da publicação)
 
 - [Taxa Selic efetiva](https://atlasmercados.com.br/indicador/selic): 13,65% ao ano (15/10/2026) — Banco Central do Brasil, `bcb-sgs:1178` · [JSON](https://atlasmercados.com.br/indicador/selic.json)
 - [CDI acumulado no mês](https://atlasmercados.com.br/indicador/cdi): 0,51% (outubro de 2026) — Banco Central do Brasil, `bcb-sgs:4391` · [JSON](https://atlasmercados.com.br/indicador/cdi.json)
-- [IPCA acumulado em 12 meses](https://atlasmercados.com.br/indicador/ipca-12-meses): 4,58% (setembro de 2026) — IBGE, `bcb-sgs:13522` · [JSON](https://atlasmercados.com.br/indicador/ipca-12-meses.json)
-- [IPCA no mês](https://atlasmercados.com.br/indicador/ipca-mensal): 0,82% (setembro de 2026) — IBGE, `bcb-sgs:433` · [JSON](https://atlasmercados.com.br/indicador/ipca-mensal.json)
-- [IPCA-15 no mês](https://atlasmercados.com.br/indicador/ipca-15): 0,70% (setembro de 2026) — IBGE, `bcb-sgs:7478` · [JSON](https://atlasmercados.com.br/indicador/ipca-15.json)
-- [INPC no mês](https://atlasmercados.com.br/indicador/inpc): 0,82% (setembro de 2026) — IBGE, `bcb-sgs:188` · [JSON](https://atlasmercados.com.br/indicador/inpc.json)
-- [IGP-M no mês](https://atlasmercados.com.br/indicador/igp-m): 1,57% (setembro de 2026) — FGV IBRE, `bcb-sgs:189` · [JSON](https://atlasmercados.com.br/indicador/igp-m.json)
 - [Dólar comercial (venda)](https://atlasmercados.com.br/indicador/dolar): R$ 5,0826 (16/10/2026) — Banco Central do Brasil, `bcb-sgs:1` · [JSON](https://atlasmercados.com.br/indicador/dolar.json)
 - [Euro (venda)](https://atlasmercados.com.br/indicador/euro): R$ 5,7088 (16/10/2026) — Banco Central do Brasil, `bcb-sgs:21619` · [JSON](https://atlasmercados.com.br/indicador/euro.json)
+- [IPCA acumulado em 12 meses](https://atlasmercados.com.br/indicador/ipca-12-meses): 4,58% (setembro de 2026) — IBGE, `bcb-sgs:13522` · [JSON](https://atlasmercados.com.br/indicador/ipca-12-meses.json)
+- [IPCA no mês](https://atlasmercados.com.br/indicador/ipca-mensal): 0,82% (setembro de 2026) — IBGE, `bcb-sgs:433` · [JSON](https://atlasmercados.com.br/indicador/ipca-mensal.json)
+- [IPCA-15 no mês](https://atlasmercados.com.br/indicador/ipca-15): 0,7% (setembro de 2026) — IBGE, `bcb-sgs:7478` · [JSON](https://atlasmercados.com.br/indicador/ipca-15.json)
+- [INPC no mês](https://atlasmercados.com.br/indicador/inpc): 0,82% (setembro de 2026) — IBGE, `bcb-sgs:188` · [JSON](https://atlasmercados.com.br/indicador/inpc.json)
+- [IGP-M no mês](https://atlasmercados.com.br/indicador/igp-m): 1,57% (setembro de 2026) — FGV IBRE, `bcb-sgs:189` · [JSON](https://atlasmercados.com.br/indicador/igp-m.json)
+- [PIB do Brasil (preços correntes)](https://atlasmercados.com.br/indicador/pib): R$ 10,94 trilhões (2023) — IBGE, `ibge-sidra:5938/v37/n1` · [JSON](https://atlasmercados.com.br/indicador/pib.json)
+- [PIB trimestral — variação contra o trimestre anterior](https://atlasmercados.com.br/indicador/pib-trimestral): 0,5% (2º trimestre de 2026) — IBGE, `ibge-sidra:5932/v6564/n1/c11255-90707` · [JSON](https://atlasmercados.com.br/indicador/pib-trimestral.json)
+- [PIB da agropecuária (trimestral) — variação contra o trimestre anterior](https://atlasmercados.com.br/indicador/pib-agropecuaria): 2,8% (2º trimestre de 2026) — IBGE, `ibge-sidra:5932/v6564/n1/c11255-90687` · [JSON](https://atlasmercados.com.br/indicador/pib-agropecuaria.json)
+- [PIB da indústria (trimestral) — variação contra o trimestre anterior](https://atlasmercados.com.br/indicador/pib-industria): 0,1% (2º trimestre de 2026) — IBGE, `ibge-sidra:5932/v6564/n1/c11255-90691` · [JSON](https://atlasmercados.com.br/indicador/pib-industria.json)
+- [PIB dos serviços (trimestral) — variação contra o trimestre anterior](https://atlasmercados.com.br/indicador/pib-servicos): 0,2% (2º trimestre de 2026) — IBGE, `ibge-sidra:5932/v6564/n1/c11255-90696` · [JSON](https://atlasmercados.com.br/indicador/pib-servicos.json)
+- [Consumo das famílias (trimestral) — variação contra o trimestre anterior](https://atlasmercados.com.br/indicador/consumo-das-familias): -0,4% (2º trimestre de 2026) — IBGE, `ibge-sidra:5932/v6564/n1/c11255-93404` · [JSON](https://atlasmercados.com.br/indicador/consumo-das-familias.json)
+- [Investimento — formação bruta de capital fixo (trimestral) — variação contra o trimestre anterior](https://atlasmercados.com.br/indicador/investimento-fbcf): 1,2% (2º trimestre de 2026) — IBGE, `ibge-sidra:5932/v6564/n1/c11255-93406` · [JSON](https://atlasmercados.com.br/indicador/investimento-fbcf.json)
+- [População do Brasil](https://atlasmercados.com.br/indicador/populacao): 214,21 milhões de pessoas (2026) — IBGE, `ibge-sidra:6579/v9324/n1` · [JSON](https://atlasmercados.com.br/indicador/populacao.json)
 - [IBC-Br (atividade econômica)](https://atlasmercados.com.br/indicador/ibc-br): 110,41 (agosto de 2026) — Banco Central do Brasil, `bcb-sgs:24364` · [JSON](https://atlasmercados.com.br/indicador/ibc-br.json)
-- [Taxa de desocupação (PNAD Contínua)](https://atlasmercados.com.br/indicador/desemprego): 5,30% (agosto de 2026) — IBGE, `bcb-sgs:24369` · [JSON](https://atlasmercados.com.br/indicador/desemprego.json)
+- [Taxa de desocupação (PNAD Contínua)](https://atlasmercados.com.br/indicador/desemprego): 5,3% (agosto de 2026) — IBGE, `bcb-sgs:24369` · [JSON](https://atlasmercados.com.br/indicador/desemprego.json)
 - [Dívida bruta do governo geral](https://atlasmercados.com.br/indicador/divida-bruta): 82,9% do PIB (agosto de 2026) — Banco Central do Brasil, `bcb-sgs:13762` · [JSON](https://atlasmercados.com.br/indicador/divida-bruta.json)
 - [Reservas internacionais](https://atlasmercados.com.br/indicador/reservas-internacionais): US$ 362,8 bilhões (setembro de 2026) — Banco Central do Brasil, `bcb-sgs:3546` · [JSON](https://atlasmercados.com.br/indicador/reservas-internacionais.json)
-- [PIB do Brasil (preços correntes)](https://atlasmercados.com.br/indicador/pib): R$ 10,94 trilhões (2023) — IBGE, `ibge-sidra:5938/v37/n1` · [JSON](https://atlasmercados.com.br/indicador/pib.json)
-- [Vendas no varejo (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-varejo): 1,60% (agosto de 2026) — IBGE, `ibge-sidra:8880/v11711/n1/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-varejo.json)
+- [Vendas no varejo (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-varejo): 1,6% (agosto de 2026) — IBGE, `ibge-sidra:8880/v11711/n1/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-varejo.json)
+- [Vendas em hiper e supermercados (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-supermercados): 1,1% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-103154/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-supermercados.json)
+- [Vendas de hiper, supermercados e alimentos (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-alimentos): 1,0% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-90672/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-alimentos.json)
+- [Vendas de combustíveis (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-combustiveis): 1,2% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-90671/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-combustiveis.json)
+- [Vendas de farmácias e perfumarias (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-farmacias): 5,3% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-103155/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-farmacias.json)
+- [Vendas de vestuário e calçados (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-vestuario): -1,8% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-90673/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-vestuario.json)
+- [Vendas de móveis e eletrodomésticos (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-moveis-eletrodomesticos): 3,0% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-2759/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-moveis-eletrodomesticos.json)
+- [Vendas de móveis (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-moveis): -2,8% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-31555/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-moveis.json)
+- [Vendas de eletrodomésticos (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-eletrodomesticos): 5,2% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-31556/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-eletrodomesticos.json)
+- [Vendas de informática e comunicação (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-informatica): 8,6% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-103157/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-informatica.json)
+- [Vendas de livros e papelaria (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-livros-papelaria): 2,4% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-103156/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-livros-papelaria.json)
+- [Vendas de outros artigos de uso pessoal e doméstico (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-outros-artigos): 1,7% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-103158/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-outros-artigos.json)
+- [Vendas de veículos e peças (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-veiculos): 0,9% (agosto de 2026) — IBGE, `ibge-sidra:8883/v11711/n1/c85-103159/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-veiculos.json)
+- [Vendas de material de construção (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-material-construcao): -1,4% (agosto de 2026) — IBGE, `ibge-sidra:8883/v11711/n1/c85-2762/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-material-construcao.json)
+- [Vendas do atacado alimentício (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-atacado-alimentos): 2,7% (agosto de 2026) — IBGE, `ibge-sidra:8883/v11711/n1/c85-56741/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-atacado-alimentos.json)
 
 ## Conjuntos de dados (páginas com colunas, fontes e licença)
 
@@ -38,8 +62,24 @@
 - [Contas Regionais — PIB e VAB por atividade, Brasil e UFs](https://atlasmercados.com.br/dados/uf_vab) — 4.312 linhas, 2002–2023, bruto
 - [CEMPRE — unidades locais, pessoal e salários do varejo por classe CNAE e UF](https://atlasmercados.com.br/dados/cempre_varejo) — 15.456 linhas, 2022–2024, bruto
 - [Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)](https://atlasmercados.com.br/dados/mercados_derivados) — 1.080 linhas, 2024–2024, derivado
+- [Pesquisa Anual de Serviços — receita, valor adicionado, pessoal e empresas por segmento e UF](https://atlasmercados.com.br/dados/economia_servicos_pas) — 2.420 linhas, 2024–2024, bruto
+- [Pesquisa Industrial Anual — receita, valor da transformação industrial e pessoal por divisão CNAE e UF](https://atlasmercados.com.br/dados/economia_industria_pia) — 8.382 linhas, 2024–2024, bruto
+- [Pesquisa Anual da Indústria da Construção — valor das obras, receita e pessoal por divisão, porte e UF](https://atlasmercados.com.br/dados/economia_construcao_paic) — 614 linhas, 2024–2024, bruto
+- [Produção Agrícola e da Pecuária Municipal — quantidade, área e valor por produto e UF](https://atlasmercados.com.br/dados/economia_agro_pam_ppm) — 139.832 linhas, 2015–2025, bruto
+- [Contas Nacionais Trimestrais — PIB e componentes, taxas de volume e valores correntes](https://atlasmercados.com.br/dados/pib_trimestral_cnt) — 13.542 linhas, 1996-01–2026-06, bruto
+- [População residente — estimativas anuais e Censo 2022, Brasil e UFs](https://atlasmercados.com.br/dados/populacao_ibge) — 644 linhas, 2001–2026, bruto
 - [Banco Central do Brasil — séries macroeconômicas do SGS](https://atlasmercados.com.br/dados/macro_bcb) — 8.185 linhas, 2015-01-01–2026-10-16, bruto
-- [Catálogo de proveniência dos dados de mercado](https://atlasmercados.com.br/dados/catalogo_fontes) — 11 linhas, –, bruto
+- [Catálogo de proveniência dos dados de mercado](https://atlasmercados.com.br/dados/catalogo_fontes) — 25 linhas, –, bruto
+
+## Economia por setor (exemplos)
+
+- https://atlasmercados.com.br/economia/servicos — serviços por segmento e UF (PAS)
+- https://atlasmercados.com.br/economia/industria — indústria por divisão CNAE e UF (PIA)
+- https://atlasmercados.com.br/economia/construcao — construção por divisão, porte e UF (PAIC)
+- https://atlasmercados.com.br/economia/agropecuaria — lavouras e rebanhos (PAM, PPM)
+- https://atlasmercados.com.br/economia/agropecuaria/soja-em-grao — produção, área, valor e ranking das UFs
+- https://atlasmercados.com.br/economia/industria/uf/SP — um setor numa UF: /economia/{setor}/uf/{sigla}
+- https://atlasmercados.com.br/indicador/pib-trimestral — PIB contra o trimestre anterior (CNT)
 
 ## Segmentos do varejo (exemplos)
 
@@ -53,9 +93,15 @@
 
 ## Dados brutos (Parquet e CSV, com catálogo de proveniência)
 
+- [agro](https://atlasmercados.com.br/dados/economia_agro_pam_ppm.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_agro_pam_ppm.csv) — PPM — efetivo dos rebanhos, Brasil e UFs (2015–2025, bruto)
 - [cempre](https://atlasmercados.com.br/dados/cempre_varejo.parquet) · [CSV](https://atlasmercados.com.br/dados/cempre_varejo.csv) — CEMPRE — unidades locais, pessoal e salários do varejo (divisão 47) por UF (2022–2024, bruto)
+- [cnt](https://atlasmercados.com.br/dados/pib_trimestral_cnt.parquet) · [CSV](https://atlasmercados.com.br/dados/pib_trimestral_cnt.csv) — Contas Nacionais Trimestrais — valores a preços correntes, por setor (1996-01–2026-06, bruto)
 - [pac](https://atlasmercados.com.br/dados/mercados_pac.parquet) · [CSV](https://atlasmercados.com.br/dados/mercados_pac.csv) — PAC — classes CNAE, Brasil: receita líquida, VAB, pessoal e salários (2024–2024, bruto)
+- [paic](https://atlasmercados.com.br/dados/economia_construcao_paic.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_construcao_paic.csv) — PAIC — empresas de construção com 5 ou mais pessoas ocupadas, Brasil, regiões e UFs (2024–2024, bruto)
+- [pas](https://atlasmercados.com.br/dados/economia_servicos_pas.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_servicos_pas.csv) — PAS — dados gerais dos serviços empresariais não financeiros, por atividade, Brasil (2024–2024, bruto)
+- [pia](https://atlasmercados.com.br/dados/economia_industria_pia.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_industria_pia.csv) — PIA — unidades locais industriais (5 ou mais pessoas ocupadas), UF × CNAE (UFs publicadas) (2024–2024, bruto)
 - [pmc](https://atlasmercados.com.br/dados/mercados_pmc.parquet) · [CSV](https://atlasmercados.com.br/dados/mercados_pmc.csv) — PMC — comércio varejista, índice geral, Brasil e UFs (2000-01–2026-08, bruto)
+- [populacao](https://atlasmercados.com.br/dados/populacao_ibge.parquet) · [CSV](https://atlasmercados.com.br/dados/populacao_ibge.csv) — Censo Demográfico 2022 — população residente (2022–2022, bruto)
 - [uf_vab](https://atlasmercados.com.br/dados/uf_vab.parquet) · [CSV](https://atlasmercados.com.br/dados/uf_vab.csv) — Contas Regionais — PIB, impostos e VAB por atividade, Brasil e UFs (2002–2023, bruto)
 - [mercados_derivados](https://atlasmercados.com.br/dados/mercados_derivados.parquet) · [CSV](https://atlasmercados.com.br/dados/mercados_derivados.csv) — Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE) (2024–2024, derivado)
 
@@ -65,6 +111,9 @@
 - https://atlasmercados.com.br/api/mercados/pac?categoria=47.7 — fatia tidy da PAC (filtros: tabela, uf, ano, categoria, variavel)
 - https://atlasmercados.com.br/api/mercados/pmc?atividade=103155&uf=BR&desde=2024-01 — PMC por atividade
 - https://atlasmercados.com.br/api/mercados/fontes.json — catálogo de proveniência
+- https://atlasmercados.com.br/economia/industria.json — um setor: segmentos, UFs e a frase-resposta (também /economia.json)
+- https://atlasmercados.com.br/api/economia/servicos/uf.json — valores por UF de um setor
+- https://atlasmercados.com.br/economia/agropecuaria/milho-em-grao.json — um produto agropecuário
 - https://atlasmercados.com.br/sitemap.xml — todas as URLs, com lastmod
 
 ## Licença e citação

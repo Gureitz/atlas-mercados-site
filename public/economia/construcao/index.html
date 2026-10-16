@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indústria da construção no Brasil — tamanho por segmento e por UF (PAIC 2024) — Atlas Mercados</title>
+<meta name="description" content="Em 2024, as empresas de construção somaram R$ 522,5 bilhões em incorporações, obras e serviços da construção, com 2,5 milhões de pessoas ocupadas em 191,0 mil empresas, segundo a Pesquisa Anual da Indústria da Construção do IBGE (tabela 10463); São Paulo concentra 27,0% (tabela 10442). As maiores divisões são obras de infraestrutura (38,4%), construção de edifícios (38,1%) e serviços especializados para construção (23,5%), pela soma das faixas de pessoal ocupado.">
+<link rel="canonical" href="https://atlasmercados.com.br/economia/construcao">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Indústria da construção no Brasil — tamanho por segmento e por UF (PAIC 2024) — Atlas Mercados">
+<meta property="og:description" content="Em 2024, as empresas de construção somaram R$ 522,5 bilhões em incorporações, obras e serviços da construção, com 2,5 milhões de pessoas ocupadas em 191,0 mil empresas, segundo a Pesquisa Anual da Indústria da Construção do IBGE (tabela 10463); São Paulo concentra 27,0% (tabela 10442). As maiores divisões são obras de infraestrutura (38,4%), construção de edifícios (38,1%) e serviços especializados para construção (23,5%), pela soma das faixas de pessoal ocupado.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}.arv .p4{padding-left:90px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv tr.n3 td,.arv tr.n4 td{font-size:11px;color:var(--dim)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .tag{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:0 0 16px}
+  .card{display:block;padding:14px 16px;border:1px solid var(--bd);border-radius:10px;background:var(--panel)}
+  .card:hover{border-color:var(--acc)}
+  .card .t{font-size:11px;color:var(--dim2);text-transform:uppercase;letter-spacing:.06em}
+  .card .v{font-size:19px;margin:6px 0 2px}
+  .card .d{font-size:11px;color:var(--dim)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .bars{height:140px}
+  .bars .b{background:var(--acc)}
+  .bars .b .t{position:absolute;top:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--dim2);white-space:nowrap}
+  .sel{height:32px;background:var(--panel);border:1px solid var(--bd);border-radius:8px;color:var(--tx);padding:0 10px;font-family:inherit;font-size:12px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/economia_construcao_paic.parquet", "name": "Pesquisa Anual da Indústria da Construção — valor das obras, receita e pessoal por divisão, porte e UF", "description": "Tabelas da PAIC/IBGE em formato longo: valor das incorporações, obras e serviços da construção, receita líquida, valor adicionado, pessoal ocupado e número de empresas, por divisão CNAE dentro de cada faixa de pessoal ocupado (Brasil, t/10463) e por UF (t/10442).", "url": "https://atlasmercados.com.br/dados/economia_construcao_paic", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "inLanguage": "pt-BR", "creator": {"@type": "GovernmentOrganization", "name": "IBGE", "url": "https://www.ibge.gov.br/"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "temporalCoverage": "2024-01-01/2024-12-31", "dateModified": "2026-10-16T19:39:13+00:00", "isBasedOn": [{"@type": "Dataset", "name": "PAIC — empresas de construção com 5 ou mais pessoas ocupadas, Brasil, regiões e UFs", "url": "https://sidra.ibge.gov.br/tabela/10442", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}, {"@type": "Dataset", "name": "PAIC — empresas de construção por faixa de pessoal ocupado e CNAE, Brasil", "url": "https://sidra.ibge.gov.br/tabela/10463", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/economia_construcao_paic.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/economia_construcao_paic.csv"}], "variableMeasured": ["custos_obras", "empresas", "empresas_atuantes", "empresas_sede", "pessoal", "receita_bruta", "receita_liquida", "salarios", "valor_adicionado", "valor_obras", "vbp"]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Economia", "item": "https://atlasmercados.com.br/economia"}, {"@type": "ListItem", "position": 3, "name": "Construção", "item": "https://atlasmercados.com.br/economia/construcao"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="on" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Indústria da construção</h1>
+<p class="sub"><a href="/economia">Economia</a> · Pesquisa Anual da Indústria da Construção (PAIC) do IBGE · 2024 · <a href="/economia/construcao.json">JSON</a></p>
+<div class="chips"><a href="/economia/servicos" class="">Serviços</a><a href="/economia/industria" class="">Indústria</a><a href="/economia/construcao" class="on">Construção</a><a href="/economia/agropecuaria" class="">Agropecuária</a></div>
+<p class="resposta" data-resposta>Em 2024, as empresas de construção somaram R$ 522,5 bilhões em incorporações, obras e serviços da construção, com 2,5 milhões de pessoas ocupadas em 191,0 mil empresas, segundo a Pesquisa Anual da Indústria da Construção do IBGE (tabela 10463); São Paulo concentra 27,0% (tabela 10442). As maiores divisões são obras de infraestrutura (38,4%), construção de edifícios (38,1%) e serviços especializados para construção (23,5%), pela soma das faixas de pessoal ocupado.</p>
+
+
+<article class="panel">
+  <h2>Por segmento <span class="h">Brasil · t/10463 · 2024 · divisões = soma das faixas de pessoal (calc.)</span></h2>
+  <div class="scrim" style="overflow:auto">
+  <table class="arv">
+    <thead><tr><th class="l">Segmento</th><th class="l" style="width:150px">Share (calc.)</th><th>Valor das obras e serviços<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th><th>Receita líquida<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th><th>Valor adicionado<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th><th>Pessoal ocupado<br><span class="dim2" style="font-size:9px;font-weight:400">pessoas</span></th><th>Empresas ativas<br><span class="dim2" style="font-size:9px;font-weight:400">un.</span></th></tr></thead>
+    <tbody>
+    
+    <tr class="n0">
+      <td class="nm p0">Total</td>
+      <td class="l"><span class="sh" style="width:100.0px"></span><span class="mono dim" style="font-size:11px">100,0%</span></td>
+      <td class="mono ">R$ 522,5 bi</td><td class="mono ">R$ 529,7 bi</td><td class="mono ">R$ 234,8 bi</td><td class="mono ">2.503.478</td><td class="mono ">191.026</td>
+    </tr>
+    
+    <tr class="n1">
+      <td class="nm p1"><span class="mono acc" style="font-size:10.5px">41</span> Construção de edifícios <span class="tag">soma das faixas (calc.)</span></td>
+      <td class="l"><span class="sh" style="width:38.1px"></span><span class="mono dim" style="font-size:11px">38,1%</span></td>
+      <td class="mono ">R$ 198,9 bi</td><td class="mono ">R$ 202,9 bi</td><td class="mono ">R$ 83,7 bi</td><td class="mono ">894.770</td><td class="mono ">69.785</td>
+    </tr>
+    
+    <tr class="n1">
+      <td class="nm p1"><span class="mono acc" style="font-size:10.5px">42</span> Obras de infraestrutura <span class="tag">soma das faixas (calc.)</span></td>
+      <td class="l"><span class="sh" style="width:38.4px"></span><span class="mono dim" style="font-size:11px">38,4%</span></td>
+      <td class="mono ">R$ 200,9 bi</td><td class="mono ">R$ 201,9 bi</td><td class="mono ">R$ 80,5 bi</td><td class="mono ">748.757</td><td class="mono ">19.049</td>
+    </tr>
+    
+    <tr class="n1">
+      <td class="nm p1"><span class="mono acc" style="font-size:10.5px">43</span> Serviços especializados para construção <span class="tag">soma das faixas (calc.)</span></td>
+      <td class="l"><span class="sh" style="width:23.5px"></span><span class="mono dim" style="font-size:11px">23,5%</span></td>
+      <td class="mono ">R$ 122,8 bi</td><td class="mono ">R$ 125,0 bi</td><td class="mono ">R$ 70,7 bi</td><td class="mono ">859.951</td><td class="mono ">102.192</td>
+    </tr>
+    
+    <tr class="n1">
+      <td class="nm p1">Empresas com 1 a 4 pessoas ocupadas <span class="tag">faixa de pessoal</span></td>
+      <td class="l"><span class="sh" style="width:11.1px"></span><span class="mono dim" style="font-size:11px">11,1%</span></td>
+      <td class="mono ">R$ 58,2 bi</td><td class="mono ">R$ 62,4 bi</td><td class="mono ">R$ 32,0 bi</td><td class="mono ">321.831</td><td class="mono ">120.948</td>
+    </tr>
+    
+    <tr class="n1">
+      <td class="nm p1">Empresas com 5 a 29 pessoas ocupadas <span class="tag">faixa de pessoal</span></td>
+      <td class="l"><span class="sh" style="width:18.2px"></span><span class="mono dim" style="font-size:11px">18,2%</span></td>
+      <td class="mono ">R$ 95,3 bi</td><td class="mono ">R$ 99,7 bi</td><td class="mono ">R$ 51,4 bi</td><td class="mono ">685.103</td><td class="mono ">59.441</td>
+    </tr>
+    
+    <tr class="n1">
+      <td class="nm p1">Empresas com 30 ou mais pessoas ocupadas <span class="tag">faixa de pessoal</span></td>
+      <td class="l"><span class="sh" style="width:70.6px"></span><span class="mono dim" style="font-size:11px">70,6%</span></td>
+      <td class="mono ">R$ 369,0 bi</td><td class="mono ">R$ 367,6 bi</td><td class="mono ">R$ 151,4 bi</td><td class="mono ">1.496.544</td><td class="mono ">10.637</td>
+    </tr>
+    
+    </tbody>
+  </table>
+  </div>
+  <div class="dim2" style="font-size:11px;margin-top:8px">A PAIC publica cada divisão CNAE (41 edifícios, 42 infraestrutura, 43 serviços especializados) dentro de cada faixa de pessoal ocupado; o total por divisão é a soma das três faixas (cálculo do site, exato). Por UF, empresas com 5 ou mais pessoas ocupadas. "—" = a fonte não divulga (sigilo ou não disponível).</div>
+</article>
+
+
+
+<article class="panel" style="margin-top:16px">
+  <h2>Por UF <span class="h">valor das incorporações, obras e serviços da construção · t/10442 · 2024</span></h2>
+  <div class="maprow">
+    <div id="brmap" data-endpoint="/api/economia/construcao/uf.json" data-rotulo="valor das incorporações, obras e serviços da construção" data-unidade="R$"></div>
+    <div class="scrim" style="overflow:auto;max-height:560px">
+      
+      
+      <div class="rk ">
+        <span class="pos mono">1</span>
+        <span class="nm"><a href="/economia/construcao/uf/SP">São Paulo</a></span>
+        <span class="bar" style="width:80.0px"></span><span class="val mono">R$ 125,4 bi <span class="dim2">27,0%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">2</span>
+        <span class="nm"><a href="/economia/construcao/uf/MG">Minas Gerais</a></span>
+        <span class="bar" style="width:37.4px"></span><span class="val mono">R$ 58,6 bi <span class="dim2">12,6%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">3</span>
+        <span class="nm"><a href="/economia/construcao/uf/RJ">Rio de Janeiro</a></span>
+        <span class="bar" style="width:22.5px"></span><span class="val mono">R$ 35,2 bi <span class="dim2">7,6%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">4</span>
+        <span class="nm"><a href="/economia/construcao/uf/PR">Paraná</a></span>
+        <span class="bar" style="width:19.1px"></span><span class="val mono">R$ 29,9 bi <span class="dim2">6,4%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">5</span>
+        <span class="nm"><a href="/economia/construcao/uf/BA">Bahia</a></span>
+        <span class="bar" style="width:16.5px"></span><span class="val mono">R$ 25,9 bi <span class="dim2">5,6%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">6</span>
+        <span class="nm"><a href="/economia/construcao/uf/SC">Santa Catarina</a></span>
+        <span class="bar" style="width:15.8px"></span><span class="val mono">R$ 24,7 bi <span class="dim2">5,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">7</span>
+        <span class="nm"><a href="/economia/construcao/uf/RS">Rio Grande do Sul</a></span>
+        <span class="bar" style="width:15.5px"></span><span class="val mono">R$ 24,4 bi <span class="dim2">5,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">8</span>
+        <span class="nm"><a href="/economia/construcao/uf/PA">Pará</a></span>
+        <span class="bar" style="width:11.2px"></span><span class="val mono">R$ 17,5 bi <span class="dim2">3,8%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">9</span>
+        <span class="nm"><a href="/economia/construcao/uf/GO">Goiás</a></span>
+        <span class="bar" style="width:10.2px"></span><span class="val mono">R$ 15,9 bi <span class="dim2">3,4%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">10</span>
+        <span class="nm"><a href="/economia/construcao/uf/CE">Ceará</a></span>
+        <span class="bar" style="width:8.6px"></span><span class="val mono">R$ 13,6 bi <span class="dim2">2,9%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">11</span>
+        <span class="nm"><a href="/economia/construcao/uf/PE">Pernambuco</a></span>
+        <span class="bar" style="width:7.9px"></span><span class="val mono">R$ 12,3 bi <span class="dim2">2,7%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">12</span>
+        <span class="nm"><a href="/economia/construcao/uf/DF">Distrito Federal</a></span>
+        <span class="bar" style="width:6.5px"></span><span class="val mono">R$ 10,2 bi <span class="dim2">2,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">13</span>
+        <span class="nm"><a href="/economia/construcao/uf/ES">Espírito Santo</a></span>
+        <span class="bar" style="width:6.5px"></span><span class="val mono">R$ 10,2 bi <span class="dim2">2,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">14</span>
+        <span class="nm"><a href="/economia/construcao/uf/MT">Mato Grosso</a></span>
+        <span class="bar" style="width:6.2px"></span><span class="val mono">R$ 9,7 bi <span class="dim2">2,1%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">15</span>
+        <span class="nm"><a href="/economia/construcao/uf/MA">Maranhão</a></span>
+        <span class="bar" style="width:5.0px"></span><span class="val mono">R$ 7,9 bi <span class="dim2">1,7%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">16</span>
+        <span class="nm"><a href="/economia/construcao/uf/MS">Mato Grosso do Sul</a></span>
+        <span class="bar" style="width:4.1px"></span><span class="val mono">R$ 6,5 bi <span class="dim2">1,4%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">17</span>
+        <span class="nm"><a href="/economia/construcao/uf/AM">Amazonas</a></span>
+        <span class="bar" style="width:3.9px"></span><span class="val mono">R$ 6,1 bi <span class="dim2">1,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">18</span>
+        <span class="nm"><a href="/economia/construcao/uf/RN">Rio Grande do Norte</a></span>
+        <span class="bar" style="width:3.8px"></span><span class="val mono">R$ 5,9 bi <span class="dim2">1,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">19</span>
+        <span class="nm"><a href="/economia/construcao/uf/PI">Piauí</a></span>
+        <span class="bar" style="width:3.4px"></span><span class="val mono">R$ 5,3 bi <span class="dim2">1,1%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">20</span>
+        <span class="nm"><a href="/economia/construcao/uf/PB">Paraíba</a></span>
+        <span class="bar" style="width:3.2px"></span><span class="val mono">R$ 5,0 bi <span class="dim2">1,1%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">21</span>
+        <span class="nm"><a href="/economia/construcao/uf/AL">Alagoas</a></span>
+        <span class="bar" style="width:3.1px"></span><span class="val mono">R$ 4,9 bi <span class="dim2">1,1%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">22</span>
+        <span class="nm"><a href="/economia/construcao/uf/SE">Sergipe</a></span>
+        <span class="bar" style="width:1.6px"></span><span class="val mono">R$ 2,5 bi <span class="dim2">0,5%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">23</span>
+        <span class="nm"><a href="/economia/construcao/uf/TO">Tocantins</a></span>
+        <span class="bar" style="width:1.4px"></span><span class="val mono">R$ 2,2 bi <span class="dim2">0,5%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">24</span>
+        <span class="nm"><a href="/economia/construcao/uf/RO">Rondônia</a></span>
+        <span class="bar" style="width:0.9px"></span><span class="val mono">R$ 1,5 bi <span class="dim2">0,3%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">25</span>
+        <span class="nm"><a href="/economia/construcao/uf/AC">Acre</a></span>
+        <span class="bar" style="width:0.7px"></span><span class="val mono">R$ 1,1 bi <span class="dim2">0,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">26</span>
+        <span class="nm"><a href="/economia/construcao/uf/AP">Amapá</a></span>
+        <span class="bar" style="width:0.6px"></span><span class="val mono">R$ 971,5 mi <span class="dim2">0,2%</span></span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">27</span>
+        <span class="nm"><a href="/economia/construcao/uf/RR">Roraima</a></span>
+        <span class="bar" style="width:0.6px"></span><span class="val mono">R$ 934,1 mi <span class="dim2">0,2%</span></span>
+        
+      </div>
+      
+      <div class="rk"><span class="pos"></span><span class="nm dim">Brasil</span><span class="val mono acc">R$ 464,4 bi</span></div>
+    </div>
+  </div>
+  
+  <div class="dim2" style="font-size:11px;margin-top:8px">O Brasil desta tabela por UF (t/10442: R$ 464,4 bi) difere do Brasil da tabela por segmento (t/10463: R$ 522,5 bi): são recortes diferentes da mesma pesquisa — por UF, só empresas com 5 ou mais pessoas ocupadas. A página mostra cada um como publicado e não os mistura.</div>
+</article>
+
+
+<div class="note">
+  <b>Fonte.</b> Pesquisa Anual da Indústria da Construção (PAIC) do IBGE, SIDRA t/10463 e t/10442, como publicado; "Mil Reais" convertido para R$. A PAIC publica cada divisão CNAE (41 edifícios, 42 infraestrutura, 43 serviços especializados) dentro de cada faixa de pessoal ocupado; o total por divisão é a soma das três faixas (cálculo do site, exato). Por UF, empresas com 5 ou mais pessoas ocupadas.
+  Share e somas são calculados nesta página e marcados "(calc.)". Não é recomendação de nada.
+</div>
+<div class="dl" style="font-size:11px;margin-top:8px">
+  <b class="dim">Dados:</b>
+  <a href="/economia/construcao.json">JSON desta página</a>
+  <a href="/api/economia/construcao/uf.json">JSON por UF</a>
+  <a href="/dados/economia_construcao_paic">economia_construcao_paic (Parquet e CSV)</a>
+</div>
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Indústria da construção — Brasil. https://atlasmercados.com.br/economia/construcao. Dados: IBGE — Pesquisa Anual da Indústria da Construção (PAIC) (SIDRA, tabela 10463). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    Identificador da série: <code>ibge-sidra:10463/n1</code> · 
+    Permalink: <a href="https://atlasmercados.com.br/economia/construcao">https://atlasmercados.com.br/economia/construcao</a>
+     · <a href="/economia/construcao.json">JSON</a>
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

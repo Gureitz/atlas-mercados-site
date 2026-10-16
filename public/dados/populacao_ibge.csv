@@ -1,0 +1,645 @@
+pesquisa,tabela,periodo_cod,ano,trimestre,nivel_cod,territorio_cod,territorio_nome,uf_sigla,classificacao,categoria_cod,categoria_nome,cod,cod_pai,profundidade,nome_curto,faixa,variavel_cod,variavel,chave,unidade,unidade_original,valor,situacao,bruto
+populacao,4709,2022,2022,,1,1,Brasil,,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,203080756.0,ok,203080756
+populacao,4709,2022,2022,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,1581196.0,ok,1581196
+populacao,4709,2022,2022,,3,12,Acre,AC,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,830018.0,ok,830018
+populacao,4709,2022,2022,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,3941613.0,ok,3941613
+populacao,4709,2022,2022,,3,14,Roraima,RR,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,636707.0,ok,636707
+populacao,4709,2022,2022,,3,15,Pará,PA,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,8120131.0,ok,8120131
+populacao,4709,2022,2022,,3,16,Amapá,AP,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,733759.0,ok,733759
+populacao,4709,2022,2022,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,1511460.0,ok,1511460
+populacao,4709,2022,2022,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,6776699.0,ok,6776699
+populacao,4709,2022,2022,,3,22,Piauí,PI,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,3271199.0,ok,3271199
+populacao,4709,2022,2022,,3,23,Ceará,CE,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,8794957.0,ok,8794957
+populacao,4709,2022,2022,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,3302729.0,ok,3302729
+populacao,4709,2022,2022,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,3974687.0,ok,3974687
+populacao,4709,2022,2022,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,9058931.0,ok,9058931
+populacao,4709,2022,2022,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,3127683.0,ok,3127683
+populacao,4709,2022,2022,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,2210004.0,ok,2210004
+populacao,4709,2022,2022,,3,29,Bahia,BA,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,14141626.0,ok,14141626
+populacao,4709,2022,2022,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,20539989.0,ok,20539989
+populacao,4709,2022,2022,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,3833712.0,ok,3833712
+populacao,4709,2022,2022,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,16055174.0,ok,16055174
+populacao,4709,2022,2022,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,44411238.0,ok,44411238
+populacao,4709,2022,2022,,3,41,Paraná,PR,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,11444380.0,ok,11444380
+populacao,4709,2022,2022,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,7610361.0,ok,7610361
+populacao,4709,2022,2022,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,10882965.0,ok,10882965
+populacao,4709,2022,2022,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,2757013.0,ok,2757013
+populacao,4709,2022,2022,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,3658649.0,ok,3658649
+populacao,4709,2022,2022,,3,52,Goiás,GO,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,7056495.0,ok,7056495
+populacao,4709,2022,2022,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,93,População residente,populacao,Pessoas,Pessoas,2817381.0,ok,2817381
+populacao,6579,2001,2001,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,172385826.0,ok,172385826
+populacao,6579,2001,2001,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1407886.0,ok,1407886
+populacao,6579,2001,2001,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,574355.0,ok,574355
+populacao,6579,2001,2001,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2900240.0,ok,2900240
+populacao,6579,2001,2001,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,337237.0,ok,337237
+populacao,6579,2001,2001,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6341736.0,ok,6341736
+populacao,6579,2001,2001,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,498735.0,ok,498735
+populacao,6579,2001,2001,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1184895.0,ok,1184895
+populacao,6579,2001,2001,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5730467.0,ok,5730467
+populacao,6579,2001,2001,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2873010.0,ok,2873010
+populacao,6579,2001,2001,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7547620.0,ok,7547620
+populacao,6579,2001,2001,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2815244.0,ok,2815244
+populacao,6579,2001,2001,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3468594.0,ok,3468594
+populacao,6579,2001,2001,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8008207.0,ok,8008207
+populacao,6579,2001,2001,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2856629.0,ok,2856629
+populacao,6579,2001,2001,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1817301.0,ok,1817301
+populacao,6579,2001,2001,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,13214114.0,ok,13214114
+populacao,6579,2001,2001,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,18127096.0,ok,18127096
+populacao,6579,2001,2001,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3155016.0,ok,3155016
+populacao,6579,2001,2001,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14558545.0,ok,14558545
+populacao,6579,2001,2001,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,37630106.0,ok,37630106
+populacao,6579,2001,2001,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9694709.0,ok,9694709
+populacao,6579,2001,2001,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5448736.0,ok,5448736
+populacao,6579,2001,2001,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10309819.0,ok,10309819
+populacao,6579,2001,2001,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2111036.0,ok,2111036
+populacao,6579,2001,2001,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2560584.0,ok,2560584
+populacao,6579,2001,2001,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5116462.0,ok,5116462
+populacao,6579,2001,2001,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2097447.0,ok,2097447
+populacao,6579,2002,2002,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,174632960.0,ok,174632960
+populacao,6579,2002,2002,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1431777.0,ok,1431777
+populacao,6579,2002,2002,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,586942.0,ok,586942
+populacao,6579,2002,2002,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2961801.0,ok,2961801
+populacao,6579,2002,2002,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,346871.0,ok,346871
+populacao,6579,2002,2002,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6453683.0,ok,6453683
+populacao,6579,2002,2002,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,516511.0,ok,516511
+populacao,6579,2002,2002,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1207014.0,ok,1207014
+populacao,6579,2002,2002,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5803224.0,ok,5803224
+populacao,6579,2002,2002,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2898223.0,ok,2898223
+populacao,6579,2002,2002,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7654535.0,ok,7654535
+populacao,6579,2002,2002,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2852784.0,ok,2852784
+populacao,6579,2002,2002,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3494893.0,ok,3494893
+populacao,6579,2002,2002,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8084667.0,ok,8084667
+populacao,6579,2002,2002,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2887535.0,ok,2887535
+populacao,6579,2002,2002,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1846039.0,ok,1846039
+populacao,6579,2002,2002,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,13323212.0,ok,13323212
+populacao,6579,2002,2002,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,18343517.0,ok,18343517
+populacao,6579,2002,2002,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3201722.0,ok,3201722
+populacao,6579,2002,2002,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14724475.0,ok,14724475
+populacao,6579,2002,2002,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,38177742.0,ok,38177742
+populacao,6579,2002,2002,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9798006.0,ok,9798006
+populacao,6579,2002,2002,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5527707.0,ok,5527707
+populacao,6579,2002,2002,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10408540.0,ok,10408540
+populacao,6579,2002,2002,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2140624.0,ok,2140624
+populacao,6579,2002,2002,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2604742.0,ok,2604742
+populacao,6579,2002,2002,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5210335.0,ok,5210335
+populacao,6579,2002,2002,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2145839.0,ok,2145839
+populacao,6579,2003,2003,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,176871437.0,ok,176871437
+populacao,6579,2003,2003,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1455907.0,ok,1455907
+populacao,6579,2003,2003,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,600595.0,ok,600595
+populacao,6579,2003,2003,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3031068.0,ok,3031068
+populacao,6579,2003,2003,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,357302.0,ok,357302
+populacao,6579,2003,2003,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6574993.0,ok,6574993
+populacao,6579,2003,2003,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,534835.0,ok,534835
+populacao,6579,2003,2003,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1230181.0,ok,1230181
+populacao,6579,2003,2003,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5873655.0,ok,5873655
+populacao,6579,2003,2003,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2923725.0,ok,2923725
+populacao,6579,2003,2003,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7758441.0,ok,7758441
+populacao,6579,2003,2003,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2888058.0,ok,2888058
+populacao,6579,2003,2003,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3518595.0,ok,3518595
+populacao,6579,2003,2003,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8161862.0,ok,8161862
+populacao,6579,2003,2003,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2917664.0,ok,2917664
+populacao,6579,2003,2003,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1874613.0,ok,1874613
+populacao,6579,2003,2003,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,13435612.0,ok,13435612
+populacao,6579,2003,2003,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,18553312.0,ok,18553312
+populacao,6579,2003,2003,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3250219.0,ok,3250219
+populacao,6579,2003,2003,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14879118.0,ok,14879118
+populacao,6579,2003,2003,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,38709320.0,ok,38709320
+populacao,6579,2003,2003,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9906866.0,ok,9906866
+populacao,6579,2003,2003,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5607233.0,ok,5607233
+populacao,6579,2003,2003,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10510992.0,ok,10510992
+populacao,6579,2003,2003,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2169688.0,ok,2169688
+populacao,6579,2003,2003,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2651335.0,ok,2651335
+populacao,6579,2003,2003,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5306459.0,ok,5306459
+populacao,6579,2003,2003,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2189789.0,ok,2189789
+populacao,6579,2004,2004,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,181569056.0,ok,181569056
+populacao,6579,2004,2004,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1562085.0,ok,1562085
+populacao,6579,2004,2004,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,630328.0,ok,630328
+populacao,6579,2004,2004,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3138726.0,ok,3138726
+populacao,6579,2004,2004,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,381896.0,ok,381896
+populacao,6579,2004,2004,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6850181.0,ok,6850181
+populacao,6579,2004,2004,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,547400.0,ok,547400
+populacao,6579,2004,2004,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1262644.0,ok,1262644
+populacao,6579,2004,2004,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6021504.0,ok,6021504
+populacao,6579,2004,2004,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2974698.0,ok,2974698
+populacao,6579,2004,2004,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7976563.0,ok,7976563
+populacao,6579,2004,2004,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2962107.0,ok,2962107
+populacao,6579,2004,2004,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3568350.0,ok,3568350
+populacao,6579,2004,2004,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8323911.0,ok,8323911
+populacao,6579,2004,2004,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2980910.0,ok,2980910
+populacao,6579,2004,2004,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1934596.0,ok,1934596
+populacao,6579,2004,2004,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,13682074.0,ok,13682074
+populacao,6579,2004,2004,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,18993720.0,ok,18993720
+populacao,6579,2004,2004,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3352024.0,ok,3352024
+populacao,6579,2004,2004,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,15203750.0,ok,15203750
+populacao,6579,2004,2004,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,39825226.0,ok,39825226
+populacao,6579,2004,2004,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10135388.0,ok,10135388
+populacao,6579,2004,2004,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5774178.0,ok,5774178
+populacao,6579,2004,2004,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10726063.0,ok,10726063
+populacao,6579,2004,2004,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2227794.0,ok,2227794
+populacao,6579,2004,2004,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2742646.0,ok,2742646
+populacao,6579,2004,2004,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5508245.0,ok,5508245
+populacao,6579,2004,2004,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2282049.0,ok,2282049
+populacao,6579,2005,2005,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,184184264.0,ok,184184264
+populacao,6579,2005,2005,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1534594.0,ok,1534594
+populacao,6579,2005,2005,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,669736.0,ok,669736
+populacao,6579,2005,2005,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3232330.0,ok,3232330
+populacao,6579,2005,2005,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,391317.0,ok,391317
+populacao,6579,2005,2005,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6970586.0,ok,6970586
+populacao,6579,2005,2005,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,594587.0,ok,594587
+populacao,6579,2005,2005,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1305728.0,ok,1305728
+populacao,6579,2005,2005,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6103327.0,ok,6103327
+populacao,6579,2005,2005,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3006885.0,ok,3006885
+populacao,6579,2005,2005,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8097276.0,ok,8097276
+populacao,6579,2005,2005,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3003087.0,ok,3003087
+populacao,6579,2005,2005,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3595886.0,ok,3595886
+populacao,6579,2005,2005,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8413593.0,ok,8413593
+populacao,6579,2005,2005,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3015912.0,ok,3015912
+populacao,6579,2005,2005,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1967791.0,ok,1967791
+populacao,6579,2005,2005,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,13815334.0,ok,13815334
+populacao,6579,2005,2005,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,19237450.0,ok,19237450
+populacao,6579,2005,2005,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3408365.0,ok,3408365
+populacao,6579,2005,2005,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,15383407.0,ok,15383407
+populacao,6579,2005,2005,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,40442795.0,ok,40442795
+populacao,6579,2005,2005,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10261856.0,ok,10261856
+populacao,6579,2005,2005,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5866568.0,ok,5866568
+populacao,6579,2005,2005,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10845087.0,ok,10845087
+populacao,6579,2005,2005,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2264468.0,ok,2264468
+populacao,6579,2005,2005,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2803274.0,ok,2803274
+populacao,6579,2005,2005,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5619917.0,ok,5619917
+populacao,6579,2005,2005,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2333108.0,ok,2333108
+populacao,6579,2006,2006,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,186770562.0,ok,186770562
+populacao,6579,2006,2006,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1562417.0,ok,1562417
+populacao,6579,2006,2006,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,686652.0,ok,686652
+populacao,6579,2006,2006,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3311026.0,ok,3311026
+populacao,6579,2006,2006,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,403344.0,ok,403344
+populacao,6579,2006,2006,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7110465.0,ok,7110465
+populacao,6579,2006,2006,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,615715.0,ok,615715
+populacao,6579,2006,2006,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1332441.0,ok,1332441
+populacao,6579,2006,2006,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6184538.0,ok,6184538
+populacao,6579,2006,2006,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3036290.0,ok,3036290
+populacao,6579,2006,2006,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8217085.0,ok,8217085
+populacao,6579,2006,2006,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3043760.0,ok,3043760
+populacao,6579,2006,2006,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3623215.0,ok,3623215
+populacao,6579,2006,2006,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8502603.0,ok,8502603
+populacao,6579,2006,2006,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3050652.0,ok,3050652
+populacao,6579,2006,2006,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2000738.0,ok,2000738
+populacao,6579,2006,2006,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,13950146.0,ok,13950146
+populacao,6579,2006,2006,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,19479356.0,ok,19479356
+populacao,6579,2006,2006,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3464285.0,ok,3464285
+populacao,6579,2006,2006,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,15561720.0,ok,15561720
+populacao,6579,2006,2006,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,41055734.0,ok,41055734
+populacao,6579,2006,2006,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10387378.0,ok,10387378
+populacao,6579,2006,2006,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5958266.0,ok,5958266
+populacao,6579,2006,2006,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10963219.0,ok,10963219
+populacao,6579,2006,2006,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2297981.0,ok,2297981
+populacao,6579,2006,2006,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2856999.0,ok,2856999
+populacao,6579,2006,2006,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5730753.0,ok,5730753
+populacao,6579,2006,2006,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2383784.0,ok,2383784
+populacao,6579,2008,2008,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,189605006.0,ok,189605006
+populacao,6579,2008,2008,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1493565.0,ok,1493565
+populacao,6579,2008,2008,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,680075.0,ok,680075
+populacao,6579,2008,2008,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3341094.0,ok,3341094
+populacao,6579,2008,2008,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,412783.0,ok,412783
+populacao,6579,2008,2008,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7321490.0,ok,7321490
+populacao,6579,2008,2008,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,613166.0,ok,613166
+populacao,6579,2008,2008,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1280513.0,ok,1280513
+populacao,6579,2008,2008,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6305537.0,ok,6305537
+populacao,6579,2008,2008,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3111881.0,ok,3111881
+populacao,6579,2008,2008,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8450528.0,ok,8450528
+populacao,6579,2008,2008,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3106436.0,ok,3106436
+populacao,6579,2008,2008,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3742604.0,ok,3742604
+populacao,6579,2008,2008,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8734196.0,ok,8734196
+populacao,6579,2008,2008,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3127560.0,ok,3127560
+populacao,6579,2008,2008,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1999374.0,ok,1999374
+populacao,6579,2008,2008,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14502563.0,ok,14502563
+populacao,6579,2008,2008,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,19850060.0,ok,19850060
+populacao,6579,2008,2008,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3453646.0,ok,3453646
+populacao,6579,2008,2008,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,15872362.0,ok,15872362
+populacao,6579,2008,2008,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,41011638.0,ok,41011638
+populacao,6579,2008,2008,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10590171.0,ok,10590171
+populacao,6579,2008,2008,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6052587.0,ok,6052587
+populacao,6579,2008,2008,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10855228.0,ok,10855228
+populacao,6579,2008,2008,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2336060.0,ok,2336060
+populacao,6579,2008,2008,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2957735.0,ok,2957735
+populacao,6579,2008,2008,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5844995.0,ok,5844995
+populacao,6579,2008,2008,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2557159.0,ok,2557159
+populacao,6579,2009,2009,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,191480630.0,ok,191480630
+populacao,6579,2009,2009,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1503928.0,ok,1503928
+populacao,6579,2009,2009,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,691132.0,ok,691132
+populacao,6579,2009,2009,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3393369.0,ok,3393369
+populacao,6579,2009,2009,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,421499.0,ok,421499
+populacao,6579,2009,2009,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7431020.0,ok,7431020
+populacao,6579,2009,2009,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,626609.0,ok,626609
+populacao,6579,2009,2009,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1292051.0,ok,1292051
+populacao,6579,2009,2009,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6367138.0,ok,6367138
+populacao,6579,2009,2009,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3145325.0,ok,3145325
+populacao,6579,2009,2009,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8547809.0,ok,8547809
+populacao,6579,2009,2009,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3137541.0,ok,3137541
+populacao,6579,2009,2009,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3769977.0,ok,3769977
+populacao,6579,2009,2009,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8810256.0,ok,8810256
+populacao,6579,2009,2009,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3156108.0,ok,3156108
+populacao,6579,2009,2009,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2019679.0,ok,2019679
+populacao,6579,2009,2009,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14637364.0,ok,14637364
+populacao,6579,2009,2009,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,20033665.0,ok,20033665
+populacao,6579,2009,2009,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3487199.0,ok,3487199
+populacao,6579,2009,2009,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,16010429.0,ok,16010429
+populacao,6579,2009,2009,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,41384039.0,ok,41384039
+populacao,6579,2009,2009,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10686247.0,ok,10686247
+populacao,6579,2009,2009,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6118743.0,ok,6118743
+populacao,6579,2009,2009,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10914128.0,ok,10914128
+populacao,6579,2009,2009,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2360498.0,ok,2360498
+populacao,6579,2009,2009,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3001692.0,ok,3001692
+populacao,6579,2009,2009,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,5926300.0,ok,5926300
+populacao,6579,2009,2009,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2606885.0,ok,2606885
+populacao,6579,2011,2011,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,192379287.0,ok,192379287
+populacao,6579,2011,2011,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1576455.0,ok,1576455
+populacao,6579,2011,2011,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,746386.0,ok,746386
+populacao,6579,2011,2011,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3538387.0,ok,3538387
+populacao,6579,2011,2011,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,460165.0,ok,460165
+populacao,6579,2011,2011,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7688593.0,ok,7688593
+populacao,6579,2011,2011,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,684309.0,ok,684309
+populacao,6579,2011,2011,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1400892.0,ok,1400892
+populacao,6579,2011,2011,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6645761.0,ok,6645761
+populacao,6579,2011,2011,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3140328.0,ok,3140328
+populacao,6579,2011,2011,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8530155.0,ok,8530155
+populacao,6579,2011,2011,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3198657.0,ok,3198657
+populacao,6579,2011,2011,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3791315.0,ok,3791315
+populacao,6579,2011,2011,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8864906.0,ok,8864906
+populacao,6579,2011,2011,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3143384.0,ok,3143384
+populacao,6579,2011,2011,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2089819.0,ok,2089819
+populacao,6579,2011,2011,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14097534.0,ok,14097534
+populacao,6579,2011,2011,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,19728701.0,ok,19728701
+populacao,6579,2011,2011,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3547055.0,ok,3547055
+populacao,6579,2011,2011,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,16112678.0,ok,16112678
+populacao,6579,2011,2011,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,41587182.0,ok,41587182
+populacao,6579,2011,2011,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10512349.0,ok,10512349
+populacao,6579,2011,2011,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6317054.0,ok,6317054
+populacao,6579,2011,2011,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10733030.0,ok,10733030
+populacao,6579,2011,2011,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2477542.0,ok,2477542
+populacao,6579,2011,2011,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3075936.0,ok,3075936
+populacao,6579,2011,2011,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6080716.0,ok,6080716
+populacao,6579,2011,2011,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2609998.0,ok,2609998
+populacao,6579,2012,2012,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,193904015.0,ok,193904015
+populacao,6579,2012,2012,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1590011.0,ok,1590011
+populacao,6579,2012,2012,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,758786.0,ok,758786
+populacao,6579,2012,2012,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3590985.0,ok,3590985
+populacao,6579,2012,2012,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,469524.0,ok,469524
+populacao,6579,2012,2012,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7777543.0,ok,7777543
+populacao,6579,2012,2012,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,698602.0,ok,698602
+populacao,6579,2012,2012,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1417694.0,ok,1417694
+populacao,6579,2012,2012,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6714314.0,ok,6714314
+populacao,6579,2012,2012,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3160748.0,ok,3160748
+populacao,6579,2012,2012,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8606005.0,ok,8606005
+populacao,6579,2012,2012,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3228198.0,ok,3228198
+populacao,6579,2012,2012,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3815171.0,ok,3815171
+populacao,6579,2012,2012,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8931028.0,ok,8931028
+populacao,6579,2012,2012,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3165472.0,ok,3165472
+populacao,6579,2012,2012,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2110867.0,ok,2110867
+populacao,6579,2012,2012,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14175341.0,ok,14175341
+populacao,6579,2012,2012,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,19855332.0,ok,19855332
+populacao,6579,2012,2012,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3578067.0,ok,3578067
+populacao,6579,2012,2012,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,16231365.0,ok,16231365
+populacao,6579,2012,2012,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,41901219.0,ok,41901219
+populacao,6579,2012,2012,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10577755.0,ok,10577755
+populacao,6579,2012,2012,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6362734.0,ok,6362734
+populacao,6579,2012,2012,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10768025.0,ok,10768025
+populacao,6579,2012,2012,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2500365.0,ok,2500365
+populacao,6579,2012,2012,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3115336.0,ok,3115336
+populacao,6579,2012,2012,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6154996.0,ok,6154996
+populacao,6579,2012,2012,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2648532.0,ok,2648532
+populacao,6579,2013,2013,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,201032714.0,ok,201032714
+populacao,6579,2013,2013,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1728214.0,ok,1728214
+populacao,6579,2013,2013,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,776463.0,ok,776463
+populacao,6579,2013,2013,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3807921.0,ok,3807921
+populacao,6579,2013,2013,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,488072.0,ok,488072
+populacao,6579,2013,2013,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7969654.0,ok,7969654
+populacao,6579,2013,2013,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,734996.0,ok,734996
+populacao,6579,2013,2013,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1478164.0,ok,1478164
+populacao,6579,2013,2013,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6794301.0,ok,6794301
+populacao,6579,2013,2013,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3184166.0,ok,3184166
+populacao,6579,2013,2013,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8778576.0,ok,8778576
+populacao,6579,2013,2013,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3373959.0,ok,3373959
+populacao,6579,2013,2013,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3914421.0,ok,3914421
+populacao,6579,2013,2013,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9208550.0,ok,9208550
+populacao,6579,2013,2013,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3300935.0,ok,3300935
+populacao,6579,2013,2013,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2195662.0,ok,2195662
+populacao,6579,2013,2013,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,15044137.0,ok,15044137
+populacao,6579,2013,2013,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,20593356.0,ok,20593356
+populacao,6579,2013,2013,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3839366.0,ok,3839366
+populacao,6579,2013,2013,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,16369179.0,ok,16369179
+populacao,6579,2013,2013,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,43663669.0,ok,43663669
+populacao,6579,2013,2013,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,10997465.0,ok,10997465
+populacao,6579,2013,2013,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6634254.0,ok,6634254
+populacao,6579,2013,2013,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11164043.0,ok,11164043
+populacao,6579,2013,2013,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2587269.0,ok,2587269
+populacao,6579,2013,2013,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3182113.0,ok,3182113
+populacao,6579,2013,2013,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6434048.0,ok,6434048
+populacao,6579,2013,2013,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2789761.0,ok,2789761
+populacao,6579,2014,2014,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,202768562.0,ok,202768562
+populacao,6579,2014,2014,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1748531.0,ok,1748531
+populacao,6579,2014,2014,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,790101.0,ok,790101
+populacao,6579,2014,2014,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3873743.0,ok,3873743
+populacao,6579,2014,2014,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,496936.0,ok,496936
+populacao,6579,2014,2014,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8073924.0,ok,8073924
+populacao,6579,2014,2014,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,750912.0,ok,750912
+populacao,6579,2014,2014,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1496880.0,ok,1496880
+populacao,6579,2014,2014,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6850884.0,ok,6850884
+populacao,6579,2014,2014,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3194718.0,ok,3194718
+populacao,6579,2014,2014,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8842791.0,ok,8842791
+populacao,6579,2014,2014,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3408510.0,ok,3408510
+populacao,6579,2014,2014,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3943885.0,ok,3943885
+populacao,6579,2014,2014,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9277727.0,ok,9277727
+populacao,6579,2014,2014,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3321730.0,ok,3321730
+populacao,6579,2014,2014,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2219574.0,ok,2219574
+populacao,6579,2014,2014,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,15126371.0,ok,15126371
+populacao,6579,2014,2014,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,20734097.0,ok,20734097
+populacao,6579,2014,2014,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3885049.0,ok,3885049
+populacao,6579,2014,2014,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,16461173.0,ok,16461173
+populacao,6579,2014,2014,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,44035304.0,ok,44035304
+populacao,6579,2014,2014,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11081692.0,ok,11081692
+populacao,6579,2014,2014,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6727148.0,ok,6727148
+populacao,6579,2014,2014,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11207274.0,ok,11207274
+populacao,6579,2014,2014,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2619657.0,ok,2619657
+populacao,6579,2014,2014,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3224357.0,ok,3224357
+populacao,6579,2014,2014,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6523222.0,ok,6523222
+populacao,6579,2014,2014,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2852372.0,ok,2852372
+populacao,6579,2015,2015,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,204450049.0,ok,204450049
+populacao,6579,2015,2015,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1768204.0,ok,1768204
+populacao,6579,2015,2015,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,803513.0,ok,803513
+populacao,6579,2015,2015,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3938336.0,ok,3938336
+populacao,6579,2015,2015,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,505665.0,ok,505665
+populacao,6579,2015,2015,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8175113.0,ok,8175113
+populacao,6579,2015,2015,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,766679.0,ok,766679
+populacao,6579,2015,2015,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1515126.0,ok,1515126
+populacao,6579,2015,2015,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6904241.0,ok,6904241
+populacao,6579,2015,2015,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3204028.0,ok,3204028
+populacao,6579,2015,2015,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8904459.0,ok,8904459
+populacao,6579,2015,2015,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3442175.0,ok,3442175
+populacao,6579,2015,2015,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3972202.0,ok,3972202
+populacao,6579,2015,2015,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9345173.0,ok,9345173
+populacao,6579,2015,2015,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3340932.0,ok,3340932
+populacao,6579,2015,2015,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2242937.0,ok,2242937
+populacao,6579,2015,2015,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,15203334.0,ok,15203334
+populacao,6579,2015,2015,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,20869101.0,ok,20869101
+populacao,6579,2015,2015,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3929911.0,ok,3929911
+populacao,6579,2015,2015,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,16550024.0,ok,16550024
+populacao,6579,2015,2015,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,44396484.0,ok,44396484
+populacao,6579,2015,2015,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11163018.0,ok,11163018
+populacao,6579,2015,2015,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6819190.0,ok,6819190
+populacao,6579,2015,2015,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11247972.0,ok,11247972
+populacao,6579,2015,2015,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2651235.0,ok,2651235
+populacao,6579,2015,2015,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3265486.0,ok,3265486
+populacao,6579,2015,2015,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6610681.0,ok,6610681
+populacao,6579,2015,2015,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2914830.0,ok,2914830
+populacao,6579,2016,2016,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,206081432.0,ok,206081432
+populacao,6579,2016,2016,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1787279.0,ok,1787279
+populacao,6579,2016,2016,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,816687.0,ok,816687
+populacao,6579,2016,2016,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4001667.0,ok,4001667
+populacao,6579,2016,2016,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,514229.0,ok,514229
+populacao,6579,2016,2016,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8272724.0,ok,8272724
+populacao,6579,2016,2016,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,782295.0,ok,782295
+populacao,6579,2016,2016,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1532902.0,ok,1532902
+populacao,6579,2016,2016,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6954036.0,ok,6954036
+populacao,6579,2016,2016,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3212180.0,ok,3212180
+populacao,6579,2016,2016,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8963663.0,ok,8963663
+populacao,6579,2016,2016,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3474998.0,ok,3474998
+populacao,6579,2016,2016,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3999415.0,ok,3999415
+populacao,6579,2016,2016,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9410336.0,ok,9410336
+populacao,6579,2016,2016,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3358963.0,ok,3358963
+populacao,6579,2016,2016,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2265779.0,ok,2265779
+populacao,6579,2016,2016,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,15276566.0,ok,15276566
+populacao,6579,2016,2016,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,20997560.0,ok,20997560
+populacao,6579,2016,2016,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3973697.0,ok,3973697
+populacao,6579,2016,2016,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,16635996.0,ok,16635996
+populacao,6579,2016,2016,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,44749699.0,ok,44749699
+populacao,6579,2016,2016,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11242720.0,ok,11242720
+populacao,6579,2016,2016,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6910553.0,ok,6910553
+populacao,6579,2016,2016,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11286500.0,ok,11286500
+populacao,6579,2016,2016,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2682386.0,ok,2682386
+populacao,6579,2016,2016,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3305531.0,ok,3305531
+populacao,6579,2016,2016,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6695855.0,ok,6695855
+populacao,6579,2016,2016,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2977216.0,ok,2977216
+populacao,6579,2017,2017,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,207660929.0,ok,207660929
+populacao,6579,2017,2017,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1805788.0,ok,1805788
+populacao,6579,2017,2017,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,829619.0,ok,829619
+populacao,6579,2017,2017,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4063614.0,ok,4063614
+populacao,6579,2017,2017,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,522636.0,ok,522636
+populacao,6579,2017,2017,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8366628.0,ok,8366628
+populacao,6579,2017,2017,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,797722.0,ok,797722
+populacao,6579,2017,2017,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1550194.0,ok,1550194
+populacao,6579,2017,2017,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7000229.0,ok,7000229
+populacao,6579,2017,2017,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3219257.0,ok,3219257
+populacao,6579,2017,2017,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9020460.0,ok,9020460
+populacao,6579,2017,2017,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3507003.0,ok,3507003
+populacao,6579,2017,2017,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4025558.0,ok,4025558
+populacao,6579,2017,2017,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9473266.0,ok,9473266
+populacao,6579,2017,2017,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3375823.0,ok,3375823
+populacao,6579,2017,2017,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2288116.0,ok,2288116
+populacao,6579,2017,2017,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,15344447.0,ok,15344447
+populacao,6579,2017,2017,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,21119536.0,ok,21119536
+populacao,6579,2017,2017,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4016356.0,ok,4016356
+populacao,6579,2017,2017,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,16718956.0,ok,16718956
+populacao,6579,2017,2017,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,45094866.0,ok,45094866
+populacao,6579,2017,2017,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11320892.0,ok,11320892
+populacao,6579,2017,2017,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7001161.0,ok,7001161
+populacao,6579,2017,2017,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11322895.0,ok,11322895
+populacao,6579,2017,2017,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2713147.0,ok,2713147
+populacao,6579,2017,2017,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3344544.0,ok,3344544
+populacao,6579,2017,2017,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6778772.0,ok,6778772
+populacao,6579,2017,2017,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3039444.0,ok,3039444
+populacao,6579,2018,2018,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,208494900.0,ok,208494900
+populacao,6579,2018,2018,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1757589.0,ok,1757589
+populacao,6579,2018,2018,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,869265.0,ok,869265
+populacao,6579,2018,2018,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4080611.0,ok,4080611
+populacao,6579,2018,2018,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,576568.0,ok,576568
+populacao,6579,2018,2018,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8513497.0,ok,8513497
+populacao,6579,2018,2018,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,829494.0,ok,829494
+populacao,6579,2018,2018,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1555229.0,ok,1555229
+populacao,6579,2018,2018,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7035055.0,ok,7035055
+populacao,6579,2018,2018,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3264531.0,ok,3264531
+populacao,6579,2018,2018,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9075649.0,ok,9075649
+populacao,6579,2018,2018,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3479010.0,ok,3479010
+populacao,6579,2018,2018,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3996496.0,ok,3996496
+populacao,6579,2018,2018,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9496294.0,ok,9496294
+populacao,6579,2018,2018,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3322820.0,ok,3322820
+populacao,6579,2018,2018,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2278308.0,ok,2278308
+populacao,6579,2018,2018,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14812617.0,ok,14812617
+populacao,6579,2018,2018,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,21040662.0,ok,21040662
+populacao,6579,2018,2018,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3972388.0,ok,3972388
+populacao,6579,2018,2018,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,17159960.0,ok,17159960
+populacao,6579,2018,2018,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,45538936.0,ok,45538936
+populacao,6579,2018,2018,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11348937.0,ok,11348937
+populacao,6579,2018,2018,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7075494.0,ok,7075494
+populacao,6579,2018,2018,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11329605.0,ok,11329605
+populacao,6579,2018,2018,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2748023.0,ok,2748023
+populacao,6579,2018,2018,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3441998.0,ok,3441998
+populacao,6579,2018,2018,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,6921161.0,ok,6921161
+populacao,6579,2018,2018,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2974703.0,ok,2974703
+populacao,6579,2019,2019,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,210147125.0,ok,210147125
+populacao,6579,2019,2019,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1777225.0,ok,1777225
+populacao,6579,2019,2019,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,881935.0,ok,881935
+populacao,6579,2019,2019,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4144597.0,ok,4144597
+populacao,6579,2019,2019,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,605761.0,ok,605761
+populacao,6579,2019,2019,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8602865.0,ok,8602865
+populacao,6579,2019,2019,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,845731.0,ok,845731
+populacao,6579,2019,2019,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1572866.0,ok,1572866
+populacao,6579,2019,2019,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7075181.0,ok,7075181
+populacao,6579,2019,2019,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3273227.0,ok,3273227
+populacao,6579,2019,2019,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9132078.0,ok,9132078
+populacao,6579,2019,2019,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3506853.0,ok,3506853
+populacao,6579,2019,2019,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4018127.0,ok,4018127
+populacao,6579,2019,2019,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9557071.0,ok,9557071
+populacao,6579,2019,2019,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3337357.0,ok,3337357
+populacao,6579,2019,2019,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2298696.0,ok,2298696
+populacao,6579,2019,2019,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14873064.0,ok,14873064
+populacao,6579,2019,2019,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,21168791.0,ok,21168791
+populacao,6579,2019,2019,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4018650.0,ok,4018650
+populacao,6579,2019,2019,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,17264943.0,ok,17264943
+populacao,6579,2019,2019,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,45919049.0,ok,45919049
+populacao,6579,2019,2019,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11433957.0,ok,11433957
+populacao,6579,2019,2019,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7164788.0,ok,7164788
+populacao,6579,2019,2019,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11377239.0,ok,11377239
+populacao,6579,2019,2019,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2778986.0,ok,2778986
+populacao,6579,2019,2019,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3484466.0,ok,3484466
+populacao,6579,2019,2019,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7018354.0,ok,7018354
+populacao,6579,2019,2019,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3015268.0,ok,3015268
+populacao,6579,2020,2020,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,211755692.0,ok,211755692
+populacao,6579,2020,2020,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1796460.0,ok,1796460
+populacao,6579,2020,2020,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,894470.0,ok,894470
+populacao,6579,2020,2020,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4207714.0,ok,4207714
+populacao,6579,2020,2020,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,631181.0,ok,631181
+populacao,6579,2020,2020,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8690745.0,ok,8690745
+populacao,6579,2020,2020,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,861773.0,ok,861773
+populacao,6579,2020,2020,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1590248.0,ok,1590248
+populacao,6579,2020,2020,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7114598.0,ok,7114598
+populacao,6579,2020,2020,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3281480.0,ok,3281480
+populacao,6579,2020,2020,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9187103.0,ok,9187103
+populacao,6579,2020,2020,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3534165.0,ok,3534165
+populacao,6579,2020,2020,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4039277.0,ok,4039277
+populacao,6579,2020,2020,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9616621.0,ok,9616621
+populacao,6579,2020,2020,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3351543.0,ok,3351543
+populacao,6579,2020,2020,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2318822.0,ok,2318822
+populacao,6579,2020,2020,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14930634.0,ok,14930634
+populacao,6579,2020,2020,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,21292666.0,ok,21292666
+populacao,6579,2020,2020,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4064052.0,ok,4064052
+populacao,6579,2020,2020,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,17366189.0,ok,17366189
+populacao,6579,2020,2020,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,46289333.0,ok,46289333
+populacao,6579,2020,2020,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11516840.0,ok,11516840
+populacao,6579,2020,2020,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7252502.0,ok,7252502
+populacao,6579,2020,2020,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11422973.0,ok,11422973
+populacao,6579,2020,2020,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2809394.0,ok,2809394
+populacao,6579,2020,2020,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3526220.0,ok,3526220
+populacao,6579,2020,2020,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7113540.0,ok,7113540
+populacao,6579,2020,2020,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3055149.0,ok,3055149
+populacao,6579,2021,2021,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,213317639.0,ok,213317639
+populacao,6579,2021,2021,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1815278.0,ok,1815278
+populacao,6579,2021,2021,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,906876.0,ok,906876
+populacao,6579,2021,2021,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4269995.0,ok,4269995
+populacao,6579,2021,2021,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,652713.0,ok,652713
+populacao,6579,2021,2021,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8777124.0,ok,8777124
+populacao,6579,2021,2021,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,877613.0,ok,877613
+populacao,6579,2021,2021,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1607363.0,ok,1607363
+populacao,6579,2021,2021,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7153262.0,ok,7153262
+populacao,6579,2021,2021,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3289290.0,ok,3289290
+populacao,6579,2021,2021,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9240580.0,ok,9240580
+populacao,6579,2021,2021,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3560903.0,ok,3560903
+populacao,6579,2021,2021,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4059905.0,ok,4059905
+populacao,6579,2021,2021,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9674793.0,ok,9674793
+populacao,6579,2021,2021,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3365351.0,ok,3365351
+populacao,6579,2021,2021,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2338474.0,ok,2338474
+populacao,6579,2021,2021,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14985284.0,ok,14985284
+populacao,6579,2021,2021,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,21411923.0,ok,21411923
+populacao,6579,2021,2021,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4108508.0,ok,4108508
+populacao,6579,2021,2021,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,17463349.0,ok,17463349
+populacao,6579,2021,2021,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,46649132.0,ok,46649132
+populacao,6579,2021,2021,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11597484.0,ok,11597484
+populacao,6579,2021,2021,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7338473.0,ok,7338473
+populacao,6579,2021,2021,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11466630.0,ok,11466630
+populacao,6579,2021,2021,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2839188.0,ok,2839188
+populacao,6579,2021,2021,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3567234.0,ok,3567234
+populacao,6579,2021,2021,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7206589.0,ok,7206589
+populacao,6579,2021,2021,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3094325.0,ok,3094325
+populacao,6579,2024,2024,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,212583750.0,ok,212583750
+populacao,6579,2024,2024,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1746227.0,ok,1746227
+populacao,6579,2024,2024,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,880631.0,ok,880631
+populacao,6579,2024,2024,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4281209.0,ok,4281209
+populacao,6579,2024,2024,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,716793.0,ok,716793
+populacao,6579,2024,2024,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8664306.0,ok,8664306
+populacao,6579,2024,2024,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,802837.0,ok,802837
+populacao,6579,2024,2024,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1577342.0,ok,1577342
+populacao,6579,2024,2024,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7010960.0,ok,7010960
+populacao,6579,2024,2024,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3375646.0,ok,3375646
+populacao,6579,2024,2024,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9233656.0,ok,9233656
+populacao,6579,2024,2024,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3446071.0,ok,3446071
+populacao,6579,2024,2024,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4145040.0,ok,4145040
+populacao,6579,2024,2024,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9539029.0,ok,9539029
+populacao,6579,2024,2024,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3220104.0,ok,3220104
+populacao,6579,2024,2024,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2291077.0,ok,2291077
+populacao,6579,2024,2024,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14850513.0,ok,14850513
+populacao,6579,2024,2024,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,21322691.0,ok,21322691
+populacao,6579,2024,2024,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4102129.0,ok,4102129
+populacao,6579,2024,2024,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,17219679.0,ok,17219679
+populacao,6579,2024,2024,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,45973194.0,ok,45973194
+populacao,6579,2024,2024,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11824665.0,ok,11824665
+populacao,6579,2024,2024,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8058441.0,ok,8058441
+populacao,6579,2024,2024,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11229915.0,ok,11229915
+populacao,6579,2024,2024,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2901895.0,ok,2901895
+populacao,6579,2024,2024,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3836399.0,ok,3836399
+populacao,6579,2024,2024,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7350483.0,ok,7350483
+populacao,6579,2024,2024,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2982818.0,ok,2982818
+populacao,6579,2025,2025,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,213421037.0,ok,213421037
+populacao,6579,2025,2025,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1751950.0,ok,1751950
+populacao,6579,2025,2025,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,884372.0,ok,884372
+populacao,6579,2025,2025,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4321616.0,ok,4321616
+populacao,6579,2025,2025,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,738772.0,ok,738772
+populacao,6579,2025,2025,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8711196.0,ok,8711196
+populacao,6579,2025,2025,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,806517.0,ok,806517
+populacao,6579,2025,2025,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1586859.0,ok,1586859
+populacao,6579,2025,2025,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7018211.0,ok,7018211
+populacao,6579,2025,2025,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3384547.0,ok,3384547
+populacao,6579,2025,2025,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9268836.0,ok,9268836
+populacao,6579,2025,2025,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3455236.0,ok,3455236
+populacao,6579,2025,2025,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4164468.0,ok,4164468
+populacao,6579,2025,2025,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9562007.0,ok,9562007
+populacao,6579,2025,2025,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3220848.0,ok,3220848
+populacao,6579,2025,2025,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2299425.0,ok,2299425
+populacao,6579,2025,2025,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14870907.0,ok,14870907
+populacao,6579,2025,2025,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,21393441.0,ok,21393441
+populacao,6579,2025,2025,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4126854.0,ok,4126854
+populacao,6579,2025,2025,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,17223547.0,ok,17223547
+populacao,6579,2025,2025,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,46081801.0,ok,46081801
+populacao,6579,2025,2025,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11890517.0,ok,11890517
+populacao,6579,2025,2025,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8187029.0,ok,8187029
+populacao,6579,2025,2025,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11233263.0,ok,11233263
+populacao,6579,2025,2025,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2924631.0,ok,2924631
+populacao,6579,2025,2025,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3893659.0,ok,3893659
+populacao,6579,2025,2025,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7423629.0,ok,7423629
+populacao,6579,2025,2025,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2996899.0,ok,2996899
+populacao,6579,2026,2026,,1,1,Brasil,,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,214211951.0,ok,214211951
+populacao,6579,2026,2026,,3,11,Rondônia,RO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1757338.0,ok,1757338
+populacao,6579,2026,2026,,3,12,Acre,AC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,887794.0,ok,887794
+populacao,6579,2026,2026,,3,13,Amazonas,AM,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4360926.0,ok,4360926
+populacao,6579,2026,2026,,3,14,Roraima,RR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,761012.0,ok,761012
+populacao,6579,2026,2026,,3,15,Pará,PA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8756324.0,ok,8756324
+populacao,6579,2026,2026,,3,16,Amapá,AP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,809953.0,ok,809953
+populacao,6579,2026,2026,,3,17,Tocantins,TO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,1595994.0,ok,1595994
+populacao,6579,2026,2026,,3,21,Maranhão,MA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7024557.0,ok,7024557
+populacao,6579,2026,2026,,3,22,Piauí,PI,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3392617.0,ok,3392617
+populacao,6579,2026,2026,,3,23,Ceará,CE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9302211.0,ok,9302211
+populacao,6579,2026,2026,,3,24,Rio Grande do Norte,RN,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3463737.0,ok,3463737
+populacao,6579,2026,2026,,3,25,Paraíba,PB,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4182828.0,ok,4182828
+populacao,6579,2026,2026,,3,26,Pernambuco,PE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,9583176.0,ok,9583176
+populacao,6579,2026,2026,,3,27,Alagoas,AL,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3221128.0,ok,3221128
+populacao,6579,2026,2026,,3,28,Sergipe,SE,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2307255.0,ok,2307255
+populacao,6579,2026,2026,,3,29,Bahia,BA,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,14889472.0,ok,14889472
+populacao,6579,2026,2026,,3,31,Minas Gerais,MG,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,21460311.0,ok,21460311
+populacao,6579,2026,2026,,3,32,Espírito Santo,ES,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,4150692.0,ok,4150692
+populacao,6579,2026,2026,,3,33,Rio de Janeiro,RJ,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,17225410.0,ok,17225410
+populacao,6579,2026,2026,,3,35,São Paulo,SP,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,46179008.0,ok,46179008
+populacao,6579,2026,2026,,3,41,Paraná,PR,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11952456.0,ok,11952456
+populacao,6579,2026,2026,,3,42,Santa Catarina,SC,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,8312759.0,ok,8312759
+populacao,6579,2026,2026,,3,43,Rio Grande do Sul,RS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,11233317.0,ok,11233317
+populacao,6579,2026,2026,,3,50,Mato Grosso do Sul,MS,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,2946317.0,ok,2946317
+populacao,6579,2026,2026,,3,51,Mato Grosso,MT,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3950330.0,ok,3950330
+populacao,6579,2026,2026,,3,52,Goiás,GO,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,7495033.0,ok,7495033
+populacao,6579,2026,2026,,3,53,Distrito Federal,DF,,total,Total,total,,0,Total,,9324,População residente estimada,populacao,Pessoas,Pessoas,3009996.0,ok,3009996
