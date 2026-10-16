@@ -1,0 +1,42 @@
+# Atlas Mercados
+
+> Dados oficiais da economia e do mercado do Brasil, compilados em formato estruturado para leitura e citação por IA: demonstrações de 1229 companhias abertas (CVM), preços (B3), macro (BCB), mercados do comércio por segmento e UF (IBGE: PAC, PMC, CEMPRE, Contas Regionais). Fonte primária em cada número; compilação sob CC BY 4.0 — pode copiar, redistribuir e treinar modelos, citando a fonte.
+
+## Páginas principais
+
+- [Visão geral](https://atlasmercados.com.br/): agregados, ranking por valor de mercado, macro do BCB
+- [Mercados do varejo](https://atlasmercados.com.br/mercados): tamanho por segmento (classes CNAE) e por UF, PMC mensal, VAB
+- [Triagem de companhias](https://atlasmercados.com.br/screener): receita, lucro, margem, P/L, P/VPA das listadas
+- [Mapa macroeconômico](https://atlasmercados.com.br/mapa): PIB por UF (IBGE) e indicadores mundiais (World Bank)
+- [Perfil por companhia](https://atlasmercados.com.br/empresa/PETR4): /empresa/{ticker} — DFP/ITR da CVM desde 2010
+- [Licença e como citar](https://atlasmercados.com.br/licenca)
+
+## Segmentos do varejo (exemplos)
+
+- https://atlasmercados.com.br/mercados/4
+- https://atlasmercados.com.br/mercados/4.4
+- https://atlasmercados.com.br/mercados/47
+- https://atlasmercados.com.br/mercados/47.1
+- https://atlasmercados.com.br/mercados/47.4
+- https://atlasmercados.com.br/mercados/47.7
+- https://atlasmercados.com.br/mercados/4711
+
+## Dados brutos (Parquet e CSV, com catálogo de proveniência)
+
+- [cempre](https://atlasmercados.com.br/dados/cempre_varejo.parquet) · [CSV](https://atlasmercados.com.br/dados/cempre_varejo.csv) — CEMPRE — unidades locais, pessoal e salários do varejo (divisão 47) por UF (2022–2024, bruto)
+- [pac](https://atlasmercados.com.br/dados/mercados_pac.parquet) · [CSV](https://atlasmercados.com.br/dados/mercados_pac.csv) — PAC — classes CNAE, Brasil: receita líquida, VAB, pessoal e salários (2024–2024, bruto)
+- [pmc](https://atlasmercados.com.br/dados/mercados_pmc.parquet) · [CSV](https://atlasmercados.com.br/dados/mercados_pmc.csv) — PMC — comércio varejista, índice geral, Brasil e UFs (2000-01–2026-08, bruto)
+- [uf_vab](https://atlasmercados.com.br/dados/uf_vab.parquet) · [CSV](https://atlasmercados.com.br/dados/uf_vab.csv) — Contas Regionais — PIB, impostos e VAB por atividade, Brasil e UFs (2002–2023, bruto)
+- [mercados_derivados](https://atlasmercados.com.br/dados/mercados_derivados.parquet) · [CSV](https://atlasmercados.com.br/dados/mercados_derivados.csv) — Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE) (2024–2024, derivado)
+
+## API (JSON)
+
+- https://atlasmercados.com.br/api/mercados/uf/4.4.json — valores por UF de um agrupamento da PAC
+- https://atlasmercados.com.br/api/mercados/pac?categoria=47.7 — fatia tidy da PAC (filtros: tabela, uf, ano, categoria, variavel)
+- https://atlasmercados.com.br/api/mercados/pmc?atividade=103155&uf=BR&desde=2024-01 — PMC por atividade
+- https://atlasmercados.com.br/api/mercados/fontes.json — catálogo de proveniência
+- https://atlasmercados.com.br/sitemap.xml — todas as URLs, com lastmod
+
+## Licença e citação
+
+Compilação sob CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.pt-br). Dados brutos: IBGE, CVM, BCB, B3, SEC, World Bank, FRED — termos de cada fonte em /licenca. Cite a página, a fonte e a data de acesso; robôs de busca, de resposta e de treino são bem-vindos (robots.txt: Content-Signal search=yes, ai-input=yes, ai-train=yes).

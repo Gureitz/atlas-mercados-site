@@ -1,0 +1,60 @@
+tabela,serie,ano,nivel_cod,territorio_cod,territorio_nome,uf_sigla,classificacao,categoria_cod,categoria_nome,cnae_nivel,cnae_cod,cnae_pai,nome_curto,emenda,variavel_cod,variavel,chave,unidade,unidade_original,valor,situacao,bruto
+1418,antiga,2007,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,95245432000.0,ok,95245432
+1418,antiga,2007,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,478401691000.0,ok,478401691
+1418,antiga,2007,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,493418681000.0,ok,493418681
+1418,antiga,2008,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,107049365000.0,ok,107049365
+1418,antiga,2008,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,565958131000.0,ok,565958131
+1418,antiga,2008,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,582124204000.0,ok,582124204
+1418,antiga,2009,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,128178184000.0,ok,128178184
+1418,antiga,2009,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,643227518000.0,ok,643227518
+1418,antiga,2009,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,661089569000.0,ok,661089569
+1418,antiga,2010,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,151561992000.0,ok,151561992
+1418,antiga,2010,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,762782149000.0,ok,762782149
+1418,antiga,2010,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,783410030000.0,ok,783410030
+1418,antiga,2011,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,178627432000.0,ok,178627432
+1418,antiga,2011,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,865916927000.0,ok,865916927
+1418,antiga,2011,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,885961456000.0,ok,885961456
+1418,antiga,2012,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,219686559000.0,ok,219686559
+1418,antiga,2012,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1002330028000.0,ok,1002330028
+1418,antiga,2012,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,1025924233000.0,ok,1025924233
+1418,antiga,2013,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,251756035000.0,ok,251756035
+1418,antiga,2013,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1163479795000.0,ok,1163479795
+1418,antiga,2013,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,1188722683000.0,ok,1188722683
+1418,antiga,2014,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,284941295000.0,ok,284941295
+1418,antiga,2014,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1335486740000.0,ok,1335486740
+1418,antiga,2014,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,1365329155000.0,ok,1365329155
+1418,antiga,2015,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,296286723000.0,ok,296286723
+1418,antiga,2015,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1411439509000.0,ok,1411439509
+1418,antiga,2015,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,1447316979000.0,ok,1447316979
+1418,antiga,2016,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,305475917000.0,ok,305475917
+1418,antiga,2016,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1505468726000.0,ok,1505468726
+1418,antiga,2016,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,1543595366000.0,ok,1543595366
+1418,antiga,2017,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,325214063000.0,ok,325214063
+1418,antiga,2017,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1565575878000.0,ok,1565575878
+1418,antiga,2017,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,1603435954000.0,ok,1603435954
+1418,antiga,2018,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,340224107000.0,ok,340224107
+1418,antiga,2018,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1697242946000.0,ok,1697242946
+1418,antiga,2018,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,1743111775000.0,ok,1743111775
+1418,antiga,2019,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,366411809000.0,ok,366411809
+1418,antiga,2019,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1793932199000.0,ok,1793932199
+1418,antiga,2019,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,1848457934000.0,ok,1848457934
+1418,antiga,2020,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,386403775000.0,ok,386403775
+1418,antiga,2020,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1899723595000.0,ok,1899723595
+1418,antiga,2020,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,1969249589000.0,ok,1969249589
+1418,antiga,2021,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,436021881000.0,ok,436021881
+1418,antiga,2021,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,2326523504000.0,ok,2326523504
+1418,antiga,2021,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,2398388405000.0,ok,2398388405
+1418,antiga,2022,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,533571056000.0,ok,533571056
+1418,antiga,2022,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,2690648917000.0,ok,2690648917
+1418,antiga,2022,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,2794341305000.0,ok,2794341305
+1418,antiga,2023,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,598756181000.0,ok,598756181
+1418,antiga,2023,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,2916873915000.0,ok,2916873915
+1418,antiga,2023,1,1,Brasil,,11070,90151,4. Comércio varejista,divisao,47,C,Varejo,igual,863,Receita total,receita_total,R$,Mil Reais,3043216675000.0,ok,3043216675
+10645,nova,2024,1,1,Brasil,,11070,83337,47 Comércio varejista,divisao,47,C,Varejo,igual,314,"Gastos com salários, retiradas e outras remunerações em empresas comerciais",salarios,R$,Mil Reais,229175228000.0,ok,229175228
+10645,nova,2024,1,1,Brasil,,11070,83337,47 Comércio varejista,divisao,47,C,Varejo,igual,631,Pessoal ocupado em 31/12,pessoal,Pessoas,Pessoas,7647251.0,ok,7647251
+10645,nova,2024,1,1,Brasil,,11070,83337,47 Comércio varejista,divisao,47,C,Varejo,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,654157300000.0,ok,654157300
+10645,nova,2024,1,1,Brasil,,11070,83337,47 Comércio varejista,divisao,47,C,Varejo,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,3196219376000.0,ok,3196219376
+10648,nova,2024,1,1,Brasil,,11070,83337,47 Comércio varejista,divisao,47,C,Varejo,igual,501,Receita total em empresas comerciais,receita_total,R$,Mil Reais,3323830272000.0,ok,3323830272
+10648,nova,2024,1,1,Brasil,,11070,83337,47 Comércio varejista,divisao,47,C,Varejo,igual,642,Deduções,deducoes,R$,Mil Reais,354986139000.0,ok,354986139
+10648,nova,2024,1,1,Brasil,,11070,83337,47 Comércio varejista,divisao,47,C,Varejo,igual,866,Receita bruta de revenda de mercadorias,receita_revenda,R$,Mil Reais,3499883511000.0,ok,3499883511
+10648,nova,2024,1,1,Brasil,,11070,83337,47 Comércio varejista,divisao,47,C,Varejo,igual,1398,"Receita bruta de outras atividades (indústria, serviços, transportes, etc.)",receita_outras,R$,Mil Reais,51322001000.0,ok,51322001

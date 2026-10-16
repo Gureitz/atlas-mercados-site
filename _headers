@@ -1,0 +1,12 @@
+/*
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=604800
+/dados/*
+  Cache-Control: public, max-age=86400
+  Access-Control-Allow-Origin: *
+/*.parquet
+  Content-Type: application/vnd.apache.parquet
+/api/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600

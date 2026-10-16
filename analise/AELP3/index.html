@@ -1,0 +1,2303 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AES ELPA SA (AELP3) — acompanhamento | Atlas Mercados</title>
+<meta name="description" content="Acompanhamento de AES ELPA SA (AELP3) a partir da planilha de resultados divulgada pelo próprio RI, cruzada com as demonstrações da CVM.">
+<link rel="canonical" href="https://atlasmercados.com.br/analise/AELP3">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="AES ELPA SA (AELP3) — acompanhamento | Atlas Mercados">
+<meta property="og:description" content="Acompanhamento de AES ELPA SA (AELP3) a partir da planilha de resultados divulgada pelo próprio RI, cruzada com as demonstrações da CVM.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Série financeira reportada — AES ELPA SA (AELP3)", "description": "Métricas reportadas por AES ELPA SA em CVM: 16 indicadores em 39 períodos, de 2010 a 2T2018.", "url": "https://atlasmercados.com.br/analise/AELP3", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "creator": {"@type": "Organization", "name": "AES ELPA SA"}, "variableMeasured": ["Receita líquida", "Custo dos produtos/serviços vendidos", "Lucro bruto", "Despesas operacionais", "Depreciação e amortização", "EBIT", "Resultado financeiro líquido", "Resultado antes dos impostos (LAIR)", "IR e CSLL", "Lucro líquido", "Capex", "Fluxo de caixa operacional", "Caixa", "Ativo total", "Dívida bruta (empréstimos e financiamentos)", "Patrimônio líquido"], "temporalCoverage": "2010-01-01/2018-06-30", "isBasedOn": [{"@type": "CreativeWork", "name": "CVM Dados Abertos — CD_CVM 19313 · DFP/ITR", "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/"}], "measurementTechnique": "Valores reportados em BRL", "identifier": [{"@type": "PropertyValue", "name": "CD_CVM", "value": "19313"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Carteira", "item": "https://atlasmercados.com.br/analise"}, {"@type": "ListItem", "position": 3, "name": "AES ELPA SA", "item": "https://atlasmercados.com.br/analise/AELP3"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="on" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<div class="emp-head">
+  <div class="emp-mono">AE</div>
+  <div>
+    <div class="nm">AES ELPA SA
+      <span class="tag">B3 · CVM</span>
+    </div>
+    <div class="mt mono">
+      AELP3
+      
+      · B3
+      · CD_CVM 19313
+      
+    </div>
+  </div>
+  <div class="toggle">
+    <a href="/analise/AELP3?p=tudo" class="on">Tudo</a>
+    <a href="/analise/AELP3?p=anual" class="">Anual</a>
+    <a href="/analise/AELP3?p=tri" class="">Trimestral</a>
+  </div>
+</div>
+
+
+
+
+<section class="kpis" style="grid-template-columns:repeat(2,1fr)"
+         aria-label="Últimos números divulgados">
+  
+  <div class="kpi">
+    <div class="t">Receita líquida</div>
+    <div class="v mono up" style="font-size:16px">R$ 0</div>
+    <div class="d">2T2018</div>
+  </div>
+  
+  <div class="kpi">
+    <div class="t">Lucro líquido</div>
+    <div class="v mono down" style="font-size:16px">-R$ 131 mil</div>
+    <div class="d">2T2018 · -244.7%</div>
+  </div>
+  
+</section>
+
+
+<article class="panel" style="padding:0">
+  <h2 style="padding:12px 14px 0">Série reportada
+    <span class="h">16 métricas × 39 períodos
+      · fonte: CVM · reporte em BRL</span></h2>
+  <div class="scrim" style="overflow:auto;max-height:calc(100vh - 320px)">
+  <table>
+    <thead><tr>
+      <th class="l" style="position:sticky;left:0">Métrica</th>
+      <th class="mono">2010</th><th class="mono">4T2010</th><th class="mono">2011</th><th class="mono">1T2011</th><th class="mono">2T2011</th><th class="mono">3T2011</th><th class="mono">4T2011</th><th class="mono">2012</th><th class="mono">1T2012</th><th class="mono">2T2012</th><th class="mono">3T2012</th><th class="mono">4T2012</th><th class="mono">2013</th><th class="mono">1T2013</th><th class="mono">2T2013</th><th class="mono">3T2013</th><th class="mono">4T2013</th><th class="mono">2014</th><th class="mono">1T2014</th><th class="mono">2T2014</th><th class="mono">3T2014</th><th class="mono">4T2014</th><th class="mono">2015</th><th class="mono">1T2015</th><th class="mono">2T2015</th><th class="mono">3T2015</th><th class="mono">4T2015</th><th class="mono">2016</th><th class="mono">1T2016</th><th class="mono">2T2016</th><th class="mono">3T2016</th><th class="mono">4T2016</th><th class="mono">2017</th><th class="mono">1T2017</th><th class="mono">2T2017</th><th class="mono">3T2017</th><th class="mono">4T2017</th><th class="mono">1T2018</th><th class="mono">2T2018</th>
+    </tr></thead>
+    <tbody>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Receita líquida
+          <span class="dim2" style="font-size:11px"> · Receita de Venda de Bens e/ou Serviços · último trimestre derivado (DFP − ITRs)</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 9,8 bi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          R$ 9,8 bi</td>
+        
+        <td class="mono up">
+          R$ 2,4 bi</td>
+        
+        <td class="mono up">
+          R$ 2,4 bi</td>
+        
+        <td class="mono up">
+          R$ 2,6 bi</td>
+        
+        <td class="mono up">
+          R$ 2,4 bi</td>
+        
+        <td class="mono up">
+          R$ 10,0 bi</td>
+        
+        <td class="mono up">
+          R$ 2,5 bi</td>
+        
+        <td class="mono up">
+          R$ 2,5 bi</td>
+        
+        <td class="mono up">
+          R$ 2,5 bi</td>
+        
+        <td class="mono up">
+          R$ 2,6 bi</td>
+        
+        <td class="mono up">
+          R$ 9,0 bi</td>
+        
+        <td class="mono up">
+          R$ 2,3 bi</td>
+        
+        <td class="mono up">
+          R$ 2,1 bi</td>
+        
+        <td class="mono up">
+          R$ 2,2 bi</td>
+        
+        <td class="mono up">
+          R$ 2,3 bi</td>
+        
+        <td class="mono up">
+          R$ 10,6 bi</td>
+        
+        <td class="mono up">
+          R$ 2,3 bi</td>
+        
+        <td class="mono up">
+          R$ 2,2 bi</td>
+        
+        <td class="mono up">
+          R$ 2,9 bi</td>
+        
+        <td class="mono up">
+          R$ 3,2 bi</td>
+        
+        <td class="mono up">
+          R$ 13,7 bi</td>
+        
+        <td class="mono up">
+          R$ 3,2 bi</td>
+        
+        <td class="mono up">
+          R$ 3,4 bi</td>
+        
+        <td class="mono up">
+          R$ 3,5 bi</td>
+        
+        <td class="mono up">
+          R$ 3,5 bi</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 2,9 bi</td>
+        
+        <td class="mono up">
+          R$ 2,8 bi</td>
+        
+        <td class="mono up">
+          R$ 2,9 bi</td>
+        
+        <td class="mono down">
+          -R$ 8,6 bi</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Custo dos produtos/serviços vendidos
+          <span class="dim2" style="font-size:11px"> · Custo dos Bens e/ou Serviços Vendidos · último trimestre derivado (DFP − ITRs)</span>
+        </td>
+        
+        <td class="mono down">
+          -R$ 7,2 bi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono down">
+          -R$ 7,5 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,0 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,0 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,0 bi</td>
+        
+        <td class="mono down">
+          -R$ 1,4 bi</td>
+        
+        <td class="mono down">
+          -R$ 9,8 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,3 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,3 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,4 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,7 bi</td>
+        
+        <td class="mono down">
+          -R$ 8,7 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,3 bi</td>
+        
+        <td class="mono down">
+          -R$ 1,7 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,2 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,5 bi</td>
+        
+        <td class="mono down">
+          -R$ 10,6 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,5 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,7 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,6 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,7 bi</td>
+        
+        <td class="mono down">
+          -R$ 13,2 bi</td>
+        
+        <td class="mono down">
+          -R$ 3,1 bi</td>
+        
+        <td class="mono down">
+          -R$ 3,4 bi</td>
+        
+        <td class="mono down">
+          -R$ 3,5 bi</td>
+        
+        <td class="mono down">
+          -R$ 3,3 bi</td>
+        
+        <td class="mono down">
+          -R$ 1,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 2,8 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,7 bi</td>
+        
+        <td class="mono down">
+          -R$ 2,9 bi</td>
+        
+        <td class="mono up">
+          R$ 8,5 bi</td>
+        
+        <td class="mono down">
+          -R$ 898 mil</td>
+        
+        <td class="mono down">
+          -R$ 523 mil</td>
+        
+        <td class="mono down">
+          -R$ 138 mil</td>
+        
+        <td class="mono down">
+          -R$ 104 mil</td>
+        
+        <td class="mono down">
+          -R$ 133 mil</td>
+        
+        <td class="mono down">
+          -R$ 182 mil</td>
+        
+        <td class="mono down">
+          -R$ 270 mil</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Lucro bruto
+          <span class="dim2" style="font-size:11px"> · Resultado Bruto · último trimestre derivado (DFP − ITRs)</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 2,6 bi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          R$ 2,3 bi</td>
+        
+        <td class="mono up">
+          R$ 435,0 mi</td>
+        
+        <td class="mono up">
+          R$ 415,2 mi</td>
+        
+        <td class="mono up">
+          R$ 515,5 mi</td>
+        
+        <td class="mono up">
+          R$ 976,6 mi</td>
+        
+        <td class="mono up">
+          R$ 201,9 mi</td>
+        
+        <td class="mono up">
+          R$ 192,3 mi</td>
+        
+        <td class="mono up">
+          R$ 123,6 mi</td>
+        
+        <td class="mono up">
+          R$ 13,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 127,6 mi</td>
+        
+        <td class="mono up">
+          R$ 291,5 mi</td>
+        
+        <td class="mono up">
+          R$ 14,5 mi</td>
+        
+        <td class="mono up">
+          R$ 400,6 mi</td>
+        
+        <td class="mono up">
+          R$ 34,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 158,5 mi</td>
+        
+        <td class="mono up">
+          R$ 4,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 274,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 491,4 mi</td>
+        
+        <td class="mono up">
+          R$ 297,1 mi</td>
+        
+        <td class="mono up">
+          R$ 473,0 mi</td>
+        
+        <td class="mono up">
+          R$ 471,6 mi</td>
+        
+        <td class="mono up">
+          R$ 93,5 mi</td>
+        
+        <td class="mono up">
+          R$ 69,2 mi</td>
+        
+        <td class="mono up">
+          R$ 13,0 mi</td>
+        
+        <td class="mono up">
+          R$ 295,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 1,3 mi</td>
+        
+        <td class="mono up">
+          R$ 64,5 mi</td>
+        
+        <td class="mono up">
+          R$ 70,5 mi</td>
+        
+        <td class="mono up">
+          R$ 13,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 149,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 898 mil</td>
+        
+        <td class="mono down">
+          -R$ 523 mil</td>
+        
+        <td class="mono down">
+          -R$ 138 mil</td>
+        
+        <td class="mono down">
+          -R$ 104 mil</td>
+        
+        <td class="mono down">
+          -R$ 133 mil</td>
+        
+        <td class="mono down">
+          -R$ 182 mil</td>
+        
+        <td class="mono down">
+          -R$ 270 mil</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Despesas operacionais
+          <span class="dim2" style="font-size:11px"> · Despesas/Receitas Operacionais · último trimestre derivado (DFP − ITRs)</span>
+        </td>
+        
+        <td class="mono down">
+          -R$ 651,9 mi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono down">
+          -R$ 45,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 45,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 45,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 45,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 45,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 11,5 mi</td>
+        
+        <td class="mono up">
+          R$ 34,5 mi</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Depreciação e amortização
+          <span class="dim2" style="font-size:11px"> · Depreciação e Amortização</span>
+        </td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          R$ 450,9 mi</td>
+        
+        <td class="mono up">
+          R$ 124,9 mi</td>
+        
+        <td class="mono up">
+          R$ 119,6 mi</td>
+        
+        <td class="mono up">
+          R$ 93,8 mi</td>
+        
+        <td class="mono up">
+          R$ 112,7 mi</td>
+        
+        <td class="mono up">
+          R$ 435,6 mi</td>
+        
+        <td class="mono up">
+          R$ 113,3 mi</td>
+        
+        <td class="mono up">
+          R$ 108,0 mi</td>
+        
+        <td class="mono up">
+          R$ 107,2 mi</td>
+        
+        <td class="mono up">
+          R$ 107,1 mi</td>
+        
+        <td class="mono up">
+          R$ 470,5 mi</td>
+        
+        <td class="mono up">
+          R$ 107,0 mi</td>
+        
+        <td class="mono up">
+          R$ 108,4 mi</td>
+        
+        <td class="mono up">
+          R$ 125,1 mi</td>
+        
+        <td class="mono up">
+          R$ 130,0 mi</td>
+        
+        <td class="mono up">
+          R$ 490,7 mi</td>
+        
+        <td class="mono up">
+          R$ 113,0 mi</td>
+        
+        <td class="mono up">
+          R$ 147,6 mi</td>
+        
+        <td class="mono up">
+          R$ 114,9 mi</td>
+        
+        <td class="mono up">
+          R$ 115,2 mi</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 115,7 mi</td>
+        
+        <td class="mono up">
+          R$ 120,1 mi</td>
+        
+        <td class="mono up">
+          R$ 121,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 356,8 mi</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          EBIT
+          <span class="dim2" style="font-size:11px"> · Resultado Antes do Resultado Financeiro e dos Tributos · último trimestre derivado (DFP − ITRs)</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 1,9 bi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          R$ 2,3 bi</td>
+        
+        <td class="mono up">
+          R$ 423,5 mi</td>
+        
+        <td class="mono up">
+          R$ 403,7 mi</td>
+        
+        <td class="mono up">
+          R$ 504,1 mi</td>
+        
+        <td class="mono up">
+          R$ 965,1 mi</td>
+        
+        <td class="mono up">
+          R$ 155,9 mi</td>
+        
+        <td class="mono up">
+          R$ 180,9 mi</td>
+        
+        <td class="mono up">
+          R$ 112,1 mi</td>
+        
+        <td class="mono up">
+          R$ 2,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 139,1 mi</td>
+        
+        <td class="mono up">
+          R$ 245,5 mi</td>
+        
+        <td class="mono up">
+          R$ 3,0 mi</td>
+        
+        <td class="mono up">
+          R$ 389,1 mi</td>
+        
+        <td class="mono up">
+          R$ 23,4 mi</td>
+        
+        <td class="mono down">
+          -R$ 170,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 41,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 285,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 502,9 mi</td>
+        
+        <td class="mono up">
+          R$ 285,6 mi</td>
+        
+        <td class="mono up">
+          R$ 461,5 mi</td>
+        
+        <td class="mono up">
+          R$ 425,7 mi</td>
+        
+        <td class="mono up">
+          R$ 82,0 mi</td>
+        
+        <td class="mono up">
+          R$ 57,8 mi</td>
+        
+        <td class="mono up">
+          R$ 1,5 mi</td>
+        
+        <td class="mono up">
+          R$ 284,4 mi</td>
+        
+        <td class="mono down">
+          -R$ 1,3 mi</td>
+        
+        <td class="mono up">
+          R$ 53,0 mi</td>
+        
+        <td class="mono up">
+          R$ 59,0 mi</td>
+        
+        <td class="mono up">
+          R$ 1,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 115,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 898 mil</td>
+        
+        <td class="mono down">
+          -R$ 523 mil</td>
+        
+        <td class="mono down">
+          -R$ 138 mil</td>
+        
+        <td class="mono down">
+          -R$ 104 mil</td>
+        
+        <td class="mono down">
+          -R$ 133 mil</td>
+        
+        <td class="mono down">
+          -R$ 182 mil</td>
+        
+        <td class="mono down">
+          -R$ 270 mil</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Resultado financeiro líquido
+          <span class="dim2" style="font-size:11px"> · Resultado Financeiro · último trimestre derivado (DFP − ITRs)</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 82,6 mi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono down">
+          -R$ 43,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 1,1 mi</td>
+        
+        <td class="mono down">
+          -R$ 24,8 mi</td>
+        
+        <td class="mono up">
+          R$ 7,4 mi</td>
+        
+        <td class="mono down">
+          -R$ 24,6 mi</td>
+        
+        <td class="mono down">
+          -R$ 63,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 27,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 40,1 mi</td>
+        
+        <td class="mono up">
+          R$ 7,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 3,7 mi</td>
+        
+        <td class="mono up">
+          R$ 16,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 6,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 27,4 mi</td>
+        
+        <td class="mono up">
+          R$ 7,7 mi</td>
+        
+        <td class="mono up">
+          R$ 43,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 200,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 4,1 mi</td>
+        
+        <td class="mono down">
+          -R$ 45,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 98,1 mi</td>
+        
+        <td class="mono down">
+          -R$ 52,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 312,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 22,9 mi</td>
+        
+        <td class="mono up">
+          R$ 6,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 16,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 279,6 mi</td>
+        
+        <td class="mono up">
+          R$ 1,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 16,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 57,6 mi</td>
+        
+        <td class="mono down">
+          -R$ 61,0 mi</td>
+        
+        <td class="mono up">
+          R$ 137,1 mi</td>
+        
+        <td class="mono up">
+          R$ 1,1 mi</td>
+        
+        <td class="mono up">
+          R$ 501 mil</td>
+        
+        <td class="mono up">
+          R$ 219 mil</td>
+        
+        <td class="mono up">
+          R$ 226 mil</td>
+        
+        <td class="mono up">
+          R$ 161 mil</td>
+        
+        <td class="mono up">
+          R$ 144 mil</td>
+        
+        <td class="mono up">
+          R$ 139 mil</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Resultado antes dos impostos (LAIR)
+          <span class="dim2" style="font-size:11px"> · Resultado Antes dos Tributos sobre o Lucro · último trimestre derivado (DFP − ITRs)</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 2,0 bi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          R$ 2,3 bi</td>
+        
+        <td class="mono up">
+          R$ 422,4 mi</td>
+        
+        <td class="mono up">
+          R$ 378,9 mi</td>
+        
+        <td class="mono up">
+          R$ 511,5 mi</td>
+        
+        <td class="mono up">
+          R$ 940,5 mi</td>
+        
+        <td class="mono up">
+          R$ 92,8 mi</td>
+        
+        <td class="mono up">
+          R$ 153,7 mi</td>
+        
+        <td class="mono up">
+          R$ 72,1 mi</td>
+        
+        <td class="mono up">
+          R$ 9,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 142,8 mi</td>
+        
+        <td class="mono up">
+          R$ 262,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 3,8 mi</td>
+        
+        <td class="mono up">
+          R$ 361,7 mi</td>
+        
+        <td class="mono up">
+          R$ 31,1 mi</td>
+        
+        <td class="mono down">
+          -R$ 126,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 242,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 289,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 548,7 mi</td>
+        
+        <td class="mono up">
+          R$ 187,5 mi</td>
+        
+        <td class="mono up">
+          R$ 408,8 mi</td>
+        
+        <td class="mono up">
+          R$ 112,8 mi</td>
+        
+        <td class="mono up">
+          R$ 59,1 mi</td>
+        
+        <td class="mono up">
+          R$ 64,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 15,4 mi</td>
+        
+        <td class="mono up">
+          R$ 4,8 mi</td>
+        
+        <td class="mono up">
+          R$ 535 mil</td>
+        
+        <td class="mono up">
+          R$ 36,3 mi</td>
+        
+        <td class="mono up">
+          R$ 1,4 mi</td>
+        
+        <td class="mono down">
+          -R$ 59,2 mi</td>
+        
+        <td class="mono up">
+          R$ 22,1 mi</td>
+        
+        <td class="mono up">
+          R$ 209 mil</td>
+        
+        <td class="mono down">
+          -R$ 22 mil</td>
+        
+        <td class="mono up">
+          R$ 81 mil</td>
+        
+        <td class="mono up">
+          R$ 122 mil</td>
+        
+        <td class="mono up">
+          R$ 28 mil</td>
+        
+        <td class="mono down">
+          -R$ 38 mil</td>
+        
+        <td class="mono down">
+          -R$ 131 mil</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          IR e CSLL
+          <span class="dim2" style="font-size:11px"> · Imposto de Renda e Contribuição Social sobre o Lucro · último trimestre derivado (DFP − ITRs)</span>
+        </td>
+        
+        <td class="mono down">
+          -R$ 682,3 mi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono down">
+          -R$ 751,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 144,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 139,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 179,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 287,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 48,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 55,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 37,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 8,5 mi</td>
+        
+        <td class="mono up">
+          R$ 52,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 111,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 8,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 128,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 15,9 mi</td>
+        
+        <td class="mono up">
+          R$ 41,7 mi</td>
+        
+        <td class="mono up">
+          R$ 64,1 mi</td>
+        
+        <td class="mono up">
+          R$ 93,8 mi</td>
+        
+        <td class="mono up">
+          R$ 182,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 68,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 144,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 58,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 24,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 27,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 1,1 mi</td>
+        
+        <td class="mono down">
+          -R$ 5,9 mi</td>
+        
+        <td class="mono up">
+          R$ 2,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 17,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 9,3 mi</td>
+        
+        <td class="mono up">
+          R$ 15,3 mi</td>
+        
+        <td class="mono up">
+          R$ 13,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 55 mil</td>
+        
+        <td class="mono down">
+          -R$ 3 mil</td>
+        
+        <td class="mono down">
+          -R$ 20 mil</td>
+        
+        <td class="mono down">
+          -R$ 28 mil</td>
+        
+        <td class="mono down">
+          -R$ 4 mil</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Lucro líquido
+          <span class="dim2" style="font-size:11px"> · Lucro/Prejuízo do Período · último trimestre derivado (DFP − ITRs)</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 1,3 bi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          R$ 1,5 bi</td>
+        
+        <td class="mono up">
+          R$ 278,0 mi</td>
+        
+        <td class="mono up">
+          R$ 238,9 mi</td>
+        
+        <td class="mono up">
+          R$ 331,7 mi</td>
+        
+        <td class="mono up">
+          R$ 672,9 mi</td>
+        
+        <td class="mono up">
+          R$ 43,8 mi</td>
+        
+        <td class="mono up">
+          R$ 97,7 mi</td>
+        
+        <td class="mono up">
+          R$ 35,1 mi</td>
+        
+        <td class="mono up">
+          R$ 1,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 90,3 mi</td>
+        
+        <td class="mono up">
+          R$ 150,6 mi</td>
+        
+        <td class="mono down">
+          -R$ 12,5 mi</td>
+        
+        <td class="mono up">
+          R$ 232,8 mi</td>
+        
+        <td class="mono up">
+          R$ 15,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 85,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 177,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 195,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 365,9 mi</td>
+        
+        <td class="mono up">
+          R$ 119,1 mi</td>
+        
+        <td class="mono up">
+          R$ 264,6 mi</td>
+        
+        <td class="mono up">
+          R$ 54,3 mi</td>
+        
+        <td class="mono up">
+          R$ 34,8 mi</td>
+        
+        <td class="mono up">
+          R$ 37,1 mi</td>
+        
+        <td class="mono down">
+          -R$ 16,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 1,1 mi</td>
+        
+        <td class="mono up">
+          R$ 225,1 mi</td>
+        
+        <td class="mono up">
+          R$ 18,6 mi</td>
+        
+        <td class="mono down">
+          -R$ 7,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 43,9 mi</td>
+        
+        <td class="mono up">
+          R$ 258,4 mi</td>
+        
+        <td class="mono up">
+          R$ 154 mil</td>
+        
+        <td class="mono down">
+          -R$ 25 mil</td>
+        
+        <td class="mono up">
+          R$ 61 mil</td>
+        
+        <td class="mono up">
+          R$ 94 mil</td>
+        
+        <td class="mono up">
+          R$ 24 mil</td>
+        
+        <td class="mono down">
+          -R$ 38 mil</td>
+        
+        <td class="mono down">
+          -R$ 131 mil</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Capex
+          <span class="dim2" style="font-size:11px"> · Adições de Ativo Imobilizado e Intangível</span>
+        </td>
+        
+        <td class="mono down">
+          -R$ 712,4 mi</td>
+        
+        <td class="mono down">
+          -R$ 712,4 mi</td>
+        
+        <td class="mono down">
+          -R$ 796,6 mi</td>
+        
+        <td class="mono down">
+          -R$ 171,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 174,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 212,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 238,5 mi</td>
+        
+        <td class="mono down">
+          -R$ 871,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 197,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 191,4 mi</td>
+        
+        <td class="mono down">
+          -R$ 216,8 mi</td>
+        
+        <td class="mono down">
+          -R$ 266,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 814,6 mi</td>
+        
+        <td class="mono down">
+          -R$ 175,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 215,4 mi</td>
+        
+        <td class="mono down">
+          -R$ 187,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 235,6 mi</td>
+        
+        <td class="mono down">
+          -R$ 571,3 mi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono down">
+          -R$ 571,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 618,4 mi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono down">
+          -R$ 618,4 mi</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Fluxo de caixa operacional
+          <span class="dim2" style="font-size:11px"> · Caixa Líquido Atividades Operacionais · trimestre por diferença de acumulados</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 2,1 bi</td>
+        
+        <td class="mono up">
+          R$ 2,1 bi</td>
+        
+        <td class="mono up">
+          R$ 1,4 bi</td>
+        
+        <td class="mono up">
+          R$ 275,3 mi</td>
+        
+        <td class="mono up">
+          R$ 453,8 mi</td>
+        
+        <td class="mono up">
+          R$ 611,3 mi</td>
+        
+        <td class="mono up">
+          R$ 99,9 mi</td>
+        
+        <td class="mono up">
+          R$ 334,2 mi</td>
+        
+        <td class="mono up">
+          R$ 183,8 mi</td>
+        
+        <td class="mono up">
+          R$ 19,4 mi</td>
+        
+        <td class="mono up">
+          R$ 244,1 mi</td>
+        
+        <td class="mono down">
+          -R$ 113,1 mi</td>
+        
+        <td class="mono up">
+          R$ 775,6 mi</td>
+        
+        <td class="mono up">
+          R$ 174,1 mi</td>
+        
+        <td class="mono up">
+          R$ 282,0 mi</td>
+        
+        <td class="mono up">
+          R$ 463,3 mi</td>
+        
+        <td class="mono down">
+          -R$ 143,8 mi</td>
+        
+        <td class="mono up">
+          R$ 21,9 mi</td>
+        
+        <td class="mono down">
+          -R$ 206,7 mi</td>
+        
+        <td class="mono down">
+          -R$ 304,7 mi</td>
+        
+        <td class="mono up">
+          R$ 209,3 mi</td>
+        
+        <td class="mono up">
+          R$ 324,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 316,2 mi</td>
+        
+        <td class="mono up">
+          R$ 126,6 mi</td>
+        
+        <td class="mono down">
+          -R$ 275,0 mi</td>
+        
+        <td class="mono down">
+          -R$ 230,5 mi</td>
+        
+        <td class="mono up">
+          R$ 62,8 mi</td>
+        
+        <td class="mono up">
+          R$ 1,7 bi</td>
+        
+        <td class="mono up">
+          R$ 804,8 mi</td>
+        
+        <td class="mono up">
+          R$ 246,5 mi</td>
+        
+        <td class="mono up">
+          R$ 298,3 mi</td>
+        
+        <td class="mono up">
+          R$ 352,8 mi</td>
+        
+        <td class="mono up">
+          R$ 37 mil</td>
+        
+        <td class="mono up">
+          R$ 34 mil</td>
+        
+        <td class="mono down">
+          -R$ 317 mil</td>
+        
+        <td class="mono up">
+          R$ 283 mil</td>
+        
+        <td class="mono up">
+          R$ 37 mil</td>
+        
+        <td class="mono down">
+          -R$ 54 mil</td>
+        
+        <td class="mono down">
+          -R$ 189 mil</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Caixa
+          <span class="dim2" style="font-size:11px"> · Caixa e Equivalentes de Caixa</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 302,3 mi</td>
+        
+        <td class="mono up">
+          R$ 302,3 mi</td>
+        
+        <td class="mono up">
+          R$ 163,0 mi</td>
+        
+        <td class="mono up">
+          R$ 386,8 mi</td>
+        
+        <td class="mono up">
+          R$ 321,6 mi</td>
+        
+        <td class="mono up">
+          R$ 218,9 mi</td>
+        
+        <td class="mono up">
+          R$ 163,0 mi</td>
+        
+        <td class="mono up">
+          R$ 114,2 mi</td>
+        
+        <td class="mono up">
+          R$ 52,8 mi</td>
+        
+        <td class="mono up">
+          R$ 82,1 mi</td>
+        
+        <td class="mono up">
+          R$ 54,2 mi</td>
+        
+        <td class="mono up">
+          R$ 114,2 mi</td>
+        
+        <td class="mono up">
+          R$ 154,3 mi</td>
+        
+        <td class="mono up">
+          R$ 241,7 mi</td>
+        
+        <td class="mono up">
+          R$ 387,9 mi</td>
+        
+        <td class="mono up">
+          R$ 49,5 mi</td>
+        
+        <td class="mono up">
+          R$ 154,3 mi</td>
+        
+        <td class="mono up">
+          R$ 182,9 mi</td>
+        
+        <td class="mono up">
+          R$ 82,1 mi</td>
+        
+        <td class="mono up">
+          R$ 29,8 mi</td>
+        
+        <td class="mono up">
+          R$ 75,2 mi</td>
+        
+        <td class="mono up">
+          R$ 182,9 mi</td>
+        
+        <td class="mono up">
+          R$ 146,7 mi</td>
+        
+        <td class="mono up">
+          R$ 250,7 mi</td>
+        
+        <td class="mono up">
+          R$ 155,4 mi</td>
+        
+        <td class="mono up">
+          R$ 153,9 mi</td>
+        
+        <td class="mono up">
+          R$ 146,7 mi</td>
+        
+        <td class="mono up">
+          R$ 12,4 mi</td>
+        
+        <td class="mono up">
+          R$ 127,0 mi</td>
+        
+        <td class="mono up">
+          R$ 138,5 mi</td>
+        
+        <td class="mono up">
+          R$ 154,2 mi</td>
+        
+        <td class="mono up">
+          R$ 12,4 mi</td>
+        
+        <td class="mono up">
+          R$ 48 mil</td>
+        
+        <td class="mono up">
+          R$ 36 mil</td>
+        
+        <td class="mono up">
+          R$ 56 mil</td>
+        
+        <td class="mono up">
+          R$ 4 mil</td>
+        
+        <td class="mono up">
+          R$ 48 mil</td>
+        
+        <td class="mono up">
+          R$ 45 mil</td>
+        
+        <td class="mono up">
+          R$ 8 mil</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Ativo total
+          <span class="dim2" style="font-size:11px"> · Ativo Total</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 12,3 bi</td>
+        
+        <td class="mono up">
+          R$ 12,3 bi</td>
+        
+        <td class="mono up">
+          R$ 11,5 bi</td>
+        
+        <td class="mono up">
+          R$ 12,7 bi</td>
+        
+        <td class="mono up">
+          R$ 12,0 bi</td>
+        
+        <td class="mono up">
+          R$ 12,0 bi</td>
+        
+        <td class="mono up">
+          R$ 11,5 bi</td>
+        
+        <td class="mono up">
+          R$ 11,2 bi</td>
+        
+        <td class="mono up">
+          R$ 12,1 bi</td>
+        
+        <td class="mono up">
+          R$ 11,4 bi</td>
+        
+        <td class="mono up">
+          R$ 11,4 bi</td>
+        
+        <td class="mono up">
+          R$ 11,2 bi</td>
+        
+        <td class="mono up">
+          R$ 11,4 bi</td>
+        
+        <td class="mono up">
+          R$ 12,1 bi</td>
+        
+        <td class="mono up">
+          R$ 11,8 bi</td>
+        
+        <td class="mono up">
+          R$ 11,7 bi</td>
+        
+        <td class="mono up">
+          R$ 11,4 bi</td>
+        
+        <td class="mono up">
+          R$ 12,2 bi</td>
+        
+        <td class="mono up">
+          R$ 11,9 bi</td>
+        
+        <td class="mono up">
+          R$ 11,0 bi</td>
+        
+        <td class="mono up">
+          R$ 12,1 bi</td>
+        
+        <td class="mono up">
+          R$ 12,2 bi</td>
+        
+        <td class="mono up">
+          R$ 13,9 bi</td>
+        
+        <td class="mono up">
+          R$ 13,2 bi</td>
+        
+        <td class="mono up">
+          R$ 13,3 bi</td>
+        
+        <td class="mono up">
+          R$ 14,1 bi</td>
+        
+        <td class="mono up">
+          R$ 13,9 bi</td>
+        
+        <td class="mono up">
+          R$ 50,0 mi</td>
+        
+        <td class="mono up">
+          R$ 13,8 bi</td>
+        
+        <td class="mono up">
+          R$ 13,7 bi</td>
+        
+        <td class="mono up">
+          R$ 13,6 bi</td>
+        
+        <td class="mono up">
+          R$ 50,0 mi</td>
+        
+        <td class="mono up">
+          R$ 34,5 mi</td>
+        
+        <td class="mono up">
+          R$ 33,6 mi</td>
+        
+        <td class="mono up">
+          R$ 33,8 mi</td>
+        
+        <td class="mono up">
+          R$ 34,3 mi</td>
+        
+        <td class="mono up">
+          R$ 34,5 mi</td>
+        
+        <td class="mono up">
+          R$ 34,7 mi</td>
+        
+        <td class="mono up">
+          R$ 34,8 mi</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Dívida bruta (empréstimos e financiamentos)
+          <span class="dim2" style="font-size:11px"> · Empréstimos e Financiamentos</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 2,7 bi</td>
+        
+        <td class="mono up">
+          R$ 2,7 bi</td>
+        
+        <td class="mono up">
+          R$ 2,5 bi</td>
+        
+        <td class="mono up">
+          R$ 2,7 bi</td>
+        
+        <td class="mono up">
+          R$ 2,6 bi</td>
+        
+        <td class="mono up">
+          R$ 2,4 bi</td>
+        
+        <td class="mono up">
+          R$ 2,5 bi</td>
+        
+        <td class="mono up">
+          R$ 2,8 bi</td>
+        
+        <td class="mono up">
+          R$ 3,1 bi</td>
+        
+        <td class="mono up">
+          R$ 3,0 bi</td>
+        
+        <td class="mono up">
+          R$ 2,9 bi</td>
+        
+        <td class="mono up">
+          R$ 2,8 bi</td>
+        
+        <td class="mono up">
+          R$ 2,7 bi</td>
+        
+        <td class="mono up">
+          R$ 2,8 bi</td>
+        
+        <td class="mono up">
+          R$ 2,7 bi</td>
+        
+        <td class="mono up">
+          R$ 2,8 bi</td>
+        
+        <td class="mono up">
+          R$ 2,7 bi</td>
+        
+        <td class="mono up">
+          R$ 3,1 bi</td>
+        
+        <td class="mono up">
+          R$ 2,8 bi</td>
+        
+        <td class="mono up">
+          R$ 2,7 bi</td>
+        
+        <td class="mono up">
+          R$ 3,4 bi</td>
+        
+        <td class="mono up">
+          R$ 3,1 bi</td>
+        
+        <td class="mono up">
+          R$ 3,6 bi</td>
+        
+        <td class="mono up">
+          R$ 3,3 bi</td>
+        
+        <td class="mono up">
+          R$ 3,2 bi</td>
+        
+        <td class="mono up">
+          R$ 3,7 bi</td>
+        
+        <td class="mono up">
+          R$ 3,6 bi</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 3,8 bi</td>
+        
+        <td class="mono up">
+          R$ 3,7 bi</td>
+        
+        <td class="mono up">
+          R$ 3,7 bi</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+        <td class="mono up">
+          R$ 0</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Patrimônio líquido
+          <span class="dim2" style="font-size:11px"> · Patrimônio Líquido</span>
+        </td>
+        
+        <td class="mono up">
+          R$ 4,6 bi</td>
+        
+        <td class="mono up">
+          R$ 4,6 bi</td>
+        
+        <td class="mono up">
+          R$ 4,8 bi</td>
+        
+        <td class="mono up">
+          R$ 4,9 bi</td>
+        
+        <td class="mono up">
+          R$ 4,4 bi</td>
+        
+        <td class="mono up">
+          R$ 4,3 bi</td>
+        
+        <td class="mono up">
+          R$ 4,8 bi</td>
+        
+        <td class="mono up">
+          R$ 4,3 bi</td>
+        
+        <td class="mono up">
+          R$ 4,8 bi</td>
+        
+        <td class="mono up">
+          R$ 4,4 bi</td>
+        
+        <td class="mono up">
+          R$ 4,4 bi</td>
+        
+        <td class="mono up">
+          R$ 4,3 bi</td>
+        
+        <td class="mono up">
+          R$ 3,5 bi</td>
+        
+        <td class="mono up">
+          R$ 2,4 bi</td>
+        
+        <td class="mono up">
+          R$ 3,2 bi</td>
+        
+        <td class="mono up">
+          R$ 3,3 bi</td>
+        
+        <td class="mono up">
+          R$ 3,5 bi</td>
+        
+        <td class="mono up">
+          R$ 3,2 bi</td>
+        
+        <td class="mono up">
+          R$ 3,3 bi</td>
+        
+        <td class="mono up">
+          R$ 2,9 bi</td>
+        
+        <td class="mono up">
+          R$ 3,1 bi</td>
+        
+        <td class="mono up">
+          R$ 3,2 bi</td>
+        
+        <td class="mono up">
+          R$ 3,4 bi</td>
+        
+        <td class="mono up">
+          R$ 3,2 bi</td>
+        
+        <td class="mono up">
+          R$ 3,3 bi</td>
+        
+        <td class="mono up">
+          R$ 3,2 bi</td>
+        
+        <td class="mono up">
+          R$ 3,4 bi</td>
+        
+        <td class="mono up">
+          R$ 16,2 mi</td>
+        
+        <td class="mono up">
+          R$ 3,4 bi</td>
+        
+        <td class="mono up">
+          R$ 2,7 bi</td>
+        
+        <td class="mono up">
+          R$ 2,7 bi</td>
+        
+        <td class="mono up">
+          R$ 16,2 mi</td>
+        
+        <td class="mono down">
+          -R$ 735 mil</td>
+        
+        <td class="mono down">
+          -R$ 914 mil</td>
+        
+        <td class="mono down">
+          -R$ 853 mil</td>
+        
+        <td class="mono down">
+          -R$ 759 mil</td>
+        
+        <td class="mono down">
+          -R$ 735 mil</td>
+        
+        <td class="mono down">
+          -R$ 773 mil</td>
+        
+        <td class="mono down">
+          -R$ 904 mil</td>
+        
+      </tr>
+      
+    </tbody>
+  </table>
+  </div>
+</article>
+
+
+
+<article class="panel" style="margin-top:14px">
+  <h2>Contraponto CVM <span class="h">DFP consolidada · dado auditado</span></h2>
+  <div class="scrim" style="overflow:auto">
+  <table>
+    <thead><tr><th class="l">Exercício</th><th>Receita líquida</th><th>Lucro líquido</th>
+      <th>Patrimônio líquido</th><th>Ativo total</th></tr></thead>
+    <tbody>
+      
+      <tr>
+        <td class="l mono">2010</td>
+        <td class="mono">R$ 9,8 bi</td>
+        <td class="mono up">R$ 1,3 bi</td>
+        <td class="mono">R$ 4,6 bi</td>
+        <td class="mono">R$ 12,3 bi</td>
+      </tr>
+      
+      <tr>
+        <td class="l mono">2011</td>
+        <td class="mono">R$ 9,8 bi</td>
+        <td class="mono up">R$ 1,5 bi</td>
+        <td class="mono">R$ 4,8 bi</td>
+        <td class="mono">R$ 11,5 bi</td>
+      </tr>
+      
+      <tr>
+        <td class="l mono">2012</td>
+        <td class="mono">R$ 10,0 bi</td>
+        <td class="mono up">R$ 43,8 mi</td>
+        <td class="mono">R$ 4,3 bi</td>
+        <td class="mono">R$ 11,2 bi</td>
+      </tr>
+      
+      <tr>
+        <td class="l mono">2013</td>
+        <td class="mono">R$ 9,0 bi</td>
+        <td class="mono up">R$ 150,6 mi</td>
+        <td class="mono">R$ 3,5 bi</td>
+        <td class="mono">R$ 11,4 bi</td>
+      </tr>
+      
+      <tr>
+        <td class="l mono">2014</td>
+        <td class="mono">R$ 10,6 bi</td>
+        <td class="mono down">-R$ 177,9 mi</td>
+        <td class="mono">R$ 3,2 bi</td>
+        <td class="mono">R$ 12,2 bi</td>
+      </tr>
+      
+      <tr>
+        <td class="l mono">2015</td>
+        <td class="mono">R$ 13,7 bi</td>
+        <td class="mono up">R$ 54,3 mi</td>
+        <td class="mono">R$ 3,4 bi</td>
+        <td class="mono">R$ 13,9 bi</td>
+      </tr>
+      
+      <tr>
+        <td class="l mono">2016</td>
+        <td class="mono">R$ 0</td>
+        <td class="mono up">R$ 225,1 mi</td>
+        <td class="mono">R$ 16,2 mi</td>
+        <td class="mono">R$ 50,0 mi</td>
+      </tr>
+      
+    </tbody>
+  </table>
+  </div>
+  <div class="note" style="margin-top:10px">
+    O RI publica o número <b>gerencial</b> (EBITDA ajustado, receita por segmento, volumes);
+    a CVM publica o <b>auditado</b> no plano de contas oficial. Divergência entre os dois é
+    esperada e é justamente o que vale investigar — não é erro de ingestão.
+    Perfil completo: <a href="/empresa/AELP3">/empresa/AELP3</a>.
+  </div>
+</article>
+
+
+
+<article class="panel" style="margin-top:14px">
+  <h2>Fonte e proveniência <span class="h">de onde vem cada número desta página</span></h2>
+  <div class="scrim" style="overflow:auto">
+  <table>
+    <thead><tr><th class="l">Tipo</th><th class="l">Documento</th>
+      <th class="l">Endereço</th><th class="l">Acesso</th></tr></thead>
+    <tbody>
+      
+      <tr>
+        <td class="l mono dim2">CVM Dados Abertos</td>
+        <td class="l">CD_CVM 19313 · DFP/ITR</td>
+        <td class="l" style="max-width:520px;overflow:hidden;text-overflow:ellipsis">
+          <a href="https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/" rel="nofollow noopener" target="_blank">https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/</a></td>
+        <td class="l mono dim2">—</td>
+      </tr>
+      
+    </tbody>
+  </table>
+  </div>
+  <div class="note" style="margin-top:10px">
+    O link direto do arquivo é um identificador gerado pelo gerenciador de documentos
+    do RI e <b>muda a cada divulgação</b> — a página de RI é o endereço estável para
+    citação. Nada aqui é reprocessado de agregadores: os números vêm do arquivo que a
+    própria companhia publicou, e a série auditada vem da CVM.
+  </div>
+</article>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/mercados#dados">Dados brutos</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

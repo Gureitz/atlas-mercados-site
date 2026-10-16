@@ -1,0 +1,2744 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GRUPO MATEUS S.A. (GMAT3) — estrutura de valuation | Atlas Mercados</title>
+<meta name="description" content="Estrutura de valuation de GRUPO MATEUS S.A. (GMAT3): Receita = lojas × receita por loja (ou vendas mesmas lojas). Driver físico, razão derivada e ponte até o lucro, com a série reportada pela própria companhia.">
+<link rel="canonical" href="https://atlasmercados.com.br/valuation/GMAT3">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="GRUPO MATEUS S.A. (GMAT3) — estrutura de valuation | Atlas Mercados">
+<meta property="og:description" content="Estrutura de valuation de GRUPO MATEUS S.A. (GMAT3): Receita = lojas × receita por loja (ou vendas mesmas lojas). Driver físico, razão derivada e ponte até o lucro, com a série reportada pela própria companhia.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<style>
+  .selbar{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:0 0 16px}
+  .selbar a{font-family:'IBM Plex Mono',monospace;font-size:11px;padding:4px 9px;
+    border:1px solid var(--bd);color:var(--dim);background:var(--panel2)}
+  .selbar a:hover{border-color:var(--acc);color:var(--tx)}
+  .selbar a.on{border-color:var(--acc);color:var(--acc);background:var(--panel)}
+  .tese{border-left:2px solid var(--acc);padding:10px 14px;background:var(--panel2);
+    margin:0 0 14px;font-size:13.5px;color:var(--dim);max-width:78ch}
+  .tese b{color:var(--tx)}
+  .eq{font-family:'IBM Plex Mono',monospace;font-size:14px;color:var(--acc);
+    background:var(--panel2);border:1px solid var(--bd);border-left:2px solid var(--acc);
+    padding:12px 15px;margin:0 0 14px;overflow-x:auto;white-space:nowrap}
+  .grade{overflow:auto;max-height:calc(100vh - 250px);border:1px solid var(--bd)}
+  .grade table{border-collapse:separate;border-spacing:0;font-size:12px;width:100%}
+  .grade th,.grade td{padding:5px 9px;white-space:nowrap;border-bottom:1px solid var(--bd2)}
+  /* Coluna de rótulo e cabeçalho ficam fixos ao rolar. Regra de ouro: toda
+     célula fixa precisa de fundo OPACO — com rgba o conteúdo rolado aparece
+     por baixo. O tingido das linhas de driver/derivada é feito por inset
+     box-shadow, que colore sem tirar a opacidade. */
+  .grade thead th{position:sticky;top:0;z-index:3;background:var(--panel2);
+    border-bottom:1px solid var(--bd);font-size:10px;letter-spacing:.07em;
+    text-transform:uppercase;color:var(--dim2);font-weight:500;text-align:right}
+  .grade thead th.lbl{left:0;z-index:6;text-align:left;width:290px;min-width:290px;
+    background:var(--panel2)}
+  .grade td.lbl{position:sticky;left:0;background:var(--panel);z-index:2;
+    text-align:left;border-right:1px solid var(--bd);width:290px;min-width:290px;
+    max-width:290px}
+  .grade tr.sec td{background:var(--panel2);z-index:1;
+    border-top:1px solid var(--bd);border-bottom:1px solid var(--bd);padding:0}
+  .grade tr.sec .lbl-sec{position:sticky;left:0;display:inline-block;
+    padding:5px 9px;font-family:'IBM Plex Mono',monospace;font-size:10px;
+    letter-spacing:.1em;text-transform:uppercase;color:var(--acc);white-space:nowrap}
+  .grade tr.sec .lbl-sec span{color:var(--dim2);text-transform:none;letter-spacing:0;
+    font-size:10.5px;margin-left:8px}
+  .grade td.v{text-align:right;font-family:'IBM Plex Mono',monospace;
+    font-variant-numeric:tabular-nums}
+  .grade tr.drv td.lbl,.grade tr.drv td.v{box-shadow:inset 0 0 0 999px rgba(227,168,87,.07)}
+  .grade tr.der td.lbl,.grade tr.der td.v{box-shadow:inset 0 0 0 999px rgba(91,157,255,.07)}
+  .grade tr:hover td.v{box-shadow:inset 0 0 0 999px rgba(127,140,160,.10)}
+  /* Rótulo: nome à esquerda com reticências, sparkline ancorada à direita,
+     sem transbordar a coluna. */
+  .lbl-in{display:flex;align-items:center;gap:8px;min-width:0}
+  .lbl-nm{flex:1 1 auto;min-width:0;overflow:hidden;text-overflow:ellipsis;
+    white-space:nowrap}
+  .un{font-size:10px;color:var(--dim2);margin-left:6px}
+  .spark{flex:0 0 auto;display:block;opacity:.85}
+  /* Exercício fechado no meio dos trimestres: marcado para não ser lido como
+     mais um trimestre. A sparkline já ignora essas colunas. */
+  .grade th.anual{color:var(--acc)}
+  .grade td.v.anual{border-left:1px solid var(--bd);border-right:1px solid var(--bd);
+    font-weight:600}
+  .grade th.anual{border-left:1px solid var(--bd);border-right:1px solid var(--bd)}
+  .g{display:block;margin:0 0 4px}
+  .cap{font-size:11.5px;color:var(--dim2);margin:0 0 16px}
+  .ponte{width:100%;border-collapse:collapse;font-size:12.5px}
+  .ponte td{padding:6px 10px;border-bottom:1px solid var(--bd2);vertical-align:top}
+  .ponte td.op{width:26px;text-align:center;font-family:'IBM Plex Mono',monospace;
+    font-weight:600;color:var(--acc);background:var(--panel2)}
+  .ponte td.nm{font-family:'IBM Plex Mono',monospace;font-size:12px}
+  .ponte td.ob{color:var(--dim);font-size:11.5px}
+  .ponte tr.tot td{background:rgba(227,168,87,.08);font-weight:600}
+  .cols2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media (max-width:1000px){.cols2{grid-template-columns:1fr}}
+</style>
+
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Valuation", "item": "https://atlasmercados.com.br/valuation"}, {"@type": "ListItem", "position": 3, "name": "GRUPO MATEUS S.A.", "item": "https://atlasmercados.com.br/valuation/GMAT3"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="on" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<div class="selbar">
+  
+  <a href="/valuation/AGRO3?p=tri" class=""
+     title="BRASILAGRO CIA BRAS DE PROP AGRICOLAS — Agrícola — produção e transformação de terra">AGRO3</a>
+  
+  <a href="/valuation/BLAU3?p=tri" class=""
+     title="BLAU FARMACÊUTICA S.A. — Farmacêutica">BLAU3</a>
+  
+  <a href="/valuation/BRST3?p=tri" class=""
+     title="BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A. — Banda larga FTTH e móvel">BRST3</a>
+  
+  <a href="/valuation/EZTC3?p=tri" class=""
+     title="EZ TEC EMPREEND. E PARTICIPAÇÕES S/A — Incorporação imobiliária">EZTC3</a>
+  
+  <a href="/valuation/JHSF3?p=tri" class=""
+     title="JHSF PARTICIPAÇÕES SA — Imobiliário de alto padrão e renda recorrente">JHSF3</a>
+  
+  <a href="/valuation/MDNE3?p=tri" class=""
+     title="MOURA DUBEUX ENGENHARIA S/A — Incorporação imobiliária">MDNE3</a>
+  
+  <a href="/valuation/PRIO3?p=tri" class=""
+     title="PRIO S.A. — Exploração e produção de petróleo">PRIO3</a>
+  
+  <a href="/valuation/PRNR3?p=tri" class=""
+     title="PRINER SERVIÇOS INDUSTRIAIS S.A. — Serviços industriais">PRNR3</a>
+  
+  <a href="/valuation/SIMH3?p=tri" class=""
+     title="SIMPAR S.A. — Serviços Transporte e Logística">SIMH3</a>
+  
+  <a href="/valuation/SLCE3?p=tri" class=""
+     title="SLC AGRICOLA SA — Agrícola — produção">SLCE3</a>
+  
+  <a href="/valuation/SUZB3?p=tri" class=""
+     title="SUZANO S.A. — Celulose">SUZB3</a>
+  
+  <a href="/valuation/TTEN3?p=tri" class=""
+     title="TRÊS TENTOS AGROINDUSTRIAL S.A. — Agro — insumos, grãos e indústria">TTEN3</a>
+  
+  <a href="/valuation/AURA33?p=tri" class=""
+     title="Aura Minerals Inc. — —">AURA33</a>
+  
+  <a href="/valuation/INBR32?p=tri" class=""
+     title="Inter &amp; Co, Inc. — Banco digital e plataforma financeira">INBR32</a>
+  
+  <a href="/valuation/MELI34?p=tri" class=""
+     title="MercadoLibre, Inc. — Comércio eletrônico e fintech na América Latina">MELI34</a>
+  
+  <a href="/valuation/ROXO34?p=tri" class=""
+     title="Nu Holdings Ltd. — Banco digital">ROXO34</a>
+  
+  <a href="/valuation/S2EA34?p=tri" class=""
+     title="Sea Limited — Comércio eletrônico, jogos e fintech no Sudeste Asiático">S2EA34</a>
+  
+  <a href="/valuation/AMZN?p=tri" class=""
+     title="Amazon.com, Inc. — Comércio eletrônico e computação em nuvem">AMZN</a>
+  
+  <a href="/valuation/CRESY?p=tri" class=""
+     title="Cresud S.A.C.I.F. y A. — Agrícola e imobiliário na Argentina">CRESY</a>
+  
+  <a href="/valuation/META?p=tri" class=""
+     title="Meta Platforms, Inc. — Publicidade digital">META</a>
+  
+  <a href="/valuation/MU?p=tri" class=""
+     title="Micron Technology, Inc. — Semicondutores — memória">MU</a>
+  
+  <a href="/valuation/PAM?p=tri" class=""
+     title="Pampa Energia S.A. — Energia e petróleo na Argentina">PAM</a>
+  
+  
+  <select onchange="if(this.value) window.location=this.value"
+          style="background:var(--panel2);border:1px solid var(--bd);color:var(--dim);
+                 font-family:'IBM Plex Mono',monospace;font-size:11px;padding:4px 6px">
+    <option value="">universo (427)…</option>
+    
+    <option value="/valuation/AALR3?p=tri"
+            >AALR3 · ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A</option>
+    
+    <option value="/valuation/ABCB4?p=tri"
+            >ABCB4 · BANCO ABC BRASIL S/A</option>
+    
+    <option value="/valuation/ABEV3?p=tri"
+            >ABEV3 · AMBEV S.A.</option>
+    
+    <option value="/valuation/ADMF3?p=tri"
+            >ADMF3 · B100 S.A.</option>
+    
+    <option value="/valuation/AELP3?p=tri"
+            >AELP3 · AES ELPA SA</option>
+    
+    <option value="/valuation/AERI3?p=tri"
+            >AERI3 · AERIS IND. E COM. DE EQUIP. PARA G</option>
+    
+    <option value="/valuation/AESB3?p=tri"
+            >AESB3 · AUREN PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/AESO3?p=tri"
+            >AESO3 · AUREN OPERAÇÕES S.A.</option>
+    
+    <option value="/valuation/AFLT3?p=tri"
+            >AFLT3 · AFLUENTE TRANSMISSÃO DE ENERGIA EL</option>
+    
+    <option value="/valuation/AGXY3?p=tri"
+            >AGXY3 · AGROGALAXY PARTICIPAÇÕES S.A. - EM</option>
+    
+    <option value="/valuation/AHEB3?p=tri"
+            >AHEB3 · SÃO PAULO TURISMO S.A.</option>
+    
+    <option value="/valuation/ALLD3?p=tri"
+            >ALLD3 · ALLIED TECNOLOGIA S.A.</option>
+    
+    <option value="/valuation/ALOS3?p=tri"
+            >ALOS3 · ALLOS S.A.</option>
+    
+    <option value="/valuation/ALPA3?p=tri"
+            >ALPA3 · ALPARGATAS SA</option>
+    
+    <option value="/valuation/ALPK3?p=tri"
+            >ALPK3 · ALLPARK EMPREENDIMENTOS, PARTICIPA</option>
+    
+    <option value="/valuation/ALSC3?p=tri"
+            >ALSC3 · ALIANSCE SHOPPING CENTERS S/A</option>
+    
+    <option value="/valuation/ALUP11?p=tri"
+            >ALUP11 · ALUPAR INVESTIMENTO S/A</option>
+    
+    <option value="/valuation/AMBP3?p=tri"
+            >AMBP3 · AMBIPAR PARTICIPAÇÕES E EMPREENDIM</option>
+    
+    <option value="/valuation/AMER3?p=tri"
+            >AMER3 · AMERICANAS S.A. - EM RECUPERAÇÃO J</option>
+    
+    <option value="/valuation/AMOB3?p=tri"
+            >AMOB3 · AUTOMOB PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/ANIM3?p=tri"
+            >ANIM3 · ANIMA HOLDING S/A</option>
+    
+    <option value="/valuation/APER3?p=tri"
+            >APER3 · ALPER CONSULTORIA E CORRETORA DE S</option>
+    
+    <option value="/valuation/APTI3?p=tri"
+            >APTI3 · ALIPERTI S.A.</option>
+    
+    <option value="/valuation/ARML3?p=tri"
+            >ARML3 · ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇO</option>
+    
+    <option value="/valuation/ARND3?p=tri"
+            >ARND3 · ARANDU INVESTIMENTOS S.A.</option>
+    
+    <option value="/valuation/ARZZ3?p=tri"
+            >ARZZ3 · AZZAS 2154 S.A.</option>
+    
+    <option value="/valuation/ASAI3?p=tri"
+            >ASAI3 · SENDAS DISTRIBUIDORA S.A.</option>
+    
+    <option value="/valuation/ATED3?p=tri"
+            >ATED3 · ATOM EDUCAÇÃO E EDITORA S.A.</option>
+    
+    <option value="/valuation/ATMP3?p=tri"
+            >ATMP3 · CONTAX PARTICIPAÇÕES S.A. - EM REC</option>
+    
+    <option value="/valuation/ATOM3?p=tri"
+            >ATOM3 · FICTOR ALIMENTOS S.A. - EM RECUPER</option>
+    
+    <option value="/valuation/AUAU3?p=tri"
+            >AUAU3 · UNIÃO PET PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/AURE3?p=tri"
+            >AURE3 · AUREN ENERGIA S.A</option>
+    
+    <option value="/valuation/AVLL3?p=tri"
+            >AVLL3 · ALPHAVILLE S.A.</option>
+    
+    <option value="/valuation/AXIA3?p=tri"
+            >AXIA3 · AXIA ENERGIA S.A.</option>
+    
+    <option value="/valuation/AZEV11?p=tri"
+            >AZEV11 · AZEVEDO &amp; TRAVASSOS SA</option>
+    
+    <option value="/valuation/AZTE3?p=tri"
+            >AZTE3 · AZEVEDO &amp; TRAVASSOS ENERGIA S.A.</option>
+    
+    <option value="/valuation/AZUL3?p=tri"
+            >AZUL3 · AZUL S.A.</option>
+    
+    <option value="/valuation/B3SA3?p=tri"
+            >B3SA3 · B3 S.A. - BRASIL, BOLSA, BALCÃO</option>
+    
+    <option value="/valuation/BAHI3?p=tri"
+            >BAHI3 · BIOMA EDUCAÇÃO S.A.</option>
+    
+    <option value="/valuation/BALM3?p=tri"
+            >BALM3 · BAUMER SA</option>
+    
+    <option value="/valuation/BAUH3?p=tri"
+            >BAUH3 · EXCELSIOR ALIMENTOS SA.</option>
+    
+    <option value="/valuation/BAZA3?p=tri"
+            >BAZA3 · BANCO DA AMAZÔNIA S.A.</option>
+    
+    <option value="/valuation/BBAS3?p=tri"
+            >BBAS3 · BANCO DO BRASIL S.A.</option>
+    
+    <option value="/valuation/BBDC3?p=tri"
+            >BBDC3 · BANCO BRADESCO S.A.</option>
+    
+    <option value="/valuation/BBML3?p=tri"
+            >BBML3 · BBM LOGÍSTICA S.A.</option>
+    
+    <option value="/valuation/BBRK3?p=tri"
+            >BBRK3 · NEXPE PARTICIPAÇÕES S.A. - EM RECU</option>
+    
+    <option value="/valuation/BBSE3?p=tri"
+            >BBSE3 · BB SEGURIDADE PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/BDLL3?p=tri"
+            >BDLL3 · BARDELLA S.A. INDUSTRIAS MECANICAS</option>
+    
+    <option value="/valuation/BEEF11?p=tri"
+            >BEEF11 · MINERVA S/A</option>
+    
+    <option value="/valuation/BEES3?p=tri"
+            >BEES3 · BANESTES SA BANCO DO ESTADO DO ESP</option>
+    
+    <option value="/valuation/BETP3?p=tri"
+            >BETP3 · BETAPART PARTICIPAÇÕES SA</option>
+    
+    <option value="/valuation/BFRE11?p=tri"
+            >BFRE11 · BRAZILIAN FINANCE &amp; REAL ESTATE S.</option>
+    
+    <option value="/valuation/BGIP3?p=tri"
+            >BGIP3 · BANCO DO ESTADO DE SERGIPE SA</option>
+    
+    <option value="/valuation/BHIA12?p=tri"
+            >BHIA12 · GRUPO CASAS BAHIA S.A.</option>
+    
+    <option value="/valuation/BIDI11?p=tri"
+            >BIDI11 · BANCO INTER S.A.</option>
+    
+    <option value="/valuation/BIOM3?p=tri"
+            >BIOM3 · BIOMM SA</option>
+    
+    <option value="/valuation/BKBR3?p=tri"
+            >BKBR3 · ZAMP S.A.</option>
+    
+    <option value="/valuation/BLUT3?p=tri"
+            >BLUT3 · BLUE TECH SOLUTIONS EQI S.A.</option>
+    
+    <option value="/valuation/BMEB3?p=tri"
+            >BMEB3 · BANCO MERCANTIL BRASIL SA</option>
+    
+    <option value="/valuation/BMGB11?p=tri"
+            >BMGB11 · BANCO BMG S/A</option>
+    
+    <option value="/valuation/BMIN3?p=tri"
+            >BMIN3 · BANCO MERCANTIL DE INVESTIMENTOS S</option>
+    
+    <option value="/valuation/BMKS3?p=tri"
+            >BMKS3 · BICICLETAS MONARK SA</option>
+    
+    <option value="/valuation/BMOB3?p=tri"
+            >BMOB3 · BEMOBI MOBILE TECH S.A.</option>
+    
+    <option value="/valuation/BNBR3?p=tri"
+            >BNBR3 · BANCO DO NORDESTE DO BRASIL SA</option>
+    
+    <option value="/valuation/BOAS3?p=tri"
+            >BOAS3 · BOA VISTA SERVIÇOS S.A.</option>
+    
+    <option value="/valuation/BOBR3?p=tri"
+            >BOBR3 · BOMBRIL S.A. - EM RECUPERAÇÃO JUDI</option>
+    
+    <option value="/valuation/BPAC11?p=tri"
+            >BPAC11 · BANCO BTG PACTUAL S/A</option>
+    
+    <option value="/valuation/BPAN4?p=tri"
+            >BPAN4 · BANCO PAN SA</option>
+    
+    <option value="/valuation/BPAR3?p=tri"
+            >BPAR3 · BANCO DO ESTADO DO PARÁ S/A.</option>
+    
+    <option value="/valuation/BPHA3?p=tri"
+            >BPHA3 · MASSA FALIDA DA BRASIL PHARMA SA</option>
+    
+    <option value="/valuation/BRAP3?p=tri"
+            >BRAP3 · BRADESPAR S/A</option>
+    
+    <option value="/valuation/BRAV3?p=tri"
+            >BRAV3 · BRAVA ENERGIA S.A.</option>
+    
+    <option value="/valuation/BRBI11?p=tri"
+            >BRBI11 · BRBI BR PARTNERS S.A</option>
+    
+    <option value="/valuation/BRFS3?p=tri"
+            >BRFS3 · BRF S.A.</option>
+    
+    <option value="/valuation/BRGE11?p=tri"
+            >BRGE11 · CONSORCIO ALFA DE ADMINISTRACAO S.</option>
+    
+    <option value="/valuation/BRIT3?p=tri"
+            >BRIT3 · BRISANET PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/BRIV3?p=tri"
+            >BRIV3 · BANCO ALFA DE INVESTIMENTO S.A.</option>
+    
+    <option value="/valuation/BRKM3?p=tri"
+            >BRKM3 · BRASKEM S.A.</option>
+    
+    <option value="/valuation/BRML3?p=tri"
+            >BRML3 · BR MALLS PARTICIPAÇOES S.A.</option>
+    
+    <option value="/valuation/BRQB3?p=tri"
+            >BRQB3 · BRQ SOLUÇÕES EM INFORMÁTICA S.A.</option>
+    
+    <option value="/valuation/BRSR3?p=tri"
+            >BRSR3 · BANCO DO ESTADO DO RIO GRANDE DO S</option>
+    
+    <option value="/valuation/BSEV3?p=tri"
+            >BSEV3 · BIOSEV S.A.</option>
+    
+    <option value="/valuation/BSLI03?p=tri"
+            >BSLI03 · BRB BANCO DE BRASILIA SA</option>
+    
+    <option value="/valuation/CABI3?p=tri"
+            >CABI3 · CABINDA PARTICIPAÇÕES SA</option>
+    
+    <option value="/valuation/CALI11?p=tri"
+            >CALI11 · CONSTRUTORA ADOLPHO LINDENBERG S.A</option>
+    
+    <option value="/valuation/CAMB3?p=tri"
+            >CAMB3 · CAMBUCI SA</option>
+    
+    <option value="/valuation/CAML3?p=tri"
+            >CAML3 · CAMIL ALIMENTOS S/A</option>
+    
+    <option value="/valuation/CARD3?p=tri"
+            >CARD3 · CSU DIGITAL S.A.</option>
+    
+    <option value="/valuation/CASH3?p=tri"
+            >CASH3 · MELIUZ S.A.</option>
+    
+    <option value="/valuation/CASN3?p=tri"
+            >CASN3 · CIA CAT. DE ÁGUAS E SANEAMENTO - C</option>
+    
+    <option value="/valuation/CATA3?p=tri"
+            >CATA3 · COMPANHIA INDUSTRIAL CATAGUASES</option>
+    
+    <option value="/valuation/CBAV3?p=tri"
+            >CBAV3 · COMPANHIA BRASILEIRA DE ALUMINIO</option>
+    
+    <option value="/valuation/CBEE3?p=tri"
+            >CBEE3 · AMPLA ENERGIA E SERVIÇOS S.A.</option>
+    
+    <option value="/valuation/CCPR3?p=tri"
+            >CCPR3 · SYN PROP &amp; TECH S.A.</option>
+    
+    <option value="/valuation/CCRO3?p=tri"
+            >CCRO3 · MOTIVA INFRAESTRUTURA DE MOBILIDAD</option>
+    
+    <option value="/valuation/CCTY3?p=tri"
+            >CCTY3 · BELORA RDVC CITY DESENVOLVIMENTO I</option>
+    
+    <option value="/valuation/CCXC3?p=tri"
+            >CCXC3 · CCX CARVÃO DA COLOMBIA S.A. - EM L</option>
+    
+    <option value="/valuation/CEAB3?p=tri"
+            >CEAB3 · C&amp;A MODAS S.A.</option>
+    
+    <option value="/valuation/CEBR3?p=tri"
+            >CEBR3 · COMPANHIA ENERGÉTICA DE BRASÍLIA -</option>
+    
+    <option value="/valuation/CEDO3?p=tri"
+            >CEDO3 · COMPANHIA DE FIACAO E TECIDOS CEDR</option>
+    
+    <option value="/valuation/CEEB3?p=tri"
+            >CEEB3 · CIA DE ELETRICIDADE DO ESTADO DA B</option>
+    
+    <option value="/valuation/CEED3?p=tri"
+            >CEED3 · CIA ESTADUAL DE DISTRIBUIÇÃO DE EN</option>
+    
+    <option value="/valuation/CEGR3?p=tri"
+            >CEGR3 · CIA. DISTRIB. DE GÁS DO RIO DE JAN</option>
+    
+    <option value="/valuation/CELP3?p=tri"
+            >CELP3 · EQUATORIAL PARÁ DISTRIBUIDORA DE E</option>
+    
+    <option value="/valuation/CEPE3?p=tri"
+            >CEPE3 · CIA ENERGÉTICA DE PERNAMBUCO - CEL</option>
+    
+    <option value="/valuation/CESP3?p=tri"
+            >CESP3 · CESP - COMPANHIA ENERGÉTICA DE SÃO</option>
+    
+    <option value="/valuation/CGAS3?p=tri"
+            >CGAS3 · COMPANHIA DE GÁS DE SÃO PAULO - CO</option>
+    
+    <option value="/valuation/CGEE3?p=tri"
+            >CGEE3 · COMPANHIA ESTADUAL DE GERAÇÃO DE E</option>
+    
+    <option value="/valuation/CGRA3?p=tri"
+            >CGRA3 · GRAZZIOTIN SA</option>
+    
+    <option value="/valuation/CIEL3?p=tri"
+            >CIEL3 · CIELO S.A. - INSTITUIÇÃO DE PAGAME</option>
+    
+    <option value="/valuation/CLSA3?p=tri"
+            >CLSA3 · CLEAR SALE S.A</option>
+    
+    <option value="/valuation/CLSC3?p=tri"
+            >CLSC3 · CENTRAIS ELETRICAS DE SANTA CATARI</option>
+    
+    <option value="/valuation/CMFA3?p=tri"
+            >CMFA3 · CIMS SA</option>
+    
+    <option value="/valuation/CMIG3?p=tri"
+            >CMIG3 · CIA ENERG MINAS GERAIS - CEMIG</option>
+    
+    <option value="/valuation/CNTO3?p=tri"
+            >CNTO3 · GRUPO SBF S.A.</option>
+    
+    <option value="/valuation/COCE3?p=tri"
+            >COCE3 · CIA ENERG CEARA - COELCE</option>
+    
+    <option value="/valuation/COGN3?p=tri"
+            >COGN3 · COGNA EDUCAÇÃO S.A.</option>
+    
+    <option value="/valuation/CORR3?p=tri"
+            >CORR3 · CORRÊA RIBEIRO S/A COMÉRCIO E INDÚ</option>
+    
+    <option value="/valuation/CPFE3?p=tri"
+            >CPFE3 · CPFL ENERGIA SA</option>
+    
+    <option value="/valuation/CPLE3?p=tri"
+            >CPLE3 · COMPANHIA PARANAENSE DE ENERGIA CO</option>
+    
+    <option value="/valuation/CPRE3?p=tri"
+            >CPRE3 · CPFL ENERGIAS RENOVÁVEIS S.A.</option>
+    
+    <option value="/valuation/CRDE3?p=tri"
+            >CRDE3 · FICA EMPREENDIMENTOS IMOBILIARIOS </option>
+    
+    <option value="/valuation/CREM3?p=tri"
+            >CREM3 · CREMER SA</option>
+    
+    <option value="/valuation/CRFB3?p=tri"
+            >CRFB3 · ATACADÃO S.A.</option>
+    
+    <option value="/valuation/CRIV3?p=tri"
+            >CRIV3 · FINANCEIRA ALFA S.A.- C.F.I</option>
+    
+    <option value="/valuation/CRPG3?p=tri"
+            >CRPG3 · TRONOX PIGMENTOS DO BRASIL S.A.</option>
+    
+    <option value="/valuation/CRTE3?p=tri"
+            >CRTE3 · CONCESSIONARIA RIO-TERESOPOLIS SA</option>
+    
+    <option value="/valuation/CSAB3?p=tri"
+            >CSAB3 · CIA SEGUROS ALIANCA DA BAHIA</option>
+    
+    <option value="/valuation/CSAN3?p=tri"
+            >CSAN3 · COSAN S.A.</option>
+    
+    <option value="/valuation/CSED3?p=tri"
+            >CSED3 · CRUZEIRO DO SUL EDUCACIONAL S.A.</option>
+    
+    <option value="/valuation/CSMG3?p=tri"
+            >CSMG3 · COMPANHIA DE SANEAMENTO DE MINAS G</option>
+    
+    <option value="/valuation/CSRN3?p=tri"
+            >CSRN3 · CIA ENERGÉTICA DO RIO GRANDE DO NO</option>
+    
+    <option value="/valuation/CTCA3?p=tri"
+            >CTCA3 · CTC - CENTRO DE TECNOLOGIA CANAVIE</option>
+    
+    <option value="/valuation/CTKA3?p=tri"
+            >CTKA3 · KARSTEN SA</option>
+    
+    <option value="/valuation/CTNM3?p=tri"
+            >CTNM3 · CIA TECIDOS NORTE DE MINAS - COTEM</option>
+    
+    <option value="/valuation/CTSA3?p=tri"
+            >CTSA3 · CIA TECIDOS SANTANENSE - EM RECUPE</option>
+    
+    <option value="/valuation/CURY3?p=tri"
+            >CURY3 · CURY CONSTRUTORA E INCORPORADORA S</option>
+    
+    <option value="/valuation/CVCB3?p=tri"
+            >CVCB3 · CVC BRASIL OPERADORA E AGÊNCIA DE </option>
+    
+    <option value="/valuation/CXSE3?p=tri"
+            >CXSE3 · CAIXA SEGURIDADE PARTICIPAÇÕES S.A</option>
+    
+    <option value="/valuation/CYRE3?p=tri"
+            >CYRE3 · CYRELA BRAZIL REALTY S.A.EMPREEND </option>
+    
+    <option value="/valuation/DASA3?p=tri"
+            >DASA3 · DIAGNOSTICOS DA AMERICA SA</option>
+    
+    <option value="/valuation/DESK3?p=tri"
+            >DESK3 · DESKTOP S.A</option>
+    
+    <option value="/valuation/DEXP3?p=tri"
+            >DEXP3 · DEXXOS PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/DIRR3?p=tri"
+            >DIRR3 · DIRECIONAL ENGENHARIA SA</option>
+    
+    <option value="/valuation/DMFN3?p=tri"
+            >DMFN3 · DM FINANCEIRA S.A. - CRÉDITO, FINA</option>
+    
+    <option value="/valuation/DMVF3?p=tri"
+            >DMVF3 · D1000 VAREJO FARMA PARTICIPAÇÕES S</option>
+    
+    <option value="/valuation/DOHL3?p=tri"
+            >DOHL3 · DOHLER S.A.</option>
+    
+    <option value="/valuation/DOTZ3?p=tri"
+            >DOTZ3 · DOTZ S.A.</option>
+    
+    <option value="/valuation/DTCY3?p=tri"
+            >DTCY3 · DTCOM - DIRECT TO COMPANY S.A.</option>
+    
+    <option value="/valuation/DTEX3?p=tri"
+            >DTEX3 · DEXCO S.A.</option>
+    
+    <option value="/valuation/EALT3?p=tri"
+            >EALT3 · ELECTRO AÇO ALTONA S/A</option>
+    
+    <option value="/valuation/ECOR3?p=tri"
+            >ECOR3 · ECORODOVIAS INFRAESTRUTURA E LOGÍS</option>
+    
+    <option value="/valuation/ECPR3?p=tri"
+            >ECPR3 · EMP.NAC. DE COMÉRCIO, RÉDITO E PAR</option>
+    
+    <option value="/valuation/EEEL3?p=tri"
+            >EEEL3 · CPFL TRANSMISSÃO S.A.</option>
+    
+    <option value="/valuation/EGIE3?p=tri"
+            >EGIE3 · ENGIE BRASIL ENERGIA S.A.</option>
+    
+    <option value="/valuation/EKTR3?p=tri"
+            >EKTR3 · ELEKTRO REDES S.A.</option>
+    
+    <option value="/valuation/ELEK3?p=tri"
+            >ELEK3 · ELEKEIROZ S/A</option>
+    
+    <option value="/valuation/ELMD3?p=tri"
+            >ELMD3 · ELETROMIDIA S.A.</option>
+    
+    <option value="/valuation/ELPL3?p=tri"
+            >ELPL3 · ELETROPAULO METROP. ELET. SAO PAUL</option>
+    
+    <option value="/valuation/EMAE3?p=tri"
+            >EMAE3 · EMAE - EMPRESA METROP.AGUAS ENERGI</option>
+    
+    <option value="/valuation/EMBJ3?p=tri"
+            >EMBJ3 · EMBRAER S.A.</option>
+    
+    <option value="/valuation/ENAT3?p=tri"
+            >ENAT3 · ENAUTA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/ENBR3?p=tri"
+            >ENBR3 · EDP ENERGIAS DO BRASIL S/A</option>
+    
+    <option value="/valuation/ENEV3?p=tri"
+            >ENEV3 · ENEVA S.A.</option>
+    
+    <option value="/valuation/ENGI11?p=tri"
+            >ENGI11 · ENERGISA SA</option>
+    
+    <option value="/valuation/ENJU3?p=tri"
+            >ENJU3 · ENJOEI S.A.</option>
+    
+    <option value="/valuation/ENMT3?p=tri"
+            >ENMT3 · ENERGISA MATO GROSSO-DISTRIBUIDORA</option>
+    
+    <option value="/valuation/EQTL3?p=tri"
+            >EQTL3 · EQUATORIAL S.A.</option>
+    
+    <option value="/valuation/ESPA3?p=tri"
+            >ESPA3 · MPM CORPÓREOS S.A.</option>
+    
+    <option value="/valuation/ESTC3?p=tri"
+            >ESTC3 · YDUQS PARTICIPACOES S.A.</option>
+    
+    <option value="/valuation/ESTR4?p=tri"
+            >ESTR4 · MANUFATURA DE  BRINQUEDOS ESTRELA </option>
+    
+    <option value="/valuation/ETER3?p=tri"
+            >ETER3 · ETERNIT S.A.</option>
+    
+    <option value="/valuation/EUCA3?p=tri"
+            >EUCA3 · EUCATEX S.A. INDUSTRIA E COMERCIO</option>
+    
+    <option value="/valuation/EVEN3?p=tri"
+            >EVEN3 · EVEN CONSTRUTORA E INCORPORADORA S</option>
+    
+    <option value="/valuation/FBMC3?p=tri"
+            >FBMC3 · FIBAM CIA INDUSTRIAL</option>
+    
+    <option value="/valuation/FESA3?p=tri"
+            >FESA3 · CIA FERRO LIGAS BAHIA FERBASA</option>
+    
+    <option value="/valuation/FHER3?p=tri"
+            >FHER3 · FERTILIZANTES HERINGER S.A.</option>
+    
+    <option value="/valuation/FIBR3?p=tri"
+            >FIBR3 · FIBRIA CELULOSE S.A.</option>
+    
+    <option value="/valuation/FIGE3?p=tri"
+            >FIGE3 · INVESTIMENTOS BEMGE S.A.</option>
+    
+    <option value="/valuation/FIQE3?p=tri"
+            >FIQE3 · UNIFIQUE TELECOMUNICAÇÕES S.A.</option>
+    
+    <option value="/valuation/FJTA3?p=tri"
+            >FJTA3 · TAURUS ARMAS S.A.</option>
+    
+    <option value="/valuation/FLRY3?p=tri"
+            >FLRY3 · FLEURY SA</option>
+    
+    <option value="/valuation/FRAS3?p=tri"
+            >FRAS3 · FRASLE MOBILITY S.A.</option>
+    
+    <option value="/valuation/FRIO3?p=tri"
+            >FRIO3 · METALFRIO SOLUTIONS S/A</option>
+    
+    <option value="/valuation/FRTA3?p=tri"
+            >FRTA3 · MASSA FALIDA DE POMIFRUTAS S/A</option>
+    
+    <option value="/valuation/GAFS3?p=tri"
+            >GAFS3 · GAFISA SA</option>
+    
+    <option value="/valuation/GEPA3?p=tri"
+            >GEPA3 · RIO PARANAPANEMA ENERGIA SA</option>
+    
+    <option value="/valuation/GGBR3?p=tri"
+            >GGBR3 · GERDAU S.A.</option>
+    
+    <option value="/valuation/GGPS3?p=tri"
+            >GGPS3 · GPS PARTICIPAÇÕES E EMPREENDIMENTO</option>
+    
+    <option value="/valuation/GMAT3?p=tri"
+            selected>GMAT3 · GRUPO MATEUS S.A.</option>
+    
+    <option value="/valuation/GNDI3?p=tri"
+            >GNDI3 · NOTRE DAME INTERMÉDICA PARTICIPAÇÕ</option>
+    
+    <option value="/valuation/GOAU3?p=tri"
+            >GOAU3 · METALURGICA GERDAU SA</option>
+    
+    <option value="/valuation/GOLL4?p=tri"
+            >GOLL4 · GOL LINHAS AEREAS INTELIGENTES SA</option>
+    
+    <option value="/valuation/GPAR3?p=tri"
+            >GPAR3 · COMPANHIA CELG DE PARTICIPAÇÕES - </option>
+    
+    <option value="/valuation/GRAO3?p=tri"
+            >GRAO3 · HUMBERG AGRIBRASIL COMÉRCIO E EXPO</option>
+    
+    <option value="/valuation/GRND3?p=tri"
+            >GRND3 · GRENDENE SA</option>
+    
+    <option value="/valuation/GSHP3?p=tri"
+            >GSHP3 · GENERAL SHOPPING E OUTLETS DO BRAS</option>
+    
+    <option value="/valuation/GUAR3?p=tri"
+            >GUAR3 · GUARARAPES CONFECÇÕES SA</option>
+    
+    <option value="/valuation/HAPV3?p=tri"
+            >HAPV3 · HAPVIDA PARTICIPAÇÕES E INVESTIMEN</option>
+    
+    <option value="/valuation/HBOR3?p=tri"
+            >HBOR3 · HELBOR EMPREENDIMENTOS S/A</option>
+    
+    <option value="/valuation/HBRE3?p=tri"
+            >HBRE3 · HBR REALTY EMPREENDIMENTOS IMOBILI</option>
+    
+    <option value="/valuation/HBSA3?p=tri"
+            >HBSA3 · HIDROVIAS DO BRASIL S.A.</option>
+    
+    <option value="/valuation/HBTS5?p=tri"
+            >HBTS5 · COMPANHIIA HABITASUL DE PARTICIPAÇ</option>
+    
+    <option value="/valuation/HETA3?p=tri"
+            >HETA3 · HERCULES S/A - FABRICA DE TALHERES</option>
+    
+    <option value="/valuation/HGTX3?p=tri"
+            >HGTX3 · CIA HERING</option>
+    
+    <option value="/valuation/HMOB3?p=tri"
+            >HMOB3 · HMOBI PARTICIPAÇÕES S.A</option>
+    
+    <option value="/valuation/HOOT4?p=tri"
+            >HOOT4 · HOTEIS OTHON S.A. - EM RECUPERAÇÃO</option>
+    
+    <option value="/valuation/HYPE3?p=tri"
+            >HYPE3 · HYPERA S/A</option>
+    
+    <option value="/valuation/IDNT3?p=tri"
+            >IDNT3 · PADTEC HOLDING S.A.</option>
+    
+    <option value="/valuation/IDVL3?p=tri"
+            >IDVL3 · BANCO VOITER S.A.</option>
+    
+    <option value="/valuation/IFCM11?p=tri"
+            >IFCM11 · INFRACOMMERCE CXAAS S.A.</option>
+    
+    <option value="/valuation/IGBR3?p=tri"
+            >IGBR3 · IGB ELETRÔNICA S.A. - EM RECUPERAÇ</option>
+    
+    <option value="/valuation/IGTA3?p=tri"
+            >IGTA3 · IGUATEMI EMPRESA DE SHOPPING CENTE</option>
+    
+    <option value="/valuation/IGTI11?p=tri"
+            >IGTI11 · IGUATEMI S.A.</option>
+    
+    <option value="/valuation/INEP3?p=tri"
+            >INEP3 · INEPAR S.A. INDUSTRIA E CONSTRUCOE</option>
+    
+    <option value="/valuation/INNC3?p=tri"
+            >INNC3 · INC EMPREENDIMENTOS IMOBILIÁRIOS S</option>
+    
+    <option value="/valuation/INPR3?p=tri"
+            >INPR3 · VIVER INCORPORADORA E CONSTRUTORA </option>
+    
+    <option value="/valuation/INTB3?p=tri"
+            >INTB3 · INTELBRAS S.A. IND. DE TELECOMUNIC</option>
+    
+    <option value="/valuation/IRBR3?p=tri"
+            >IRBR3 · IRB - BRASIL RESSEGUROS S.A.</option>
+    
+    <option value="/valuation/ISAE3?p=tri"
+            >ISAE3 · ISA ENERGIA BRASIL S.A.</option>
+    
+    <option value="/valuation/ITEC3?p=tri"
+            >ITEC3 · ITAUTEC S.A. - GRUPO ITAUTEC</option>
+    
+    <option value="/valuation/ITSA3?p=tri"
+            >ITSA3 · ITAUSA S.A.</option>
+    
+    <option value="/valuation/ITUB3?p=tri"
+            >ITUB3 · ITAÚ UNIBANCO HOLDING S.A.</option>
+    
+    <option value="/valuation/IVPR3?p=tri"
+            >IVPR3 · INVESTIMENTOS E PARTICIP EM INFRA </option>
+    
+    <option value="/valuation/JALL3?p=tri"
+            >JALL3 · JALLES MACHADO S.A.</option>
+    
+    <option value="/valuation/JBSS3?p=tri"
+            >JBSS3 · JBS SA</option>
+    
+    <option value="/valuation/JFEN3?p=tri"
+            >JFEN3 · JOAO FORTES ENGENHARIA SA - EM REC</option>
+    
+    <option value="/valuation/JOPA3?p=tri"
+            >JOPA3 · JOSAPAR-JOAQUIM OLIVEIRA S.A. - PA</option>
+    
+    <option value="/valuation/JSLG11?p=tri"
+            >JSLG11 · JSL S.A.</option>
+    
+    <option value="/valuation/KEPL11?p=tri"
+            >KEPL11 · KEPLER WEBER SA</option>
+    
+    <option value="/valuation/KLAS3?p=tri"
+            >KLAS3 · KALLAS INCORPORAÇÕES E CONSTRUÇÕES</option>
+    
+    <option value="/valuation/KLBN11?p=tri"
+            >KLBN11 · KLABIN S.A.</option>
+    
+    <option value="/valuation/KRSA3?p=tri"
+            >KRSA3 · KORA SAÚDE PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/LAME3?p=tri"
+            >LAME3 · LOJAS AMERICANAS SA</option>
+    
+    <option value="/valuation/LAND3?p=tri"
+            >LAND3 · TERRA SANTA PROPRIEDADES AGRÍCOLAS</option>
+    
+    <option value="/valuation/LAVV3?p=tri"
+            >LAVV3 · LAVVI EMPREENDIMENTOS IMOBILIÁRIOS</option>
+    
+    <option value="/valuation/LCAM3?p=tri"
+            >LCAM3 · COMPANHIA DE LOCAÇÃO DAS AMERICAS</option>
+    
+    <option value="/valuation/LEVE3?p=tri"
+            >LEVE3 · MAHLE METAL LEVE S.A.</option>
+    
+    <option value="/valuation/LHER3?p=tri"
+            >LHER3 · LOJAS HERING SA</option>
+    
+    <option value="/valuation/LIGT3?p=tri"
+            >LIGT3 · LIGHT S.A. - EM RECUPERAÇÃO JUDICI</option>
+    
+    <option value="/valuation/LINX3?p=tri"
+            >LINX3 · LINX S.A.</option>
+    
+    <option value="/valuation/LIPR3?p=tri"
+            >LIPR3 · ELETROBRÁS PARTICIPAÇÕES S.A. - EL</option>
+    
+    <option value="/valuation/LIXC3?p=tri"
+            >LIXC3 · CONST LIX DA CUNHA SA</option>
+    
+    <option value="/valuation/LJQQ3?p=tri"
+            >LJQQ3 · LOJAS QUERO QUERO S.A.</option>
+    
+    <option value="/valuation/LLIS3?p=tri"
+            >LLIS3 · VESTE SA ESTILO</option>
+    
+    <option value="/valuation/LOAR11?p=tri"
+            >LOAR11 · KOSMOS COMÉRCIO DE VESTUÁRIO S/A -</option>
+    
+    <option value="/valuation/LOGG3?p=tri"
+            >LOGG3 · LOG COMMERCIAL PROPERTIES E PARTIC</option>
+    
+    <option value="/valuation/LOGN3?p=tri"
+            >LOGN3 · LOG-IN LOGISTICA INTERMODAL SA</option>
+    
+    <option value="/valuation/LPSB3?p=tri"
+            >LPSB3 · LPS BRASIL CONSULTORIA DE IMOVEIS </option>
+    
+    <option value="/valuation/LREN3?p=tri"
+            >LREN3 · LOJAS RENNER SA</option>
+    
+    <option value="/valuation/LUPA3?p=tri"
+            >LUPA3 · LUPATECH S.A.</option>
+    
+    <option value="/valuation/LWSA3?p=tri"
+            >LWSA3 · LWSA S/A</option>
+    
+    <option value="/valuation/MAGG3?p=tri"
+            >MAGG3 · MAGNESITA REFRATARIOS S.A.</option>
+    
+    <option value="/valuation/MATD3?p=tri"
+            >MATD3 · HOSPITAL MATER DEI S.A.</option>
+    
+    <option value="/valuation/MBLY12?p=tri"
+            >MBLY12 · GRUPO TOKY S.A.</option>
+    
+    <option value="/valuation/MDIA3?p=tri"
+            >MDIA3 · M. DIAS BRANCO SA IND E COM DE ALI</option>
+    
+    <option value="/valuation/MEAL3?p=tri"
+            >MEAL3 · INTERNATIONAL MEAL COMPANY ALIMENT</option>
+    
+    <option value="/valuation/MEGA3?p=tri"
+            >MEGA3 · SERENA ENERGIA S.A.</option>
+    
+    <option value="/valuation/MELK3?p=tri"
+            >MELK3 · MELNICK DESENVOLVIMENTO IMOBILIÁRI</option>
+    
+    <option value="/valuation/MEND3?p=tri"
+            >MEND3 · MENDES JUNIOR ENGENHARIA SA</option>
+    
+    <option value="/valuation/MERC3?p=tri"
+            >MERC3 · MERCANTIL FINANCEIRA S.A. CRÉDITO,</option>
+    
+    <option value="/valuation/MGEL3?p=tri"
+            >MGEL3 · MANGELS INDUSTRIAL S.A.</option>
+    
+    <option value="/valuation/MGLU3?p=tri"
+            >MGLU3 · MAGAZINE LUIZA SA</option>
+    
+    <option value="/valuation/MILS3?p=tri"
+            >MILS3 · MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTIC</option>
+    
+    <option value="/valuation/MITG03?p=tri"
+            >MITG03 · METALGRAFICA IGUACU SA</option>
+    
+    <option value="/valuation/MLAS3?p=tri"
+            >MLAS3 · GRUPO MULTILASER S.A.</option>
+    
+    <option value="/valuation/MMAQ3?p=tri"
+            >MMAQ3 · MINASMAQUINAS SA</option>
+    
+    <option value="/valuation/MMXM3?p=tri"
+            >MMXM3 · MASSA FALIDA DA MMX MINERACAO E ME</option>
+    
+    <option value="/valuation/MNDL3?p=tri"
+            >MNDL3 · MUNDIAL S.A - PRODUTOS DE CONSUMO</option>
+    
+    <option value="/valuation/MNPR3?p=tri"
+            >MNPR3 · MINUPAR PARTICIPACOES SA</option>
+    
+    <option value="/valuation/MNZC3?p=tri"
+            >MNZC3 · TERMINAL GARAGEM MENEZES CORTES SA</option>
+    
+    <option value="/valuation/MOAR3?p=tri"
+            >MOAR3 · MONTEIRO ARANHA SA</option>
+    
+    <option value="/valuation/MODL11?p=tri"
+            >MODL11 · BANCO MODAL S.A.</option>
+    
+    <option value="/valuation/MOSI3?p=tri"
+            >MOSI3 · MOSAICO TECNOLOGIA AO CONSUMIDOR S</option>
+    
+    <option value="/valuation/MOVI11?p=tri"
+            >MOVI11 · MOVIDA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/MPLU3?p=tri"
+            >MPLU3 · MULTIPLUS SA</option>
+    
+    <option value="/valuation/MRFG3?p=tri"
+            >MRFG3 · MARFRIG GLOBAL FOODS SA</option>
+    
+    <option value="/valuation/MRSA3?p=tri"
+            >MRSA3 · MRS LOGÍSTICA S/A</option>
+    
+    <option value="/valuation/MRVE3?p=tri"
+            >MRVE3 · MRV ENGENHARIA E PARTICIPAÇÕES S/A</option>
+    
+    <option value="/valuation/MSPA3?p=tri"
+            >MSPA3 · COMPANHIA  MELHORAMENTOS DE SÃO PA</option>
+    
+    <option value="/valuation/MSRO3?p=tri"
+            >MSRO3 · MAESTRO LOCADORA DE VEÍCULOS S.A.</option>
+    
+    <option value="/valuation/MTRE3?p=tri"
+            >MTRE3 · MITRE REALTY EMPREENDIMENTOS E PAR</option>
+    
+    <option value="/valuation/MTSA3?p=tri"
+            >MTSA3 · METISA METALÚRGICA  TIMBOENSE SA</option>
+    
+    <option value="/valuation/MULT3?p=tri"
+            >MULT3 · MULTIPLAN - EMPREEND IMOBILIARIOS </option>
+    
+    <option value="/valuation/MWET3?p=tri"
+            >MWET3 · WETZEL S.A.</option>
+    
+    <option value="/valuation/MYPK3?p=tri"
+            >MYPK3 · IOCHPE MAXION SA</option>
+    
+    <option value="/valuation/NAFG3?p=tri"
+            >NAFG3 · NADIR FIGUEIREDO S.A</option>
+    
+    <option value="/valuation/NATU3?p=tri"
+            >NATU3 · NATURA COSMETICOS SA</option>
+    
+    <option value="/valuation/NEMO3?p=tri"
+            >NEMO3 · SUZANO HOLDING S.A.</option>
+    
+    <option value="/valuation/NEOE3?p=tri"
+            >NEOE3 · NEOENERGIA S.A</option>
+    
+    <option value="/valuation/NGRD3?p=tri"
+            >NGRD3 · NEOGRID PARTICIPACÕES S.A.</option>
+    
+    <option value="/valuation/NRTQ3?p=tri"
+            >NRTQ3 · NORTEC QUIMICA S.A.</option>
+    
+    <option value="/valuation/NTCO3?p=tri"
+            >NTCO3 · NATURA &amp; CO HOLDING S.A.</option>
+    
+    <option value="/valuation/NUTR3?p=tri"
+            >NUTR3 · NUTRIPLANT INDUSTRIA E COMÉRCIO S/</option>
+    
+    <option value="/valuation/ODER3?p=tri"
+            >ODER3 · CONSERVAS ODERICH SA</option>
+    
+    <option value="/valuation/ODPV3?p=tri"
+            >ODPV3 · BRADSAÚDE S.A.</option>
+    
+    <option value="/valuation/OFSA3?p=tri"
+            >OFSA3 · OUROFINO S.A.</option>
+    
+    <option value="/valuation/OGXP3?p=tri"
+            >OGXP3 · ÓLEO E GÁS PARTICIPAÇÕES S/A</option>
+    
+    <option value="/valuation/OIBR3?p=tri"
+            >OIBR3 · OI S.A. - EM RECUPERAÇÃO JUDICIAL</option>
+    
+    <option value="/valuation/OMGE3?p=tri"
+            >OMGE3 · SERENA GERAÇÃO S.A.</option>
+    
+    <option value="/valuation/ONCO3?p=tri"
+            >ONCO3 · ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉ</option>
+    
+    <option value="/valuation/OPCT3?p=tri"
+            >OPCT3 · OCEANPACT SERVIÇOS MARÍTIMOS S.A.</option>
+    
+    <option value="/valuation/OPGM3?p=tri"
+            >OPGM3 · GAMA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/OPSE3?p=tri"
+            >OPSE3 · SUDESTE SA</option>
+    
+    <option value="/valuation/OPTS3?p=tri"
+            >OPTS3 · SUL 116 PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/ORVR3?p=tri"
+            >ORVR3 · ORIZON VALORIZAÇÃO DE RESÍDUOS S.A</option>
+    
+    <option value="/valuation/OSXB3?p=tri"
+            >OSXB3 · OSX BRASIL S.A. - EM RECUPERAÇÃO J</option>
+    
+    <option value="/valuation/PACF3?p=tri"
+            >PACF3 · PACIFIC RDSL PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/PARD3?p=tri"
+            >PARD3 · INSTITUTO HERMES PARDINI S/A</option>
+    
+    <option value="/valuation/PASS3?p=tri"
+            >PASS3 · COMPASS GÁS E ENERGIA S.A.</option>
+    
+    <option value="/valuation/PATI3?p=tri"
+            >PATI3 · PANATLANTICA SA</option>
+    
+    <option value="/valuation/PCAR3?p=tri"
+            >PCAR3 · COMPANHIA BRASILEIRA DE DISTRIBUIÇ</option>
+    
+    <option value="/valuation/PDGR3?p=tri"
+            >PDGR3 · PDG REALTY S.A. EMPREEND E PARTICI</option>
+    
+    <option value="/valuation/PEAB3?p=tri"
+            >PEAB3 · CIA DE PARTICIPAÇÕES ALIANÇA DA BA</option>
+    
+    <option value="/valuation/PETR3?p=tri"
+            >PETR3 · PETRÓLEO BRASILEIRO  S.A.  - PETRO</option>
+    
+    <option value="/valuation/PETZ3?p=tri"
+            >PETZ3 · PET CENTER COMÉRCIO E PARTICIPAÇÕE</option>
+    
+    <option value="/valuation/PFRM3?p=tri"
+            >PFRM3 · PROFARMA DISTRIB PROD FARMACEUTICO</option>
+    
+    <option value="/valuation/PGMN3?p=tri"
+            >PGMN3 · EMPREENDIMENTOS PAGUE MENOS SA</option>
+    
+    <option value="/valuation/PINE3?p=tri"
+            >PINE3 · BANCO PINE S/A</option>
+    
+    <option value="/valuation/PLPL3?p=tri"
+            >PLPL3 · PLANO &amp; PLANO DESENVOLVIMENTO IMOB</option>
+    
+    <option value="/valuation/PMAM3?p=tri"
+            >PMAM3 · PARANAPANEMA S.A. - EM RECUPERAÇÃO</option>
+    
+    <option value="/valuation/PNVL3?p=tri"
+            >PNVL3 · DIMED SA DISTRIBUIDORA DE MEDICAME</option>
+    
+    <option value="/valuation/POMO3?p=tri"
+            >POMO3 · MARCOPOLO SA</option>
+    
+    <option value="/valuation/PORT3?p=tri"
+            >PORT3 · WILSON SONS S.A.</option>
+    
+    <option value="/valuation/POSI3?p=tri"
+            >POSI3 · POSITIVO TECNOLOGIA S.A.</option>
+    
+    <option value="/valuation/POWE3?p=tri"
+            >POWE3 · FOCUS ENERGIA HOLDING PARTICIPAÇÕE</option>
+    
+    <option value="/valuation/PPAR3?p=tri"
+            >PPAR3 · POLPAR S.A.</option>
+    
+    <option value="/valuation/PRBC4?p=tri"
+            >PRBC4 · PARANA BANCO S.A.</option>
+    
+    <option value="/valuation/PRML3?p=tri"
+            >PRML3 · PRUMO LOGÍSTICA S.A.</option>
+    
+    <option value="/valuation/PRPT3?p=tri"
+            >PRPT3 · PROMPT PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/PSSA3?p=tri"
+            >PSSA3 · PORTO SEGURO SA</option>
+    
+    <option value="/valuation/PTBL3?p=tri"
+            >PTBL3 · PBG S/A</option>
+    
+    <option value="/valuation/PTCA11?p=tri"
+            >PTCA11 · PRÁTICA PRODUTOS S.A.</option>
+    
+    <option value="/valuation/PTNT3?p=tri"
+            >PTNT3 · PETTENATI S.A. INDUSTRIA TEXTIL</option>
+    
+    <option value="/valuation/QUAL3?p=tri"
+            >QUAL3 · QUALICORP CONSULTORIA E CORRETORA </option>
+    
+    <option value="/valuation/QUSW3?p=tri"
+            >QUSW3 · QUALITY SOFTWARE S.A.</option>
+    
+    <option value="/valuation/QVQP3?p=tri"
+            >QVQP3 · 524 PARTICIPAÇOES SA</option>
+    
+    <option value="/valuation/RADL3?p=tri"
+            >RADL3 · RAIA DROGASIL S.A.</option>
+    
+    <option value="/valuation/RAIL3?p=tri"
+            >RAIL3 · RUMO S.A.</option>
+    
+    <option value="/valuation/RAIZ4?p=tri"
+            >RAIZ4 · RAÍZEN S.A.</option>
+    
+    <option value="/valuation/RANI3?p=tri"
+            >RANI3 · IRANI PAPEL E EMBALAGEM S.A.</option>
+    
+    <option value="/valuation/RAPT3?p=tri"
+            >RAPT3 · RANDONCORP S.A.</option>
+    
+    <option value="/valuation/RCSL3?p=tri"
+            >RCSL3 · RECRUSUL SA</option>
+    
+    <option value="/valuation/RDNI3?p=tri"
+            >RDNI3 · RNI NEGÓCIOS IMOBILIÁRIOS S.A.</option>
+    
+    <option value="/valuation/RDOR3?p=tri"
+            >RDOR3 · REDE D&#39;OR SÃO LUIZ S.A.</option>
+    
+    <option value="/valuation/RECV3?p=tri"
+            >RECV3 · PETRORECÔNCAVO S.A.</option>
+    
+    <option value="/valuation/REDE3?p=tri"
+            >REDE3 · REDE ENERGIA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/RENT3?p=tri"
+            >RENT3 · LOCALIZA RENT A CAR SA</option>
+    
+    <option value="/valuation/RIOS3?p=tri"
+            >RIOS3 · RIO ALTO ENERGIAS RENOVÁVEIS S.A. </option>
+    
+    <option value="/valuation/RLOG3?p=tri"
+            >RLOG3 · COSAN LOGÍSTICA S.A.</option>
+    
+    <option value="/valuation/RNEW11?p=tri"
+            >RNEW11 · RENOVA ENERGIA S.A.</option>
+    
+    <option value="/valuation/ROMI3?p=tri"
+            >ROMI3 · ROMI S.A.</option>
+    
+    <option value="/valuation/RPAD3?p=tri"
+            >RPAD3 · ALFA HOLDINGS S.A.</option>
+    
+    <option value="/valuation/RPMG3?p=tri"
+            >RPMG3 · REFINARIA DE PETRÓLEOS DE MANGUINH</option>
+    
+    <option value="/valuation/RSID3?p=tri"
+            >RSID3 · ROSSI RESIDENCIAL S.A. - EM RECUPE</option>
+    
+    <option value="/valuation/RSUL3?p=tri"
+            >RSUL3 · METALURGICA RIOSULENSE SA</option>
+    
+    <option value="/valuation/RVEE3?p=tri"
+            >RVEE3 · REVEE S.A.</option>
+    
+    <option value="/valuation/SALT3?p=tri"
+            >SALT3 · GRUPO SALTA EDUCAÇÃO S.A.</option>
+    
+    <option value="/valuation/SANB11?p=tri"
+            >SANB11 · BANCO SANTANDER (BRASIL) S.A.</option>
+    
+    <option value="/valuation/SAPR11?p=tri"
+            >SAPR11 · CIA. DE SANEAMENTO DO PARANÁ - SAN</option>
+    
+    <option value="/valuation/SBIO11?p=tri"
+            >SBIO11 · SMARTFIT ESCOLA DE GINÁSTICA E DAN</option>
+    
+    <option value="/valuation/SBSP3?p=tri"
+            >SBSP3 · CIA SANEAMENTO BÁSICO ESTADO SÃO P</option>
+    
+    <option value="/valuation/SCAR3?p=tri"
+            >SCAR3 · SAO CARLOS EMPREEND E PARTICIPACOE</option>
+    
+    <option value="/valuation/SEDU3?p=tri"
+            >SEDU3 · SOMOS EDUCAÇÃO S.A.</option>
+    
+    <option value="/valuation/SEER3?p=tri"
+            >SEER3 · SER EDUCACIONAL S.A.</option>
+    
+    <option value="/valuation/SEQL3?p=tri"
+            >SEQL3 · SEQUOIA LOGÍSTICA E TRANSPORTES S.</option>
+    
+    <option value="/valuation/SGPS3?p=tri"
+            >SGPS3 · SPRINGS GLOBAL PARTICIPAÇÕES S/A -</option>
+    
+    <option value="/valuation/SHOW3?p=tri"
+            >SHOW3 · T4F ENTRETENIMENTO SA</option>
+    
+    <option value="/valuation/SHUL3?p=tri"
+            >SHUL3 · SCHULZ SA</option>
+    
+    <option value="/valuation/SLED3?p=tri"
+            >SLED3 · SARAIVA LIVREIROS S.A. - FALIDA</option>
+    
+    <option value="/valuation/SMLS3?p=tri"
+            >SMLS3 · SMILES FIDELIDADE S.A.</option>
+    
+    <option value="/valuation/SMTO3?p=tri"
+            >SMTO3 · SÃO MARTINHO SA</option>
+    
+    <option value="/valuation/SNSL3?p=tri"
+            >SNSL3 · SINQIA S.A.</option>
+    
+    <option value="/valuation/SNSY3?p=tri"
+            >SNSY3 · SANSUY SA INDÚSTRIA  DE PLASTICOS</option>
+    
+    <option value="/valuation/SOJA3?p=tri"
+            >SOJA3 · BOA SAFRA SEMENTES S.A</option>
+    
+    <option value="/valuation/SOMA3?p=tri"
+            >SOMA3 · GRUPO DE MODA SOMA S.A.</option>
+    
+    <option value="/valuation/SOND3?p=tri"
+            >SOND3 · SONDOTECNICA ENGENHARIA SOLOS S.A.</option>
+    
+    <option value="/valuation/SPRI3?p=tri"
+            >SPRI3 · SPRINGER SA</option>
+    
+    <option value="/valuation/STBP11?p=tri"
+            >STBP11 · SANTOS BRASIL PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/STBR11?p=tri"
+            >STBR11 · NUMERAL 80 PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/STKF3?p=tri"
+            >STKF3 · STATKRAFT ENERGIAS RENOVÁVEIS S.A.</option>
+    
+    <option value="/valuation/SULA11?p=tri"
+            >SULA11 · SUL AMERICA S/A</option>
+    
+    <option value="/valuation/TAEE11?p=tri"
+            >TAEE11 · TRANSMISSORA ALIANÇA DE ENERGIA EL</option>
+    
+    <option value="/valuation/TCNO3?p=tri"
+            >TCNO3 · MASSA FALIDA DE TECNOSOLO ENGENHAR</option>
+    
+    <option value="/valuation/TCSA3?p=tri"
+            >TCSA3 · TECNISA S/A</option>
+    
+    <option value="/valuation/TECN3?p=tri"
+            >TECN3 · TECHNOS SA</option>
+    
+    <option value="/valuation/TEKA3?p=tri"
+            >TEKA3 · TEKA TECELAGEM KUEHNRICH SA - EM R</option>
+    
+    <option value="/valuation/TELB3?p=tri"
+            >TELB3 · TELEC. BRASILEIRAS S.A. - TELEBRÁS</option>
+    
+    <option value="/valuation/TEND3?p=tri"
+            >TEND3 · CONSTRUTORA TENDA S/A</option>
+    
+    <option value="/valuation/TESA3?p=tri"
+            >TESA3 · TERRA SANTA AGRO S.A.</option>
+    
+    <option value="/valuation/TFCO4?p=tri"
+            >TFCO4 · TRACK &amp; FIELD CO S.A</option>
+    
+    <option value="/valuation/TGMA3?p=tri"
+            >TGMA3 · TEGMA GESTÃO LOGÍSTICA SA</option>
+    
+    <option value="/valuation/TIET11?p=tri"
+            >TIET11 · AES TIETÊ ENERGIA S.A</option>
+    
+    <option value="/valuation/TIMP3?p=tri"
+            >TIMP3 · TIM PARTICIPAÇÕES SA</option>
+    
+    <option value="/valuation/TIMS3?p=tri"
+            >TIMS3 · TIM S.A.</option>
+    
+    <option value="/valuation/TKNO3?p=tri"
+            >TKNO3 · TEKNO S.A. INDÚSTRIA E COMÉRCIO</option>
+    
+    <option value="/valuation/TOTS3?p=tri"
+            >TOTS3 · TOTVS S.A</option>
+    
+    <option value="/valuation/TOYB3?p=tri"
+            >TOYB3 · TEC TOY S/A</option>
+    
+    <option value="/valuation/TPIS3?p=tri"
+            >TPIS3 · TPI - TRIUNFO PARTICIPACOES E INVE</option>
+    
+    <option value="/valuation/TRAD3?p=tri"
+            >TRAD3 · TC S.A.</option>
+    
+    <option value="/valuation/TRIS3?p=tri"
+            >TRIS3 · TRISUL S/A</option>
+    
+    <option value="/valuation/TRPN3?p=tri"
+            >TRPN3 · TARPON INVESTIMENTOS S/A</option>
+    
+    <option value="/valuation/TRXR3?p=tri"
+            >TRXR3 · TÊXTIL RENAUXVIEW S/A</option>
+    
+    <option value="/valuation/TUPY3?p=tri"
+            >TUPY3 · TUPY SA</option>
+    
+    <option value="/valuation/UCAS3?p=tri"
+            >UCAS3 · UNICASA INDÚSTRIA DE MÓVEIS S.A.</option>
+    
+    <option value="/valuation/UGPA3?p=tri"
+            >UGPA3 · ULTRAPAR PARTICIPAÇÕES SA</option>
+    
+    <option value="/valuation/UNIP3?p=tri"
+            >UNIP3 · UNIPAR CARBOCLORO S.A.</option>
+    
+    <option value="/valuation/UPKP3?p=tri"
+            >UPKP3 · UPTICK PARTICIPACOES S.A. - EM LIQ</option>
+    
+    <option value="/valuation/USIM16?p=tri"
+            >USIM16 · USINAS SID DE MINAS GERAIS S.A.-US</option>
+    
+    <option value="/valuation/VALE3?p=tri"
+            >VALE3 · VALE S.A.</option>
+    
+    <option value="/valuation/VAMO3?p=tri"
+            >VAMO3 · VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUIN</option>
+    
+    <option value="/valuation/VBBR3?p=tri"
+            >VBBR3 · VIBRA ENERGIA S/A</option>
+    
+    <option value="/valuation/VITT3?p=tri"
+            >VITT3 · VITTIA S.A.</option>
+    
+    <option value="/valuation/VIVA3?p=tri"
+            >VIVA3 · VIVARA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/valuation/VIVT3?p=tri"
+            >VIVT3 · TELEFÔNICA BRASIL S.A.</option>
+    
+    <option value="/valuation/VLID3?p=tri"
+            >VLID3 · VALID SOLUÇÕES S.A.</option>
+    
+    <option value="/valuation/VSPT3?p=tri"
+            >VSPT3 · FERROVIA CENTRO-ATLANTICA S.A.</option>
+    
+    <option value="/valuation/VTRU3?p=tri"
+            >VTRU3 · VITRU EDUCAÇÃO S.A.</option>
+    
+    <option value="/valuation/VULC3?p=tri"
+            >VULC3 · VULCABRAS S.A.</option>
+    
+    <option value="/valuation/VVEO3?p=tri"
+            >VVEO3 · CM HOSPITALAR S.A</option>
+    
+    <option value="/valuation/WEGE3?p=tri"
+            >WEGE3 · WEG SA</option>
+    
+    <option value="/valuation/WEST3?p=tri"
+            >WEST3 · WESTWING COMÉRCIO VAREJISTA S.A.</option>
+    
+    <option value="/valuation/WHRL3?p=tri"
+            >WHRL3 · WHIRLPOOL S.A</option>
+    
+    <option value="/valuation/WIZC3?p=tri"
+            >WIZC3 · WIZ CO PARTICIPAÇÕES E CORRETAGEM </option>
+    
+    <option value="/valuation/WLMM3?p=tri"
+            >WLMM3 · WLM PART. E COMÉRCIO DE MÁQUINAS E</option>
+    
+    <option value="/valuation/YBRA3?p=tri"
+            >YBRA3 · YBYRA CAPITAL S.A</option>
+    
+    <option value="/valuation/YOUC3?p=tri"
+            >YOUC3 · YOU INC INCORPORADORA E PARTICIPAÇ</option>
+    
+  </select>
+  
+</div>
+
+<div class="emp-head">
+  <div class="emp-mono">GM</div>
+  <div>
+    <div class="nm">GRUPO MATEUS S.A.
+      <span class="tag">Emp. Adm. Part. - Comércio (Atacado e Varejo)</span>
+      
+      <span class="tag up"
+            title="Planilha de RI + demonstração auditada na CVM">B3 · CVM</span>
+      
+    </div>
+    <div class="mt mono">
+      GMAT3 · 16 linhas × 27 períodos
+      · BRL
+      · CVM
+    </div>
+  </div>
+  <div class="toggle">
+    <a href="/projecao/GMAT3" style="border-color:var(--acc);color:var(--acc)">Projetar →</a>
+    <a href="/valuation/GMAT3?p=tri" class="on">Trimestral</a>
+    <a href="/valuation/GMAT3?p=anual" class="">Anual</a>
+    <a href="/valuation/GMAT3?p=tudo" class="">Tudo</a>
+  </div>
+</div>
+
+
+<div class="note" style="margin-bottom:14px">
+  <b>Modelo genérico do setor.</b> Esta companhia está no <b>universo</b>, não na
+  carteira: a estrutura abaixo é a típica de Emp. Adm. Part. - Comércio (Atacado e Varejo), não uma análise dela.
+  Serve para enquadrar os números — a tese específica e o driver físico exigem a
+  planilha de RI da companhia, ainda não mapeada.
+</div>
+
+<div class="eq">Receita = lojas × receita por loja (ou vendas mesmas lojas)</div>
+
+
+<div class="note" style="margin-bottom:14px"><b>Atenção:</b> Vendas mesmas lojas separam crescimento orgânico de abertura de loja — sem isso a receita cresce escondendo maturação fraca.</div>
+
+
+
+<article class="panel" style="padding:0;margin-bottom:14px">
+  <h2 style="padding:12px 14px 0">Grade de dados
+    <span class="h">série reportada pela companhia, agrupada pelo papel no modelo</span></h2>
+  
+  <div class="grade scrim">
+    <table>
+      <thead>
+        <tr>
+          <th class="lbl">Linha</th>
+          <th class="">4T2019</th><th class="">1T2020</th><th class="">2T2020</th><th class="">3T2020</th><th class="">4T2020</th><th class="">1T2021</th><th class="">2T2021</th><th class="">3T2021</th><th class="">4T2021</th><th class="">1T2022</th><th class="">2T2022</th><th class="">3T2022</th><th class="">4T2022</th><th class="">1T2023</th><th class="">2T2023</th><th class="">3T2023</th><th class="">4T2023</th><th class="">1T2024</th><th class="">2T2024</th><th class="">3T2024</th><th class="">4T2024</th><th class="">1T2025</th><th class="">2T2025</th><th class="">3T2025</th><th class="">4T2025</th><th class="">1T2026</th><th class="">2T2026</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr class="sec">
+          <td colspan="28">
+            <div class="lbl-sec">Receita<span>Total e composição</span></div>
+          </td>
+        </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Receita líquida · Receita de Venda de Bens e/ou Serviços · último trimestre derivado (DFP − ITRs)">Receita líquida<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Receita líquida"><title>Tendência de Receita líquida</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="5.1,16.8 9.2,16.3 13.2,14.6 17.3,14.6 21.4,15.1 25.5,14.5 29.5,13.4 33.6,13.2 37.7,13.0 41.8,11.9 45.8,10.6 49.9,10.4 54.0,10.7 58.1,9.8 62.2,8.9 66.2,7.8 70.3,8.1 74.4,7.6 78.5,6.4 82.5,5.7 86.6,6.4 90.7,5.6 94.8,2.2 98.8,2.5 102.9,4.6 107.0,3.8"/><circle cx="107.0" cy="3.8" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  up">R$ 2,4 bi</td>
+            
+            <td class="v  up">R$ 2,7 bi</td>
+            
+            <td class="v  up">R$ 3,6 bi</td>
+            
+            <td class="v  up">R$ 3,6 bi</td>
+            
+            <td class="v  up">R$ 3,4 bi</td>
+            
+            <td class="v  up">R$ 3,7 bi</td>
+            
+            <td class="v  up">R$ 4,3 bi</td>
+            
+            <td class="v  up">R$ 4,4 bi</td>
+            
+            <td class="v  up">R$ 4,6 bi</td>
+            
+            <td class="v  up">R$ 5,2 bi</td>
+            
+            <td class="v  up">R$ 5,9 bi</td>
+            
+            <td class="v  up">R$ 6,1 bi</td>
+            
+            <td class="v  up">R$ 5,9 bi</td>
+            
+            <td class="v  up">R$ 6,4 bi</td>
+            
+            <td class="v  up">R$ 6,9 bi</td>
+            
+            <td class="v  up">R$ 7,5 bi</td>
+            
+            <td class="v  up">R$ 7,4 bi</td>
+            
+            <td class="v  up">R$ 7,6 bi</td>
+            
+            <td class="v  up">R$ 8,3 bi</td>
+            
+            <td class="v  up">R$ 8,7 bi</td>
+            
+            <td class="v  up">R$ 8,3 bi</td>
+            
+            <td class="v  up">R$ 8,8 bi</td>
+            
+            <td class="v  up">R$ 10,8 bi</td>
+            
+            <td class="v  up">R$ 10,5 bi</td>
+            
+            <td class="v  up">R$ 9,4 bi</td>
+            
+            <td class="v  up">R$ 9,9 bi</td>
+            
+          </tr>
+          
+        
+        <tr class="sec">
+          <td colspan="28">
+            <div class="lbl-sec">Resultado<span>Da receita ao lucro</span></div>
+          </td>
+        </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Custo dos produtos/serviços vendidos · Custo dos Bens e/ou Serviços Vendidos · último trimestre derivado (DFP − ITRs)">Custo dos produtos/serviços vendidos<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Custo dos produtos/serviços vendidos"><title>Tendência de Custo dos produtos/serviços vendidos</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="5.1,2.4 9.2,2.8 13.2,4.9 17.3,4.9 21.4,4.3 25.5,5.1 29.5,6.2 33.6,6.6 37.7,6.9 41.8,8.1 45.8,9.6 49.9,10.0 54.0,9.7 58.1,10.7 62.2,11.7 66.2,12.9 70.3,12.5 74.4,13.0 78.5,14.4 82.5,15.1 86.6,14.3 90.7,15.2 94.8,19.6 98.8,18.9 102.9,16.5 107.0,17.2"/><circle cx="107.0" cy="17.2" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  down">-R$ 1,8 bi</td>
+            
+            <td class="v  down">-R$ 2,0 bi</td>
+            
+            <td class="v  down">-R$ 2,8 bi</td>
+            
+            <td class="v  down">-R$ 2,8 bi</td>
+            
+            <td class="v  down">-R$ 2,6 bi</td>
+            
+            <td class="v  down">-R$ 2,9 bi</td>
+            
+            <td class="v  down">-R$ 3,3 bi</td>
+            
+            <td class="v  down">-R$ 3,4 bi</td>
+            
+            <td class="v  down">-R$ 3,6 bi</td>
+            
+            <td class="v  down">-R$ 4,0 bi</td>
+            
+            <td class="v  down">-R$ 4,6 bi</td>
+            
+            <td class="v  down">-R$ 4,8 bi</td>
+            
+            <td class="v  down">-R$ 4,6 bi</td>
+            
+            <td class="v  down">-R$ 5,0 bi</td>
+            
+            <td class="v  down">-R$ 5,4 bi</td>
+            
+            <td class="v  down">-R$ 5,9 bi</td>
+            
+            <td class="v  down">-R$ 5,7 bi</td>
+            
+            <td class="v  down">-R$ 5,9 bi</td>
+            
+            <td class="v  down">-R$ 6,4 bi</td>
+            
+            <td class="v  down">-R$ 6,7 bi</td>
+            
+            <td class="v  down">-R$ 6,4 bi</td>
+            
+            <td class="v  down">-R$ 6,8 bi</td>
+            
+            <td class="v  down">-R$ 8,5 bi</td>
+            
+            <td class="v  down">-R$ 8,2 bi</td>
+            
+            <td class="v  down">-R$ 7,3 bi</td>
+            
+            <td class="v  down">-R$ 7,5 bi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Lucro bruto · Resultado Bruto · último trimestre derivado (DFP − ITRs)">Lucro bruto<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Lucro bruto"><title>Tendência de Lucro bruto</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="5.1,16.4 9.2,15.3 13.2,14.3 17.3,14.2 21.4,14.6 25.5,14.1 29.5,12.8 33.6,13.1 37.7,12.9 41.8,11.7 45.8,10.6 49.9,10.8 54.0,11.2 58.1,9.9 62.2,8.9 66.2,7.9 70.3,7.9 74.4,7.4 78.5,6.0 82.5,5.1 86.6,5.8 90.7,4.9 94.8,2.8 98.8,2.1 102.9,3.9 107.0,2.6"/><circle cx="107.0" cy="2.6" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  up">R$ 584,3 mi</td>
+            
+            <td class="v  up">R$ 713,1 mi</td>
+            
+            <td class="v  up">R$ 837,7 mi</td>
+            
+            <td class="v  up">R$ 854,3 mi</td>
+            
+            <td class="v  up">R$ 802,1 mi</td>
+            
+            <td class="v  up">R$ 862,6 mi</td>
+            
+            <td class="v  up">R$ 1,0 bi</td>
+            
+            <td class="v  up">R$ 999,8 mi</td>
+            
+            <td class="v  up">R$ 1,0 bi</td>
+            
+            <td class="v  up">R$ 1,2 bi</td>
+            
+            <td class="v  up">R$ 1,3 bi</td>
+            
+            <td class="v  up">R$ 1,3 bi</td>
+            
+            <td class="v  up">R$ 1,2 bi</td>
+            
+            <td class="v  up">R$ 1,4 bi</td>
+            
+            <td class="v  up">R$ 1,5 bi</td>
+            
+            <td class="v  up">R$ 1,6 bi</td>
+            
+            <td class="v  up">R$ 1,6 bi</td>
+            
+            <td class="v  up">R$ 1,7 bi</td>
+            
+            <td class="v  up">R$ 1,9 bi</td>
+            
+            <td class="v  up">R$ 2,0 bi</td>
+            
+            <td class="v  up">R$ 1,9 bi</td>
+            
+            <td class="v  up">R$ 2,0 bi</td>
+            
+            <td class="v  up">R$ 2,3 bi</td>
+            
+            <td class="v  up">R$ 2,4 bi</td>
+            
+            <td class="v  up">R$ 2,2 bi</td>
+            
+            <td class="v  up">R$ 2,3 bi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Despesas operacionais · Despesas/Receitas Operacionais · último trimestre derivado (DFP − ITRs)">Despesas operacionais<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Despesas operacionais"><title>Tendência de Despesas operacionais</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="5.1,2.4 9.2,2.8 13.2,3.8 17.3,4.7 21.4,4.5 25.5,4.8 29.5,6.3 33.6,5.9 37.7,6.5 41.8,7.1 45.8,8.0 49.9,7.3 54.0,8.0 58.1,8.8 62.2,10.2 66.2,10.1 70.3,11.7 74.4,11.9 78.5,12.4 82.5,13.1 86.6,13.2 90.7,13.9 94.8,16.1 98.8,19.6 102.9,17.8 107.0,18.3"/><circle cx="107.0" cy="18.3" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  down">-R$ 440,8 mi</td>
+            
+            <td class="v  down">-R$ 477,7 mi</td>
+            
+            <td class="v  down">-R$ 561,7 mi</td>
+            
+            <td class="v  down">-R$ 639,6 mi</td>
+            
+            <td class="v  down">-R$ 620,6 mi</td>
+            
+            <td class="v  down">-R$ 647,6 mi</td>
+            
+            <td class="v  down">-R$ 777,8 mi</td>
+            
+            <td class="v  down">-R$ 740,3 mi</td>
+            
+            <td class="v  down">-R$ 792,5 mi</td>
+            
+            <td class="v  down">-R$ 847,9 mi</td>
+            
+            <td class="v  down">-R$ 926,0 mi</td>
+            
+            <td class="v  down">-R$ 867,3 mi</td>
+            
+            <td class="v  down">-R$ 926,9 mi</td>
+            
+            <td class="v  down">-R$ 987,8 mi</td>
+            
+            <td class="v  down">-R$ 1,1 bi</td>
+            
+            <td class="v  down">-R$ 1,1 bi</td>
+            
+            <td class="v  down">-R$ 1,2 bi</td>
+            
+            <td class="v  down">-R$ 1,3 bi</td>
+            
+            <td class="v  down">-R$ 1,3 bi</td>
+            
+            <td class="v  down">-R$ 1,4 bi</td>
+            
+            <td class="v  down">-R$ 1,4 bi</td>
+            
+            <td class="v  down">-R$ 1,4 bi</td>
+            
+            <td class="v  down">-R$ 1,6 bi</td>
+            
+            <td class="v  down">-R$ 1,9 bi</td>
+            
+            <td class="v  down">-R$ 1,8 bi</td>
+            
+            <td class="v  down">-R$ 1,8 bi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Depreciação e amortização · Depreciação e amortização · trimestre por diferença de acumulados">Depreciação e amortização<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Depreciação e amortização"><title>Tendência de Depreciação e amortização</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="13.2,13.0 29.5,2.0 33.6,14.0 37.7,13.9 41.8,12.8 45.8,12.7 49.9,12.3 54.0,11.4 58.1,12.0 62.2,11.3 66.2,14.6 70.3,10.7 74.4,10.6 78.5,13.6 82.5,12.0 86.6,10.7 90.7,9.9 94.8,5.1 98.8,5.4 102.9,5.4 107.0,3.6"/><circle cx="107.0" cy="3.6" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  up">R$ 81,4 mi</td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  up">R$ 193,4 mi</td>
+            
+            <td class="v  up">R$ 71,6 mi</td>
+            
+            <td class="v  up">R$ 72,2 mi</td>
+            
+            <td class="v  up">R$ 83,7 mi</td>
+            
+            <td class="v  up">R$ 84,2 mi</td>
+            
+            <td class="v  up">R$ 89,0 mi</td>
+            
+            <td class="v  up">R$ 98,0 mi</td>
+            
+            <td class="v  up">R$ 92,1 mi</td>
+            
+            <td class="v  up">R$ 98,5 mi</td>
+            
+            <td class="v  up">R$ 64,7 mi</td>
+            
+            <td class="v  up">R$ 104,6 mi</td>
+            
+            <td class="v  up">R$ 105,8 mi</td>
+            
+            <td class="v  up">R$ 75,0 mi</td>
+            
+            <td class="v  up">R$ 91,4 mi</td>
+            
+            <td class="v  up">R$ 105,3 mi</td>
+            
+            <td class="v  up">R$ 113,1 mi</td>
+            
+            <td class="v  up">R$ 162,2 mi</td>
+            
+            <td class="v  up">R$ 159,0 mi</td>
+            
+            <td class="v  up">R$ 158,4 mi</td>
+            
+            <td class="v  up">R$ 177,7 mi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="EBIT · Resultado Antes do Resultado Financeiro e dos Tributos · último trimestre derivado (DFP − ITRs)">EBIT<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de EBIT"><title>Tendência de EBIT</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="5.1,17.0 9.2,14.4 13.2,13.3 17.3,15.0 21.4,15.9 25.5,15.0 29.5,13.7 33.6,13.7 37.7,14.6 41.8,11.9 45.8,10.1 49.9,9.2 54.0,12.2 58.1,9.4 62.2,9.4 66.2,5.8 70.3,9.6 74.4,8.2 78.5,4.5 82.5,3.1 86.6,5.7 90.7,4.4 94.8,2.2 98.8,8.3 102.9,10.2 107.0,6.9"/><circle cx="107.0" cy="6.9" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  up">R$ 143,6 mi</td>
+            
+            <td class="v  up">R$ 235,4 mi</td>
+            
+            <td class="v  up">R$ 276,0 mi</td>
+            
+            <td class="v  up">R$ 214,7 mi</td>
+            
+            <td class="v  up">R$ 181,5 mi</td>
+            
+            <td class="v  up">R$ 215,1 mi</td>
+            
+            <td class="v  up">R$ 260,1 mi</td>
+            
+            <td class="v  up">R$ 259,5 mi</td>
+            
+            <td class="v  up">R$ 229,8 mi</td>
+            
+            <td class="v  up">R$ 326,1 mi</td>
+            
+            <td class="v  up">R$ 388,2 mi</td>
+            
+            <td class="v  up">R$ 421,2 mi</td>
+            
+            <td class="v  up">R$ 313,0 mi</td>
+            
+            <td class="v  up">R$ 413,6 mi</td>
+            
+            <td class="v  up">R$ 414,0 mi</td>
+            
+            <td class="v  up">R$ 542,0 mi</td>
+            
+            <td class="v  up">R$ 405,5 mi</td>
+            
+            <td class="v  up">R$ 457,4 mi</td>
+            
+            <td class="v  up">R$ 589,0 mi</td>
+            
+            <td class="v  up">R$ 639,0 mi</td>
+            
+            <td class="v  up">R$ 544,7 mi</td>
+            
+            <td class="v  up">R$ 591,8 mi</td>
+            
+            <td class="v  up">R$ 671,1 mi</td>
+            
+            <td class="v  up">R$ 453,5 mi</td>
+            
+            <td class="v  up">R$ 384,6 mi</td>
+            
+            <td class="v  up">R$ 503,9 mi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Resultado financeiro líquido · Resultado Financeiro · último trimestre derivado (DFP − ITRs)">Resultado financeiro líquido<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Resultado financeiro líquido"><title>Tendência de Resultado financeiro líquido</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="5.1,3.1 9.2,3.7 13.2,3.3 17.3,2.4 21.4,2.4 25.5,2.4 29.5,3.7 33.6,2.9 37.7,2.7 41.8,4.5 45.8,6.4 49.9,6.9 54.0,5.3 58.1,7.3 62.2,7.0 66.2,8.7 70.3,9.0 74.4,8.6 78.5,10.0 82.5,10.8 86.6,12.0 90.7,13.7 94.8,14.2 98.8,19.6 102.9,14.5 107.0,16.0"/><circle cx="107.0" cy="16.0" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  down">-R$ 35,6 mi</td>
+            
+            <td class="v  down">-R$ 46,2 mi</td>
+            
+            <td class="v  down">-R$ 39,1 mi</td>
+            
+            <td class="v  down">-R$ 24,3 mi</td>
+            
+            <td class="v  down">-R$ 24,8 mi</td>
+            
+            <td class="v  down">-R$ 24,5 mi</td>
+            
+            <td class="v  down">-R$ 46,7 mi</td>
+            
+            <td class="v  down">-R$ 32,6 mi</td>
+            
+            <td class="v  down">-R$ 29,1 mi</td>
+            
+            <td class="v  down">-R$ 58,6 mi</td>
+            
+            <td class="v  down">-R$ 90,8 mi</td>
+            
+            <td class="v  down">-R$ 98,5 mi</td>
+            
+            <td class="v  down">-R$ 72,8 mi</td>
+            
+            <td class="v  down">-R$ 104,1 mi</td>
+            
+            <td class="v  down">-R$ 100,0 mi</td>
+            
+            <td class="v  down">-R$ 128,4 mi</td>
+            
+            <td class="v  down">-R$ 132,7 mi</td>
+            
+            <td class="v  down">-R$ 126,7 mi</td>
+            
+            <td class="v  down">-R$ 149,8 mi</td>
+            
+            <td class="v  down">-R$ 162,8 mi</td>
+            
+            <td class="v  down">-R$ 181,3 mi</td>
+            
+            <td class="v  down">-R$ 209,1 mi</td>
+            
+            <td class="v  down">-R$ 218,5 mi</td>
+            
+            <td class="v  down">-R$ 306,8 mi</td>
+            
+            <td class="v  down">-R$ 222,1 mi</td>
+            
+            <td class="v  down">-R$ 247,3 mi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Resultado antes dos impostos (LAIR) · Resultado Antes dos Tributos sobre o Lucro · último trimestre derivado (DFP − ITRs)">Resultado antes dos impostos (LAIR)<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Resultado antes dos impostos (LAIR)"><title>Tendência de Resultado antes dos impostos (LAIR)</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="5.1,16.7 9.2,13.5 13.2,11.6 17.3,13.5 21.4,14.8 25.5,13.5 29.5,12.6 33.6,12.0 37.7,13.1 41.8,10.4 45.8,9.2 49.9,8.2 54.0,11.5 58.1,8.8 62.2,8.6 66.2,4.6 70.3,10.2 74.4,7.9 78.5,3.6 82.5,2.2 86.6,6.6 90.7,5.9 94.8,3.1 98.8,15.2 102.9,14.6 107.0,10.9"/><circle cx="107.0" cy="10.9" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  up">R$ 108,0 mi</td>
+            
+            <td class="v  up">R$ 189,2 mi</td>
+            
+            <td class="v  up">R$ 236,9 mi</td>
+            
+            <td class="v  up">R$ 190,5 mi</td>
+            
+            <td class="v  up">R$ 156,7 mi</td>
+            
+            <td class="v  up">R$ 190,6 mi</td>
+            
+            <td class="v  up">R$ 213,4 mi</td>
+            
+            <td class="v  up">R$ 226,8 mi</td>
+            
+            <td class="v  up">R$ 200,7 mi</td>
+            
+            <td class="v  up">R$ 267,5 mi</td>
+            
+            <td class="v  up">R$ 297,4 mi</td>
+            
+            <td class="v  up">R$ 322,7 mi</td>
+            
+            <td class="v  up">R$ 240,2 mi</td>
+            
+            <td class="v  up">R$ 309,5 mi</td>
+            
+            <td class="v  up">R$ 314,0 mi</td>
+            
+            <td class="v  up">R$ 413,6 mi</td>
+            
+            <td class="v  up">R$ 272,7 mi</td>
+            
+            <td class="v  up">R$ 330,7 mi</td>
+            
+            <td class="v  up">R$ 439,2 mi</td>
+            
+            <td class="v  up">R$ 476,2 mi</td>
+            
+            <td class="v  up">R$ 363,4 mi</td>
+            
+            <td class="v  up">R$ 382,8 mi</td>
+            
+            <td class="v  up">R$ 452,5 mi</td>
+            
+            <td class="v  up">R$ 146,7 mi</td>
+            
+            <td class="v  up">R$ 162,5 mi</td>
+            
+            <td class="v  up">R$ 256,6 mi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="IR e CSLL · Imposto de Renda e Contribuição Social sobre o Lucro · último trimestre derivado (DFP − ITRs)">IR e CSLL<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de IR e CSLL"><title>Tendência de IR e CSLL</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="5.1,16.5 9.2,16.5 13.2,16.5 17.3,16.4 21.4,16.5 25.5,16.5 29.5,16.5 33.6,17.1 37.7,16.5 41.8,16.6 45.8,16.7 49.9,16.9 54.0,16.5 58.1,17.0 62.2,16.5 66.2,17.4 70.3,17.6 74.4,16.6 78.5,18.6 82.5,19.6 86.6,18.1 90.7,17.7 94.8,2.4 98.8,9.5 102.9,15.4 107.0,17.0"/><circle cx="107.0" cy="17.0" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  up">R$ 0</td>
+            
+            <td class="v  up">R$ 0</td>
+            
+            <td class="v  down">-R$ 1,2 mi</td>
+            
+            <td class="v  up">R$ 3,0 mi</td>
+            
+            <td class="v  up">R$ 0</td>
+            
+            <td class="v  up">R$ 0</td>
+            
+            <td class="v  up">R$ 0</td>
+            
+            <td class="v  down">-R$ 18,8 mi</td>
+            
+            <td class="v  down">-R$ 1,5 mi</td>
+            
+            <td class="v  down">-R$ 3,4 mi</td>
+            
+            <td class="v  down">-R$ 6,5 mi</td>
+            
+            <td class="v  down">-R$ 12,1 mi</td>
+            
+            <td class="v  down">-R$ 541 mil</td>
+            
+            <td class="v  down">-R$ 16,2 mi</td>
+            
+            <td class="v  down">-R$ 383 mil</td>
+            
+            <td class="v  down">-R$ 25,5 mi</td>
+            
+            <td class="v  down">-R$ 32,4 mi</td>
+            
+            <td class="v  down">-R$ 3,4 mi</td>
+            
+            <td class="v  down">-R$ 60,0 mi</td>
+            
+            <td class="v  down">-R$ 88,2 mi</td>
+            
+            <td class="v  down">-R$ 44,8 mi</td>
+            
+            <td class="v  down">-R$ 33,6 mi</td>
+            
+            <td class="v  up">R$ 394,1 mi</td>
+            
+            <td class="v  up">R$ 196,3 mi</td>
+            
+            <td class="v  up">R$ 28,5 mi</td>
+            
+            <td class="v  down">-R$ 14,7 mi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Lucro líquido · Lucro/Prejuízo Consolidado do Período · último trimestre derivado (DFP − ITRs)">Lucro líquido<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Lucro líquido"><title>Tendência de Lucro líquido</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="5.1,18.6 9.2,16.8 13.2,15.8 17.3,16.7 21.4,17.5 25.5,16.8 29.5,16.3 33.6,16.4 37.7,16.6 41.8,15.2 45.8,14.6 49.9,14.1 54.0,15.7 58.1,14.5 62.2,14.1 66.2,12.4 70.3,15.7 74.4,13.8 78.5,12.6 82.5,12.4 86.6,14.0 90.7,13.3 94.8,2.3 98.8,13.4 102.9,16.8 107.0,15.7"/><circle cx="107.0" cy="15.7" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  up">R$ 108,0 mi</td>
+            
+            <td class="v  up">R$ 189,2 mi</td>
+            
+            <td class="v  up">R$ 235,7 mi</td>
+            
+            <td class="v  up">R$ 193,4 mi</td>
+            
+            <td class="v  up">R$ 156,7 mi</td>
+            
+            <td class="v  up">R$ 190,6 mi</td>
+            
+            <td class="v  up">R$ 213,4 mi</td>
+            
+            <td class="v  up">R$ 208,1 mi</td>
+            
+            <td class="v  up">R$ 199,2 mi</td>
+            
+            <td class="v  up">R$ 264,1 mi</td>
+            
+            <td class="v  up">R$ 290,9 mi</td>
+            
+            <td class="v  up">R$ 310,6 mi</td>
+            
+            <td class="v  up">R$ 239,7 mi</td>
+            
+            <td class="v  up">R$ 293,2 mi</td>
+            
+            <td class="v  up">R$ 313,6 mi</td>
+            
+            <td class="v  up">R$ 388,1 mi</td>
+            
+            <td class="v  up">R$ 240,4 mi</td>
+            
+            <td class="v  up">R$ 327,3 mi</td>
+            
+            <td class="v  up">R$ 379,2 mi</td>
+            
+            <td class="v  up">R$ 388,0 mi</td>
+            
+            <td class="v  up">R$ 318,6 mi</td>
+            
+            <td class="v  up">R$ 349,2 mi</td>
+            
+            <td class="v  up">R$ 846,6 mi</td>
+            
+            <td class="v  up">R$ 343,0 mi</td>
+            
+            <td class="v  up">R$ 190,9 mi</td>
+            
+            <td class="v  up">R$ 241,9 mi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Capex · Aquisição de Imobilizado · trimestre por diferença de acumulados">Capex<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Capex"><title>Tendência de Capex</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="13.2,10.5 21.4,2.4 29.5,19.6 33.6,15.9 37.7,9.3 41.8,7.3 45.8,6.1 49.9,5.5 54.0,7.4 58.1,8.2 62.2,10.5 66.2,9.5 70.3,9.8 74.4,9.1 78.5,7.6 82.5,10.2 86.6,10.0 90.7,7.9 94.8,9.1 98.8,7.1 102.9,7.1 107.0,5.9"/><circle cx="107.0" cy="5.9" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  down">-R$ 379,4 mi</td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  up">R$ 0</td>
+            
+            <td class="v  ">—</td>
+            
+            <td class="v  down">-R$ 803,5 mi</td>
+            
+            <td class="v  down">-R$ 631,8 mi</td>
+            
+            <td class="v  down">-R$ 324,1 mi</td>
+            
+            <td class="v  down">-R$ 228,6 mi</td>
+            
+            <td class="v  down">-R$ 173,3 mi</td>
+            
+            <td class="v  down">-R$ 144,5 mi</td>
+            
+            <td class="v  down">-R$ 234,3 mi</td>
+            
+            <td class="v  down">-R$ 269,6 mi</td>
+            
+            <td class="v  down">-R$ 377,0 mi</td>
+            
+            <td class="v  down">-R$ 331,6 mi</td>
+            
+            <td class="v  down">-R$ 345,6 mi</td>
+            
+            <td class="v  down">-R$ 314,0 mi</td>
+            
+            <td class="v  down">-R$ 244,5 mi</td>
+            
+            <td class="v  down">-R$ 364,6 mi</td>
+            
+            <td class="v  down">-R$ 355,8 mi</td>
+            
+            <td class="v  down">-R$ 255,6 mi</td>
+            
+            <td class="v  down">-R$ 312,9 mi</td>
+            
+            <td class="v  down">-R$ 220,8 mi</td>
+            
+            <td class="v  down">-R$ 219,6 mi</td>
+            
+            <td class="v  down">-R$ 162,2 mi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Fluxo de caixa operacional · Caixa Líquido Atividades Operacionais · trimestre por diferença de acumulados">Fluxo de caixa operacional<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Fluxo de caixa operacional"><title>Tendência de Fluxo de caixa operacional</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="1.0,9.7 5.1,13.0 9.2,8.0 13.2,12.7 17.3,18.0 21.4,12.3 25.5,10.6 29.5,16.1 33.6,11.7 37.7,11.6 41.8,7.9 45.8,19.6 49.9,2.4 54.0,10.9 58.1,12.2 62.2,11.1 66.2,7.5 70.3,8.4 74.4,9.8 78.5,14.0 82.5,5.2 86.6,8.3 90.7,11.7 94.8,10.3 98.8,2.8 102.9,6.8 107.0,12.0"/><circle cx="107.0" cy="12.0" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  up">R$ 325,8 mi</td>
+            
+            <td class="v  down">-R$ 69,5 mi</td>
+            
+            <td class="v  up">R$ 524,3 mi</td>
+            
+            <td class="v  down">-R$ 34,4 mi</td>
+            
+            <td class="v  down">-R$ 654,7 mi</td>
+            
+            <td class="v  up">R$ 18,7 mi</td>
+            
+            <td class="v  up">R$ 216,3 mi</td>
+            
+            <td class="v  down">-R$ 425,7 mi</td>
+            
+            <td class="v  up">R$ 86,3 mi</td>
+            
+            <td class="v  up">R$ 104,7 mi</td>
+            
+            <td class="v  up">R$ 532,4 mi</td>
+            
+            <td class="v  down">-R$ 843,5 mi</td>
+            
+            <td class="v  up">R$ 1,2 bi</td>
+            
+            <td class="v  up">R$ 179,2 mi</td>
+            
+            <td class="v  up">R$ 34,4 mi</td>
+            
+            <td class="v  up">R$ 153,5 mi</td>
+            
+            <td class="v  up">R$ 587,3 mi</td>
+            
+            <td class="v  up">R$ 475,7 mi</td>
+            
+            <td class="v  up">R$ 316,6 mi</td>
+            
+            <td class="v  down">-R$ 184,7 mi</td>
+            
+            <td class="v  up">R$ 853,4 mi</td>
+            
+            <td class="v  up">R$ 484,9 mi</td>
+            
+            <td class="v  up">R$ 92,5 mi</td>
+            
+            <td class="v  up">R$ 252,5 mi</td>
+            
+            <td class="v  up">R$ 1,1 bi</td>
+            
+            <td class="v  up">R$ 669,5 mi</td>
+            
+            <td class="v  up">R$ 52,8 mi</td>
+            
+          </tr>
+          
+        
+        <tr class="sec">
+          <td colspan="28">
+            <div class="lbl-sec">Patrimônio e estrutura</div>
+          </td>
+        </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Caixa · Caixa e Equivalentes de Caixa">Caixa<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Caixa"><title>Tendência de Caixa</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="1.0,17.5 5.1,19.1 9.2,12.7 13.2,13.8 17.3,2.3 21.4,5.1 25.5,6.1 29.5,12.5 33.6,13.3 37.7,15.5 41.8,13.1 45.8,14.9 49.9,5.1 54.0,6.2 58.1,9.0 62.2,11.1 66.2,9.6 70.3,9.2 74.4,10.0 78.5,14.8 82.5,6.3 86.6,7.6 90.7,11.9 94.8,10.6 98.8,5.1 102.9,3.5 107.0,6.6"/><circle cx="107.0" cy="6.6" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  up">R$ 398,3 mi</td>
+            
+            <td class="v  up">R$ 211,0 mi</td>
+            
+            <td class="v  up">R$ 944,1 mi</td>
+            
+            <td class="v  up">R$ 812,0 mi</td>
+            
+            <td class="v  up">R$ 2,1 bi</td>
+            
+            <td class="v  up">R$ 1,8 bi</td>
+            
+            <td class="v  up">R$ 1,7 bi</td>
+            
+            <td class="v  up">R$ 959,1 mi</td>
+            
+            <td class="v  up">R$ 877,3 mi</td>
+            
+            <td class="v  up">R$ 618,6 mi</td>
+            
+            <td class="v  up">R$ 889,9 mi</td>
+            
+            <td class="v  up">R$ 694,8 mi</td>
+            
+            <td class="v  up">R$ 1,8 bi</td>
+            
+            <td class="v  up">R$ 1,7 bi</td>
+            
+            <td class="v  up">R$ 1,4 bi</td>
+            
+            <td class="v  up">R$ 1,1 bi</td>
+            
+            <td class="v  up">R$ 1,3 bi</td>
+            
+            <td class="v  up">R$ 1,3 bi</td>
+            
+            <td class="v  up">R$ 1,2 bi</td>
+            
+            <td class="v  up">R$ 698,7 mi</td>
+            
+            <td class="v  up">R$ 1,7 bi</td>
+            
+            <td class="v  up">R$ 1,5 bi</td>
+            
+            <td class="v  up">R$ 1,0 bi</td>
+            
+            <td class="v  up">R$ 1,2 bi</td>
+            
+            <td class="v  up">R$ 1,8 bi</td>
+            
+            <td class="v  up">R$ 2,0 bi</td>
+            
+            <td class="v  up">R$ 1,6 bi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Ativo total · Ativo Total">Ativo total<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Ativo total"><title>Tendência de Ativo total</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="1.0,17.9 5.1,17.8 9.2,17.2 13.2,16.7 17.3,14.9 21.4,14.9 25.5,14.5 29.5,14.1 33.6,13.6 37.7,13.2 41.8,12.5 45.8,11.8 49.9,11.1 54.0,10.8 58.1,10.3 62.2,9.8 66.2,8.8 70.3,8.7 74.4,8.2 78.5,7.7 82.5,6.9 86.6,6.0 90.7,5.8 94.8,3.3 98.8,2.9 102.9,2.6 107.0,2.3"/><circle cx="107.0" cy="2.3" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  up">R$ 4,1 bi</td>
+            
+            <td class="v  up">R$ 4,3 bi</td>
+            
+            <td class="v  up">R$ 5,1 bi</td>
+            
+            <td class="v  up">R$ 5,8 bi</td>
+            
+            <td class="v  up">R$ 8,2 bi</td>
+            
+            <td class="v  up">R$ 8,2 bi</td>
+            
+            <td class="v  up">R$ 8,8 bi</td>
+            
+            <td class="v  up">R$ 9,2 bi</td>
+            
+            <td class="v  up">R$ 10,0 bi</td>
+            
+            <td class="v  up">R$ 10,5 bi</td>
+            
+            <td class="v  up">R$ 11,4 bi</td>
+            
+            <td class="v  up">R$ 12,4 bi</td>
+            
+            <td class="v  up">R$ 13,3 bi</td>
+            
+            <td class="v  up">R$ 13,7 bi</td>
+            
+            <td class="v  up">R$ 14,4 bi</td>
+            
+            <td class="v  up">R$ 15,1 bi</td>
+            
+            <td class="v  up">R$ 16,4 bi</td>
+            
+            <td class="v  up">R$ 16,5 bi</td>
+            
+            <td class="v  up">R$ 17,1 bi</td>
+            
+            <td class="v  up">R$ 17,9 bi</td>
+            
+            <td class="v  up">R$ 19,0 bi</td>
+            
+            <td class="v  up">R$ 20,1 bi</td>
+            
+            <td class="v  up">R$ 20,4 bi</td>
+            
+            <td class="v  up">R$ 23,7 bi</td>
+            
+            <td class="v  up">R$ 24,4 bi</td>
+            
+            <td class="v  up">R$ 24,7 bi</td>
+            
+            <td class="v  up">R$ 25,2 bi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Dívida bruta (empréstimos e financiamentos) · Empréstimos e Financiamentos">Dívida bruta (empréstimos e financiamentos)<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Dívida bruta (empréstimos e financiamentos)"><title>Tendência de Dívida bruta (empréstimos e financiamentos)</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="1.0,14.8 5.1,14.6 9.2,13.0 13.2,12.2 17.3,15.3 21.4,15.4 25.5,15.0 29.5,14.6 33.6,11.5 37.7,11.0 41.8,9.9 45.8,5.9 49.9,5.8 54.0,5.6 58.1,4.5 62.2,3.5 66.2,3.1 70.3,2.1 74.4,2.7 78.5,2.7 82.5,10.1 86.6,10.8 90.7,10.9 94.8,8.5 98.8,7.3 102.9,8.0 107.0,8.0"/><circle cx="107.0" cy="8.0" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  up">R$ 1,3 bi</td>
+            
+            <td class="v  up">R$ 1,3 bi</td>
+            
+            <td class="v  up">R$ 1,7 bi</td>
+            
+            <td class="v  up">R$ 1,8 bi</td>
+            
+            <td class="v  up">R$ 1,2 bi</td>
+            
+            <td class="v  up">R$ 1,2 bi</td>
+            
+            <td class="v  up">R$ 1,3 bi</td>
+            
+            <td class="v  up">R$ 1,3 bi</td>
+            
+            <td class="v  up">R$ 2,0 bi</td>
+            
+            <td class="v  up">R$ 2,1 bi</td>
+            
+            <td class="v  up">R$ 2,3 bi</td>
+            
+            <td class="v  up">R$ 3,2 bi</td>
+            
+            <td class="v  up">R$ 3,2 bi</td>
+            
+            <td class="v  up">R$ 3,2 bi</td>
+            
+            <td class="v  up">R$ 3,5 bi</td>
+            
+            <td class="v  up">R$ 3,7 bi</td>
+            
+            <td class="v  up">R$ 3,7 bi</td>
+            
+            <td class="v  up">R$ 4,0 bi</td>
+            
+            <td class="v  up">R$ 3,8 bi</td>
+            
+            <td class="v  up">R$ 3,8 bi</td>
+            
+            <td class="v  up">R$ 2,3 bi</td>
+            
+            <td class="v  up">R$ 2,1 bi</td>
+            
+            <td class="v  up">R$ 2,1 bi</td>
+            
+            <td class="v  up">R$ 2,6 bi</td>
+            
+            <td class="v  up">R$ 2,9 bi</td>
+            
+            <td class="v  up">R$ 2,7 bi</td>
+            
+            <td class="v  up">R$ 2,7 bi</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl">
+              <div class="lbl-in">
+                <span class="lbl-nm" title="Patrimônio líquido · Patrimônio Líquido Consolidado">Patrimônio líquido<span class="un">BRL</span></span>
+                <svg class="spark" width="108" height="22" viewBox="0 0 108 22" role="img" aria-label="Tendência de Patrimônio líquido"><title>Tendência de Patrimônio líquido</title><polyline fill="none" stroke="var(--info)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" points="1.0,18.0 5.1,17.9 9.2,17.5 13.2,17.1 17.3,12.3 21.4,12.1 25.5,11.8 29.5,11.5 33.6,11.2 37.7,10.9 41.8,10.5 45.8,10.0 49.9,9.6 54.0,9.2 58.1,8.7 62.2,8.3 66.2,7.7 70.3,7.5 74.4,7.2 78.5,6.7 82.5,5.9 86.6,5.6 90.7,5.3 94.8,3.9 98.8,3.6 102.9,2.8 107.0,2.3"/><circle cx="107.0" cy="2.3" r="1.9" fill="var(--info)"/></svg>
+              </div>
+            </td>
+            
+            <td class="v  up">R$ 1,9 bi</td>
+            
+            <td class="v  up">R$ 2,1 bi</td>
+            
+            <td class="v  up">R$ 2,3 bi</td>
+            
+            <td class="v  up">R$ 2,6 bi</td>
+            
+            <td class="v  up">R$ 5,7 bi</td>
+            
+            <td class="v  up">R$ 5,9 bi</td>
+            
+            <td class="v  up">R$ 6,1 bi</td>
+            
+            <td class="v  up">R$ 6,3 bi</td>
+            
+            <td class="v  up">R$ 6,5 bi</td>
+            
+            <td class="v  up">R$ 6,7 bi</td>
+            
+            <td class="v  up">R$ 6,9 bi</td>
+            
+            <td class="v  up">R$ 7,2 bi</td>
+            
+            <td class="v  up">R$ 7,5 bi</td>
+            
+            <td class="v  up">R$ 7,8 bi</td>
+            
+            <td class="v  up">R$ 8,1 bi</td>
+            
+            <td class="v  up">R$ 8,4 bi</td>
+            
+            <td class="v  up">R$ 8,8 bi</td>
+            
+            <td class="v  up">R$ 8,9 bi</td>
+            
+            <td class="v  up">R$ 9,1 bi</td>
+            
+            <td class="v  up">R$ 9,4 bi</td>
+            
+            <td class="v  up">R$ 10,0 bi</td>
+            
+            <td class="v  up">R$ 10,1 bi</td>
+            
+            <td class="v  up">R$ 10,3 bi</td>
+            
+            <td class="v  up">R$ 11,3 bi</td>
+            
+            <td class="v  up">R$ 11,5 bi</td>
+            
+            <td class="v  up">R$ 12,0 bi</td>
+            
+            <td class="v  up">R$ 12,3 bi</td>
+            
+          </tr>
+          
+        
+      </tbody>
+    </table>
+  </div>
+</article>
+
+
+
+
+
+<div class="cols2" style="margin-top:14px">
+  <article class="panel" style="padding:0">
+    <h2 style="padding:12px 14px 0">Ponte até o lucro <span class="h">estrutura do modelo</span></h2>
+    <div class="scrim" style="overflow:auto">
+      <table class="ponte">
+        <tbody>
+          <tr class="tot"><td class="op"></td><td class="nm">Receita</td><td class="ob">ponto de partida</td></tr>
+          
+          <tr class="">
+            <td class="op">−</td><td class="nm">Custo dos produtos/serviços vendidos</td><td class="ob"></td>
+          </tr>
+          
+          <tr class="tot">
+            <td class="op">=</td><td class="nm">Lucro bruto</td><td class="ob"></td>
+          </tr>
+          
+          <tr class="">
+            <td class="op">−</td><td class="nm">Despesas com vendas, gerais e administrativas</td><td class="ob"></td>
+          </tr>
+          
+          <tr class="tot">
+            <td class="op">=</td><td class="nm">Resultado operacional</td><td class="ob"></td>
+          </tr>
+          
+          <tr class="">
+            <td class="op">+</td><td class="nm">Depreciação e amortização</td><td class="ob">→ EBITDA</td>
+          </tr>
+          
+          <tr class="">
+            <td class="op">+</td><td class="nm">Resultado financeiro</td><td class="ob"></td>
+          </tr>
+          
+          <tr class="">
+            <td class="op">−</td><td class="nm">IR e CSLL</td><td class="ob"></td>
+          </tr>
+          
+          <tr class="tot">
+            <td class="op">=</td><td class="nm">Lucro líquido</td><td class="ob"></td>
+          </tr>
+          
+        </tbody>
+      </table>
+    </div>
+  </article>
+
+  <article class="panel">
+    <h2>Insumos externos <span class="h">o que falta ingerir</span></h2>
+    
+    <p class="cap">Nenhum. O modelo fecha com o que a própria companhia publica.</p>
+    
+
+    <h2 style="margin-top:18px">Proveniência</h2>
+    <div class="scrim" style="overflow:auto">
+      <table class="ponte">
+        <tbody>
+          
+          <tr>
+            <td class="nm">CVM Dados Abertos</td>
+            <td class="ob" style="max-width:300px;overflow:hidden;text-overflow:ellipsis">
+              <a href="https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/" rel="nofollow noopener" target="_blank">CD_CVM 25186 · DFP/ITR</a></td>
+            <td class="ob mono dim2">—</td>
+          </tr>
+          
+        </tbody>
+      </table>
+    </div>
+  </article>
+</div>
+
+<div class="note" style="margin-top:14px">
+  Esta tela mostra o <b>modelo</b>; a série crua e o contraponto auditado da CVM estão em
+  <a href="/analise/GMAT3">/analise/GMAT3</a>.
+  As linhas marcadas como <b>razão derivada</b> não são publicadas pela companhia — são
+  calculadas aqui a partir de duas linhas que ela publica, e a fórmula está no rótulo.
+</div>
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/mercados#dados">Dados brutos</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

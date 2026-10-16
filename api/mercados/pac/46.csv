@@ -1,0 +1,60 @@
+tabela,serie,ano,nivel_cod,territorio_cod,territorio_nome,uf_sigla,classificacao,categoria_cod,categoria_nome,cnae_nivel,cnae_cod,cnae_pai,nome_curto,emenda,variavel_cod,variavel,chave,unidade,unidade_original,valor,situacao,bruto
+1418,antiga,2007,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,69692305000.0,ok,69692305
+1418,antiga,2007,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,539927656000.0,ok,539927656
+1418,antiga,2007,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,562459962000.0,ok,562459962
+1418,antiga,2008,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,82868557000.0,ok,82868557
+1418,antiga,2008,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,634854347000.0,ok,634854347
+1418,antiga,2008,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,660976211000.0,ok,660976211
+1418,antiga,2009,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,93293623000.0,ok,93293623
+1418,antiga,2009,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,675147034000.0,ok,675147034
+1418,antiga,2009,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,708925844000.0,ok,708925844
+1418,antiga,2010,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,112280575000.0,ok,112280575
+1418,antiga,2010,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,776205899000.0,ok,776205899
+1418,antiga,2010,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,805636884000.0,ok,805636884
+1418,antiga,2011,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,132078643000.0,ok,132078643
+1418,antiga,2011,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,914247098000.0,ok,914247098
+1418,antiga,2011,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,948156051000.0,ok,948156051
+1418,antiga,2012,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,150509869000.0,ok,150509869
+1418,antiga,2012,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1059372993000.0,ok,1059372993
+1418,antiga,2012,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,1096571556000.0,ok,1096571556
+1418,antiga,2013,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,174765408000.0,ok,174765408
+1418,antiga,2013,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1199412122000.0,ok,1199412122
+1418,antiga,2013,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,1237722622000.0,ok,1237722622
+1418,antiga,2014,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,190370470000.0,ok,190370470
+1418,antiga,2014,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1311196057000.0,ok,1311196057
+1418,antiga,2014,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,1355179137000.0,ok,1355179137
+1418,antiga,2015,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,190833439000.0,ok,190833439
+1418,antiga,2015,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1386218586000.0,ok,1386218586
+1418,antiga,2015,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,1440214931000.0,ok,1440214931
+1418,antiga,2016,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,195723661000.0,ok,195723661
+1418,antiga,2016,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1454134050000.0,ok,1454134050
+1418,antiga,2016,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,1519607983000.0,ok,1519607983
+1418,antiga,2017,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,200495472000.0,ok,200495472
+1418,antiga,2017,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1496651335000.0,ok,1496651335
+1418,antiga,2017,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,1549218047000.0,ok,1549218047
+1418,antiga,2018,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,218406611000.0,ok,218406611
+1418,antiga,2018,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1655142413000.0,ok,1655142413
+1418,antiga,2018,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,1718325076000.0,ok,1718325076
+1418,antiga,2019,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,237523292000.0,ok,237523292
+1418,antiga,2019,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1791114253000.0,ok,1791114253
+1418,antiga,2019,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,1871846629000.0,ok,1871846629
+1418,antiga,2020,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,288230218000.0,ok,288230218
+1418,antiga,2020,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,2063563351000.0,ok,2063563351
+1418,antiga,2020,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,2184617201000.0,ok,2184617201
+1418,antiga,2021,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,374180728000.0,ok,374180728
+1418,antiga,2021,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,2730813032000.0,ok,2730813032
+1418,antiga,2021,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,2854391868000.0,ok,2854391868
+1418,antiga,2022,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,462633209000.0,ok,462633209
+1418,antiga,2022,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,3365455404000.0,ok,3365455404
+1418,antiga,2022,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,3520823660000.0,ok,3520823660
+1418,antiga,2023,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,478358102000.0,ok,478358102
+1418,antiga,2023,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,3517595662000.0,ok,3517595662
+1418,antiga,2023,1,1,Brasil,,11070,90134,3. Comércio por atacado,divisao,46,C,Atacado,igual,863,Receita total,receita_total,R$,Mil Reais,3689610282000.0,ok,3689610282
+10645,nova,2024,1,1,Brasil,,11070,83316,46 Comércio por atacado,divisao,46,C,Atacado,igual,314,"Gastos com salários, retiradas e outras remunerações em empresas comerciais",salarios,R$,Mil Reais,102806917000.0,ok,102806917
+10645,nova,2024,1,1,Brasil,,11070,83316,46 Comércio por atacado,divisao,46,C,Atacado,igual,631,Pessoal ocupado em 31/12,pessoal,Pessoas,Pessoas,2014081.0,ok,2014081
+10645,nova,2024,1,1,Brasil,,11070,83316,46 Comércio por atacado,divisao,46,C,Atacado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,496775404000.0,ok,496775404
+10645,nova,2024,1,1,Brasil,,11070,83316,46 Comércio por atacado,divisao,46,C,Atacado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,3753962262000.0,ok,3753962262
+10648,nova,2024,1,1,Brasil,,11070,83316,46 Comércio por atacado,divisao,46,C,Atacado,igual,501,Receita total em empresas comerciais,receita_total,R$,Mil Reais,3941547428000.0,ok,3941547428
+10648,nova,2024,1,1,Brasil,,11070,83316,46 Comércio por atacado,divisao,46,C,Atacado,igual,642,Deduções,deducoes,R$,Mil Reais,454554737000.0,ok,454554737
+10648,nova,2024,1,1,Brasil,,11070,83316,46 Comércio por atacado,divisao,46,C,Atacado,igual,866,Receita bruta de revenda de mercadorias,receita_revenda,R$,Mil Reais,4053610448000.0,ok,4053610448
+10648,nova,2024,1,1,Brasil,,11070,83316,46 Comércio por atacado,divisao,46,C,Atacado,igual,1398,"Receita bruta de outras atividades (indústria, serviços, transportes, etc.)",receita_outras,R$,Mil Reais,154906553000.0,ok,154906553

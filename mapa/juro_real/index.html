@@ -1,0 +1,4597 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mapa macroeconômico — Atlas Mercados</title>
+<meta name="description" content="Mapa macroeconômico global e por UF — PIB, inflação, juros e desemprego. Em construção (depende da ingestão de dados do BCB e PIB mundial).">
+<link rel="canonical" href="https://atlasmercados.com.br/mapa/juro_real">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Mapa macroeconômico — Atlas Mercados">
+<meta property="og:description" content="Mapa macroeconômico global e por UF — PIB, inflação, juros e desemprego. Em construção (depende da ingestão de dados do BCB e PIB mundial).">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<style>
+  /* Mapa global: a comparação mora na tabela, então ela fica com o espaço.
+     O mapa vira apoio à direita. */
+  .globalrow{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:14px;align-items:start}
+  .gtab{overflow:auto;max-height:560px;border:1px solid var(--bd)}
+  .gtab table{border-collapse:separate;border-spacing:0;font-size:11.5px}
+  .gtab th,.gtab td{padding:4px 8px;white-space:nowrap;border-bottom:1px solid var(--bd2)}
+  /* Célula fixa precisa de fundo OPACO, senão o conteúdo rolado aparece por baixo. */
+  .gtab thead th{position:sticky;background:var(--panel2);z-index:3;font-size:9.5px;
+    letter-spacing:.05em;text-transform:uppercase;color:var(--dim2);font-weight:500;
+    text-align:right;vertical-align:bottom}
+  .gtab thead tr.grp th{top:0;z-index:4;text-align:center;color:var(--acc);
+    border-bottom:1px solid var(--bd);border-left:1px solid var(--bd)}
+  .gtab thead tr:last-child th{top:23px}
+  .gtab thead th.lbl{left:0;z-index:6;text-align:left;min-width:186px;top:0}
+  .gtab td.lbl{position:sticky;left:0;z-index:2;background:var(--panel);text-align:left;
+    min-width:186px;border-right:1px solid var(--bd)}
+  .gtab td.v{text-align:right;font-family:'IBM Plex Mono',monospace;
+    font-variant-numeric:tabular-nums}
+  .gtab th .u{display:block;font-size:8.5px;color:var(--dim2);text-transform:none;
+    letter-spacing:0;font-weight:400}
+  .gtab .iso{color:var(--acc);font-size:10px;margin-right:5px}
+  .gtab thead th a{color:inherit;display:block}
+  .gtab thead th:hover a{color:var(--tx)}
+  .gtab thead th.sel{color:var(--acc)}
+  .gtab thead th.sel a{color:var(--acc)}
+  .gtab td.v.sel{box-shadow:inset 0 0 0 999px rgba(227,168,87,.12);color:var(--tx)}
+  .gtab tr.br td.lbl,.gtab tr.br td.v{box-shadow:inset 0 0 0 999px rgba(227,168,87,.10)}
+  .gtab tr:hover td.v{box-shadow:inset 0 0 0 999px rgba(127,140,160,.10)}
+  .gmapa #worldmap{height:190px;margin-bottom:10px}
+  .gmapa .rlab{font-size:9.5px;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px}
+  @media (max-width:1100px){.globalrow{grid-template-columns:1fr}.gmapa{order:-1}}
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<script src="/static/map.js" defer></script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Atlas Mercados", "description": "Dados oficiais da economia e dos mercados do Brasil — companhias abertas (CVM), macro (BCB), mercados por setor e UF (IBGE) — compilados com proveniência por célula para leitura e citação por IA. Compilação sob CC BY 4.0.", "url": "https://atlasmercados.com.br", "publisher": {"@type": "Organization", "name": "Atlas Mercados"}, "potentialAction": {"@type": "SearchAction", "target": "https://atlasmercados.com.br/screener?q={query}", "query-input": "required name=query"}}</script>
+
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/mapa" class="on" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Mapa Macroeconômico</h1>
+<p class="sub"><b>Brasil</b> (BCB) · <b>Mundo</b> (World Bank · 211 países) · <b>UF</b> (IBGE · 27 estados)</p>
+
+
+
+<article class="panel">
+  <h2>Termômetro Brasil <span class="h">BCB · IBGE · indicadores macro</span></h2>
+  <section class="kpis" style="grid-template-columns:repeat(4,1fr)">
+    
+    <div class="kpi">
+      <div class="t">Selic (efetiva)</div>
+      <div class="v mono" style="font-size:17px">13,90% a.a.</div>
+      <div class="d">2026-09-11</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">CDI no mês</div>
+      <div class="v mono" style="font-size:17px">0,36%</div>
+      <div class="d">2026-09-01</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">IPCA 12 meses</div>
+      <div class="v mono" style="font-size:17px">4,22%</div>
+      <div class="d">2026-08-01</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">IPCA no mês</div>
+      <div class="v mono" style="font-size:17px">-0,32%</div>
+      <div class="d">2026-08-01</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">IPCA-15 no mês</div>
+      <div class="v mono" style="font-size:17px">-0,40%</div>
+      <div class="d">2026-08-01</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">INPC no mês</div>
+      <div class="v mono" style="font-size:17px">-0,32%</div>
+      <div class="d">2026-08-01</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">IGP-M no mês</div>
+      <div class="v mono" style="font-size:17px">-0,22%</div>
+      <div class="d">2026-08-01</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">Câmbio USD/BRL</div>
+      <div class="v mono" style="font-size:17px">R$ 5,09</div>
+      <div class="d">2026-09-11</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">Câmbio EUR/BRL</div>
+      <div class="v mono" style="font-size:17px">R$ 5,91</div>
+      <div class="d">2026-09-11</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">IBC-Br (atividade)</div>
+      <div class="v mono" style="font-size:17px">110,2</div>
+      <div class="d">2026-06-01</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">Desemprego (PNADC)</div>
+      <div class="v mono" style="font-size:17px">5,30%</div>
+      <div class="d">2026-07-01</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">Dívida bruta</div>
+      <div class="v mono" style="font-size:17px">82,5% do PIB</div>
+      <div class="d">2026-07-01</div>
+    </div>
+    
+    <div class="kpi">
+      <div class="t">Reservas internac.</div>
+      <div class="v mono" style="font-size:17px">US$ 373 bi</div>
+      <div class="d">2026-08-01</div>
+    </div>
+    
+  </section>
+</article>
+
+
+<article class="panel" style="margin-top:16px">
+  <h2>Mapa global
+    <span class="h">60 países × 20 indicadores · World Bank</span></h2>
+  
+  <div class="globalrow">
+    <div class="gtab scrim">
+      <table>
+        <thead>
+          <tr class="grp">
+            <th class="lbl" rowspan="2">País</th>
+            <th colspan="4">Tamanho</th><th colspan="3">Preços e juros</th><th colspan="5">Externo</th><th colspan="2">Fiscal</th><th colspan="4">Estrutura</th><th colspan="2">Consumo</th>
+          </tr>
+          <tr>
+            
+            <th class=""
+                title="PIB nominal — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/pib#worldmap">PIB nominal<span class="u">bi US$</span></a>
+            </th>
+            
+            <th class=""
+                title="Crescimento do PIB — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/crescimento#worldmap">Cresc. do PIB<span class="u">%</span></a>
+            </th>
+            
+            <th class=""
+                title="PIB per capita — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/pib_per_capita#worldmap">PIB per capita<span class="u">mil US$</span></a>
+            </th>
+            
+            <th class=""
+                title="População — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/populacao#worldmap">População<span class="u">mi hab</span></a>
+            </th>
+            
+            <th class=""
+                title="Inflação (IPC) — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/inflacao#worldmap">Inflação<span class="u">%</span></a>
+            </th>
+            
+            <th class="sel"
+                title="Juro real — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/juro_real#worldmap">Juro real<span class="u">%</span></a>
+            </th>
+            
+            <th class=""
+                title="Desemprego — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/desemprego#worldmap">Desemprego<span class="u">%</span></a>
+            </th>
+            
+            <th class=""
+                title="Conta corrente — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/conta_corrente#worldmap">Conta corrente<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="Exportações — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/exportacoes#worldmap">Exportações<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="Importações — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/importacoes#worldmap">Importações<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="Investimento direto estrangeiro — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/ide#worldmap">IDE<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="Reservas internacionais — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/reservas#worldmap">Reservas<span class="u">bi US$</span></a>
+            </th>
+            
+            <th class=""
+                title="Dívida do governo central — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/divida_publica#worldmap">Dívida governo<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="Despesa do governo — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/despesa_publica#worldmap">Despesa governo<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="Formação bruta de capital — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/investimento#worldmap">FBCF<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="Indústria no PIB — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/industria#worldmap">Indústria<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="Agropecuária no PIB — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/agropecuaria#worldmap">Agropecuária<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="Crédito ao setor privado — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/credito_privado#worldmap">Crédito privado<span class="u">% do PIB</span></a>
+            </th>
+            
+            <th class=""
+                title="População urbana — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/urbanizacao#worldmap">Pop. urbana<span class="u">%</span></a>
+            </th>
+            
+            <th class=""
+                title="Uso de internet — clique para colorir o mapa por esta métrica">
+              <a href="/mapa/internet#worldmap">Internet<span class="u">% da pop.</span></a>
+            </th>
+            
+          </tr>
+        </thead>
+        <tbody>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">USA</span> United States</td>
+            
+            <td class="v  up"
+                title="2025">30769,7</td>
+            
+            <td class="v  up"
+                title="2025">2,2</td>
+            
+            <td class="v  up"
+                title="2025">90,0</td>
+            
+            <td class="v  up"
+                title="2025">341,8</td>
+            
+            <td class="v  up"
+                title="2024">2,9</td>
+            
+            <td class="v sel down"
+                title="2021">-1,3</td>
+            
+            <td class="v  up"
+                title="2025">4,2</td>
+            
+            <td class="v  down"
+                title="2025">-3,6</td>
+            
+            <td class="v  up"
+                title="2024">11,0</td>
+            
+            <td class="v  up"
+                title="2024">14,0</td>
+            
+            <td class="v  up"
+                title="2025">1,3</td>
+            
+            <td class="v  up"
+                title="2025">1385,4</td>
+            
+            <td class="v  up"
+                title="2024">115,8</td>
+            
+            <td class="v  up"
+                title="2023">24,4</td>
+            
+            <td class="v  up"
+                title="2024">21,5</td>
+            
+            <td class="v  up"
+                title="2021">17,6</td>
+            
+            <td class="v  up"
+                title="2021">0,9</td>
+            
+            <td class="v  up"
+                title="2025">201,3</td>
+            
+            <td class="v  up"
+                title="2025">80,2</td>
+            
+            <td class="v  up"
+                title="2024">94,7</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">CHN</span> China</td>
+            
+            <td class="v  up"
+                title="2025">19498,0</td>
+            
+            <td class="v  up"
+                title="2025">5,0</td>
+            
+            <td class="v  up"
+                title="2025">13,9</td>
+            
+            <td class="v  up"
+                title="2025">1406,6</td>
+            
+            <td class="v  up"
+                title="2025">0,1</td>
+            
+            <td class="v sel up"
+                title="2024">5,2</td>
+            
+            <td class="v  up"
+                title="2025">4,6</td>
+            
+            <td class="v  up"
+                title="2025">3,8</td>
+            
+            <td class="v  up"
+                title="2025">21,1</td>
+            
+            <td class="v  up"
+                title="2025">16,9</td>
+            
+            <td class="v  up"
+                title="2025">0,4</td>
+            
+            <td class="v  up"
+                title="2025">3748,7</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2024">40,5</td>
+            
+            <td class="v  up"
+                title="2025">35,6</td>
+            
+            <td class="v  up"
+                title="2025">6,7</td>
+            
+            <td class="v  up"
+                title="2024">194,3</td>
+            
+            <td class="v  up"
+                title="2025">66,3</td>
+            
+            <td class="v  up"
+                title="2025">91,6</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">DEU</span> Germany</td>
+            
+            <td class="v  up"
+                title="2025">5050,9</td>
+            
+            <td class="v  up"
+                title="2025">0,2</td>
+            
+            <td class="v  up"
+                title="2025">60,5</td>
+            
+            <td class="v  up"
+                title="2025">83,5</td>
+            
+            <td class="v  up"
+                title="2025">2,2</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">3,7</td>
+            
+            <td class="v  up"
+                title="2025">4,5</td>
+            
+            <td class="v  up"
+                title="2025">40,4</td>
+            
+            <td class="v  up"
+                title="2025">38,1</td>
+            
+            <td class="v  up"
+                title="2025">1,9</td>
+            
+            <td class="v  up"
+                title="2025">572,2</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">31,2</td>
+            
+            <td class="v  up"
+                title="2025">21,9</td>
+            
+            <td class="v  up"
+                title="2025">25,2</td>
+            
+            <td class="v  up"
+                title="2025">0,9</td>
+            
+            <td class="v  up"
+                title="2023">77,3</td>
+            
+            <td class="v  up"
+                title="2025">82,1</td>
+            
+            <td class="v  up"
+                title="2024">93,5</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">JPN</span> Japan</td>
+            
+            <td class="v  up"
+                title="2025">4435,2</td>
+            
+            <td class="v  up"
+                title="2025">1,2</td>
+            
+            <td class="v  up"
+                title="2025">36,0</td>
+            
+            <td class="v  up"
+                title="2025">123,4</td>
+            
+            <td class="v  up"
+                title="2025">3,2</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">2,5</td>
+            
+            <td class="v  up"
+                title="2025">4,9</td>
+            
+            <td class="v  up"
+                title="2024">22,0</td>
+            
+            <td class="v  up"
+                title="2024">22,9</td>
+            
+            <td class="v  up"
+                title="2025">1,0</td>
+            
+            <td class="v  up"
+                title="2025">1371,4</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">20,1</td>
+            
+            <td class="v  up"
+                title="2024">27,7</td>
+            
+            <td class="v  up"
+                title="2024">26,8</td>
+            
+            <td class="v  up"
+                title="2024">1,0</td>
+            
+            <td class="v  up"
+                title="2025">187,4</td>
+            
+            <td class="v  up"
+                title="2025">92,3</td>
+            
+            <td class="v  up"
+                title="2024">85,5</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">GBR</span> United Kingdom</td>
+            
+            <td class="v  up"
+                title="2025">4002,6</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v  up"
+                title="2025">57,6</td>
+            
+            <td class="v  up"
+                title="2025">69,5</td>
+            
+            <td class="v  up"
+                title="2025">3,9</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">4,7</td>
+            
+            <td class="v  down"
+                title="2025">-2,4</td>
+            
+            <td class="v  up"
+                title="2025">30,6</td>
+            
+            <td class="v  up"
+                title="2025">31,9</td>
+            
+            <td class="v  up"
+                title="2025">1,9</td>
+            
+            <td class="v  up"
+                title="2025">214,4</td>
+            
+            <td class="v  up"
+                title="2024">130,7</td>
+            
+            <td class="v  up"
+                title="2023">41,2</td>
+            
+            <td class="v  up"
+                title="2025">19,7</td>
+            
+            <td class="v  up"
+                title="2025">16,5</td>
+            
+            <td class="v  up"
+                title="2025">0,6</td>
+            
+            <td class="v  up"
+                title="2024">112,4</td>
+            
+            <td class="v  up"
+                title="2025">83,3</td>
+            
+            <td class="v  up"
+                title="2024">95,5</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">IND</span> India</td>
+            
+            <td class="v  up"
+                title="2025">3956,1</td>
+            
+            <td class="v  up"
+                title="2025">7,6</td>
+            
+            <td class="v  up"
+                title="2025">2,7</td>
+            
+            <td class="v  up"
+                title="2025">1463,9</td>
+            
+            <td class="v  up"
+                title="2025">2,4</td>
+            
+            <td class="v sel up"
+                title="2022">5,6</td>
+            
+            <td class="v  up"
+                title="2025">4,2</td>
+            
+            <td class="v  down"
+                title="2025">-0,4</td>
+            
+            <td class="v  up"
+                title="2025">22,3</td>
+            
+            <td class="v  up"
+                title="2025">24,0</td>
+            
+            <td class="v  up"
+                title="2025">1,0</td>
+            
+            <td class="v  up"
+                title="2025">700,1</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">13,7</td>
+            
+            <td class="v  up"
+                title="2025">34,6</td>
+            
+            <td class="v  up"
+                title="2025">25,2</td>
+            
+            <td class="v  up"
+                title="2025">16,2</td>
+            
+            <td class="v  up"
+                title="2025">44,0</td>
+            
+            <td class="v  up"
+                title="2025">35,7</td>
+            
+            <td class="v  up"
+                title="2025">70,0</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">FRA</span> France</td>
+            
+            <td class="v  up"
+                title="2025">3366,3</td>
+            
+            <td class="v  up"
+                title="2025">0,8</td>
+            
+            <td class="v  up"
+                title="2025">49,0</td>
+            
+            <td class="v  up"
+                title="2025">68,7</td>
+            
+            <td class="v  up"
+                title="2025">0,9</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">7,5</td>
+            
+            <td class="v  down"
+                title="2025">-0,3</td>
+            
+            <td class="v  up"
+                title="2025">33,4</td>
+            
+            <td class="v  up"
+                title="2025">33,8</td>
+            
+            <td class="v  up"
+                title="2025">2,2</td>
+            
+            <td class="v  up"
+                title="2025">428,2</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">47,3</td>
+            
+            <td class="v  up"
+                title="2025">21,9</td>
+            
+            <td class="v  up"
+                title="2025">16,8</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v  up"
+                title="2024">107,6</td>
+            
+            <td class="v  up"
+                title="2025">78,8</td>
+            
+            <td class="v  up"
+                title="2024">88,7</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">RUS</span> Russian Federation</td>
+            
+            <td class="v  up"
+                title="2025">2561,3</td>
+            
+            <td class="v  up"
+                title="2025">1,0</td>
+            
+            <td class="v  up"
+                title="2025">17,5</td>
+            
+            <td class="v  up"
+                title="2025">143,5</td>
+            
+            <td class="v  up"
+                title="2025">8,7</td>
+            
+            <td class="v sel up"
+                title="2024">5,8</td>
+            
+            <td class="v  up"
+                title="2025">2,1</td>
+            
+            <td class="v  up"
+                title="2025">1,7</td>
+            
+            <td class="v  up"
+                title="2025">18,2</td>
+            
+            <td class="v  up"
+                title="2025">15,5</td>
+            
+            <td class="v  up"
+                title="2025">0,9</td>
+            
+            <td class="v  up"
+                title="2024">608,4</td>
+            
+            <td class="v  up"
+                title="2024">17,9</td>
+            
+            <td class="v  up"
+                title="2023">30,0</td>
+            
+            <td class="v  up"
+                title="2025">25,9</td>
+            
+            <td class="v  up"
+                title="2025">29,7</td>
+            
+            <td class="v  up"
+                title="2025">3,1</td>
+            
+            <td class="v  up"
+                title="2021">54,6</td>
+            
+            <td class="v  up"
+                title="2025">75,3</td>
+            
+            <td class="v  up"
+                title="2024">94,4</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">ITA</span> Italy</td>
+            
+            <td class="v  up"
+                title="2025">2551,6</td>
+            
+            <td class="v  up"
+                title="2025">0,5</td>
+            
+            <td class="v  up"
+                title="2025">43,3</td>
+            
+            <td class="v  up"
+                title="2025">58,9</td>
+            
+            <td class="v  up"
+                title="2025">1,5</td>
+            
+            <td class="v sel up"
+                title="2025">2,0</td>
+            
+            <td class="v  up"
+                title="2025">6,4</td>
+            
+            <td class="v  up"
+                title="2025">1,1</td>
+            
+            <td class="v  up"
+                title="2025">32,2</td>
+            
+            <td class="v  up"
+                title="2025">30,3</td>
+            
+            <td class="v  up"
+                title="2025">0,0</td>
+            
+            <td class="v  up"
+                title="2025">434,0</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">47,3</td>
+            
+            <td class="v  up"
+                title="2025">22,2</td>
+            
+            <td class="v  up"
+                title="2025">22,6</td>
+            
+            <td class="v  up"
+                title="2025">2,1</td>
+            
+            <td class="v  up"
+                title="2024">60,3</td>
+            
+            <td class="v  up"
+                title="2025">69,7</td>
+            
+            <td class="v  up"
+                title="2024">89,2</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">CAN</span> Canada</td>
+            
+            <td class="v  up"
+                title="2025">2319,9</td>
+            
+            <td class="v  up"
+                title="2025">1,7</td>
+            
+            <td class="v  up"
+                title="2025">55,7</td>
+            
+            <td class="v  up"
+                title="2025">41,7</td>
+            
+            <td class="v  up"
+                title="2025">2,1</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">6,9</td>
+            
+            <td class="v  down"
+                title="2025">-0,9</td>
+            
+            <td class="v  up"
+                title="2025">31,3</td>
+            
+            <td class="v  up"
+                title="2025">32,2</td>
+            
+            <td class="v  up"
+                title="2025">3,0</td>
+            
+            <td class="v  up"
+                title="2025">125,6</td>
+            
+            <td class="v  up"
+                title="2024">64,1</td>
+            
+            <td class="v  up"
+                title="2023">19,1</td>
+            
+            <td class="v  up"
+                title="2025">23,2</td>
+            
+            <td class="v  up"
+                title="2022">27,4</td>
+            
+            <td class="v  up"
+                title="2022">1,9</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">82,9</td>
+            
+            <td class="v  up"
+                title="2024">94,4</td>
+            
+          </tr>
+          
+          <tr class="br">
+            <td class="lbl"><span class="iso mono">BRA</span> Brazil</td>
+            
+            <td class="v  up"
+                title="2025">2279,9</td>
+            
+            <td class="v  up"
+                title="2025">2,3</td>
+            
+            <td class="v  up"
+                title="2025">10,7</td>
+            
+            <td class="v  up"
+                title="2025">212,8</td>
+            
+            <td class="v  up"
+                title="2025">5,0</td>
+            
+            <td class="v sel up"
+                title="2025">37,5</td>
+            
+            <td class="v  up"
+                title="2025">6,0</td>
+            
+            <td class="v  down"
+                title="2025">-2,9</td>
+            
+            <td class="v  up"
+                title="2025">17,8</td>
+            
+            <td class="v  up"
+                title="2025">17,5</td>
+            
+            <td class="v  up"
+                title="2025">3,4</td>
+            
+            <td class="v  up"
+                title="2025">358,5</td>
+            
+            <td class="v  up"
+                title="2024">81,9</td>
+            
+            <td class="v  up"
+                title="2023">32,4</td>
+            
+            <td class="v  up"
+                title="2025">17,1</td>
+            
+            <td class="v  up"
+                title="2025">20,1</td>
+            
+            <td class="v  up"
+                title="2025">6,1</td>
+            
+            <td class="v  up"
+                title="2025">75,1</td>
+            
+            <td class="v  up"
+                title="2025">88,2</td>
+            
+            <td class="v  up"
+                title="2024">84,5</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">ESP</span> Spain</td>
+            
+            <td class="v  up"
+                title="2025">1906,5</td>
+            
+            <td class="v  up"
+                title="2025">2,8</td>
+            
+            <td class="v  up"
+                title="2025">38,6</td>
+            
+            <td class="v  up"
+                title="2025">49,4</td>
+            
+            <td class="v  up"
+                title="2025">2,7</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">10,4</td>
+            
+            <td class="v  up"
+                title="2025">2,9</td>
+            
+            <td class="v  up"
+                title="2025">36,6</td>
+            
+            <td class="v  up"
+                title="2025">32,8</td>
+            
+            <td class="v  up"
+                title="2025">1,5</td>
+            
+            <td class="v  up"
+                title="2025">128,6</td>
+            
+            <td class="v  up"
+                title="2024">105,6</td>
+            
+            <td class="v  up"
+                title="2023">34,0</td>
+            
+            <td class="v  up"
+                title="2025">21,4</td>
+            
+            <td class="v  up"
+                title="2025">19,6</td>
+            
+            <td class="v  up"
+                title="2025">2,7</td>
+            
+            <td class="v  up"
+                title="2024">74,2</td>
+            
+            <td class="v  up"
+                title="2025">80,5</td>
+            
+            <td class="v  up"
+                title="2024">95,8</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">KOR</span> Korea, Rep.</td>
+            
+            <td class="v  up"
+                title="2025">1872,4</td>
+            
+            <td class="v  up"
+                title="2025">1,0</td>
+            
+            <td class="v  up"
+                title="2025">36,2</td>
+            
+            <td class="v  up"
+                title="2025">51,7</td>
+            
+            <td class="v  up"
+                title="2025">2,1</td>
+            
+            <td class="v sel up"
+                title="2025">1,0</td>
+            
+            <td class="v  up"
+                title="2025">2,7</td>
+            
+            <td class="v  up"
+                title="2025">6,6</td>
+            
+            <td class="v  up"
+                title="2025">45,8</td>
+            
+            <td class="v  up"
+                title="2025">40,6</td>
+            
+            <td class="v  up"
+                title="2025">0,8</td>
+            
+            <td class="v  up"
+                title="2025">436,6</td>
+            
+            <td class="v  up"
+                title="2024">47,8</td>
+            
+            <td class="v  up"
+                title="2023">28,3</td>
+            
+            <td class="v  up"
+                title="2025">29,1</td>
+            
+            <td class="v  up"
+                title="2025">34,3</td>
+            
+            <td class="v  up"
+                title="2025">1,5</td>
+            
+            <td class="v  up"
+                title="2024">160,3</td>
+            
+            <td class="v  up"
+                title="2025">81,2</td>
+            
+            <td class="v  up"
+                title="2024">97,9</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">MEX</span> Mexico</td>
+            
+            <td class="v  up"
+                title="2025">1832,6</td>
+            
+            <td class="v  up"
+                title="2025">0,6</td>
+            
+            <td class="v  up"
+                title="2025">13,9</td>
+            
+            <td class="v  up"
+                title="2025">131,9</td>
+            
+            <td class="v  up"
+                title="2025">3,8</td>
+            
+            <td class="v sel up"
+                title="2025">4,0</td>
+            
+            <td class="v  up"
+                title="2025">2,7</td>
+            
+            <td class="v  down"
+                title="2025">-0,4</td>
+            
+            <td class="v  up"
+                title="2025">39,6</td>
+            
+            <td class="v  up"
+                title="2025">40,3</td>
+            
+            <td class="v  up"
+                title="2025">2,4</td>
+            
+            <td class="v  up"
+                title="2025">256,2</td>
+            
+            <td class="v  up"
+                title="2024">50,3</td>
+            
+            <td class="v  up"
+                title="2023">22,5</td>
+            
+            <td class="v  up"
+                title="2025">22,6</td>
+            
+            <td class="v  up"
+                title="2025">30,6</td>
+            
+            <td class="v  up"
+                title="2025">3,9</td>
+            
+            <td class="v  up"
+                title="2025">35,5</td>
+            
+            <td class="v  up"
+                title="2025">80,0</td>
+            
+            <td class="v  up"
+                title="2024">83,1</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">AUS</span> Australia</td>
+            
+            <td class="v  up"
+                title="2025">1798,5</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v  up"
+                title="2025">65,1</td>
+            
+            <td class="v  up"
+                title="2025">27,6</td>
+            
+            <td class="v  up"
+                title="2025">2,9</td>
+            
+            <td class="v sel up"
+                title="2019">1,6</td>
+            
+            <td class="v  up"
+                title="2025">4,1</td>
+            
+            <td class="v  down"
+                title="2025">-2,7</td>
+            
+            <td class="v  up"
+                title="2025">23,2</td>
+            
+            <td class="v  up"
+                title="2025">22,7</td>
+            
+            <td class="v  up"
+                title="2025">2,0</td>
+            
+            <td class="v  up"
+                title="2025">72,6</td>
+            
+            <td class="v  up"
+                title="2022">57,9</td>
+            
+            <td class="v  up"
+                title="2022">27,6</td>
+            
+            <td class="v  up"
+                title="2025">24,5</td>
+            
+            <td class="v  up"
+                title="2025">23,9</td>
+            
+            <td class="v  up"
+                title="2025">2,3</td>
+            
+            <td class="v  up"
+                title="2025">133,8</td>
+            
+            <td class="v  up"
+                title="2025">87,7</td>
+            
+            <td class="v  up"
+                title="2024">96,1</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">TUR</span> Turkiye</td>
+            
+            <td class="v  up"
+                title="2025">1597,3</td>
+            
+            <td class="v  up"
+                title="2025">3,6</td>
+            
+            <td class="v  up"
+                title="2025">18,6</td>
+            
+            <td class="v  up"
+                title="2025">85,9</td>
+            
+            <td class="v  up"
+                title="2025">34,9</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">8,5</td>
+            
+            <td class="v  down"
+                title="2024">-0,8</td>
+            
+            <td class="v  up"
+                title="2025">24,8</td>
+            
+            <td class="v  up"
+                title="2025">25,1</td>
+            
+            <td class="v  up"
+                title="2024">0,9</td>
+            
+            <td class="v  up"
+                title="2025">185,6</td>
+            
+            <td class="v  up"
+                title="2024">26,6</td>
+            
+            <td class="v  up"
+                title="2023">33,0</td>
+            
+            <td class="v  up"
+                title="2025">31,7</td>
+            
+            <td class="v  up"
+                title="2025">24,0</td>
+            
+            <td class="v  up"
+                title="2025">5,2</td>
+            
+            <td class="v  up"
+                title="2025">45,8</td>
+            
+            <td class="v  up"
+                title="2025">89,5</td>
+            
+            <td class="v  up"
+                title="2025">89,8</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">IDN</span> Indonesia</td>
+            
+            <td class="v  up"
+                title="2025">1445,6</td>
+            
+            <td class="v  up"
+                title="2025">5,1</td>
+            
+            <td class="v  up"
+                title="2025">5,1</td>
+            
+            <td class="v  up"
+                title="2025">285,7</td>
+            
+            <td class="v  up"
+                title="2025">1,9</td>
+            
+            <td class="v sel up"
+                title="2025">6,0</td>
+            
+            <td class="v  up"
+                title="2025">3,2</td>
+            
+            <td class="v  down"
+                title="2025">-0,1</td>
+            
+            <td class="v  up"
+                title="2025">22,8</td>
+            
+            <td class="v  up"
+                title="2025">20,5</td>
+            
+            <td class="v  up"
+                title="2025">1,5</td>
+            
+            <td class="v  up"
+                title="2025">156,5</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">30,6</td>
+            
+            <td class="v  up"
+                title="2025">38,7</td>
+            
+            <td class="v  up"
+                title="2025">13,1</td>
+            
+            <td class="v  up"
+                title="2025">36,3</td>
+            
+            <td class="v  up"
+                title="2025">59,4</td>
+            
+            <td class="v  up"
+                title="2024">72,8</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">NLD</span> Netherlands</td>
+            
+            <td class="v  up"
+                title="2025">1332,8</td>
+            
+            <td class="v  up"
+                title="2025">1,8</td>
+            
+            <td class="v  up"
+                title="2025">73,7</td>
+            
+            <td class="v  up"
+                title="2025">18,1</td>
+            
+            <td class="v  up"
+                title="2025">3,3</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">3,9</td>
+            
+            <td class="v  up"
+                title="2024">9,1</td>
+            
+            <td class="v  up"
+                title="2025">80,7</td>
+            
+            <td class="v  up"
+                title="2025">69,5</td>
+            
+            <td class="v  down"
+                title="2024">-1,4</td>
+            
+            <td class="v  up"
+                title="2025">118,1</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">40,0</td>
+            
+            <td class="v  up"
+                title="2025">19,8</td>
+            
+            <td class="v  up"
+                title="2025">17,7</td>
+            
+            <td class="v  up"
+                title="2025">1,7</td>
+            
+            <td class="v  up"
+                title="2024">82,3</td>
+            
+            <td class="v  up"
+                title="2025">95,9</td>
+            
+            <td class="v  up"
+                title="2024">97,0</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">SAU</span> Saudi Arabia</td>
+            
+            <td class="v  up"
+                title="2025">1276,9</td>
+            
+            <td class="v  up"
+                title="2025">4,5</td>
+            
+            <td class="v  up"
+                title="2025">34,5</td>
+            
+            <td class="v  up"
+                title="2025">37,0</td>
+            
+            <td class="v  up"
+                title="2025">2,1</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">3,0</td>
+            
+            <td class="v  down"
+                title="2025">-2,6</td>
+            
+            <td class="v  up"
+                title="2025">29,7</td>
+            
+            <td class="v  up"
+                title="2025">28,2</td>
+            
+            <td class="v  up"
+                title="2025">2,6</td>
+            
+            <td class="v  up"
+                title="2025">505,2</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">24,2</td>
+            
+            <td class="v  up"
+                title="2025">31,6</td>
+            
+            <td class="v  up"
+                title="2025">43,0</td>
+            
+            <td class="v  up"
+                title="2025">2,6</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">84,6</td>
+            
+            <td class="v  up"
+                title="2024">100,0</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">CHE</span> Switzerland</td>
+            
+            <td class="v  up"
+                title="2025">1043,5</td>
+            
+            <td class="v  up"
+                title="2025">1,3</td>
+            
+            <td class="v  up"
+                title="2025">114,8</td>
+            
+            <td class="v  up"
+                title="2025">9,1</td>
+            
+            <td class="v  up"
+                title="2025">0,2</td>
+            
+            <td class="v sel up"
+                title="2024">2,0</td>
+            
+            <td class="v  up"
+                title="2025">4,9</td>
+            
+            <td class="v  up"
+                title="2025">7,0</td>
+            
+            <td class="v  up"
+                title="2025">78,1</td>
+            
+            <td class="v  up"
+                title="2025">69,1</td>
+            
+            <td class="v  down"
+                title="2025">-1,2</td>
+            
+            <td class="v  up"
+                title="2025">1075,7</td>
+            
+            <td class="v  up"
+                title="2024">22,3</td>
+            
+            <td class="v  up"
+                title="2023">16,1</td>
+            
+            <td class="v  up"
+                title="2025">29,5</td>
+            
+            <td class="v  up"
+                title="2025">25,0</td>
+            
+            <td class="v  up"
+                title="2025">0,6</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">85,7</td>
+            
+            <td class="v  up"
+                title="2025">97,3</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">POL</span> Poland</td>
+            
+            <td class="v  up"
+                title="2025">1035,5</td>
+            
+            <td class="v  up"
+                title="2025">3,6</td>
+            
+            <td class="v  up"
+                title="2025">28,4</td>
+            
+            <td class="v  up"
+                title="2025">36,4</td>
+            
+            <td class="v  up"
+                title="2025">3,8</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">3,0</td>
+            
+            <td class="v  down"
+                title="2025">-0,9</td>
+            
+            <td class="v  up"
+                title="2025">50,0</td>
+            
+            <td class="v  up"
+                title="2025">47,1</td>
+            
+            <td class="v  up"
+                title="2025">1,9</td>
+            
+            <td class="v  up"
+                title="2025">271,8</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">39,1</td>
+            
+            <td class="v  up"
+                title="2025">17,9</td>
+            
+            <td class="v  up"
+                title="2025">25,8</td>
+            
+            <td class="v  up"
+                title="2025">2,5</td>
+            
+            <td class="v  up"
+                title="2024">33,6</td>
+            
+            <td class="v  up"
+                title="2025">60,1</td>
+            
+            <td class="v  up"
+                title="2024">88,6</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">BEL</span> Belgium</td>
+            
+            <td class="v  up"
+                title="2025">725,5</td>
+            
+            <td class="v  up"
+                title="2025">1,0</td>
+            
+            <td class="v  up"
+                title="2025">60,8</td>
+            
+            <td class="v  up"
+                title="2025">11,9</td>
+            
+            <td class="v  up"
+                title="2025">2,5</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">5,9</td>
+            
+            <td class="v  down"
+                title="2025">-1,9</td>
+            
+            <td class="v  up"
+                title="2025">75,5</td>
+            
+            <td class="v  up"
+                title="2025">77,5</td>
+            
+            <td class="v  down"
+                title="2025">-4,0</td>
+            
+            <td class="v  up"
+                title="2025">56,4</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">39,7</td>
+            
+            <td class="v  up"
+                title="2025">25,7</td>
+            
+            <td class="v  up"
+                title="2025">18,6</td>
+            
+            <td class="v  up"
+                title="2025">0,7</td>
+            
+            <td class="v  up"
+                title="2024">68,1</td>
+            
+            <td class="v  up"
+                title="2025">87,7</td>
+            
+            <td class="v  up"
+                title="2024">95,8</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">IRL</span> Ireland</td>
+            
+            <td class="v  up"
+                title="2025">721,7</td>
+            
+            <td class="v  up"
+                title="2025">12,3</td>
+            
+            <td class="v  up"
+                title="2025">131,6</td>
+            
+            <td class="v  up"
+                title="2025">5,5</td>
+            
+            <td class="v  up"
+                title="2025">2,2</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">4,6</td>
+            
+            <td class="v  up"
+                title="2024">17,4</td>
+            
+            <td class="v  up"
+                title="2025">140,1</td>
+            
+            <td class="v  up"
+                title="2025">99,9</td>
+            
+            <td class="v  up"
+                title="2024">0,8</td>
+            
+            <td class="v  up"
+                title="2025">13,7</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">19,2</td>
+            
+            <td class="v  up"
+                title="2025">22,9</td>
+            
+            <td class="v  up"
+                title="2025">37,8</td>
+            
+            <td class="v  up"
+                title="2025">1,1</td>
+            
+            <td class="v  up"
+                title="2024">23,8</td>
+            
+            <td class="v  up"
+                title="2025">64,6</td>
+            
+            <td class="v  up"
+                title="2024">97,2</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">ARG</span> Argentina</td>
+            
+            <td class="v  up"
+                title="2025">683,1</td>
+            
+            <td class="v  up"
+                title="2025">4,4</td>
+            
+            <td class="v  up"
+                title="2025">14,9</td>
+            
+            <td class="v  up"
+                title="2025">45,9</td>
+            
+            <td class="v  up"
+                title="2024">219,9</td>
+            
+            <td class="v sel up"
+                title="2025">5,0</td>
+            
+            <td class="v  up"
+                title="2025">7,1</td>
+            
+            <td class="v  down"
+                title="2025">-1,1</td>
+            
+            <td class="v  up"
+                title="2025">15,6</td>
+            
+            <td class="v  up"
+                title="2025">14,8</td>
+            
+            <td class="v  up"
+                title="2025">0,5</td>
+            
+            <td class="v  up"
+                title="2025">41,0</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">21,0</td>
+            
+            <td class="v  up"
+                title="2025">16,1</td>
+            
+            <td class="v  up"
+                title="2025">22,9</td>
+            
+            <td class="v  up"
+                title="2025">5,5</td>
+            
+            <td class="v  up"
+                title="2025">17,6</td>
+            
+            <td class="v  up"
+                title="2025">92,4</td>
+            
+            <td class="v  up"
+                title="2024">89,7</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">SWE</span> Sweden</td>
+            
+            <td class="v  up"
+                title="2025">669,0</td>
+            
+            <td class="v  up"
+                title="2025">1,5</td>
+            
+            <td class="v  up"
+                title="2025">63,1</td>
+            
+            <td class="v  up"
+                title="2025">10,6</td>
+            
+            <td class="v  up"
+                title="2025">0,7</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">8,7</td>
+            
+            <td class="v  up"
+                title="2025">6,1</td>
+            
+            <td class="v  up"
+                title="2025">53,2</td>
+            
+            <td class="v  up"
+                title="2025">51,1</td>
+            
+            <td class="v  up"
+                title="2025">2,9</td>
+            
+            <td class="v  up"
+                title="2025">74,2</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">32,5</td>
+            
+            <td class="v  up"
+                title="2025">25,5</td>
+            
+            <td class="v  up"
+                title="2025">21,0</td>
+            
+            <td class="v  up"
+                title="2025">1,5</td>
+            
+            <td class="v  up"
+                title="2024">125,3</td>
+            
+            <td class="v  up"
+                title="2025">89,1</td>
+            
+            <td class="v  up"
+                title="2025">95,8</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">ISR</span> Israel</td>
+            
+            <td class="v  up"
+                title="2025">610,8</td>
+            
+            <td class="v  up"
+                title="2025">2,9</td>
+            
+            <td class="v  up"
+                title="2025">60,3</td>
+            
+            <td class="v  up"
+                title="2025">10,1</td>
+            
+            <td class="v  up"
+                title="2025">3,0</td>
+            
+            <td class="v sel down"
+                title="2022">-1,8</td>
+            
+            <td class="v  up"
+                title="2025">3,5</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v  up"
+                title="2025">27,6</td>
+            
+            <td class="v  up"
+                title="2025">25,4</td>
+            
+            <td class="v  up"
+                title="2025">4,3</td>
+            
+            <td class="v  up"
+                title="2025">229,5</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">37,3</td>
+            
+            <td class="v  up"
+                title="2025">24,3</td>
+            
+            <td class="v  up"
+                title="2024">17,2</td>
+            
+            <td class="v  up"
+                title="2024">1,3</td>
+            
+            <td class="v  up"
+                title="2025">72,5</td>
+            
+            <td class="v  up"
+                title="2025">91,6</td>
+            
+            <td class="v  up"
+                title="2024">88,2</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">SGP</span> Singapore</td>
+            
+            <td class="v  up"
+                title="2025">603,9</td>
+            
+            <td class="v  up"
+                title="2025">5,0</td>
+            
+            <td class="v  up"
+                title="2025">98,8</td>
+            
+            <td class="v  up"
+                title="2025">6,1</td>
+            
+            <td class="v  up"
+                title="2025">0,9</td>
+            
+            <td class="v sel down"
+                title="2021">-5,2</td>
+            
+            <td class="v  up"
+                title="2025">2,8</td>
+            
+            <td class="v  up"
+                title="2025">16,7</td>
+            
+            <td class="v  up"
+                title="2025">177,9</td>
+            
+            <td class="v  up"
+                title="2025">142,5</td>
+            
+            <td class="v  up"
+                title="2025">26,3</td>
+            
+            <td class="v  up"
+                title="2025">432,1</td>
+            
+            <td class="v  up"
+                title="2024">167,8</td>
+            
+            <td class="v  up"
+                title="2023">17,1</td>
+            
+            <td class="v  up"
+                title="2025">22,5</td>
+            
+            <td class="v  up"
+                title="2025">22,7</td>
+            
+            <td class="v  up"
+                title="2025">0,0</td>
+            
+            <td class="v  up"
+                title="2020">128,4</td>
+            
+            <td class="v  up"
+                title="2025">100,0</td>
+            
+            <td class="v  up"
+                title="2024">94,4</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">AUT</span> Austria</td>
+            
+            <td class="v  up"
+                title="2025">579,5</td>
+            
+            <td class="v  up"
+                title="2025">0,6</td>
+            
+            <td class="v  up"
+                title="2025">62,9</td>
+            
+            <td class="v  up"
+                title="2025">9,2</td>
+            
+            <td class="v  up"
+                title="2025">3,5</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">5,6</td>
+            
+            <td class="v  up"
+                title="2025">1,8</td>
+            
+            <td class="v  up"
+                title="2025">54,7</td>
+            
+            <td class="v  up"
+                title="2025">52,3</td>
+            
+            <td class="v  down"
+                title="2025">-2,0</td>
+            
+            <td class="v  up"
+                title="2025">53,4</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">46,0</td>
+            
+            <td class="v  up"
+                title="2025">23,7</td>
+            
+            <td class="v  up"
+                title="2025">24,0</td>
+            
+            <td class="v  up"
+                title="2025">1,3</td>
+            
+            <td class="v  up"
+                title="2024">81,8</td>
+            
+            <td class="v  up"
+                title="2025">69,7</td>
+            
+            <td class="v  up"
+                title="2025">91,9</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">THA</span> Thailand</td>
+            
+            <td class="v  up"
+                title="2025">577,0</td>
+            
+            <td class="v  up"
+                title="2025">2,4</td>
+            
+            <td class="v  up"
+                title="2025">8,1</td>
+            
+            <td class="v  up"
+                title="2025">71,6</td>
+            
+            <td class="v  down"
+                title="2025">-0,1</td>
+            
+            <td class="v sel up"
+                title="2025">4,9</td>
+            
+            <td class="v  up"
+                title="2025">0,8</td>
+            
+            <td class="v  up"
+                title="2025">2,8</td>
+            
+            <td class="v  up"
+                title="2025">71,1</td>
+            
+            <td class="v  up"
+                title="2025">67,3</td>
+            
+            <td class="v  up"
+                title="2025">3,3</td>
+            
+            <td class="v  up"
+                title="2025">282,3</td>
+            
+            <td class="v  up"
+                title="2024">61,9</td>
+            
+            <td class="v  up"
+                title="2023">20,7</td>
+            
+            <td class="v  up"
+                title="2025">22,1</td>
+            
+            <td class="v  up"
+                title="2025">31,1</td>
+            
+            <td class="v  up"
+                title="2025">8,7</td>
+            
+            <td class="v  up"
+                title="2025">143,1</td>
+            
+            <td class="v  up"
+                title="2025">62,8</td>
+            
+            <td class="v  up"
+                title="2024">90,9</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">ARE</span> United Arab Emirates</td>
+            
+            <td class="v  up"
+                title="2024">552,3</td>
+            
+            <td class="v  up"
+                title="2024">4,0</td>
+            
+            <td class="v  up"
+                title="2024">50,3</td>
+            
+            <td class="v  up"
+                title="2025">11,5</td>
+            
+            <td class="v  up"
+                title="2025">1,3</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">2,2</td>
+            
+            <td class="v  up"
+                title="2024">14,5</td>
+            
+            <td class="v  up"
+                title="2023">106,8</td>
+            
+            <td class="v  up"
+                title="2023">92,2</td>
+            
+            <td class="v  up"
+                title="2024">8,3</td>
+            
+            <td class="v  up"
+                title="2025">292,3</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">3,8</td>
+            
+            <td class="v  up"
+                title="2023">26,6</td>
+            
+            <td class="v  up"
+                title="2024">44,3</td>
+            
+            <td class="v  up"
+                title="2024">0,8</td>
+            
+            <td class="v  up"
+                title="2022">65,5</td>
+            
+            <td class="v  up"
+                title="2025">86,0</td>
+            
+            <td class="v  up"
+                title="2024">100,0</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">NOR</span> Norway</td>
+            
+            <td class="v  up"
+                title="2025">530,8</td>
+            
+            <td class="v  up"
+                title="2025">1,1</td>
+            
+            <td class="v  up"
+                title="2025">94,6</td>
+            
+            <td class="v  up"
+                title="2025">5,6</td>
+            
+            <td class="v  up"
+                title="2025">3,1</td>
+            
+            <td class="v sel up"
+                title="2025">4,4</td>
+            
+            <td class="v  up"
+                title="2025">4,6</td>
+            
+            <td class="v  up"
+                title="2025">14,0</td>
+            
+            <td class="v  up"
+                title="2025">45,4</td>
+            
+            <td class="v  up"
+                title="2025">33,7</td>
+            
+            <td class="v  down"
+                title="2025">-1,5</td>
+            
+            <td class="v  up"
+                title="2025">85,5</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">34,5</td>
+            
+            <td class="v  up"
+                title="2025">23,2</td>
+            
+            <td class="v  up"
+                title="2025">34,5</td>
+            
+            <td class="v  up"
+                title="2025">1,6</td>
+            
+            <td class="v  up"
+                title="2024">124,4</td>
+            
+            <td class="v  up"
+                title="2025">83,6</td>
+            
+            <td class="v  up"
+                title="2024">99,0</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">VNM</span> Viet Nam</td>
+            
+            <td class="v  up"
+                title="2025">514,7</td>
+            
+            <td class="v  up"
+                title="2025">8,0</td>
+            
+            <td class="v  up"
+                title="2025">5,1</td>
+            
+            <td class="v  up"
+                title="2025">101,6</td>
+            
+            <td class="v  up"
+                title="2025">3,3</td>
+            
+            <td class="v sel up"
+                title="2023">7,0</td>
+            
+            <td class="v  up"
+                title="2025">1,5</td>
+            
+            <td class="v  up"
+                title="2024">6,3</td>
+            
+            <td class="v  up"
+                title="2025">98,2</td>
+            
+            <td class="v  up"
+                title="2025">92,1</td>
+            
+            <td class="v  up"
+                title="2024">4,2</td>
+            
+            <td class="v  up"
+                title="2025">85,6</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">30,8</td>
+            
+            <td class="v  up"
+                title="2025">37,6</td>
+            
+            <td class="v  up"
+                title="2025">11,6</td>
+            
+            <td class="v  up"
+                title="2022">125,0</td>
+            
+            <td class="v  up"
+                title="2025">38,8</td>
+            
+            <td class="v  up"
+                title="2024">84,2</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">PHL</span> Philippines</td>
+            
+            <td class="v  up"
+                title="2025">487,1</td>
+            
+            <td class="v  up"
+                title="2025">4,4</td>
+            
+            <td class="v  up"
+                title="2025">4,2</td>
+            
+            <td class="v  up"
+                title="2025">116,8</td>
+            
+            <td class="v  up"
+                title="2025">1,7</td>
+            
+            <td class="v sel up"
+                title="2019">6,4</td>
+            
+            <td class="v  up"
+                title="2025">2,2</td>
+            
+            <td class="v  down"
+                title="2025">-3,3</td>
+            
+            <td class="v  up"
+                title="2025">26,6</td>
+            
+            <td class="v  up"
+                title="2025">40,2</td>
+            
+            <td class="v  up"
+                title="2025">1,6</td>
+            
+            <td class="v  up"
+                title="2025">110,9</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">16,9</td>
+            
+            <td class="v  up"
+                title="2025">22,1</td>
+            
+            <td class="v  up"
+                title="2025">27,0</td>
+            
+            <td class="v  up"
+                title="2025">8,6</td>
+            
+            <td class="v  up"
+                title="2025">52,1</td>
+            
+            <td class="v  up"
+                title="2025">55,8</td>
+            
+            <td class="v  up"
+                title="2024">67,3</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">MYS</span> Malaysia</td>
+            
+            <td class="v  up"
+                title="2025">472,2</td>
+            
+            <td class="v  up"
+                title="2025">5,2</td>
+            
+            <td class="v  up"
+                title="2025">13,1</td>
+            
+            <td class="v  up"
+                title="2025">36,0</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v sel up"
+                title="2025">5,3</td>
+            
+            <td class="v  up"
+                title="2025">3,8</td>
+            
+            <td class="v  up"
+                title="2024">1,7</td>
+            
+            <td class="v  up"
+                title="2025">71,0</td>
+            
+            <td class="v  up"
+                title="2025">65,4</td>
+            
+            <td class="v  up"
+                title="2024">3,7</td>
+            
+            <td class="v  up"
+                title="2025">125,6</td>
+            
+            <td class="v  up"
+                title="2024">64,6</td>
+            
+            <td class="v  up"
+                title="2023">17,0</td>
+            
+            <td class="v  up"
+                title="2025">20,5</td>
+            
+            <td class="v  up"
+                title="2025">35,7</td>
+            
+            <td class="v  up"
+                title="2025">8,2</td>
+            
+            <td class="v  up"
+                title="2025">117,9</td>
+            
+            <td class="v  up"
+                title="2025">77,4</td>
+            
+            <td class="v  up"
+                title="2024">98,0</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">DNK</span> Denmark</td>
+            
+            <td class="v  up"
+                title="2025">462,5</td>
+            
+            <td class="v  up"
+                title="2025">2,9</td>
+            
+            <td class="v  up"
+                title="2025">77,0</td>
+            
+            <td class="v  up"
+                title="2025">6,0</td>
+            
+            <td class="v  up"
+                title="2025">1,9</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">5,5</td>
+            
+            <td class="v  up"
+                title="2024">12,2</td>
+            
+            <td class="v  up"
+                title="2025">70,1</td>
+            
+            <td class="v  up"
+                title="2025">59,1</td>
+            
+            <td class="v  up"
+                title="2024">4,3</td>
+            
+            <td class="v  up"
+                title="2025">127,8</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">33,3</td>
+            
+            <td class="v  up"
+                title="2025">22,1</td>
+            
+            <td class="v  up"
+                title="2025">24,8</td>
+            
+            <td class="v  up"
+                title="2025">1,2</td>
+            
+            <td class="v  up"
+                title="2024">144,1</td>
+            
+            <td class="v  up"
+                title="2025">88,8</td>
+            
+            <td class="v  up"
+                title="2024">99,8</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">COL</span> Colombia</td>
+            
+            <td class="v  up"
+                title="2025">457,4</td>
+            
+            <td class="v  up"
+                title="2025">2,6</td>
+            
+            <td class="v  up"
+                title="2025">8,6</td>
+            
+            <td class="v  up"
+                title="2025">53,4</td>
+            
+            <td class="v  up"
+                title="2025">5,1</td>
+            
+            <td class="v sel up"
+                title="2025">8,4</td>
+            
+            <td class="v  up"
+                title="2025">8,3</td>
+            
+            <td class="v  down"
+                title="2025">-2,4</td>
+            
+            <td class="v  up"
+                title="2025">15,0</td>
+            
+            <td class="v  up"
+                title="2025">20,4</td>
+            
+            <td class="v  up"
+                title="2025">2,5</td>
+            
+            <td class="v  up"
+                title="2025">65,8</td>
+            
+            <td class="v  up"
+                title="2024">71,2</td>
+            
+            <td class="v  up"
+                title="2023">33,3</td>
+            
+            <td class="v  up"
+                title="2025">16,7</td>
+            
+            <td class="v  up"
+                title="2025">21,8</td>
+            
+            <td class="v  up"
+                title="2025">9,9</td>
+            
+            <td class="v  up"
+                title="2025">39,9</td>
+            
+            <td class="v  up"
+                title="2025">78,8</td>
+            
+            <td class="v  up"
+                title="2024">79,3</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">BGD</span> Bangladesh</td>
+            
+            <td class="v  up"
+                title="2025">456,3</td>
+            
+            <td class="v  up"
+                title="2025">3,5</td>
+            
+            <td class="v  up"
+                title="2025">2,6</td>
+            
+            <td class="v  up"
+                title="2025">175,7</td>
+            
+            <td class="v  up"
+                title="2025">8,8</td>
+            
+            <td class="v sel up"
+                title="2025">2,0</td>
+            
+            <td class="v  up"
+                title="2025">3,8</td>
+            
+            <td class="v  down"
+                title="2025">-0,1</td>
+            
+            <td class="v  up"
+                title="2025">11,1</td>
+            
+            <td class="v  up"
+                title="2025">16,8</td>
+            
+            <td class="v  up"
+                title="2025">0,4</td>
+            
+            <td class="v  up"
+                title="2025">28,6</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2021">8,3</td>
+            
+            <td class="v  up"
+                title="2025">28,5</td>
+            
+            <td class="v  up"
+                title="2025">34,0</td>
+            
+            <td class="v  up"
+                title="2025">11,4</td>
+            
+            <td class="v  up"
+                title="2025">34,5</td>
+            
+            <td class="v  up"
+                title="2025">33,2</td>
+            
+            <td class="v  up"
+                title="2024">53,4</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">ROU</span> Romania</td>
+            
+            <td class="v  up"
+                title="2025">428,7</td>
+            
+            <td class="v  up"
+                title="2025">0,7</td>
+            
+            <td class="v  up"
+                title="2025">22,5</td>
+            
+            <td class="v  up"
+                title="2025">19,0</td>
+            
+            <td class="v  up"
+                title="2025">7,2</td>
+            
+            <td class="v sel up"
+                title="2025">0,3</td>
+            
+            <td class="v  up"
+                title="2025">6,0</td>
+            
+            <td class="v  down"
+                title="2025">-7,9</td>
+            
+            <td class="v  up"
+                title="2025">35,5</td>
+            
+            <td class="v  up"
+                title="2025">40,7</td>
+            
+            <td class="v  up"
+                title="2025">2,2</td>
+            
+            <td class="v  up"
+                title="2025">90,6</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">37,3</td>
+            
+            <td class="v  up"
+                title="2025">25,9</td>
+            
+            <td class="v  up"
+                title="2025">25,3</td>
+            
+            <td class="v  up"
+                title="2025">3,0</td>
+            
+            <td class="v  up"
+                title="2025">22,1</td>
+            
+            <td class="v  up"
+                title="2025">52,2</td>
+            
+            <td class="v  up"
+                title="2024">91,3</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">HKG</span> Hong Kong SAR, China</td>
+            
+            <td class="v  up"
+                title="2025">427,3</td>
+            
+            <td class="v  up"
+                title="2025">3,5</td>
+            
+            <td class="v  up"
+                title="2025">57,0</td>
+            
+            <td class="v  up"
+                title="2025">7,5</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v sel up"
+                title="2025">4,1</td>
+            
+            <td class="v  up"
+                title="2025">2,8</td>
+            
+            <td class="v  up"
+                title="2024">13,3</td>
+            
+            <td class="v  up"
+                title="2025">199,8</td>
+            
+            <td class="v  up"
+                title="2025">196,9</td>
+            
+            <td class="v  up"
+                title="2024">30,8</td>
+            
+            <td class="v  up"
+                title="2023">425,6</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">18,3</td>
+            
+            <td class="v  up"
+                title="2024">6,2</td>
+            
+            <td class="v  up"
+                title="2024">0,0</td>
+            
+            <td class="v  up"
+                title="2025">222,6</td>
+            
+            <td class="v  up"
+                title="2025">100,0</td>
+            
+            <td class="v  up"
+                title="2024">95,8</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">ZAF</span> South Africa</td>
+            
+            <td class="v  up"
+                title="2025">427,2</td>
+            
+            <td class="v  up"
+                title="2025">1,1</td>
+            
+            <td class="v  up"
+                title="2025">6,6</td>
+            
+            <td class="v  up"
+                title="2025">64,7</td>
+            
+            <td class="v  up"
+                title="2025">3,2</td>
+            
+            <td class="v sel up"
+                title="2025">7,7</td>
+            
+            <td class="v  up"
+                title="2025">32,4</td>
+            
+            <td class="v  down"
+                title="2025">-0,4</td>
+            
+            <td class="v  up"
+                title="2025">31,4</td>
+            
+            <td class="v  up"
+                title="2025">29,5</td>
+            
+            <td class="v  down"
+                title="2025">-0,5</td>
+            
+            <td class="v  up"
+                title="2025">76,0</td>
+            
+            <td class="v  up"
+                title="2024">82,8</td>
+            
+            <td class="v  up"
+                title="2022">33,4</td>
+            
+            <td class="v  up"
+                title="2025">13,9</td>
+            
+            <td class="v  up"
+                title="2025">24,1</td>
+            
+            <td class="v  up"
+                title="2025">2,8</td>
+            
+            <td class="v  up"
+                title="2024">89,4</td>
+            
+            <td class="v  up"
+                title="2025">63,8</td>
+            
+            <td class="v  up"
+                title="2024">78,4</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">PAK</span> Pakistan</td>
+            
+            <td class="v  up"
+                title="2025">407,3</td>
+            
+            <td class="v  up"
+                title="2025">3,7</td>
+            
+            <td class="v  up"
+                title="2025">1,6</td>
+            
+            <td class="v  up"
+                title="2025">255,2</td>
+            
+            <td class="v  up"
+                title="2025">3,5</td>
+            
+            <td class="v sel down"
+                title="2021">-1,5</td>
+            
+            <td class="v  up"
+                title="2025">5,4</td>
+            
+            <td class="v  down"
+                title="2025">-0,1</td>
+            
+            <td class="v  up"
+                title="2025">10,0</td>
+            
+            <td class="v  up"
+                title="2025">17,2</td>
+            
+            <td class="v  up"
+                title="2025">0,5</td>
+            
+            <td class="v  up"
+                title="2025">26,5</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">14,3</td>
+            
+            <td class="v  up"
+                title="2025">20,1</td>
+            
+            <td class="v  up"
+                title="2025">23,0</td>
+            
+            <td class="v  up"
+                title="2025">10,7</td>
+            
+            <td class="v  up"
+                title="2025">39,5</td>
+            
+            <td class="v  up"
+                title="2024">57,3</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">CZE</span> Czechia</td>
+            
+            <td class="v  up"
+                title="2025">391,0</td>
+            
+            <td class="v  up"
+                title="2025">2,6</td>
+            
+            <td class="v  up"
+                title="2025">35,9</td>
+            
+            <td class="v  up"
+                title="2025">10,9</td>
+            
+            <td class="v  up"
+                title="2025">2,5</td>
+            
+            <td class="v sel up"
+                title="2025">1,1</td>
+            
+            <td class="v  up"
+                title="2025">2,8</td>
+            
+            <td class="v  up"
+                title="2025">0,6</td>
+            
+            <td class="v  up"
+                title="2025">66,9</td>
+            
+            <td class="v  up"
+                title="2025">61,1</td>
+            
+            <td class="v  up"
+                title="2025">2,7</td>
+            
+            <td class="v  up"
+                title="2025">176,3</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">34,4</td>
+            
+            <td class="v  up"
+                title="2025">26,8</td>
+            
+            <td class="v  up"
+                title="2025">28,7</td>
+            
+            <td class="v  up"
+                title="2025">1,9</td>
+            
+            <td class="v  up"
+                title="2024">48,0</td>
+            
+            <td class="v  up"
+                title="2025">72,9</td>
+            
+            <td class="v  up"
+                title="2024">87,7</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">EGY</span> Egypt, Arab Rep.</td>
+            
+            <td class="v  up"
+                title="2025">365,3</td>
+            
+            <td class="v  up"
+                title="2025">4,4</td>
+            
+            <td class="v  up"
+                title="2025">3,1</td>
+            
+            <td class="v  up"
+                title="2025">118,4</td>
+            
+            <td class="v  up"
+                title="2025">14,1</td>
+            
+            <td class="v sel down"
+                title="2024">-7,0</td>
+            
+            <td class="v  up"
+                title="2025">6,8</td>
+            
+            <td class="v  down"
+                title="2025">-3,8</td>
+            
+            <td class="v  up"
+                title="2025">19,8</td>
+            
+            <td class="v  up"
+                title="2025">31,5</td>
+            
+            <td class="v  up"
+                title="2025">4,2</td>
+            
+            <td class="v  up"
+                title="2025">48,9</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">12,9</td>
+            
+            <td class="v  up"
+                title="2025">32,1</td>
+            
+            <td class="v  up"
+                title="2025">16,6</td>
+            
+            <td class="v  up"
+                title="2025">25,8</td>
+            
+            <td class="v  up"
+                title="2025">42,9</td>
+            
+            <td class="v  up"
+                title="2024">74,6</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">IRN</span> Iran, Islamic Rep.</td>
+            
+            <td class="v  up"
+                title="2025">362,7</td>
+            
+            <td class="v  down"
+                title="2025">-2,8</td>
+            
+            <td class="v  up"
+                title="2025">3,9</td>
+            
+            <td class="v  up"
+                title="2025">92,4</td>
+            
+            <td class="v  up"
+                title="2025">42,2</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">8,3</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">25,8</td>
+            
+            <td class="v  up"
+                title="2025">34,5</td>
+            
+            <td class="v  up"
+                title="2024">0,3</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">41,8</td>
+            
+            <td class="v  up"
+                title="2025">39,6</td>
+            
+            <td class="v  up"
+                title="2025">10,6</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">77,4</td>
+            
+            <td class="v  up"
+                title="2024">85,3</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">CHL</span> Chile</td>
+            
+            <td class="v  up"
+                title="2025">357,4</td>
+            
+            <td class="v  up"
+                title="2025">2,5</td>
+            
+            <td class="v  up"
+                title="2025">18,0</td>
+            
+            <td class="v  up"
+                title="2025">19,9</td>
+            
+            <td class="v  up"
+                title="2025">4,2</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">9,0</td>
+            
+            <td class="v  down"
+                title="2025">-1,2</td>
+            
+            <td class="v  up"
+                title="2025">34,6</td>
+            
+            <td class="v  up"
+                title="2025">30,4</td>
+            
+            <td class="v  up"
+                title="2025">4,1</td>
+            
+            <td class="v  up"
+                title="2025">49,4</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">24,6</td>
+            
+            <td class="v  up"
+                title="2025">24,1</td>
+            
+            <td class="v  up"
+                title="2025">31,4</td>
+            
+            <td class="v  up"
+                title="2025">3,5</td>
+            
+            <td class="v  up"
+                title="2025">102,1</td>
+            
+            <td class="v  up"
+                title="2025">89,2</td>
+            
+            <td class="v  up"
+                title="2024">95,6</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">PRT</span> Portugal</td>
+            
+            <td class="v  up"
+                title="2025">346,6</td>
+            
+            <td class="v  up"
+                title="2025">1,9</td>
+            
+            <td class="v  up"
+                title="2025">32,1</td>
+            
+            <td class="v  up"
+                title="2025">10,8</td>
+            
+            <td class="v  up"
+                title="2025">2,3</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">6,2</td>
+            
+            <td class="v  up"
+                title="2024">2,1</td>
+            
+            <td class="v  up"
+                title="2025">43,7</td>
+            
+            <td class="v  up"
+                title="2025">42,7</td>
+            
+            <td class="v  up"
+                title="2024">4,3</td>
+            
+            <td class="v  up"
+                title="2025">68,8</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">37,2</td>
+            
+            <td class="v  up"
+                title="2025">21,0</td>
+            
+            <td class="v  up"
+                title="2025">18,3</td>
+            
+            <td class="v  up"
+                title="2025">2,0</td>
+            
+            <td class="v  up"
+                title="2024">77,1</td>
+            
+            <td class="v  up"
+                title="2025">61,5</td>
+            
+            <td class="v  up"
+                title="2024">88,5</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">PER</span> Peru</td>
+            
+            <td class="v  up"
+                title="2025">334,9</td>
+            
+            <td class="v  up"
+                title="2025">3,4</td>
+            
+            <td class="v  up"
+                title="2025">9,7</td>
+            
+            <td class="v  up"
+                title="2025">34,6</td>
+            
+            <td class="v  up"
+                title="2025">1,5</td>
+            
+            <td class="v sel up"
+                title="2022">7,7</td>
+            
+            <td class="v  up"
+                title="2025">5,1</td>
+            
+            <td class="v  up"
+                title="2025">3,6</td>
+            
+            <td class="v  up"
+                title="2025">30,0</td>
+            
+            <td class="v  up"
+                title="2025">21,8</td>
+            
+            <td class="v  up"
+                title="2025">3,1</td>
+            
+            <td class="v  up"
+                title="2025">90,4</td>
+            
+            <td class="v  up"
+                title="2021">35,2</td>
+            
+            <td class="v  up"
+                title="2021">22,8</td>
+            
+            <td class="v  up"
+                title="2025">20,3</td>
+            
+            <td class="v  up"
+                title="2024">34,3</td>
+            
+            <td class="v  up"
+                title="2024">7,5</td>
+            
+            <td class="v  up"
+                title="2024">39,6</td>
+            
+            <td class="v  up"
+                title="2025">85,6</td>
+            
+            <td class="v  up"
+                title="2024">82,0</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">FIN</span> Finland</td>
+            
+            <td class="v  up"
+                title="2025">317,0</td>
+            
+            <td class="v  up"
+                title="2025">0,2</td>
+            
+            <td class="v  up"
+                title="2025">56,1</td>
+            
+            <td class="v  up"
+                title="2025">5,6</td>
+            
+            <td class="v  up"
+                title="2025">0,3</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">9,5</td>
+            
+            <td class="v  up"
+                title="2025">1,3</td>
+            
+            <td class="v  up"
+                title="2025">42,3</td>
+            
+            <td class="v  up"
+                title="2025">41,1</td>
+            
+            <td class="v  down"
+                title="2025">-0,1</td>
+            
+            <td class="v  up"
+                title="2025">22,5</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">44,9</td>
+            
+            <td class="v  up"
+                title="2025">21,9</td>
+            
+            <td class="v  up"
+                title="2025">22,5</td>
+            
+            <td class="v  up"
+                title="2025">2,6</td>
+            
+            <td class="v  up"
+                title="2024">92,0</td>
+            
+            <td class="v  up"
+                title="2025">74,5</td>
+            
+            <td class="v  up"
+                title="2024">93,7</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">KAZ</span> Kazakhstan</td>
+            
+            <td class="v  up"
+                title="2025">306,2</td>
+            
+            <td class="v  up"
+                title="2025">6,5</td>
+            
+            <td class="v  up"
+                title="2025">14,7</td>
+            
+            <td class="v  up"
+                title="2025">20,8</td>
+            
+            <td class="v  up"
+                title="2025">11,4</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">4,8</td>
+            
+            <td class="v  down"
+                title="2025">-4,1</td>
+            
+            <td class="v  up"
+                title="2024">31,6</td>
+            
+            <td class="v  up"
+                title="2024">25,6</td>
+            
+            <td class="v  down"
+                title="2025">-0,3</td>
+            
+            <td class="v  up"
+                title="2025">66,1</td>
+            
+            <td class="v  up"
+                title="2023">20,9</td>
+            
+            <td class="v  up"
+                title="2023">17,4</td>
+            
+            <td class="v  up"
+                title="2024">27,2</td>
+            
+            <td class="v  up"
+                title="2025">32,3</td>
+            
+            <td class="v  up"
+                title="2025">3,7</td>
+            
+            <td class="v  up"
+                title="2025">27,7</td>
+            
+            <td class="v  up"
+                title="2025">62,4</td>
+            
+            <td class="v  up"
+                title="2024">93,4</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">NGA</span> Nigeria</td>
+            
+            <td class="v  up"
+                title="2025">290,8</td>
+            
+            <td class="v  up"
+                title="2025">4,0</td>
+            
+            <td class="v  up"
+                title="2025">1,2</td>
+            
+            <td class="v  up"
+                title="2025">237,5</td>
+            
+            <td class="v  up"
+                title="2025">23,0</td>
+            
+            <td class="v sel up"
+                title="2023">2,9</td>
+            
+            <td class="v  up"
+                title="2025">3,1</td>
+            
+            <td class="v  up"
+                title="2025">4,8</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v  up"
+                title="2025">46,0</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">16,4</td>
+            
+            <td class="v  up"
+                title="2025">23,0</td>
+            
+            <td class="v  up"
+                title="2022">9,6</td>
+            
+            <td class="v  up"
+                title="2025">63,8</td>
+            
+            <td class="v  up"
+                title="2024">41,2</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">DZA</span> Algeria</td>
+            
+            <td class="v  up"
+                title="2025">287,0</td>
+            
+            <td class="v  up"
+                title="2025">3,8</td>
+            
+            <td class="v  up"
+                title="2025">6,1</td>
+            
+            <td class="v  up"
+                title="2025">47,4</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v sel up"
+                title="2025">7,2</td>
+            
+            <td class="v  up"
+                title="2025">11,6</td>
+            
+            <td class="v  down"
+                title="2024">-1,0</td>
+            
+            <td class="v  up"
+                title="2025">16,8</td>
+            
+            <td class="v  up"
+                title="2025">22,1</td>
+            
+            <td class="v  up"
+                title="2024">0,5</td>
+            
+            <td class="v  up"
+                title="2025">72,5</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">45,3</td>
+            
+            <td class="v  up"
+                title="2025">34,8</td>
+            
+            <td class="v  up"
+                title="2025">14,5</td>
+            
+            <td class="v  up"
+                title="2025">19,6</td>
+            
+            <td class="v  up"
+                title="2025">75,8</td>
+            
+            <td class="v  up"
+                title="2024">77,4</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">GRC</span> Greece</td>
+            
+            <td class="v  up"
+                title="2025">280,6</td>
+            
+            <td class="v  up"
+                title="2025">2,1</td>
+            
+            <td class="v  up"
+                title="2025">26,9</td>
+            
+            <td class="v  up"
+                title="2025">10,4</td>
+            
+            <td class="v  up"
+                title="2025">2,5</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">8,5</td>
+            
+            <td class="v  down"
+                title="2024">-7,1</td>
+            
+            <td class="v  up"
+                title="2025">39,5</td>
+            
+            <td class="v  up"
+                title="2025">44,0</td>
+            
+            <td class="v  up"
+                title="2024">2,6</td>
+            
+            <td class="v  up"
+                title="2025">24,0</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">47,3</td>
+            
+            <td class="v  up"
+                title="2025">17,2</td>
+            
+            <td class="v  up"
+                title="2025">15,2</td>
+            
+            <td class="v  up"
+                title="2025">3,6</td>
+            
+            <td class="v  up"
+                title="2024">48,5</td>
+            
+            <td class="v  up"
+                title="2025">79,2</td>
+            
+            <td class="v  up"
+                title="2024">86,3</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">NZL</span> New Zealand</td>
+            
+            <td class="v  up"
+                title="2025">264,1</td>
+            
+            <td class="v  up"
+                title="2025">0,5</td>
+            
+            <td class="v  up"
+                title="2025">49,6</td>
+            
+            <td class="v  up"
+                title="2025">5,3</td>
+            
+            <td class="v  up"
+                title="2025">2,8</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">5,1</td>
+            
+            <td class="v  down"
+                title="2025">-3,6</td>
+            
+            <td class="v  up"
+                title="2024">24,7</td>
+            
+            <td class="v  up"
+                title="2024">26,0</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v  up"
+                title="2025">28,2</td>
+            
+            <td class="v  up"
+                title="2024">52,0</td>
+            
+            <td class="v  up"
+                title="2022">35,5</td>
+            
+            <td class="v  up"
+                title="2024">23,1</td>
+            
+            <td class="v  up"
+                title="2023">19,4</td>
+            
+            <td class="v  up"
+                title="2023">4,0</td>
+            
+            <td class="v  up"
+                title="2025">143,4</td>
+            
+            <td class="v  up"
+                title="2025">84,0</td>
+            
+            <td class="v  up"
+                title="2024">93,5</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">IRQ</span> Iraq</td>
+            
+            <td class="v  up"
+                title="2025">254,4</td>
+            
+            <td class="v  down"
+                title="2025">-2,2</td>
+            
+            <td class="v  up"
+                title="2025">5,4</td>
+            
+            <td class="v  up"
+                title="2025">47,0</td>
+            
+            <td class="v  up"
+                title="2025">0,3</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">15,5</td>
+            
+            <td class="v  up"
+                title="2024">3,0</td>
+            
+            <td class="v  up"
+                title="2024">39,8</td>
+            
+            <td class="v  up"
+                title="2024">37,4</td>
+            
+            <td class="v  down"
+                title="2024">-2,7</td>
+            
+            <td class="v  up"
+                title="2024">100,7</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2019">27,6</td>
+            
+            <td class="v  up"
+                title="2024">19,1</td>
+            
+            <td class="v  up"
+                title="2025">45,4</td>
+            
+            <td class="v  up"
+                title="2025">3,4</td>
+            
+            <td class="v  up"
+                title="2024">14,0</td>
+            
+            <td class="v  up"
+                title="2025">69,9</td>
+            
+            <td class="v  up"
+                title="2024">81,5</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">HUN</span> Hungary</td>
+            
+            <td class="v  up"
+                title="2025">246,5</td>
+            
+            <td class="v  up"
+                title="2025">0,5</td>
+            
+            <td class="v  up"
+                title="2025">25,9</td>
+            
+            <td class="v  up"
+                title="2025">9,5</td>
+            
+            <td class="v  up"
+                title="2025">4,4</td>
+            
+            <td class="v sel up"
+                title="2025">1,6</td>
+            
+            <td class="v  up"
+                title="2025">4,5</td>
+            
+            <td class="v  up"
+                title="2025">1,7</td>
+            
+            <td class="v  up"
+                title="2025">72,6</td>
+            
+            <td class="v  up"
+                title="2025">68,1</td>
+            
+            <td class="v  down"
+                title="2025">-28,4</td>
+            
+            <td class="v  up"
+                title="2025">59,1</td>
+            
+            <td class="v  up"
+                title="2024">82,0</td>
+            
+            <td class="v  up"
+                title="2022">42,4</td>
+            
+            <td class="v  up"
+                title="2025">22,2</td>
+            
+            <td class="v  up"
+                title="2025">23,0</td>
+            
+            <td class="v  up"
+                title="2025">2,7</td>
+            
+            <td class="v  up"
+                title="2024">32,4</td>
+            
+            <td class="v  up"
+                title="2025">70,7</td>
+            
+            <td class="v  up"
+                title="2024">93,8</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">QAT</span> Qatar</td>
+            
+            <td class="v  up"
+                title="2025">215,6</td>
+            
+            <td class="v  up"
+                title="2025">2,9</td>
+            
+            <td class="v  up"
+                title="2025">72,5</td>
+            
+            <td class="v  up"
+                title="2025">3,0</td>
+            
+            <td class="v  up"
+                title="2024">1,3</td>
+            
+            <td class="v sel up"
+                title="2025">8,2</td>
+            
+            <td class="v  up"
+                title="2025">0,1</td>
+            
+            <td class="v  up"
+                title="2025">14,8</td>
+            
+            <td class="v  up"
+                title="2022">68,6</td>
+            
+            <td class="v  up"
+                title="2022">31,6</td>
+            
+            <td class="v  up"
+                title="2025">1,4</td>
+            
+            <td class="v  up"
+                title="2025">55,8</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">30,6</td>
+            
+            <td class="v  up"
+                title="2025">57,0</td>
+            
+            <td class="v  up"
+                title="2025">0,3</td>
+            
+            <td class="v  up"
+                title="2025">126,8</td>
+            
+            <td class="v  up"
+                title="2025">99,4</td>
+            
+            <td class="v  up"
+                title="2024">98,1</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">UKR</span> Ukraine</td>
+            
+            <td class="v  up"
+                title="2025">214,2</td>
+            
+            <td class="v  up"
+                title="2025">1,8</td>
+            
+            <td class="v  up"
+                title="2025">5,9</td>
+            
+            <td class="v  up"
+                title="2025">39,0</td>
+            
+            <td class="v  up"
+                title="2025">12,7</td>
+            
+            <td class="v sel up"
+                title="2025">4,6</td>
+            
+            <td class="v  up"
+                title="2021">9,8</td>
+            
+            <td class="v  down"
+                title="2024">-8,0</td>
+            
+            <td class="v  up"
+                title="2025">25,3</td>
+            
+            <td class="v  up"
+                title="2025">51,8</td>
+            
+            <td class="v  up"
+                title="2024">2,1</td>
+            
+            <td class="v  up"
+                title="2025">57,3</td>
+            
+            <td class="v  up"
+                title="2020">58,7</td>
+            
+            <td class="v  up"
+                title="2023">65,6</td>
+            
+            <td class="v  up"
+                title="2025">20,8</td>
+            
+            <td class="v  up"
+                title="2025">17,9</td>
+            
+            <td class="v  up"
+                title="2025">7,6</td>
+            
+            <td class="v  up"
+                title="2024">18,2</td>
+            
+            <td class="v  up"
+                title="2025">69,6</td>
+            
+            <td class="v  up"
+                title="2024">82,5</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">MAR</span> Morocco</td>
+            
+            <td class="v  up"
+                title="2025">182,4</td>
+            
+            <td class="v  up"
+                title="2025">4,6</td>
+            
+            <td class="v  up"
+                title="2025">4,7</td>
+            
+            <td class="v  up"
+                title="2025">38,4</td>
+            
+            <td class="v  up"
+                title="2025">0,7</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">9,0</td>
+            
+            <td class="v  down"
+                title="2025">-2,5</td>
+            
+            <td class="v  up"
+                title="2025">42,0</td>
+            
+            <td class="v  up"
+                title="2025">51,1</td>
+            
+            <td class="v  up"
+                title="2025">1,8</td>
+            
+            <td class="v  up"
+                title="2025">48,5</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2023">26,6</td>
+            
+            <td class="v  up"
+                title="2025">31,9</td>
+            
+            <td class="v  up"
+                title="2025">25,2</td>
+            
+            <td class="v  up"
+                title="2025">10,5</td>
+            
+            <td class="v  up"
+                title="2024">77,8</td>
+            
+            <td class="v  up"
+                title="2025">63,1</td>
+            
+            <td class="v  up"
+                title="2024">91,2</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">KWT</span> Kuwait</td>
+            
+            <td class="v  up"
+                title="2025">157,2</td>
+            
+            <td class="v  up"
+                title="2025">2,7</td>
+            
+            <td class="v  up"
+                title="2025">32,3</td>
+            
+            <td class="v  up"
+                title="2025">4,9</td>
+            
+            <td class="v  up"
+                title="2025">2,4</td>
+            
+            <td class="v sel up"
+                title="2025">10,5</td>
+            
+            <td class="v  up"
+                title="2025">2,2</td>
+            
+            <td class="v  up"
+                title="2025">22,7</td>
+            
+            <td class="v  up"
+                title="2024">55,8</td>
+            
+            <td class="v  up"
+                title="2024">38,2</td>
+            
+            <td class="v  up"
+                title="2025">0,3</td>
+            
+            <td class="v  up"
+                title="2025">51,7</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2024">15,1</td>
+            
+            <td class="v  up"
+                title="2025">54,1</td>
+            
+            <td class="v  up"
+                title="2025">0,5</td>
+            
+            <td class="v  up"
+                title="2025">4,9</td>
+            
+            <td class="v  up"
+                title="2025">100,0</td>
+            
+            <td class="v  up"
+                title="2025">100,0</td>
+            
+          </tr>
+          
+          <tr class="">
+            <td class="lbl"><span class="iso mono">SVK</span> Slovak Republic</td>
+            
+            <td class="v  up"
+                title="2025">154,5</td>
+            
+            <td class="v  up"
+                title="2025">0,8</td>
+            
+            <td class="v  up"
+                title="2025">28,5</td>
+            
+            <td class="v  up"
+                title="2025">5,4</td>
+            
+            <td class="v  up"
+                title="2025">4,0</td>
+            
+            <td class="v sel "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2025">5,4</td>
+            
+            <td class="v  down"
+                title="2025">-3,6</td>
+            
+            <td class="v  up"
+                title="2025">85,1</td>
+            
+            <td class="v  up"
+                title="2025">85,2</td>
+            
+            <td class="v  up"
+                title="2025">1,3</td>
+            
+            <td class="v  up"
+                title="2025">18,2</td>
+            
+            <td class="v  "
+                title="">—</td>
+            
+            <td class="v  up"
+                title="2022">39,8</td>
+            
+            <td class="v  up"
+                title="2025">20,1</td>
+            
+            <td class="v  up"
+                title="2025">28,1</td>
+            
+            <td class="v  up"
+                title="2025">1,6</td>
+            
+            <td class="v  up"
+                title="2024">59,7</td>
+            
+            <td class="v  up"
+                title="2025">53,2</td>
+            
+            <td class="v  up"
+                title="2024">89,8</td>
+            
+          </tr>
+          
+        </tbody>
+      </table>
+    </div>
+
+    <aside class="gmapa">
+      <div id="worldmap" data-ind="juro_real" aria-label="Mapa-múndi de Juro real"></div>
+      <div class="mono dim2 rlab">Mapa: Juro real · ranking por PIB</div>
+      
+      
+      <div class="rk">
+        <span class="pos mono">1</span>
+        <span class="nm">United States</span>
+        <span class="bar" style="width:46.0px"></span>
+        <span class="val mono">30,8 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">2</span>
+        <span class="nm">China</span>
+        <span class="bar" style="width:29.1px"></span>
+        <span class="val mono">19,5 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">3</span>
+        <span class="nm">Germany</span>
+        <span class="bar" style="width:7.6px"></span>
+        <span class="val mono">5,1 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">4</span>
+        <span class="nm">Japan</span>
+        <span class="bar" style="width:6.6px"></span>
+        <span class="val mono">4,4 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">5</span>
+        <span class="nm">United Kingdom</span>
+        <span class="bar" style="width:6.0px"></span>
+        <span class="val mono">4,0 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">6</span>
+        <span class="nm">India</span>
+        <span class="bar" style="width:5.9px"></span>
+        <span class="val mono">4,0 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">7</span>
+        <span class="nm">France</span>
+        <span class="bar" style="width:5.0px"></span>
+        <span class="val mono">3,4 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">8</span>
+        <span class="nm">Russian Federation</span>
+        <span class="bar" style="width:3.8px"></span>
+        <span class="val mono">2,6 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">9</span>
+        <span class="nm">Italy</span>
+        <span class="bar" style="width:3.8px"></span>
+        <span class="val mono">2,6 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">10</span>
+        <span class="nm">Canada</span>
+        <span class="bar" style="width:3.5px"></span>
+        <span class="val mono">2,3 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">11</span>
+        <span class="nm">Brazil</span>
+        <span class="bar" style="width:3.4px"></span>
+        <span class="val mono">2,3 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">12</span>
+        <span class="nm">Spain</span>
+        <span class="bar" style="width:2.9px"></span>
+        <span class="val mono">1,9 tri</span>
+      </div>
+      
+    </aside>
+  </div>
+  <div class="dim2" style="font-size:11px;margin-top:10px">
+    A escala de cada coluna está no cabeçalho, então as células trazem só o número —
+    a escala é escolhida pela mediana da coluna, para que os países pequenos não
+    virem zero. <b>Clique no cabeçalho</b> para colorir o mapa por aquela métrica;
+    hoje: <b class="acc">Juro real</b>.
+    Fonte: World Bank, último ano disponível por país — o ano de cada célula aparece
+    ao passar o mouse e varia por indicador (dívida e despesa do governo costumam
+    atrasar um ou dois anos).
+  </div>
+  
+</article>
+
+
+<article class="panel" style="margin-top:16px">
+  <h2>Brasil por UF <span class="h">PIB estadual · IBGE Contas Regionais · 2023</span></h2>
+  <div class="maprow">
+    <div id="brmap" aria-label="Mapa do Brasil por PIB estadual"></div>
+    <div class="scrim" style="overflow:auto;max-height:520px">
+      <div class="mono dim2" style="font-size:10px;text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px">Ranking · PIB por UF (R$)</div>
+      
+      
+      <div class="rk">
+        <span class="pos mono">1</span>
+        <span class="nm">São Paulo</span>
+        <span class="bar" style="width:80.0px"></span>
+        <span class="val mono">3,44 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">2</span>
+        <span class="nm">Rio de Janeiro</span>
+        <span class="bar" style="width:27.2px"></span>
+        <span class="val mono">1,17 tri</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">3</span>
+        <span class="nm">Minas Gerais</span>
+        <span class="bar" style="width:22.6px"></span>
+        <span class="val mono">972 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">4</span>
+        <span class="nm">Paraná</span>
+        <span class="bar" style="width:15.6px"></span>
+        <span class="val mono">671 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">5</span>
+        <span class="nm">Rio Grande do Sul</span>
+        <span class="bar" style="width:15.1px"></span>
+        <span class="val mono">650 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">6</span>
+        <span class="nm">Santa Catarina</span>
+        <span class="bar" style="width:11.9px"></span>
+        <span class="val mono">513 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">7</span>
+        <span class="nm">Bahia</span>
+        <span class="bar" style="width:10.0px"></span>
+        <span class="val mono">431 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">8</span>
+        <span class="nm">Distrito Federal</span>
+        <span class="bar" style="width:8.5px"></span>
+        <span class="val mono">366 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">9</span>
+        <span class="nm">Goiás</span>
+        <span class="bar" style="width:7.8px"></span>
+        <span class="val mono">337 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">10</span>
+        <span class="nm">Mato Grosso</span>
+        <span class="bar" style="width:6.3px"></span>
+        <span class="val mono">273 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">11</span>
+        <span class="nm">Pernambuco</span>
+        <span class="bar" style="width:6.3px"></span>
+        <span class="val mono">270 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">12</span>
+        <span class="nm">Pará</span>
+        <span class="bar" style="width:5.9px"></span>
+        <span class="val mono">255 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">13</span>
+        <span class="nm">Ceará</span>
+        <span class="bar" style="width:5.4px"></span>
+        <span class="val mono">232 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">14</span>
+        <span class="nm">Espírito Santo</span>
+        <span class="bar" style="width:4.9px"></span>
+        <span class="val mono">210 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">15</span>
+        <span class="nm">Mato Grosso do Sul</span>
+        <span class="bar" style="width:4.3px"></span>
+        <span class="val mono">184 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">16</span>
+        <span class="nm">Amazonas</span>
+        <span class="bar" style="width:3.8px"></span>
+        <span class="val mono">162 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">17</span>
+        <span class="nm">Maranhão</span>
+        <span class="bar" style="width:3.5px"></span>
+        <span class="val mono">149 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">18</span>
+        <span class="nm">Rio Grande do Norte</span>
+        <span class="bar" style="width:2.4px"></span>
+        <span class="val mono">102 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">19</span>
+        <span class="nm">Paraíba</span>
+        <span class="bar" style="width:2.3px"></span>
+        <span class="val mono">97 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">20</span>
+        <span class="nm">Alagoas</span>
+        <span class="bar" style="width:2.1px"></span>
+        <span class="val mono">90 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">21</span>
+        <span class="nm">Piauí</span>
+        <span class="bar" style="width:1.9px"></span>
+        <span class="val mono">81 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">22</span>
+        <span class="nm">Rondônia</span>
+        <span class="bar" style="width:1.8px"></span>
+        <span class="val mono">76 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">23</span>
+        <span class="nm">Tocantins</span>
+        <span class="bar" style="width:1.5px"></span>
+        <span class="val mono">64 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">24</span>
+        <span class="nm">Sergipe</span>
+        <span class="bar" style="width:1.4px"></span>
+        <span class="val mono">61 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">25</span>
+        <span class="nm">Amapá</span>
+        <span class="bar" style="width:0.7px"></span>
+        <span class="val mono">28 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">26</span>
+        <span class="nm">Acre</span>
+        <span class="bar" style="width:0.6px"></span>
+        <span class="val mono">26 bi</span>
+      </div>
+      
+      <div class="rk">
+        <span class="pos mono">27</span>
+        <span class="nm">Roraima</span>
+        <span class="bar" style="width:0.6px"></span>
+        <span class="val mono">25 bi</span>
+      </div>
+      
+    </div>
+  </div>
+  <div class="dim2" style="font-size:11px;margin-top:10px">
+    Fonte: IBGE — Contas Regionais (SIDRA tabela 5938, PIB a preços correntes), último ano disponível.
+  </div>
+</article>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/mercados#dados">Dados brutos</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

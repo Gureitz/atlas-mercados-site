@@ -1,0 +1,3745 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. (GNDI3) — projeção trimestral | Atlas Mercados</title>
+<meta name="description" content="Projeção trimestral de NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. (GNDI3) por 10 anos, a partir de taxas de crescimento anuais aplicadas sobre o mesmo trimestre do ano anterior.">
+<link rel="canonical" href="https://atlasmercados.com.br/projecao/GNDI3">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. (GNDI3) — projeção trimestral | Atlas Mercados">
+<meta property="og:description" content="Projeção trimestral de NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. (GNDI3) por 10 anos, a partir de taxas de crescimento anuais aplicadas sobre o mesmo trimestre do ano anterior.">
+<meta name="robots" content="noindex,follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<style>
+  .selbar{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:0 0 14px}
+  .selbar a{font-family:'IBM Plex Mono',monospace;font-size:11px;padding:4px 9px;
+    border:1px solid var(--bd);color:var(--dim);background:var(--panel2)}
+  .selbar a:hover{border-color:var(--acc);color:var(--tx)}
+  .selbar a.on{border-color:var(--acc);color:var(--acc);background:var(--panel)}
+  .grade{overflow:auto;max-height:calc(100vh - 300px);border:1px solid var(--bd)}
+  .grade table{border-collapse:separate;border-spacing:0;font-size:12px}
+  .grade th,.grade td{padding:5px 9px;white-space:nowrap;border-bottom:1px solid var(--bd2)}
+  /* Toda célula fixa precisa de fundo OPACO, senão o conteúdo rolado aparece
+     por baixo. O tingido é feito por inset box-shadow. */
+  .grade thead th{position:sticky;top:0;z-index:3;background:var(--panel2);
+    border-bottom:1px solid var(--bd);font-size:10px;letter-spacing:.07em;
+    text-transform:uppercase;color:var(--dim2);font-weight:500;text-align:right}
+  .grade thead th.lbl{left:0;z-index:6;text-align:left;width:250px;min-width:250px}
+  .grade thead th.tx{left:250px;z-index:6;text-align:center;width:112px;min-width:112px}
+  .grade thead th.proj{color:var(--info)}
+  .grade td.lbl{position:sticky;left:0;z-index:2;background:var(--panel);
+    text-align:left;width:250px;min-width:250px;max-width:250px;
+    overflow:hidden;text-overflow:ellipsis}
+  .grade td.tx{position:sticky;left:250px;z-index:2;background:var(--panel);
+    text-align:center;width:112px;min-width:112px;border-right:1px solid var(--bd)}
+  .grade tr.sec td{background:var(--panel2);padding:0;
+    border-top:1px solid var(--bd);border-bottom:1px solid var(--bd)}
+  .grade tr.sec .lbl-sec{position:sticky;left:0;display:inline-block;padding:5px 9px;
+    font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--acc);white-space:nowrap}
+  .grade td.v{text-align:right;font-family:'IBM Plex Mono',monospace;
+    font-variant-numeric:tabular-nums}
+  .grade td.v.proj{color:var(--info)}
+  .grade td.v.real{opacity:.72}
+  .grade tr.coer td.lbl,.grade tr.coer td.v{box-shadow:inset 0 0 0 999px rgba(227,168,87,.08)}
+  .grade tr:hover td.v{box-shadow:inset 0 0 0 999px rgba(127,140,160,.10)}
+  .grade td.corte,.grade th.corte{border-left:2px solid var(--acc)}
+  .un{font-size:10px;color:var(--dim2);margin-left:5px}
+  input.g{width:62px;background:var(--panel2);border:1px solid var(--bd);color:var(--tx);
+    font-family:'IBM Plex Mono',monospace;font-size:11.5px;padding:3px 5px;text-align:right}
+  input.g:focus{outline:none;border-color:var(--acc)}
+  input.g:disabled{opacity:.35}
+  .hist{font-size:9.5px;color:var(--dim2);display:block;margin-top:2px}
+  .grade tr.calc td.lbl,.grade tr.calc td.v{box-shadow:inset 0 0 0 999px rgba(227,168,87,.07)}
+  .grade tr.comp td.lbl,.grade tr.comp td.v{opacity:.62}
+  .grade td.lbl .eq{color:var(--acc);font-family:'IBM Plex Mono',monospace;margin-right:5px;
+    font-weight:600}
+  .grade td.lbl .det{font-size:9.5px;color:var(--dim2);margin-left:6px}
+  .der{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--acc);
+    display:block;padding:3px 0}
+
+  .barra{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:0 0 12px;
+    padding:10px 12px;border:1px solid var(--bd);background:var(--panel2)}
+  .barra label{font-size:11.5px;color:var(--dim)}
+  .barra button{font-family:'IBM Plex Mono',monospace;font-size:11.5px;padding:5px 12px;
+    background:var(--acc);color:#0a0d13;border:0;cursor:pointer;font-weight:600}
+  .barra button.sec{background:transparent;color:var(--dim);border:1px solid var(--bd)}
+  .barra select{background:var(--panel);border:1px solid var(--bd);color:var(--tx);
+    font-size:11.5px;padding:4px 6px}
+</style>
+
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Valuation", "item": "https://atlasmercados.com.br/valuation"}, {"@type": "ListItem", "position": 3, "name": "NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A.", "item": "https://atlasmercados.com.br/valuation/GNDI3"}, {"@type": "ListItem", "position": 4, "name": "Projeção", "item": "https://atlasmercados.com.br/projecao/GNDI3"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="on" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<div class="selbar">
+  
+  
+  
+  <a href="/projecao/AGRO3" class=""
+     title="BRASILAGRO CIA BRAS DE PROP AGRICOLAS">AGRO3</a>
+  
+  <a href="/projecao/BLAU3" class=""
+     title="BLAU FARMACÊUTICA S.A.">BLAU3</a>
+  
+  <a href="/projecao/BRST3" class=""
+     title="BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.">BRST3</a>
+  
+  <a href="/projecao/EZTC3" class=""
+     title="EZ TEC EMPREEND. E PARTICIPAÇÕES S/A">EZTC3</a>
+  
+  <a href="/projecao/JHSF3" class=""
+     title="JHSF PARTICIPAÇÕES SA">JHSF3</a>
+  
+  <a href="/projecao/MDNE3" class=""
+     title="MOURA DUBEUX ENGENHARIA S/A">MDNE3</a>
+  
+  <a href="/projecao/PRIO3" class=""
+     title="PRIO S.A.">PRIO3</a>
+  
+  <a href="/projecao/PRNR3" class=""
+     title="PRINER SERVIÇOS INDUSTRIAIS S.A.">PRNR3</a>
+  
+  <a href="/projecao/SIMH3" class=""
+     title="SIMPAR S.A.">SIMH3</a>
+  
+  <a href="/projecao/SLCE3" class=""
+     title="SLC AGRICOLA SA">SLCE3</a>
+  
+  <a href="/projecao/SUZB3" class=""
+     title="SUZANO S.A.">SUZB3</a>
+  
+  <a href="/projecao/TTEN3" class=""
+     title="TRÊS TENTOS AGROINDUSTRIAL S.A.">TTEN3</a>
+  
+  <a href="/projecao/AURA33" class=""
+     title="Aura Minerals Inc.">AURA33</a>
+  
+  <a href="/projecao/INBR32" class=""
+     title="Inter &amp; Co, Inc.">INBR32</a>
+  
+  <a href="/projecao/MELI34" class=""
+     title="MercadoLibre, Inc.">MELI34</a>
+  
+  <a href="/projecao/ROXO34" class=""
+     title="Nu Holdings Ltd.">ROXO34</a>
+  
+  <a href="/projecao/S2EA34" class=""
+     title="Sea Limited">S2EA34</a>
+  
+  <a href="/projecao/AMZN" class=""
+     title="Amazon.com, Inc.">AMZN</a>
+  
+  <a href="/projecao/CRESY" class=""
+     title="Cresud S.A.C.I.F. y A.">CRESY</a>
+  
+  <a href="/projecao/META" class=""
+     title="Meta Platforms, Inc.">META</a>
+  
+  <a href="/projecao/MU" class=""
+     title="Micron Technology, Inc.">MU</a>
+  
+  <a href="/projecao/PAM" class=""
+     title="Pampa Energia S.A.">PAM</a>
+  
+  
+  <select onchange="if(this.value) window.location=this.value"
+          style="background:var(--panel2);border:1px solid var(--bd);color:var(--dim);
+                 font-family:'IBM Plex Mono',monospace;font-size:11px;padding:4px 6px">
+    <option value="">universo (427)…</option>
+    
+    <option value="/projecao/AALR3"
+            >AALR3 · ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A</option>
+    
+    <option value="/projecao/ABCB4"
+            >ABCB4 · BANCO ABC BRASIL S/A</option>
+    
+    <option value="/projecao/ABEV3"
+            >ABEV3 · AMBEV S.A.</option>
+    
+    <option value="/projecao/ADMF3"
+            >ADMF3 · B100 S.A.</option>
+    
+    <option value="/projecao/AELP3"
+            >AELP3 · AES ELPA SA</option>
+    
+    <option value="/projecao/AERI3"
+            >AERI3 · AERIS IND. E COM. DE EQUIP. PARA G</option>
+    
+    <option value="/projecao/AESB3"
+            >AESB3 · AUREN PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/AESO3"
+            >AESO3 · AUREN OPERAÇÕES S.A.</option>
+    
+    <option value="/projecao/AFLT3"
+            >AFLT3 · AFLUENTE TRANSMISSÃO DE ENERGIA EL</option>
+    
+    <option value="/projecao/AGXY3"
+            >AGXY3 · AGROGALAXY PARTICIPAÇÕES S.A. - EM</option>
+    
+    <option value="/projecao/AHEB3"
+            >AHEB3 · SÃO PAULO TURISMO S.A.</option>
+    
+    <option value="/projecao/ALLD3"
+            >ALLD3 · ALLIED TECNOLOGIA S.A.</option>
+    
+    <option value="/projecao/ALOS3"
+            >ALOS3 · ALLOS S.A.</option>
+    
+    <option value="/projecao/ALPA3"
+            >ALPA3 · ALPARGATAS SA</option>
+    
+    <option value="/projecao/ALPK3"
+            >ALPK3 · ALLPARK EMPREENDIMENTOS, PARTICIPA</option>
+    
+    <option value="/projecao/ALSC3"
+            >ALSC3 · ALIANSCE SHOPPING CENTERS S/A</option>
+    
+    <option value="/projecao/ALUP11"
+            >ALUP11 · ALUPAR INVESTIMENTO S/A</option>
+    
+    <option value="/projecao/AMBP3"
+            >AMBP3 · AMBIPAR PARTICIPAÇÕES E EMPREENDIM</option>
+    
+    <option value="/projecao/AMER3"
+            >AMER3 · AMERICANAS S.A. - EM RECUPERAÇÃO J</option>
+    
+    <option value="/projecao/AMOB3"
+            >AMOB3 · AUTOMOB PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/ANIM3"
+            >ANIM3 · ANIMA HOLDING S/A</option>
+    
+    <option value="/projecao/APER3"
+            >APER3 · ALPER CONSULTORIA E CORRETORA DE S</option>
+    
+    <option value="/projecao/APTI3"
+            >APTI3 · ALIPERTI S.A.</option>
+    
+    <option value="/projecao/ARML3"
+            >ARML3 · ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇO</option>
+    
+    <option value="/projecao/ARND3"
+            >ARND3 · ARANDU INVESTIMENTOS S.A.</option>
+    
+    <option value="/projecao/ARZZ3"
+            >ARZZ3 · AZZAS 2154 S.A.</option>
+    
+    <option value="/projecao/ASAI3"
+            >ASAI3 · SENDAS DISTRIBUIDORA S.A.</option>
+    
+    <option value="/projecao/ATED3"
+            >ATED3 · ATOM EDUCAÇÃO E EDITORA S.A.</option>
+    
+    <option value="/projecao/ATMP3"
+            >ATMP3 · CONTAX PARTICIPAÇÕES S.A. - EM REC</option>
+    
+    <option value="/projecao/ATOM3"
+            >ATOM3 · FICTOR ALIMENTOS S.A. - EM RECUPER</option>
+    
+    <option value="/projecao/AUAU3"
+            >AUAU3 · UNIÃO PET PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/AURE3"
+            >AURE3 · AUREN ENERGIA S.A</option>
+    
+    <option value="/projecao/AVLL3"
+            >AVLL3 · ALPHAVILLE S.A.</option>
+    
+    <option value="/projecao/AXIA3"
+            >AXIA3 · AXIA ENERGIA S.A.</option>
+    
+    <option value="/projecao/AZEV11"
+            >AZEV11 · AZEVEDO &amp; TRAVASSOS SA</option>
+    
+    <option value="/projecao/AZTE3"
+            >AZTE3 · AZEVEDO &amp; TRAVASSOS ENERGIA S.A.</option>
+    
+    <option value="/projecao/AZUL3"
+            >AZUL3 · AZUL S.A.</option>
+    
+    <option value="/projecao/B3SA3"
+            >B3SA3 · B3 S.A. - BRASIL, BOLSA, BALCÃO</option>
+    
+    <option value="/projecao/BAHI3"
+            >BAHI3 · BIOMA EDUCAÇÃO S.A.</option>
+    
+    <option value="/projecao/BALM3"
+            >BALM3 · BAUMER SA</option>
+    
+    <option value="/projecao/BAUH3"
+            >BAUH3 · EXCELSIOR ALIMENTOS SA.</option>
+    
+    <option value="/projecao/BAZA3"
+            >BAZA3 · BANCO DA AMAZÔNIA S.A.</option>
+    
+    <option value="/projecao/BBAS3"
+            >BBAS3 · BANCO DO BRASIL S.A.</option>
+    
+    <option value="/projecao/BBDC3"
+            >BBDC3 · BANCO BRADESCO S.A.</option>
+    
+    <option value="/projecao/BBML3"
+            >BBML3 · BBM LOGÍSTICA S.A.</option>
+    
+    <option value="/projecao/BBRK3"
+            >BBRK3 · NEXPE PARTICIPAÇÕES S.A. - EM RECU</option>
+    
+    <option value="/projecao/BBSE3"
+            >BBSE3 · BB SEGURIDADE PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/BDLL3"
+            >BDLL3 · BARDELLA S.A. INDUSTRIAS MECANICAS</option>
+    
+    <option value="/projecao/BEEF11"
+            >BEEF11 · MINERVA S/A</option>
+    
+    <option value="/projecao/BEES3"
+            >BEES3 · BANESTES SA BANCO DO ESTADO DO ESP</option>
+    
+    <option value="/projecao/BETP3"
+            >BETP3 · BETAPART PARTICIPAÇÕES SA</option>
+    
+    <option value="/projecao/BFRE11"
+            >BFRE11 · BRAZILIAN FINANCE &amp; REAL ESTATE S.</option>
+    
+    <option value="/projecao/BGIP3"
+            >BGIP3 · BANCO DO ESTADO DE SERGIPE SA</option>
+    
+    <option value="/projecao/BHIA12"
+            >BHIA12 · GRUPO CASAS BAHIA S.A.</option>
+    
+    <option value="/projecao/BIDI11"
+            >BIDI11 · BANCO INTER S.A.</option>
+    
+    <option value="/projecao/BIOM3"
+            >BIOM3 · BIOMM SA</option>
+    
+    <option value="/projecao/BKBR3"
+            >BKBR3 · ZAMP S.A.</option>
+    
+    <option value="/projecao/BLUT3"
+            >BLUT3 · BLUE TECH SOLUTIONS EQI S.A.</option>
+    
+    <option value="/projecao/BMEB3"
+            >BMEB3 · BANCO MERCANTIL BRASIL SA</option>
+    
+    <option value="/projecao/BMGB11"
+            >BMGB11 · BANCO BMG S/A</option>
+    
+    <option value="/projecao/BMIN3"
+            >BMIN3 · BANCO MERCANTIL DE INVESTIMENTOS S</option>
+    
+    <option value="/projecao/BMKS3"
+            >BMKS3 · BICICLETAS MONARK SA</option>
+    
+    <option value="/projecao/BMOB3"
+            >BMOB3 · BEMOBI MOBILE TECH S.A.</option>
+    
+    <option value="/projecao/BNBR3"
+            >BNBR3 · BANCO DO NORDESTE DO BRASIL SA</option>
+    
+    <option value="/projecao/BOAS3"
+            >BOAS3 · BOA VISTA SERVIÇOS S.A.</option>
+    
+    <option value="/projecao/BOBR3"
+            >BOBR3 · BOMBRIL S.A. - EM RECUPERAÇÃO JUDI</option>
+    
+    <option value="/projecao/BPAC11"
+            >BPAC11 · BANCO BTG PACTUAL S/A</option>
+    
+    <option value="/projecao/BPAN4"
+            >BPAN4 · BANCO PAN SA</option>
+    
+    <option value="/projecao/BPAR3"
+            >BPAR3 · BANCO DO ESTADO DO PARÁ S/A.</option>
+    
+    <option value="/projecao/BPHA3"
+            >BPHA3 · MASSA FALIDA DA BRASIL PHARMA SA</option>
+    
+    <option value="/projecao/BRAP3"
+            >BRAP3 · BRADESPAR S/A</option>
+    
+    <option value="/projecao/BRAV3"
+            >BRAV3 · BRAVA ENERGIA S.A.</option>
+    
+    <option value="/projecao/BRBI11"
+            >BRBI11 · BRBI BR PARTNERS S.A</option>
+    
+    <option value="/projecao/BRFS3"
+            >BRFS3 · BRF S.A.</option>
+    
+    <option value="/projecao/BRGE11"
+            >BRGE11 · CONSORCIO ALFA DE ADMINISTRACAO S.</option>
+    
+    <option value="/projecao/BRIT3"
+            >BRIT3 · BRISANET PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/BRIV3"
+            >BRIV3 · BANCO ALFA DE INVESTIMENTO S.A.</option>
+    
+    <option value="/projecao/BRKM3"
+            >BRKM3 · BRASKEM S.A.</option>
+    
+    <option value="/projecao/BRML3"
+            >BRML3 · BR MALLS PARTICIPAÇOES S.A.</option>
+    
+    <option value="/projecao/BRQB3"
+            >BRQB3 · BRQ SOLUÇÕES EM INFORMÁTICA S.A.</option>
+    
+    <option value="/projecao/BRSR3"
+            >BRSR3 · BANCO DO ESTADO DO RIO GRANDE DO S</option>
+    
+    <option value="/projecao/BSEV3"
+            >BSEV3 · BIOSEV S.A.</option>
+    
+    <option value="/projecao/BSLI03"
+            >BSLI03 · BRB BANCO DE BRASILIA SA</option>
+    
+    <option value="/projecao/CABI3"
+            >CABI3 · CABINDA PARTICIPAÇÕES SA</option>
+    
+    <option value="/projecao/CALI11"
+            >CALI11 · CONSTRUTORA ADOLPHO LINDENBERG S.A</option>
+    
+    <option value="/projecao/CAMB3"
+            >CAMB3 · CAMBUCI SA</option>
+    
+    <option value="/projecao/CAML3"
+            >CAML3 · CAMIL ALIMENTOS S/A</option>
+    
+    <option value="/projecao/CARD3"
+            >CARD3 · CSU DIGITAL S.A.</option>
+    
+    <option value="/projecao/CASH3"
+            >CASH3 · MELIUZ S.A.</option>
+    
+    <option value="/projecao/CASN3"
+            >CASN3 · CIA CAT. DE ÁGUAS E SANEAMENTO - C</option>
+    
+    <option value="/projecao/CATA3"
+            >CATA3 · COMPANHIA INDUSTRIAL CATAGUASES</option>
+    
+    <option value="/projecao/CBAV3"
+            >CBAV3 · COMPANHIA BRASILEIRA DE ALUMINIO</option>
+    
+    <option value="/projecao/CBEE3"
+            >CBEE3 · AMPLA ENERGIA E SERVIÇOS S.A.</option>
+    
+    <option value="/projecao/CCPR3"
+            >CCPR3 · SYN PROP &amp; TECH S.A.</option>
+    
+    <option value="/projecao/CCRO3"
+            >CCRO3 · MOTIVA INFRAESTRUTURA DE MOBILIDAD</option>
+    
+    <option value="/projecao/CCTY3"
+            >CCTY3 · BELORA RDVC CITY DESENVOLVIMENTO I</option>
+    
+    <option value="/projecao/CCXC3"
+            >CCXC3 · CCX CARVÃO DA COLOMBIA S.A. - EM L</option>
+    
+    <option value="/projecao/CEAB3"
+            >CEAB3 · C&amp;A MODAS S.A.</option>
+    
+    <option value="/projecao/CEBR3"
+            >CEBR3 · COMPANHIA ENERGÉTICA DE BRASÍLIA -</option>
+    
+    <option value="/projecao/CEDO3"
+            >CEDO3 · COMPANHIA DE FIACAO E TECIDOS CEDR</option>
+    
+    <option value="/projecao/CEEB3"
+            >CEEB3 · CIA DE ELETRICIDADE DO ESTADO DA B</option>
+    
+    <option value="/projecao/CEED3"
+            >CEED3 · CIA ESTADUAL DE DISTRIBUIÇÃO DE EN</option>
+    
+    <option value="/projecao/CEGR3"
+            >CEGR3 · CIA. DISTRIB. DE GÁS DO RIO DE JAN</option>
+    
+    <option value="/projecao/CELP3"
+            >CELP3 · EQUATORIAL PARÁ DISTRIBUIDORA DE E</option>
+    
+    <option value="/projecao/CEPE3"
+            >CEPE3 · CIA ENERGÉTICA DE PERNAMBUCO - CEL</option>
+    
+    <option value="/projecao/CESP3"
+            >CESP3 · CESP - COMPANHIA ENERGÉTICA DE SÃO</option>
+    
+    <option value="/projecao/CGAS3"
+            >CGAS3 · COMPANHIA DE GÁS DE SÃO PAULO - CO</option>
+    
+    <option value="/projecao/CGEE3"
+            >CGEE3 · COMPANHIA ESTADUAL DE GERAÇÃO DE E</option>
+    
+    <option value="/projecao/CGRA3"
+            >CGRA3 · GRAZZIOTIN SA</option>
+    
+    <option value="/projecao/CIEL3"
+            >CIEL3 · CIELO S.A. - INSTITUIÇÃO DE PAGAME</option>
+    
+    <option value="/projecao/CLSA3"
+            >CLSA3 · CLEAR SALE S.A</option>
+    
+    <option value="/projecao/CLSC3"
+            >CLSC3 · CENTRAIS ELETRICAS DE SANTA CATARI</option>
+    
+    <option value="/projecao/CMFA3"
+            >CMFA3 · CIMS SA</option>
+    
+    <option value="/projecao/CMIG3"
+            >CMIG3 · CIA ENERG MINAS GERAIS - CEMIG</option>
+    
+    <option value="/projecao/CNTO3"
+            >CNTO3 · GRUPO SBF S.A.</option>
+    
+    <option value="/projecao/COCE3"
+            >COCE3 · CIA ENERG CEARA - COELCE</option>
+    
+    <option value="/projecao/COGN3"
+            >COGN3 · COGNA EDUCAÇÃO S.A.</option>
+    
+    <option value="/projecao/CORR3"
+            >CORR3 · CORRÊA RIBEIRO S/A COMÉRCIO E INDÚ</option>
+    
+    <option value="/projecao/CPFE3"
+            >CPFE3 · CPFL ENERGIA SA</option>
+    
+    <option value="/projecao/CPLE3"
+            >CPLE3 · COMPANHIA PARANAENSE DE ENERGIA CO</option>
+    
+    <option value="/projecao/CPRE3"
+            >CPRE3 · CPFL ENERGIAS RENOVÁVEIS S.A.</option>
+    
+    <option value="/projecao/CRDE3"
+            >CRDE3 · FICA EMPREENDIMENTOS IMOBILIARIOS </option>
+    
+    <option value="/projecao/CREM3"
+            >CREM3 · CREMER SA</option>
+    
+    <option value="/projecao/CRFB3"
+            >CRFB3 · ATACADÃO S.A.</option>
+    
+    <option value="/projecao/CRIV3"
+            >CRIV3 · FINANCEIRA ALFA S.A.- C.F.I</option>
+    
+    <option value="/projecao/CRPG3"
+            >CRPG3 · TRONOX PIGMENTOS DO BRASIL S.A.</option>
+    
+    <option value="/projecao/CRTE3"
+            >CRTE3 · CONCESSIONARIA RIO-TERESOPOLIS SA</option>
+    
+    <option value="/projecao/CSAB3"
+            >CSAB3 · CIA SEGUROS ALIANCA DA BAHIA</option>
+    
+    <option value="/projecao/CSAN3"
+            >CSAN3 · COSAN S.A.</option>
+    
+    <option value="/projecao/CSED3"
+            >CSED3 · CRUZEIRO DO SUL EDUCACIONAL S.A.</option>
+    
+    <option value="/projecao/CSMG3"
+            >CSMG3 · COMPANHIA DE SANEAMENTO DE MINAS G</option>
+    
+    <option value="/projecao/CSRN3"
+            >CSRN3 · CIA ENERGÉTICA DO RIO GRANDE DO NO</option>
+    
+    <option value="/projecao/CTCA3"
+            >CTCA3 · CTC - CENTRO DE TECNOLOGIA CANAVIE</option>
+    
+    <option value="/projecao/CTKA3"
+            >CTKA3 · KARSTEN SA</option>
+    
+    <option value="/projecao/CTNM3"
+            >CTNM3 · CIA TECIDOS NORTE DE MINAS - COTEM</option>
+    
+    <option value="/projecao/CTSA3"
+            >CTSA3 · CIA TECIDOS SANTANENSE - EM RECUPE</option>
+    
+    <option value="/projecao/CURY3"
+            >CURY3 · CURY CONSTRUTORA E INCORPORADORA S</option>
+    
+    <option value="/projecao/CVCB3"
+            >CVCB3 · CVC BRASIL OPERADORA E AGÊNCIA DE </option>
+    
+    <option value="/projecao/CXSE3"
+            >CXSE3 · CAIXA SEGURIDADE PARTICIPAÇÕES S.A</option>
+    
+    <option value="/projecao/CYRE3"
+            >CYRE3 · CYRELA BRAZIL REALTY S.A.EMPREEND </option>
+    
+    <option value="/projecao/DASA3"
+            >DASA3 · DIAGNOSTICOS DA AMERICA SA</option>
+    
+    <option value="/projecao/DESK3"
+            >DESK3 · DESKTOP S.A</option>
+    
+    <option value="/projecao/DEXP3"
+            >DEXP3 · DEXXOS PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/DIRR3"
+            >DIRR3 · DIRECIONAL ENGENHARIA SA</option>
+    
+    <option value="/projecao/DMFN3"
+            >DMFN3 · DM FINANCEIRA S.A. - CRÉDITO, FINA</option>
+    
+    <option value="/projecao/DMVF3"
+            >DMVF3 · D1000 VAREJO FARMA PARTICIPAÇÕES S</option>
+    
+    <option value="/projecao/DOHL3"
+            >DOHL3 · DOHLER S.A.</option>
+    
+    <option value="/projecao/DOTZ3"
+            >DOTZ3 · DOTZ S.A.</option>
+    
+    <option value="/projecao/DTCY3"
+            >DTCY3 · DTCOM - DIRECT TO COMPANY S.A.</option>
+    
+    <option value="/projecao/DTEX3"
+            >DTEX3 · DEXCO S.A.</option>
+    
+    <option value="/projecao/EALT3"
+            >EALT3 · ELECTRO AÇO ALTONA S/A</option>
+    
+    <option value="/projecao/ECOR3"
+            >ECOR3 · ECORODOVIAS INFRAESTRUTURA E LOGÍS</option>
+    
+    <option value="/projecao/ECPR3"
+            >ECPR3 · EMP.NAC. DE COMÉRCIO, RÉDITO E PAR</option>
+    
+    <option value="/projecao/EEEL3"
+            >EEEL3 · CPFL TRANSMISSÃO S.A.</option>
+    
+    <option value="/projecao/EGIE3"
+            >EGIE3 · ENGIE BRASIL ENERGIA S.A.</option>
+    
+    <option value="/projecao/EKTR3"
+            >EKTR3 · ELEKTRO REDES S.A.</option>
+    
+    <option value="/projecao/ELEK3"
+            >ELEK3 · ELEKEIROZ S/A</option>
+    
+    <option value="/projecao/ELMD3"
+            >ELMD3 · ELETROMIDIA S.A.</option>
+    
+    <option value="/projecao/ELPL3"
+            >ELPL3 · ELETROPAULO METROP. ELET. SAO PAUL</option>
+    
+    <option value="/projecao/EMAE3"
+            >EMAE3 · EMAE - EMPRESA METROP.AGUAS ENERGI</option>
+    
+    <option value="/projecao/EMBJ3"
+            >EMBJ3 · EMBRAER S.A.</option>
+    
+    <option value="/projecao/ENAT3"
+            >ENAT3 · ENAUTA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/ENBR3"
+            >ENBR3 · EDP ENERGIAS DO BRASIL S/A</option>
+    
+    <option value="/projecao/ENEV3"
+            >ENEV3 · ENEVA S.A.</option>
+    
+    <option value="/projecao/ENGI11"
+            >ENGI11 · ENERGISA SA</option>
+    
+    <option value="/projecao/ENJU3"
+            >ENJU3 · ENJOEI S.A.</option>
+    
+    <option value="/projecao/ENMT3"
+            >ENMT3 · ENERGISA MATO GROSSO-DISTRIBUIDORA</option>
+    
+    <option value="/projecao/EQTL3"
+            >EQTL3 · EQUATORIAL S.A.</option>
+    
+    <option value="/projecao/ESPA3"
+            >ESPA3 · MPM CORPÓREOS S.A.</option>
+    
+    <option value="/projecao/ESTC3"
+            >ESTC3 · YDUQS PARTICIPACOES S.A.</option>
+    
+    <option value="/projecao/ESTR4"
+            >ESTR4 · MANUFATURA DE  BRINQUEDOS ESTRELA </option>
+    
+    <option value="/projecao/ETER3"
+            >ETER3 · ETERNIT S.A.</option>
+    
+    <option value="/projecao/EUCA3"
+            >EUCA3 · EUCATEX S.A. INDUSTRIA E COMERCIO</option>
+    
+    <option value="/projecao/EVEN3"
+            >EVEN3 · EVEN CONSTRUTORA E INCORPORADORA S</option>
+    
+    <option value="/projecao/FBMC3"
+            >FBMC3 · FIBAM CIA INDUSTRIAL</option>
+    
+    <option value="/projecao/FESA3"
+            >FESA3 · CIA FERRO LIGAS BAHIA FERBASA</option>
+    
+    <option value="/projecao/FHER3"
+            >FHER3 · FERTILIZANTES HERINGER S.A.</option>
+    
+    <option value="/projecao/FIBR3"
+            >FIBR3 · FIBRIA CELULOSE S.A.</option>
+    
+    <option value="/projecao/FIGE3"
+            >FIGE3 · INVESTIMENTOS BEMGE S.A.</option>
+    
+    <option value="/projecao/FIQE3"
+            >FIQE3 · UNIFIQUE TELECOMUNICAÇÕES S.A.</option>
+    
+    <option value="/projecao/FJTA3"
+            >FJTA3 · TAURUS ARMAS S.A.</option>
+    
+    <option value="/projecao/FLRY3"
+            >FLRY3 · FLEURY SA</option>
+    
+    <option value="/projecao/FRAS3"
+            >FRAS3 · FRASLE MOBILITY S.A.</option>
+    
+    <option value="/projecao/FRIO3"
+            >FRIO3 · METALFRIO SOLUTIONS S/A</option>
+    
+    <option value="/projecao/FRTA3"
+            >FRTA3 · MASSA FALIDA DE POMIFRUTAS S/A</option>
+    
+    <option value="/projecao/GAFS3"
+            >GAFS3 · GAFISA SA</option>
+    
+    <option value="/projecao/GEPA3"
+            >GEPA3 · RIO PARANAPANEMA ENERGIA SA</option>
+    
+    <option value="/projecao/GGBR3"
+            >GGBR3 · GERDAU S.A.</option>
+    
+    <option value="/projecao/GGPS3"
+            >GGPS3 · GPS PARTICIPAÇÕES E EMPREENDIMENTO</option>
+    
+    <option value="/projecao/GMAT3"
+            >GMAT3 · GRUPO MATEUS S.A.</option>
+    
+    <option value="/projecao/GNDI3"
+            selected>GNDI3 · NOTRE DAME INTERMÉDICA PARTICIPAÇÕ</option>
+    
+    <option value="/projecao/GOAU3"
+            >GOAU3 · METALURGICA GERDAU SA</option>
+    
+    <option value="/projecao/GOLL4"
+            >GOLL4 · GOL LINHAS AEREAS INTELIGENTES SA</option>
+    
+    <option value="/projecao/GPAR3"
+            >GPAR3 · COMPANHIA CELG DE PARTICIPAÇÕES - </option>
+    
+    <option value="/projecao/GRAO3"
+            >GRAO3 · HUMBERG AGRIBRASIL COMÉRCIO E EXPO</option>
+    
+    <option value="/projecao/GRND3"
+            >GRND3 · GRENDENE SA</option>
+    
+    <option value="/projecao/GSHP3"
+            >GSHP3 · GENERAL SHOPPING E OUTLETS DO BRAS</option>
+    
+    <option value="/projecao/GUAR3"
+            >GUAR3 · GUARARAPES CONFECÇÕES SA</option>
+    
+    <option value="/projecao/HAPV3"
+            >HAPV3 · HAPVIDA PARTICIPAÇÕES E INVESTIMEN</option>
+    
+    <option value="/projecao/HBOR3"
+            >HBOR3 · HELBOR EMPREENDIMENTOS S/A</option>
+    
+    <option value="/projecao/HBRE3"
+            >HBRE3 · HBR REALTY EMPREENDIMENTOS IMOBILI</option>
+    
+    <option value="/projecao/HBSA3"
+            >HBSA3 · HIDROVIAS DO BRASIL S.A.</option>
+    
+    <option value="/projecao/HBTS5"
+            >HBTS5 · COMPANHIIA HABITASUL DE PARTICIPAÇ</option>
+    
+    <option value="/projecao/HETA3"
+            >HETA3 · HERCULES S/A - FABRICA DE TALHERES</option>
+    
+    <option value="/projecao/HGTX3"
+            >HGTX3 · CIA HERING</option>
+    
+    <option value="/projecao/HMOB3"
+            >HMOB3 · HMOBI PARTICIPAÇÕES S.A</option>
+    
+    <option value="/projecao/HOOT4"
+            >HOOT4 · HOTEIS OTHON S.A. - EM RECUPERAÇÃO</option>
+    
+    <option value="/projecao/HYPE3"
+            >HYPE3 · HYPERA S/A</option>
+    
+    <option value="/projecao/IDNT3"
+            >IDNT3 · PADTEC HOLDING S.A.</option>
+    
+    <option value="/projecao/IDVL3"
+            >IDVL3 · BANCO VOITER S.A.</option>
+    
+    <option value="/projecao/IFCM11"
+            >IFCM11 · INFRACOMMERCE CXAAS S.A.</option>
+    
+    <option value="/projecao/IGBR3"
+            >IGBR3 · IGB ELETRÔNICA S.A. - EM RECUPERAÇ</option>
+    
+    <option value="/projecao/IGTA3"
+            >IGTA3 · IGUATEMI EMPRESA DE SHOPPING CENTE</option>
+    
+    <option value="/projecao/IGTI11"
+            >IGTI11 · IGUATEMI S.A.</option>
+    
+    <option value="/projecao/INEP3"
+            >INEP3 · INEPAR S.A. INDUSTRIA E CONSTRUCOE</option>
+    
+    <option value="/projecao/INNC3"
+            >INNC3 · INC EMPREENDIMENTOS IMOBILIÁRIOS S</option>
+    
+    <option value="/projecao/INPR3"
+            >INPR3 · VIVER INCORPORADORA E CONSTRUTORA </option>
+    
+    <option value="/projecao/INTB3"
+            >INTB3 · INTELBRAS S.A. IND. DE TELECOMUNIC</option>
+    
+    <option value="/projecao/IRBR3"
+            >IRBR3 · IRB - BRASIL RESSEGUROS S.A.</option>
+    
+    <option value="/projecao/ISAE3"
+            >ISAE3 · ISA ENERGIA BRASIL S.A.</option>
+    
+    <option value="/projecao/ITEC3"
+            >ITEC3 · ITAUTEC S.A. - GRUPO ITAUTEC</option>
+    
+    <option value="/projecao/ITSA3"
+            >ITSA3 · ITAUSA S.A.</option>
+    
+    <option value="/projecao/ITUB3"
+            >ITUB3 · ITAÚ UNIBANCO HOLDING S.A.</option>
+    
+    <option value="/projecao/IVPR3"
+            >IVPR3 · INVESTIMENTOS E PARTICIP EM INFRA </option>
+    
+    <option value="/projecao/JALL3"
+            >JALL3 · JALLES MACHADO S.A.</option>
+    
+    <option value="/projecao/JBSS3"
+            >JBSS3 · JBS SA</option>
+    
+    <option value="/projecao/JFEN3"
+            >JFEN3 · JOAO FORTES ENGENHARIA SA - EM REC</option>
+    
+    <option value="/projecao/JOPA3"
+            >JOPA3 · JOSAPAR-JOAQUIM OLIVEIRA S.A. - PA</option>
+    
+    <option value="/projecao/JSLG11"
+            >JSLG11 · JSL S.A.</option>
+    
+    <option value="/projecao/KEPL11"
+            >KEPL11 · KEPLER WEBER SA</option>
+    
+    <option value="/projecao/KLAS3"
+            >KLAS3 · KALLAS INCORPORAÇÕES E CONSTRUÇÕES</option>
+    
+    <option value="/projecao/KLBN11"
+            >KLBN11 · KLABIN S.A.</option>
+    
+    <option value="/projecao/KRSA3"
+            >KRSA3 · KORA SAÚDE PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/LAME3"
+            >LAME3 · LOJAS AMERICANAS SA</option>
+    
+    <option value="/projecao/LAND3"
+            >LAND3 · TERRA SANTA PROPRIEDADES AGRÍCOLAS</option>
+    
+    <option value="/projecao/LAVV3"
+            >LAVV3 · LAVVI EMPREENDIMENTOS IMOBILIÁRIOS</option>
+    
+    <option value="/projecao/LCAM3"
+            >LCAM3 · COMPANHIA DE LOCAÇÃO DAS AMERICAS</option>
+    
+    <option value="/projecao/LEVE3"
+            >LEVE3 · MAHLE METAL LEVE S.A.</option>
+    
+    <option value="/projecao/LHER3"
+            >LHER3 · LOJAS HERING SA</option>
+    
+    <option value="/projecao/LIGT3"
+            >LIGT3 · LIGHT S.A. - EM RECUPERAÇÃO JUDICI</option>
+    
+    <option value="/projecao/LINX3"
+            >LINX3 · LINX S.A.</option>
+    
+    <option value="/projecao/LIPR3"
+            >LIPR3 · ELETROBRÁS PARTICIPAÇÕES S.A. - EL</option>
+    
+    <option value="/projecao/LIXC3"
+            >LIXC3 · CONST LIX DA CUNHA SA</option>
+    
+    <option value="/projecao/LJQQ3"
+            >LJQQ3 · LOJAS QUERO QUERO S.A.</option>
+    
+    <option value="/projecao/LLIS3"
+            >LLIS3 · VESTE SA ESTILO</option>
+    
+    <option value="/projecao/LOAR11"
+            >LOAR11 · KOSMOS COMÉRCIO DE VESTUÁRIO S/A -</option>
+    
+    <option value="/projecao/LOGG3"
+            >LOGG3 · LOG COMMERCIAL PROPERTIES E PARTIC</option>
+    
+    <option value="/projecao/LOGN3"
+            >LOGN3 · LOG-IN LOGISTICA INTERMODAL SA</option>
+    
+    <option value="/projecao/LPSB3"
+            >LPSB3 · LPS BRASIL CONSULTORIA DE IMOVEIS </option>
+    
+    <option value="/projecao/LREN3"
+            >LREN3 · LOJAS RENNER SA</option>
+    
+    <option value="/projecao/LUPA3"
+            >LUPA3 · LUPATECH S.A.</option>
+    
+    <option value="/projecao/LWSA3"
+            >LWSA3 · LWSA S/A</option>
+    
+    <option value="/projecao/MAGG3"
+            >MAGG3 · MAGNESITA REFRATARIOS S.A.</option>
+    
+    <option value="/projecao/MATD3"
+            >MATD3 · HOSPITAL MATER DEI S.A.</option>
+    
+    <option value="/projecao/MBLY12"
+            >MBLY12 · GRUPO TOKY S.A.</option>
+    
+    <option value="/projecao/MDIA3"
+            >MDIA3 · M. DIAS BRANCO SA IND E COM DE ALI</option>
+    
+    <option value="/projecao/MEAL3"
+            >MEAL3 · INTERNATIONAL MEAL COMPANY ALIMENT</option>
+    
+    <option value="/projecao/MEGA3"
+            >MEGA3 · SERENA ENERGIA S.A.</option>
+    
+    <option value="/projecao/MELK3"
+            >MELK3 · MELNICK DESENVOLVIMENTO IMOBILIÁRI</option>
+    
+    <option value="/projecao/MEND3"
+            >MEND3 · MENDES JUNIOR ENGENHARIA SA</option>
+    
+    <option value="/projecao/MERC3"
+            >MERC3 · MERCANTIL FINANCEIRA S.A. CRÉDITO,</option>
+    
+    <option value="/projecao/MGEL3"
+            >MGEL3 · MANGELS INDUSTRIAL S.A.</option>
+    
+    <option value="/projecao/MGLU3"
+            >MGLU3 · MAGAZINE LUIZA SA</option>
+    
+    <option value="/projecao/MILS3"
+            >MILS3 · MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTIC</option>
+    
+    <option value="/projecao/MITG03"
+            >MITG03 · METALGRAFICA IGUACU SA</option>
+    
+    <option value="/projecao/MLAS3"
+            >MLAS3 · GRUPO MULTILASER S.A.</option>
+    
+    <option value="/projecao/MMAQ3"
+            >MMAQ3 · MINASMAQUINAS SA</option>
+    
+    <option value="/projecao/MMXM3"
+            >MMXM3 · MASSA FALIDA DA MMX MINERACAO E ME</option>
+    
+    <option value="/projecao/MNDL3"
+            >MNDL3 · MUNDIAL S.A - PRODUTOS DE CONSUMO</option>
+    
+    <option value="/projecao/MNPR3"
+            >MNPR3 · MINUPAR PARTICIPACOES SA</option>
+    
+    <option value="/projecao/MNZC3"
+            >MNZC3 · TERMINAL GARAGEM MENEZES CORTES SA</option>
+    
+    <option value="/projecao/MOAR3"
+            >MOAR3 · MONTEIRO ARANHA SA</option>
+    
+    <option value="/projecao/MODL11"
+            >MODL11 · BANCO MODAL S.A.</option>
+    
+    <option value="/projecao/MOSI3"
+            >MOSI3 · MOSAICO TECNOLOGIA AO CONSUMIDOR S</option>
+    
+    <option value="/projecao/MOVI11"
+            >MOVI11 · MOVIDA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/MPLU3"
+            >MPLU3 · MULTIPLUS SA</option>
+    
+    <option value="/projecao/MRFG3"
+            >MRFG3 · MARFRIG GLOBAL FOODS SA</option>
+    
+    <option value="/projecao/MRSA3"
+            >MRSA3 · MRS LOGÍSTICA S/A</option>
+    
+    <option value="/projecao/MRVE3"
+            >MRVE3 · MRV ENGENHARIA E PARTICIPAÇÕES S/A</option>
+    
+    <option value="/projecao/MSPA3"
+            >MSPA3 · COMPANHIA  MELHORAMENTOS DE SÃO PA</option>
+    
+    <option value="/projecao/MSRO3"
+            >MSRO3 · MAESTRO LOCADORA DE VEÍCULOS S.A.</option>
+    
+    <option value="/projecao/MTRE3"
+            >MTRE3 · MITRE REALTY EMPREENDIMENTOS E PAR</option>
+    
+    <option value="/projecao/MTSA3"
+            >MTSA3 · METISA METALÚRGICA  TIMBOENSE SA</option>
+    
+    <option value="/projecao/MULT3"
+            >MULT3 · MULTIPLAN - EMPREEND IMOBILIARIOS </option>
+    
+    <option value="/projecao/MWET3"
+            >MWET3 · WETZEL S.A.</option>
+    
+    <option value="/projecao/MYPK3"
+            >MYPK3 · IOCHPE MAXION SA</option>
+    
+    <option value="/projecao/NAFG3"
+            >NAFG3 · NADIR FIGUEIREDO S.A</option>
+    
+    <option value="/projecao/NATU3"
+            >NATU3 · NATURA COSMETICOS SA</option>
+    
+    <option value="/projecao/NEMO3"
+            >NEMO3 · SUZANO HOLDING S.A.</option>
+    
+    <option value="/projecao/NEOE3"
+            >NEOE3 · NEOENERGIA S.A</option>
+    
+    <option value="/projecao/NGRD3"
+            >NGRD3 · NEOGRID PARTICIPACÕES S.A.</option>
+    
+    <option value="/projecao/NRTQ3"
+            >NRTQ3 · NORTEC QUIMICA S.A.</option>
+    
+    <option value="/projecao/NTCO3"
+            >NTCO3 · NATURA &amp; CO HOLDING S.A.</option>
+    
+    <option value="/projecao/NUTR3"
+            >NUTR3 · NUTRIPLANT INDUSTRIA E COMÉRCIO S/</option>
+    
+    <option value="/projecao/ODER3"
+            >ODER3 · CONSERVAS ODERICH SA</option>
+    
+    <option value="/projecao/ODPV3"
+            >ODPV3 · BRADSAÚDE S.A.</option>
+    
+    <option value="/projecao/OFSA3"
+            >OFSA3 · OUROFINO S.A.</option>
+    
+    <option value="/projecao/OGXP3"
+            >OGXP3 · ÓLEO E GÁS PARTICIPAÇÕES S/A</option>
+    
+    <option value="/projecao/OIBR3"
+            >OIBR3 · OI S.A. - EM RECUPERAÇÃO JUDICIAL</option>
+    
+    <option value="/projecao/OMGE3"
+            >OMGE3 · SERENA GERAÇÃO S.A.</option>
+    
+    <option value="/projecao/ONCO3"
+            >ONCO3 · ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉ</option>
+    
+    <option value="/projecao/OPCT3"
+            >OPCT3 · OCEANPACT SERVIÇOS MARÍTIMOS S.A.</option>
+    
+    <option value="/projecao/OPGM3"
+            >OPGM3 · GAMA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/OPSE3"
+            >OPSE3 · SUDESTE SA</option>
+    
+    <option value="/projecao/OPTS3"
+            >OPTS3 · SUL 116 PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/ORVR3"
+            >ORVR3 · ORIZON VALORIZAÇÃO DE RESÍDUOS S.A</option>
+    
+    <option value="/projecao/OSXB3"
+            >OSXB3 · OSX BRASIL S.A. - EM RECUPERAÇÃO J</option>
+    
+    <option value="/projecao/PACF3"
+            >PACF3 · PACIFIC RDSL PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/PARD3"
+            >PARD3 · INSTITUTO HERMES PARDINI S/A</option>
+    
+    <option value="/projecao/PASS3"
+            >PASS3 · COMPASS GÁS E ENERGIA S.A.</option>
+    
+    <option value="/projecao/PATI3"
+            >PATI3 · PANATLANTICA SA</option>
+    
+    <option value="/projecao/PCAR3"
+            >PCAR3 · COMPANHIA BRASILEIRA DE DISTRIBUIÇ</option>
+    
+    <option value="/projecao/PDGR3"
+            >PDGR3 · PDG REALTY S.A. EMPREEND E PARTICI</option>
+    
+    <option value="/projecao/PEAB3"
+            >PEAB3 · CIA DE PARTICIPAÇÕES ALIANÇA DA BA</option>
+    
+    <option value="/projecao/PETR3"
+            >PETR3 · PETRÓLEO BRASILEIRO  S.A.  - PETRO</option>
+    
+    <option value="/projecao/PETZ3"
+            >PETZ3 · PET CENTER COMÉRCIO E PARTICIPAÇÕE</option>
+    
+    <option value="/projecao/PFRM3"
+            >PFRM3 · PROFARMA DISTRIB PROD FARMACEUTICO</option>
+    
+    <option value="/projecao/PGMN3"
+            >PGMN3 · EMPREENDIMENTOS PAGUE MENOS SA</option>
+    
+    <option value="/projecao/PINE3"
+            >PINE3 · BANCO PINE S/A</option>
+    
+    <option value="/projecao/PLPL3"
+            >PLPL3 · PLANO &amp; PLANO DESENVOLVIMENTO IMOB</option>
+    
+    <option value="/projecao/PMAM3"
+            >PMAM3 · PARANAPANEMA S.A. - EM RECUPERAÇÃO</option>
+    
+    <option value="/projecao/PNVL3"
+            >PNVL3 · DIMED SA DISTRIBUIDORA DE MEDICAME</option>
+    
+    <option value="/projecao/POMO3"
+            >POMO3 · MARCOPOLO SA</option>
+    
+    <option value="/projecao/PORT3"
+            >PORT3 · WILSON SONS S.A.</option>
+    
+    <option value="/projecao/POSI3"
+            >POSI3 · POSITIVO TECNOLOGIA S.A.</option>
+    
+    <option value="/projecao/POWE3"
+            >POWE3 · FOCUS ENERGIA HOLDING PARTICIPAÇÕE</option>
+    
+    <option value="/projecao/PPAR3"
+            >PPAR3 · POLPAR S.A.</option>
+    
+    <option value="/projecao/PRBC4"
+            >PRBC4 · PARANA BANCO S.A.</option>
+    
+    <option value="/projecao/PRML3"
+            >PRML3 · PRUMO LOGÍSTICA S.A.</option>
+    
+    <option value="/projecao/PRPT3"
+            >PRPT3 · PROMPT PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/PSSA3"
+            >PSSA3 · PORTO SEGURO SA</option>
+    
+    <option value="/projecao/PTBL3"
+            >PTBL3 · PBG S/A</option>
+    
+    <option value="/projecao/PTCA11"
+            >PTCA11 · PRÁTICA PRODUTOS S.A.</option>
+    
+    <option value="/projecao/PTNT3"
+            >PTNT3 · PETTENATI S.A. INDUSTRIA TEXTIL</option>
+    
+    <option value="/projecao/QUAL3"
+            >QUAL3 · QUALICORP CONSULTORIA E CORRETORA </option>
+    
+    <option value="/projecao/QUSW3"
+            >QUSW3 · QUALITY SOFTWARE S.A.</option>
+    
+    <option value="/projecao/QVQP3"
+            >QVQP3 · 524 PARTICIPAÇOES SA</option>
+    
+    <option value="/projecao/RADL3"
+            >RADL3 · RAIA DROGASIL S.A.</option>
+    
+    <option value="/projecao/RAIL3"
+            >RAIL3 · RUMO S.A.</option>
+    
+    <option value="/projecao/RAIZ4"
+            >RAIZ4 · RAÍZEN S.A.</option>
+    
+    <option value="/projecao/RANI3"
+            >RANI3 · IRANI PAPEL E EMBALAGEM S.A.</option>
+    
+    <option value="/projecao/RAPT3"
+            >RAPT3 · RANDONCORP S.A.</option>
+    
+    <option value="/projecao/RCSL3"
+            >RCSL3 · RECRUSUL SA</option>
+    
+    <option value="/projecao/RDNI3"
+            >RDNI3 · RNI NEGÓCIOS IMOBILIÁRIOS S.A.</option>
+    
+    <option value="/projecao/RDOR3"
+            >RDOR3 · REDE D&#39;OR SÃO LUIZ S.A.</option>
+    
+    <option value="/projecao/RECV3"
+            >RECV3 · PETRORECÔNCAVO S.A.</option>
+    
+    <option value="/projecao/REDE3"
+            >REDE3 · REDE ENERGIA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/RENT3"
+            >RENT3 · LOCALIZA RENT A CAR SA</option>
+    
+    <option value="/projecao/RIOS3"
+            >RIOS3 · RIO ALTO ENERGIAS RENOVÁVEIS S.A. </option>
+    
+    <option value="/projecao/RLOG3"
+            >RLOG3 · COSAN LOGÍSTICA S.A.</option>
+    
+    <option value="/projecao/RNEW11"
+            >RNEW11 · RENOVA ENERGIA S.A.</option>
+    
+    <option value="/projecao/ROMI3"
+            >ROMI3 · ROMI S.A.</option>
+    
+    <option value="/projecao/RPAD3"
+            >RPAD3 · ALFA HOLDINGS S.A.</option>
+    
+    <option value="/projecao/RPMG3"
+            >RPMG3 · REFINARIA DE PETRÓLEOS DE MANGUINH</option>
+    
+    <option value="/projecao/RSID3"
+            >RSID3 · ROSSI RESIDENCIAL S.A. - EM RECUPE</option>
+    
+    <option value="/projecao/RSUL3"
+            >RSUL3 · METALURGICA RIOSULENSE SA</option>
+    
+    <option value="/projecao/RVEE3"
+            >RVEE3 · REVEE S.A.</option>
+    
+    <option value="/projecao/SALT3"
+            >SALT3 · GRUPO SALTA EDUCAÇÃO S.A.</option>
+    
+    <option value="/projecao/SANB11"
+            >SANB11 · BANCO SANTANDER (BRASIL) S.A.</option>
+    
+    <option value="/projecao/SAPR11"
+            >SAPR11 · CIA. DE SANEAMENTO DO PARANÁ - SAN</option>
+    
+    <option value="/projecao/SBIO11"
+            >SBIO11 · SMARTFIT ESCOLA DE GINÁSTICA E DAN</option>
+    
+    <option value="/projecao/SBSP3"
+            >SBSP3 · CIA SANEAMENTO BÁSICO ESTADO SÃO P</option>
+    
+    <option value="/projecao/SCAR3"
+            >SCAR3 · SAO CARLOS EMPREEND E PARTICIPACOE</option>
+    
+    <option value="/projecao/SEDU3"
+            >SEDU3 · SOMOS EDUCAÇÃO S.A.</option>
+    
+    <option value="/projecao/SEER3"
+            >SEER3 · SER EDUCACIONAL S.A.</option>
+    
+    <option value="/projecao/SEQL3"
+            >SEQL3 · SEQUOIA LOGÍSTICA E TRANSPORTES S.</option>
+    
+    <option value="/projecao/SGPS3"
+            >SGPS3 · SPRINGS GLOBAL PARTICIPAÇÕES S/A -</option>
+    
+    <option value="/projecao/SHOW3"
+            >SHOW3 · T4F ENTRETENIMENTO SA</option>
+    
+    <option value="/projecao/SHUL3"
+            >SHUL3 · SCHULZ SA</option>
+    
+    <option value="/projecao/SLED3"
+            >SLED3 · SARAIVA LIVREIROS S.A. - FALIDA</option>
+    
+    <option value="/projecao/SMLS3"
+            >SMLS3 · SMILES FIDELIDADE S.A.</option>
+    
+    <option value="/projecao/SMTO3"
+            >SMTO3 · SÃO MARTINHO SA</option>
+    
+    <option value="/projecao/SNSL3"
+            >SNSL3 · SINQIA S.A.</option>
+    
+    <option value="/projecao/SNSY3"
+            >SNSY3 · SANSUY SA INDÚSTRIA  DE PLASTICOS</option>
+    
+    <option value="/projecao/SOJA3"
+            >SOJA3 · BOA SAFRA SEMENTES S.A</option>
+    
+    <option value="/projecao/SOMA3"
+            >SOMA3 · GRUPO DE MODA SOMA S.A.</option>
+    
+    <option value="/projecao/SOND3"
+            >SOND3 · SONDOTECNICA ENGENHARIA SOLOS S.A.</option>
+    
+    <option value="/projecao/SPRI3"
+            >SPRI3 · SPRINGER SA</option>
+    
+    <option value="/projecao/STBP11"
+            >STBP11 · SANTOS BRASIL PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/STBR11"
+            >STBR11 · NUMERAL 80 PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/STKF3"
+            >STKF3 · STATKRAFT ENERGIAS RENOVÁVEIS S.A.</option>
+    
+    <option value="/projecao/SULA11"
+            >SULA11 · SUL AMERICA S/A</option>
+    
+    <option value="/projecao/TAEE11"
+            >TAEE11 · TRANSMISSORA ALIANÇA DE ENERGIA EL</option>
+    
+    <option value="/projecao/TCNO3"
+            >TCNO3 · MASSA FALIDA DE TECNOSOLO ENGENHAR</option>
+    
+    <option value="/projecao/TCSA3"
+            >TCSA3 · TECNISA S/A</option>
+    
+    <option value="/projecao/TECN3"
+            >TECN3 · TECHNOS SA</option>
+    
+    <option value="/projecao/TEKA3"
+            >TEKA3 · TEKA TECELAGEM KUEHNRICH SA - EM R</option>
+    
+    <option value="/projecao/TELB3"
+            >TELB3 · TELEC. BRASILEIRAS S.A. - TELEBRÁS</option>
+    
+    <option value="/projecao/TEND3"
+            >TEND3 · CONSTRUTORA TENDA S/A</option>
+    
+    <option value="/projecao/TESA3"
+            >TESA3 · TERRA SANTA AGRO S.A.</option>
+    
+    <option value="/projecao/TFCO4"
+            >TFCO4 · TRACK &amp; FIELD CO S.A</option>
+    
+    <option value="/projecao/TGMA3"
+            >TGMA3 · TEGMA GESTÃO LOGÍSTICA SA</option>
+    
+    <option value="/projecao/TIET11"
+            >TIET11 · AES TIETÊ ENERGIA S.A</option>
+    
+    <option value="/projecao/TIMP3"
+            >TIMP3 · TIM PARTICIPAÇÕES SA</option>
+    
+    <option value="/projecao/TIMS3"
+            >TIMS3 · TIM S.A.</option>
+    
+    <option value="/projecao/TKNO3"
+            >TKNO3 · TEKNO S.A. INDÚSTRIA E COMÉRCIO</option>
+    
+    <option value="/projecao/TOTS3"
+            >TOTS3 · TOTVS S.A</option>
+    
+    <option value="/projecao/TOYB3"
+            >TOYB3 · TEC TOY S/A</option>
+    
+    <option value="/projecao/TPIS3"
+            >TPIS3 · TPI - TRIUNFO PARTICIPACOES E INVE</option>
+    
+    <option value="/projecao/TRAD3"
+            >TRAD3 · TC S.A.</option>
+    
+    <option value="/projecao/TRIS3"
+            >TRIS3 · TRISUL S/A</option>
+    
+    <option value="/projecao/TRPN3"
+            >TRPN3 · TARPON INVESTIMENTOS S/A</option>
+    
+    <option value="/projecao/TRXR3"
+            >TRXR3 · TÊXTIL RENAUXVIEW S/A</option>
+    
+    <option value="/projecao/TUPY3"
+            >TUPY3 · TUPY SA</option>
+    
+    <option value="/projecao/UCAS3"
+            >UCAS3 · UNICASA INDÚSTRIA DE MÓVEIS S.A.</option>
+    
+    <option value="/projecao/UGPA3"
+            >UGPA3 · ULTRAPAR PARTICIPAÇÕES SA</option>
+    
+    <option value="/projecao/UNIP3"
+            >UNIP3 · UNIPAR CARBOCLORO S.A.</option>
+    
+    <option value="/projecao/UPKP3"
+            >UPKP3 · UPTICK PARTICIPACOES S.A. - EM LIQ</option>
+    
+    <option value="/projecao/USIM16"
+            >USIM16 · USINAS SID DE MINAS GERAIS S.A.-US</option>
+    
+    <option value="/projecao/VALE3"
+            >VALE3 · VALE S.A.</option>
+    
+    <option value="/projecao/VAMO3"
+            >VAMO3 · VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUIN</option>
+    
+    <option value="/projecao/VBBR3"
+            >VBBR3 · VIBRA ENERGIA S/A</option>
+    
+    <option value="/projecao/VITT3"
+            >VITT3 · VITTIA S.A.</option>
+    
+    <option value="/projecao/VIVA3"
+            >VIVA3 · VIVARA PARTICIPAÇÕES S.A.</option>
+    
+    <option value="/projecao/VIVT3"
+            >VIVT3 · TELEFÔNICA BRASIL S.A.</option>
+    
+    <option value="/projecao/VLID3"
+            >VLID3 · VALID SOLUÇÕES S.A.</option>
+    
+    <option value="/projecao/VSPT3"
+            >VSPT3 · FERROVIA CENTRO-ATLANTICA S.A.</option>
+    
+    <option value="/projecao/VTRU3"
+            >VTRU3 · VITRU EDUCAÇÃO S.A.</option>
+    
+    <option value="/projecao/VULC3"
+            >VULC3 · VULCABRAS S.A.</option>
+    
+    <option value="/projecao/VVEO3"
+            >VVEO3 · CM HOSPITALAR S.A</option>
+    
+    <option value="/projecao/WEGE3"
+            >WEGE3 · WEG SA</option>
+    
+    <option value="/projecao/WEST3"
+            >WEST3 · WESTWING COMÉRCIO VAREJISTA S.A.</option>
+    
+    <option value="/projecao/WHRL3"
+            >WHRL3 · WHIRLPOOL S.A</option>
+    
+    <option value="/projecao/WIZC3"
+            >WIZC3 · WIZ CO PARTICIPAÇÕES E CORRETAGEM </option>
+    
+    <option value="/projecao/WLMM3"
+            >WLMM3 · WLM PART. E COMÉRCIO DE MÁQUINAS E</option>
+    
+    <option value="/projecao/YBRA3"
+            >YBRA3 · YBYRA CAPITAL S.A</option>
+    
+    <option value="/projecao/YOUC3"
+            >YOUC3 · YOU INC INCORPORADORA E PARTICIPAÇ</option>
+    
+  </select>
+  
+</div>
+
+<div class="emp-head">
+  <div class="emp-mono">GN</div>
+  <div>
+    <div class="nm">NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. <span class="tag">Projeção</span></div>
+    <div class="mt mono">
+      Realizado até <b class="acc">3T2021</b> ·
+      projeção de 40 trimestres (10 anos),
+      de 4T2021 a 3T2031
+    </div>
+  </div>
+  <div class="toggle">
+    <a href="/valuation/GNDI3">← Estrutura</a>
+  </div>
+</div>
+
+<form class="barra" method="get" action="/projecao/GNDI3" id="f">
+  <label>Horizonte
+    <select name="anos" onchange="document.getElementById('f').submit()">
+      
+      <option value="3" >3 anos</option>
+      
+      <option value="5" >5 anos</option>
+      
+      <option value="10" selected>10 anos</option>
+      
+      <option value="15" >15 anos</option>
+      
+    </select>
+  </label>
+  <button type="submit">Recalcular no servidor</button>
+  <button type="button" class="sec" onclick="zerar()">Zerar taxas</button>
+  <span style="font-size:11.5px;color:var(--dim2)">
+    A taxa é <b>anual</b> e incide sobre o mesmo trimestre do ano anterior —
+    <span class="mono">Q(n) = Q(n−4) × (1+g)</span> — o que preserva a sazonalidade.
+    As premissas ficam na URL, então este link reproduz exatamente esta projeção.
+  </span>
+</form>
+
+<article class="panel" style="padding:0">
+  <h2 style="padding:12px 14px 0">Projeção trimestral
+    <span class="h">13 premissas · 3 linhas derivadas · realizado em cinza, projetado em azul</span></h2>
+  <div class="grade scrim">
+    <table id="t">
+      <thead>
+        <tr>
+          <th class="lbl">Linha</th>
+          <th class="tx">Cresc. % a.a.</th>
+          <th>4T2019</th><th>1T2020</th><th>2T2020</th><th>3T2020</th><th>4T2020</th><th>1T2021</th><th>2T2021</th><th>3T2021</th>
+          
+          <th class="proj corte">4T2021</th>
+          
+          <th class="proj ">1T2022</th>
+          
+          <th class="proj ">2T2022</th>
+          
+          <th class="proj ">3T2022</th>
+          
+          <th class="proj ">4T2022</th>
+          
+          <th class="proj ">1T2023</th>
+          
+          <th class="proj ">2T2023</th>
+          
+          <th class="proj ">3T2023</th>
+          
+          <th class="proj ">4T2023</th>
+          
+          <th class="proj ">1T2024</th>
+          
+          <th class="proj ">2T2024</th>
+          
+          <th class="proj ">3T2024</th>
+          
+          <th class="proj ">4T2024</th>
+          
+          <th class="proj ">1T2025</th>
+          
+          <th class="proj ">2T2025</th>
+          
+          <th class="proj ">3T2025</th>
+          
+          <th class="proj ">4T2025</th>
+          
+          <th class="proj ">1T2026</th>
+          
+          <th class="proj ">2T2026</th>
+          
+          <th class="proj ">3T2026</th>
+          
+          <th class="proj ">4T2026</th>
+          
+          <th class="proj ">1T2027</th>
+          
+          <th class="proj ">2T2027</th>
+          
+          <th class="proj ">3T2027</th>
+          
+          <th class="proj ">4T2027</th>
+          
+          <th class="proj ">1T2028</th>
+          
+          <th class="proj ">2T2028</th>
+          
+          <th class="proj ">3T2028</th>
+          
+          <th class="proj ">4T2028</th>
+          
+          <th class="proj ">1T2029</th>
+          
+          <th class="proj ">2T2029</th>
+          
+          <th class="proj ">3T2029</th>
+          
+          <th class="proj ">4T2029</th>
+          
+          <th class="proj ">1T2030</th>
+          
+          <th class="proj ">2T2030</th>
+          
+          <th class="proj ">3T2030</th>
+          
+          <th class="proj ">4T2030</th>
+          
+          <th class="proj ">1T2031</th>
+          
+          <th class="proj ">2T2031</th>
+          
+          <th class="proj ">3T2031</th>
+          
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr class="sec"><td colspan="50">
+          <div class="lbl-sec">Receita líquida<span>do driver físico até a ROL</span></div>
+        </td></tr>
+          
+        <tr data-chave="receita_liq" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Receita líquida">Receita líquida<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_receita_liq"
+                   form="f" value="0" data-chave="receita_liq"
+                   
+                   aria-label="Crescimento anual de Receita líquida">
+            <span class="hist">hist. +19.4%</span>
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="2301547000.0">R$ 2,3 bi</td>
+          
+          <td class="v real up"
+              data-raw="2559446000.0">R$ 2,6 bi</td>
+          
+          <td class="v real up"
+              data-raw="2604078000.0">R$ 2,6 bi</td>
+          
+          <td class="v real up"
+              data-raw="2698611000.0">R$ 2,7 bi</td>
+          
+          <td class="v real up"
+              data-raw="2811133000.0">R$ 2,8 bi</td>
+          
+          <td class="v real up"
+              data-raw="2903627000.0">R$ 2,9 bi</td>
+          
+          <td class="v real up"
+              data-raw="3196313000.0">R$ 3,2 bi</td>
+          
+          <td class="v real up"
+              data-raw="3220485000.0">R$ 3,2 bi</td>
+          
+          
+          <td class="v proj corte">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 2,8 bi</td>
+          
+          <td class="v proj ">R$ 2,9 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+          <td class="v proj ">R$ 3,2 bi</td>
+          
+        </tr>
+          
+        
+        <tr class="sec"><td colspan="50">
+          <div class="lbl-sec">EBITDA<span>da ROL até o EBITDA</span></div>
+        </td></tr>
+          
+        <tr data-chave="cmv" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Custo dos produtos/serviços vendidos">Custo dos produtos/serviços vendidos<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_cmv"
+                   form="f" value="0" data-chave="cmv"
+                   
+                   aria-label="Crescimento anual de Custo dos produtos/serviços vendidos">
+            <span class="hist">hist. -38.7%</span>
+            
+          </td>
+          
+          <td class="v real down"
+              data-raw="-1642674000.0">-R$ 1,6 bi</td>
+          
+          <td class="v real down"
+              data-raw="-1843767000.0">-R$ 1,8 bi</td>
+          
+          <td class="v real down"
+              data-raw="-1728464000.0">-R$ 1,7 bi</td>
+          
+          <td class="v real down"
+              data-raw="-1907503000.0">-R$ 1,9 bi</td>
+          
+          <td class="v real down"
+              data-raw="-2082925000.0">-R$ 2,1 bi</td>
+          
+          <td class="v real down"
+              data-raw="-2380841000.0">-R$ 2,4 bi</td>
+          
+          <td class="v real down"
+              data-raw="-2710842000.0">-R$ 2,7 bi</td>
+          
+          <td class="v real down"
+              data-raw="-2706565000.0">-R$ 2,7 bi</td>
+          
+          
+          <td class="v proj corte">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,1 bi</td>
+          
+          <td class="v proj ">-R$ 2,4 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+          <td class="v proj ">-R$ 2,7 bi</td>
+          
+        </tr>
+          
+        <tr data-chave="lucro_bruto" data-unidade="BRL"
+            class="calc">
+          <td class="lbl" title="Lucro bruto = Receita líquida + Custo dos produtos/serviços vendidos"><span class="eq">=</span>Lucro bruto<span class="un">BRL</span></td>
+          <td class="tx">
+            
+              <span class="der" title="Calculada a partir de: Receita líquida + Custo dos produtos/serviços vendidos">derivada</span>
+              
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="658873000.0">R$ 658,9 mi</td>
+          
+          <td class="v real up"
+              data-raw="715679000.0">R$ 715,7 mi</td>
+          
+          <td class="v real up"
+              data-raw="875614000.0">R$ 875,6 mi</td>
+          
+          <td class="v real up"
+              data-raw="791108000.0">R$ 791,1 mi</td>
+          
+          <td class="v real up"
+              data-raw="728208000.0">R$ 728,2 mi</td>
+          
+          <td class="v real up"
+              data-raw="522786000.0">R$ 522,8 mi</td>
+          
+          <td class="v real up"
+              data-raw="485471000.0">R$ 485,5 mi</td>
+          
+          <td class="v real up"
+              data-raw="513920000.0">R$ 513,9 mi</td>
+          
+          
+          <td class="v proj corte">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+          <td class="v proj ">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+          <td class="v proj ">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+          <td class="v proj ">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+          <td class="v proj ">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+          <td class="v proj ">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+          <td class="v proj ">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+          <td class="v proj ">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+          <td class="v proj ">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+          <td class="v proj ">R$ 728,2 mi</td>
+          
+          <td class="v proj ">R$ 522,8 mi</td>
+          
+          <td class="v proj ">R$ 485,5 mi</td>
+          
+          <td class="v proj ">R$ 513,9 mi</td>
+          
+        </tr>
+          
+        <tr data-chave="desp_op" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Despesas operacionais">Despesas operacionais<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_desp_op"
+                   form="f" value="0" data-chave="desp_op"
+                   
+                   aria-label="Crescimento anual de Despesas operacionais">
+            <span class="hist">hist. -10.9%</span>
+            
+          </td>
+          
+          <td class="v real down"
+              data-raw="-372209000.0">-R$ 372,2 mi</td>
+          
+          <td class="v real down"
+              data-raw="-401877000.0">-R$ 401,9 mi</td>
+          
+          <td class="v real down"
+              data-raw="-455576000.0">-R$ 455,6 mi</td>
+          
+          <td class="v real down"
+              data-raw="-441628000.0">-R$ 441,6 mi</td>
+          
+          <td class="v real down"
+              data-raw="-430324000.0">-R$ 430,3 mi</td>
+          
+          <td class="v real down"
+              data-raw="-475387000.0">-R$ 475,4 mi</td>
+          
+          <td class="v real down"
+              data-raw="-456197000.0">-R$ 456,2 mi</td>
+          
+          <td class="v real down"
+              data-raw="-490898000.0">-R$ 490,9 mi</td>
+          
+          
+          <td class="v proj corte">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+          <td class="v proj ">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+          <td class="v proj ">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+          <td class="v proj ">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+          <td class="v proj ">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+          <td class="v proj ">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+          <td class="v proj ">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+          <td class="v proj ">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+          <td class="v proj ">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+          <td class="v proj ">-R$ 430,3 mi</td>
+          
+          <td class="v proj ">-R$ 475,4 mi</td>
+          
+          <td class="v proj ">-R$ 456,2 mi</td>
+          
+          <td class="v proj ">-R$ 490,9 mi</td>
+          
+        </tr>
+          
+        
+        <tr class="sec"><td colspan="50">
+          <div class="lbl-sec">Lucro líquido<span>do EBITDA até o resultado</span></div>
+        </td></tr>
+          
+        <tr data-chave="dep_amort" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Depreciação e amortização">Depreciação e amortização<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_dep_amort"
+                   form="f" value="0" data-chave="dep_amort"
+                   
+                   aria-label="Crescimento anual de Depreciação e amortização">
+            <span class="hist">hist. +18.6%</span>
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="71461000.0">R$ 71,5 mi</td>
+          
+          <td class="v real up"
+              data-raw="69317000.0">R$ 69,3 mi</td>
+          
+          <td class="v real up"
+              data-raw="90339000.0">R$ 90,3 mi</td>
+          
+          <td class="v real up"
+              data-raw="88047000.0">R$ 88,0 mi</td>
+          
+          <td class="v real up"
+              data-raw="96180000.0">R$ 96,2 mi</td>
+          
+          <td class="v real up"
+              data-raw="89553000.0">R$ 89,6 mi</td>
+          
+          <td class="v real up"
+              data-raw="90143000.0">R$ 90,1 mi</td>
+          
+          <td class="v real up"
+              data-raw="102748000.0">R$ 102,7 mi</td>
+          
+          
+          <td class="v proj corte">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+          <td class="v proj ">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+          <td class="v proj ">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+          <td class="v proj ">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+          <td class="v proj ">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+          <td class="v proj ">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+          <td class="v proj ">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+          <td class="v proj ">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+          <td class="v proj ">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+          <td class="v proj ">R$ 96,2 mi</td>
+          
+          <td class="v proj ">R$ 89,6 mi</td>
+          
+          <td class="v proj ">R$ 90,1 mi</td>
+          
+          <td class="v proj ">R$ 102,7 mi</td>
+          
+        </tr>
+          
+        <tr data-chave="ebit" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="EBIT">EBIT<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_ebit"
+                   form="f" value="0" data-chave="ebit"
+                   
+                   aria-label="Crescimento anual de EBIT">
+            <span class="hist">hist. -71.0%</span>
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="286664000.0">R$ 286,7 mi</td>
+          
+          <td class="v real up"
+              data-raw="313802000.0">R$ 313,8 mi</td>
+          
+          <td class="v real up"
+              data-raw="420038000.0">R$ 420,0 mi</td>
+          
+          <td class="v real up"
+              data-raw="349480000.0">R$ 349,5 mi</td>
+          
+          <td class="v real up"
+              data-raw="297884000.0">R$ 297,9 mi</td>
+          
+          <td class="v real up"
+              data-raw="47399000.0">R$ 47,4 mi</td>
+          
+          <td class="v real up"
+              data-raw="29274000.0">R$ 29,3 mi</td>
+          
+          <td class="v real up"
+              data-raw="23022000.0">R$ 23,0 mi</td>
+          
+          
+          <td class="v proj corte">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+          <td class="v proj ">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+          <td class="v proj ">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+          <td class="v proj ">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+          <td class="v proj ">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+          <td class="v proj ">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+          <td class="v proj ">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+          <td class="v proj ">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+          <td class="v proj ">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+          <td class="v proj ">R$ 297,9 mi</td>
+          
+          <td class="v proj ">R$ 47,4 mi</td>
+          
+          <td class="v proj ">R$ 29,3 mi</td>
+          
+          <td class="v proj ">R$ 23,0 mi</td>
+          
+        </tr>
+          
+        <tr data-chave="resultado_fin" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Resultado financeiro líquido">Resultado financeiro líquido<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_resultado_fin"
+                   form="f" value="0" data-chave="resultado_fin"
+                   
+                   aria-label="Crescimento anual de Resultado financeiro líquido">
+            <span class="hist">hist. -59.5%</span>
+            
+          </td>
+          
+          <td class="v real down"
+              data-raw="-65011000.0">-R$ 65,0 mi</td>
+          
+          <td class="v real down"
+              data-raw="-32763000.0">-R$ 32,8 mi</td>
+          
+          <td class="v real down"
+              data-raw="-29232000.0">-R$ 29,2 mi</td>
+          
+          <td class="v real down"
+              data-raw="-31895000.0">-R$ 31,9 mi</td>
+          
+          <td class="v real down"
+              data-raw="-42147000.0">-R$ 42,1 mi</td>
+          
+          <td class="v real down"
+              data-raw="-49939000.0">-R$ 49,9 mi</td>
+          
+          <td class="v real down"
+              data-raw="-68790000.0">-R$ 68,8 mi</td>
+          
+          <td class="v real down"
+              data-raw="-92536000.0">-R$ 92,5 mi</td>
+          
+          
+          <td class="v proj corte">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+          <td class="v proj ">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+          <td class="v proj ">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+          <td class="v proj ">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+          <td class="v proj ">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+          <td class="v proj ">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+          <td class="v proj ">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+          <td class="v proj ">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+          <td class="v proj ">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+          <td class="v proj ">-R$ 42,1 mi</td>
+          
+          <td class="v proj ">-R$ 49,9 mi</td>
+          
+          <td class="v proj ">-R$ 68,8 mi</td>
+          
+          <td class="v proj ">-R$ 92,5 mi</td>
+          
+        </tr>
+          
+        <tr data-chave="lair" data-unidade="BRL"
+            class="calc">
+          <td class="lbl" title="Resultado antes dos impostos (LAIR) = EBIT + Resultado financeiro líquido"><span class="eq">=</span>Resultado antes dos impostos (LAIR)<span class="un">BRL</span></td>
+          <td class="tx">
+            
+              <span class="der" title="Calculada a partir de: EBIT + Resultado financeiro líquido">derivada</span>
+              
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="221653000.0">R$ 221,7 mi</td>
+          
+          <td class="v real up"
+              data-raw="281039000.0">R$ 281,0 mi</td>
+          
+          <td class="v real up"
+              data-raw="390806000.0">R$ 390,8 mi</td>
+          
+          <td class="v real up"
+              data-raw="317585000.0">R$ 317,6 mi</td>
+          
+          <td class="v real up"
+              data-raw="255737000.0">R$ 255,7 mi</td>
+          
+          <td class="v real down"
+              data-raw="-2540000.0">-R$ 2,5 mi</td>
+          
+          <td class="v real down"
+              data-raw="-39516000.0">-R$ 39,5 mi</td>
+          
+          <td class="v real down"
+              data-raw="-69514000.0">-R$ 69,5 mi</td>
+          
+          
+          <td class="v proj corte">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+          <td class="v proj ">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+          <td class="v proj ">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+          <td class="v proj ">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+          <td class="v proj ">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+          <td class="v proj ">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+          <td class="v proj ">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+          <td class="v proj ">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+          <td class="v proj ">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+          <td class="v proj ">R$ 255,7 mi</td>
+          
+          <td class="v proj ">-R$ 2,5 mi</td>
+          
+          <td class="v proj ">-R$ 39,5 mi</td>
+          
+          <td class="v proj ">-R$ 69,5 mi</td>
+          
+        </tr>
+          
+        <tr data-chave="ir_csll" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="IR e CSLL">IR e CSLL<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_ir_csll"
+                   form="f" value="0" data-chave="ir_csll"
+                   
+                   aria-label="Crescimento anual de IR e CSLL">
+            <span class="hist">hist. +68.8%</span>
+            
+          </td>
+          
+          <td class="v real down"
+              data-raw="-90250000.0">-R$ 90,2 mi</td>
+          
+          <td class="v real down"
+              data-raw="-120635000.0">-R$ 120,6 mi</td>
+          
+          <td class="v real down"
+              data-raw="-167415000.0">-R$ 167,4 mi</td>
+          
+          <td class="v real down"
+              data-raw="-120800000.0">-R$ 120,8 mi</td>
+          
+          <td class="v real down"
+              data-raw="-100572000.0">-R$ 100,6 mi</td>
+          
+          <td class="v real down"
+              data-raw="-25360000.0">-R$ 25,4 mi</td>
+          
+          <td class="v real down"
+              data-raw="-8464000.0">-R$ 8,5 mi</td>
+          
+          <td class="v real down"
+              data-raw="-21216000.0">-R$ 21,2 mi</td>
+          
+          
+          <td class="v proj corte">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+          <td class="v proj ">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+          <td class="v proj ">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+          <td class="v proj ">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+          <td class="v proj ">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+          <td class="v proj ">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+          <td class="v proj ">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+          <td class="v proj ">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+          <td class="v proj ">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+          <td class="v proj ">-R$ 100,6 mi</td>
+          
+          <td class="v proj ">-R$ 25,4 mi</td>
+          
+          <td class="v proj ">-R$ 8,5 mi</td>
+          
+          <td class="v proj ">-R$ 21,2 mi</td>
+          
+        </tr>
+          
+        <tr data-chave="lucro_liquido" data-unidade="BRL"
+            class="calc">
+          <td class="lbl" title="Lucro líquido = EBIT + Resultado financeiro líquido + IR e CSLL"><span class="eq">=</span>Lucro líquido<span class="un">BRL</span></td>
+          <td class="tx">
+            
+              <span class="der" title="Calculada a partir de: EBIT + Resultado financeiro líquido + IR e CSLL">derivada</span>
+              
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="131403000.0">R$ 131,4 mi</td>
+          
+          <td class="v real up"
+              data-raw="160404000.0">R$ 160,4 mi</td>
+          
+          <td class="v real up"
+              data-raw="223391000.0">R$ 223,4 mi</td>
+          
+          <td class="v real up"
+              data-raw="196785000.0">R$ 196,8 mi</td>
+          
+          <td class="v real up"
+              data-raw="155165000.0">R$ 155,2 mi</td>
+          
+          <td class="v real down"
+              data-raw="-27900000.0">-R$ 27,9 mi</td>
+          
+          <td class="v real down"
+              data-raw="-47980000.0">-R$ 48,0 mi</td>
+          
+          <td class="v real down"
+              data-raw="-90730000.0">-R$ 90,7 mi</td>
+          
+          
+          <td class="v proj corte">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+          <td class="v proj ">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+          <td class="v proj ">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+          <td class="v proj ">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+          <td class="v proj ">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+          <td class="v proj ">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+          <td class="v proj ">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+          <td class="v proj ">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+          <td class="v proj ">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+          <td class="v proj ">R$ 155,2 mi</td>
+          
+          <td class="v proj ">-R$ 27,9 mi</td>
+          
+          <td class="v proj ">-R$ 48,0 mi</td>
+          
+          <td class="v proj ">-R$ 90,7 mi</td>
+          
+        </tr>
+          
+        
+        <tr class="sec"><td colspan="50">
+          <div class="lbl-sec">Patrimônio e demais</div>
+        </td></tr>
+          
+        <tr data-chave="ativo_total" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Ativo total">Ativo total<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_ativo_total"
+                   form="f" value="0" data-chave="ativo_total"
+                   
+                   aria-label="Crescimento anual de Ativo total">
+            <span class="hist">hist. +19.8%</span>
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="13148040000.0">R$ 13,1 bi</td>
+          
+          <td class="v real up"
+              data-raw="13344386000.0">R$ 13,3 bi</td>
+          
+          <td class="v real up"
+              data-raw="14304751000.0">R$ 14,3 bi</td>
+          
+          <td class="v real up"
+              data-raw="15860916000.0">R$ 15,9 bi</td>
+          
+          <td class="v real up"
+              data-raw="16353539000.0">R$ 16,4 bi</td>
+          
+          <td class="v real up"
+              data-raw="16589251000.0">R$ 16,6 bi</td>
+          
+          <td class="v real up"
+              data-raw="17460102000.0">R$ 17,5 bi</td>
+          
+          <td class="v real up"
+              data-raw="17466021000.0">R$ 17,5 bi</td>
+          
+          
+          <td class="v proj corte">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 16,4 bi</td>
+          
+          <td class="v proj ">R$ 16,6 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+          <td class="v proj ">R$ 17,5 bi</td>
+          
+        </tr>
+          
+        <tr data-chave="caixa" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Caixa">Caixa<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_caixa"
+                   form="f" value="0" data-chave="caixa"
+                   
+                   aria-label="Crescimento anual de Caixa">
+            <span class="hist">hist. +1.7%</span>
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="3514439000.0">R$ 3,5 bi</td>
+          
+          <td class="v real up"
+              data-raw="231340000.0">R$ 231,3 mi</td>
+          
+          <td class="v real up"
+              data-raw="322014000.0">R$ 322,0 mi</td>
+          
+          <td class="v real up"
+              data-raw="1390854000.0">R$ 1,4 bi</td>
+          
+          <td class="v real up"
+              data-raw="2563751000.0">R$ 2,6 bi</td>
+          
+          <td class="v real up"
+              data-raw="2007301000.0">R$ 2,0 bi</td>
+          
+          <td class="v real up"
+              data-raw="479844000.0">R$ 479,8 mi</td>
+          
+          <td class="v real up"
+              data-raw="500674000.0">R$ 500,7 mi</td>
+          
+          
+          <td class="v proj corte">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+          <td class="v proj ">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+          <td class="v proj ">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+          <td class="v proj ">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+          <td class="v proj ">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+          <td class="v proj ">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+          <td class="v proj ">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+          <td class="v proj ">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+          <td class="v proj ">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+          <td class="v proj ">R$ 2,6 bi</td>
+          
+          <td class="v proj ">R$ 2,0 bi</td>
+          
+          <td class="v proj ">R$ 479,8 mi</td>
+          
+          <td class="v proj ">R$ 500,7 mi</td>
+          
+        </tr>
+          
+        <tr data-chave="capex" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Capex">Capex<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_capex"
+                   form="f" value="0" data-chave="capex"
+                   
+                   aria-label="Crescimento anual de Capex">
+            <span class="hist">hist. -42.9%</span>
+            
+          </td>
+          
+          <td class="v real down"
+              data-raw="-55204000.0">-R$ 55,2 mi</td>
+          
+          <td class="v real down"
+              data-raw="-36557000.0">-R$ 36,6 mi</td>
+          
+          <td class="v real down"
+              data-raw="-88146000.0">-R$ 88,1 mi</td>
+          
+          <td class="v real down"
+              data-raw="-42143000.0">-R$ 42,1 mi</td>
+          
+          <td class="v real down"
+              data-raw="-48371000.0">-R$ 48,4 mi</td>
+          
+          <td class="v real down"
+              data-raw="-44122000.0">-R$ 44,1 mi</td>
+          
+          <td class="v real up"
+              data-raw="15130000.0">R$ 15,1 mi</td>
+          
+          <td class="v real down"
+              data-raw="-239976000.0">-R$ 240,0 mi</td>
+          
+          
+          <td class="v proj corte">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+          <td class="v proj ">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+          <td class="v proj ">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+          <td class="v proj ">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+          <td class="v proj ">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+          <td class="v proj ">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+          <td class="v proj ">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+          <td class="v proj ">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+          <td class="v proj ">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+          <td class="v proj ">-R$ 48,4 mi</td>
+          
+          <td class="v proj ">-R$ 44,1 mi</td>
+          
+          <td class="v proj ">R$ 15,1 mi</td>
+          
+          <td class="v proj ">-R$ 240,0 mi</td>
+          
+        </tr>
+          
+        <tr data-chave="divida_bruta" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Dívida bruta (empréstimos e financiamentos)">Dívida bruta (empréstimos e financiamentos)<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_divida_bruta"
+                   form="f" value="0" data-chave="divida_bruta"
+                   
+                   aria-label="Crescimento anual de Dívida bruta (empréstimos e financiamentos)">
+            <span class="hist">hist. +70.4%</span>
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="2177939000.0">R$ 2,2 bi</td>
+          
+          <td class="v real up"
+              data-raw="1466694000.0">R$ 1,5 bi</td>
+          
+          <td class="v real up"
+              data-raw="1935878000.0">R$ 1,9 bi</td>
+          
+          <td class="v real up"
+              data-raw="2848936000.0">R$ 2,8 bi</td>
+          
+          <td class="v real up"
+              data-raw="3488403000.0">R$ 3,5 bi</td>
+          
+          <td class="v real up"
+              data-raw="3389528000.0">R$ 3,4 bi</td>
+          
+          <td class="v real up"
+              data-raw="3709006000.0">R$ 3,7 bi</td>
+          
+          <td class="v real up"
+              data-raw="3779543000.0">R$ 3,8 bi</td>
+          
+          
+          <td class="v proj corte">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+          <td class="v proj ">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+          <td class="v proj ">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+          <td class="v proj ">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+          <td class="v proj ">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+          <td class="v proj ">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+          <td class="v proj ">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+          <td class="v proj ">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+          <td class="v proj ">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+          <td class="v proj ">R$ 3,5 bi</td>
+          
+          <td class="v proj ">R$ 3,4 bi</td>
+          
+          <td class="v proj ">R$ 3,7 bi</td>
+          
+          <td class="v proj ">R$ 3,8 bi</td>
+          
+        </tr>
+          
+        <tr data-chave="fco" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Fluxo de caixa operacional">Fluxo de caixa operacional<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_fco"
+                   form="f" value="0" data-chave="fco"
+                   
+                   aria-label="Crescimento anual de Fluxo de caixa operacional">
+            <span class="hist">hist. -93.7%</span>
+            
+          </td>
+          
+          <td class="v real down"
+              data-raw="-70217000.0">-R$ 70,2 mi</td>
+          
+          <td class="v real up"
+              data-raw="152436000.0">R$ 152,4 mi</td>
+          
+          <td class="v real up"
+              data-raw="349053000.0">R$ 349,1 mi</td>
+          
+          <td class="v real up"
+              data-raw="475322000.0">R$ 475,3 mi</td>
+          
+          <td class="v real up"
+              data-raw="2694000.0">R$ 2,7 mi</td>
+          
+          <td class="v real up"
+              data-raw="50966000.0">R$ 51,0 mi</td>
+          
+          <td class="v real down"
+              data-raw="-270041000.0">-R$ 270,0 mi</td>
+          
+          <td class="v real up"
+              data-raw="273783000.0">R$ 273,8 mi</td>
+          
+          
+          <td class="v proj corte">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+          <td class="v proj ">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+          <td class="v proj ">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+          <td class="v proj ">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+          <td class="v proj ">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+          <td class="v proj ">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+          <td class="v proj ">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+          <td class="v proj ">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+          <td class="v proj ">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+          <td class="v proj ">R$ 2,7 mi</td>
+          
+          <td class="v proj ">R$ 51,0 mi</td>
+          
+          <td class="v proj ">-R$ 270,0 mi</td>
+          
+          <td class="v proj ">R$ 273,8 mi</td>
+          
+        </tr>
+          
+        <tr data-chave="patrim_liquido" data-unidade="BRL"
+            class="">
+          <td class="lbl" title="Patrimônio líquido">Patrimônio líquido<span class="un">BRL</span></td>
+          <td class="tx">
+            
+            <input class="g" type="number" step="0.5" name="g_patrim_liquido"
+                   form="f" value="0" data-chave="patrim_liquido"
+                   
+                   aria-label="Crescimento anual de Patrimônio líquido">
+            <span class="hist">hist. +6.4%</span>
+            
+          </td>
+          
+          <td class="v real up"
+              data-raw="6370396000.0">R$ 6,4 bi</td>
+          
+          <td class="v real up"
+              data-raw="6540424000.0">R$ 6,5 bi</td>
+          
+          <td class="v real up"
+              data-raw="6776038000.0">R$ 6,8 bi</td>
+          
+          <td class="v real up"
+              data-raw="7105528000.0">R$ 7,1 bi</td>
+          
+          <td class="v real up"
+              data-raw="7098685000.0">R$ 7,1 bi</td>
+          
+          <td class="v real up"
+              data-raw="7083126000.0">R$ 7,1 bi</td>
+          
+          <td class="v real up"
+              data-raw="7201858000.0">R$ 7,2 bi</td>
+          
+          <td class="v real up"
+              data-raw="7117066000.0">R$ 7,1 bi</td>
+          
+          
+          <td class="v proj corte">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+          <td class="v proj ">R$ 7,2 bi</td>
+          
+          <td class="v proj ">R$ 7,1 bi</td>
+          
+        </tr>
+          
+        
+
+        
+      </tbody>
+    </table>
+  </div>
+</article>
+
+
+
+<article class="panel" style="margin-top:12px">
+  <h2>Valuation — fluxo de caixa descontado
+    <span class="h">valor presente do fluxo projetado + perpetuidade de Gordon</span></h2>
+  <form class="barra" method="get" action="/projecao/GNDI3" id="ffcd"
+        style="margin:10px 0">
+    <input type="hidden" name="anos" value="10">
+    <input type="hidden" name="modo" value="sazonal">
+    
+    <label>Taxa de desconto (% a.a.)
+      <input class="g" type="number" step="0.5" name="k" style="width:72px"
+             value=""
+             placeholder="ex. 15">
+    </label>
+    <label>Cresc. na perpetuidade (% a.a.)
+      <input class="g" type="number" step="0.5" name="gp" style="width:72px"
+             value="0">
+    </label>
+    <button type="submit">Calcular valor presente</button>
+    
+    <span style="font-size:11px;color:var(--dim2)">referência: Selic
+      13,90% a.a. —
+      a taxa é premissa sua, não sugestão</span>
+    
+  </form>
+
+  
+  <div class="note">Informe a <b>taxa de desconto</b> para ver o valor presente.
+    Nada é preenchido por padrão — a taxa é a premissa mais importante do FCD e
+    precisa ser sua. As taxas de crescimento preenchidas acima entram no cálculo.</div>
+  
+</article>
+
+<div class="note" style="margin-top:12px">
+  <b>O que esta tela não faz.</b> Não sugere taxa: toda linha começa em zero, e o
+  crescimento histórico aparece só como referência abaixo do campo. Preencher com
+  estimativa automática esconderia a premissa — que é justamente o que precisa ficar
+  explícito num modelo. Os valores realizados vêm da planilha da própria companhia
+  (ver <a href="/valuation/GNDI3">estrutura</a>); daí para a frente é
+  premissa sua, e a página está marcada como não indexável por isso.
+</div>
+
+<script>
+// Recálculo local para não precisar recarregar a cada ajuste. O servidor faz a
+// mesma conta a partir da URL — este script é só conveniência.
+const HIST = 8;
+// Cadeia de derivação: chave -> [[componente, papel], ...]
+const CADEIA = [{"chave": "lucro_bruto", "comps": [["receita_liq", "receita"], ["cmv", "custo"]]}, {"chave": "lair", "comps": [["ebit", "receita"], ["resultado_fin", "livre"]]}, {"chave": "lucro_liquido", "comps": [["ebit", "receita"], ["resultado_fin", "livre"], ["ir_csll", "custo"]]}];
+function fmt(v, un){
+  if (v === null || v === undefined || !isFinite(v)) return '—';
+  const s = {BRL:'R$', USD:'US$', ARS:'AR$'}[un];
+  const a = Math.abs(v);
+  let n, suf = '';
+  if (a >= 1e12){ n = v/1e12; suf=' tri'; } else if (a >= 1e9){ n = v/1e9; suf=' bi'; }
+  else if (a >= 1e6){ n = v/1e6; suf=' mi'; } else if (a >= 1e3){ n = v/1e3; suf=' mil'; }
+  else n = v;
+  const txt = n.toLocaleString('pt-BR', {minimumFractionDigits: suf ? 1 : 0,
+                                         maximumFractionDigits: suf ? 1 : 2});
+  return (s ? s + ' ' : '') + txt + suf + (s ? '' : (un && !suf ? ' ' + un : ''));
+}
+function recalc(){
+  // 1) Projeta as linhas de ENTRADA pela taxa, guardando a série completa.
+  const serie = {};
+  document.querySelectorAll('#t tbody tr[data-chave]').forEach(tr => {
+    const chave = tr.dataset.chave;
+    const inp = tr.querySelector('input.g');
+    const cels = tr.querySelectorAll('td.v');
+    const s = [];
+    cels.forEach((td, i) => {
+      if (i < HIST) s.push(td.dataset.raw !== undefined ? +td.dataset.raw : null);
+      else s.push(null);
+    });
+    if (inp && !inp.disabled) {
+      const g = 1 + (parseFloat(inp.value.replace(',', '.')) || 0) / 100;
+      for (let i = HIST; i < s.length; i++) {
+        const ref = s[i - 4];
+        s[i] = (ref === null || ref === undefined) ? null : ref * g;
+      }
+    }
+    serie[chave] = { vals: s, tr: tr, un: tr.dataset.unidade,
+                     derivada: tr.classList.contains('calc') };
+  });
+
+  // 2) Deriva as sínteses a partir das entradas já projetadas, na ordem da cadeia.
+  CADEIA.forEach(d => {
+    const alvo = serie[d.chave];
+    if (!alvo) return;
+    for (let i = HIST; i < alvo.vals.length; i++) {
+      let tot = 0, viu = false;
+      d.comps.forEach(([c, papel]) => {
+        const src = serie[c];
+        if (!src) return;
+        const v = src.vals[i];
+        if (v === null || v === undefined) return;
+        tot += papel === 'receita' ? Math.abs(v)
+             : papel === 'custo' ? -Math.abs(v) : v;
+        viu = true;
+      });
+      alvo.vals[i] = viu ? tot : null;
+    }
+  });
+
+  // 3) Escreve de volta só as células projetadas.
+  Object.values(serie).forEach(o => {
+    const cels = o.tr.querySelectorAll('td.v');
+    cels.forEach((td, i) => {
+      if (i >= HIST) td.textContent = fmt(o.vals[i], o.un);
+    });
+  });
+}
+document.querySelectorAll('input.g').forEach(i => i.addEventListener('input', recalc));
+function zerar(){
+  document.querySelectorAll('input.g').forEach(i => { i.value = 0; });
+  recalc();
+}
+</script>
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/mercados#dados">Dados brutos</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

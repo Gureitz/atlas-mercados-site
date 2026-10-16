@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Visão geral do mercado — Atlas Mercados</title>
+<meta name="description" content="Panorama das 738 companhias abertas da B3 a partir da CVM: receita e lucro agregados, maiores companhias por ativo e mapa de calor setorial.">
+<link rel="canonical" href="https://atlasmercados.com.br/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Visão geral do mercado — Atlas Mercados">
+<meta property="og:description" content="Panorama das 738 companhias abertas da B3 a partir da CVM: receita e lucro agregados, maiores companhias por ativo e mapa de calor setorial.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Atlas Mercados", "description": "Dados oficiais da economia e dos mercados do Brasil — companhias abertas (CVM), macro (BCB), mercados por setor e UF (IBGE) — compilados com proveniência por célula para leitura e citação por IA. Compilação sob CC BY 4.0.", "url": "https://atlasmercados.com.br", "publisher": {"@type": "Organization", "name": "Atlas Mercados"}, "potentialAction": {"@type": "SearchAction", "target": "https://atlasmercados.com.br/screener?q={query}", "query-input": "required name=query"}}</script>
+
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="on" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Visão Geral do Mercado</h1>
+<p class="sub"><b>Companhias abertas BR</b> · panorama a partir da CVM · último exercício consolidado disponível</p>
+
+<section class="kpis" aria-label="Indicadores agregados">
+  <div class="kpi"><div class="t">Companhias</div><div class="v mono">1.229</div><div class="d">emissores na base CVM</div></div>
+  <div class="kpi"><div class="t">Receita agregada</div><div class="v mono acc">R$ 8,1 tri</div><div class="d">soma receita líq. · DFP</div></div>
+  <div class="kpi"><div class="t">Lucro agregado</div><div class="v mono up">R$ 561,3 bi</div><div class="d">soma do lucro líquido</div></div>
+  
+  <div class="kpi"><div class="t">Selic</div><div class="v mono info">13,90%</div><div class="d">efetiva a.a. · 2026-09-11</div></div>
+  
+  
+  <div class="kpi"><div class="t">IPCA</div><div class="v mono acc">4,22%</div><div class="d">12 meses · 2026-08-01</div></div>
+  
+  
+  <div class="kpi"><div class="t">Câmbio USD</div><div class="v mono">R$ 5,09</div><div class="d">PTAX venda · 2026-09-11</div></div>
+  
+</section>
+
+<div class="row2">
+  <article class="panel">
+    <h2>Macro global <span class="h">PIB nominal · World Bank</span></h2>
+    
+    
+    
+    <div class="rk">
+      <span class="pos mono">1</span>
+      <span class="nm">United States</span>
+      <span class="bar" style="width:90.0px"></span>
+      <span class="val mono">30,77 tri</span>
+    </div>
+    
+    <div class="rk">
+      <span class="pos mono">2</span>
+      <span class="nm">China</span>
+      <span class="bar" style="width:57.0px"></span>
+      <span class="val mono">19,50 tri</span>
+    </div>
+    
+    <div class="rk">
+      <span class="pos mono">3</span>
+      <span class="nm">Germany</span>
+      <span class="bar" style="width:14.8px"></span>
+      <span class="val mono">5,05 tri</span>
+    </div>
+    
+    <div class="rk">
+      <span class="pos mono">4</span>
+      <span class="nm">Japan</span>
+      <span class="bar" style="width:13.0px"></span>
+      <span class="val mono">4,44 tri</span>
+    </div>
+    
+    <div class="rk">
+      <span class="pos mono">5</span>
+      <span class="nm">United Kingdom</span>
+      <span class="bar" style="width:11.7px"></span>
+      <span class="val mono">4,00 tri</span>
+    </div>
+    
+    <div class="rk">
+      <span class="pos mono">6</span>
+      <span class="nm">India</span>
+      <span class="bar" style="width:11.6px"></span>
+      <span class="val mono">3,96 tri</span>
+    </div>
+    
+    <a href="/mapa" class="acc" style="font-size:11px;display:inline-block;margin-top:10px">abrir mapa-múndi →</a>
+    
+  </article>
+
+  <article class="panel">
+    <h2>Maiores companhias <span class="h">por valor de mercado · B3 × CVM · preço de 2026-10-02</span></h2>
+    
+    <a class="rk" href="/empresa/PETR3">
+      <span class="pos mono">1</span>
+      <span class="tk mono">PETR3</span>
+      <span class="nm">PETROLEO BRASILEIRO S.A. PETROBRAS</span>
+      <span class="bar" style="width:90.0px"></span>
+      <span class="val mono">R$ 700,1 bi</span>
+    </a>
+    
+    <a class="rk" href="/empresa/ITUB3">
+      <span class="pos mono">2</span>
+      <span class="tk mono">ITUB3</span>
+      <span class="nm">ITAU UNIBANCO HOLDING S.A.</span>
+      <span class="bar" style="width:66.5px"></span>
+      <span class="val mono">R$ 517,3 bi</span>
+    </a>
+    
+    <a class="rk" href="/empresa/VALE3">
+      <span class="pos mono">3</span>
+      <span class="tk mono">VALE3</span>
+      <span class="nm">VALE S.A.</span>
+      <span class="bar" style="width:39.4px"></span>
+      <span class="val mono">R$ 306,8 bi</span>
+    </a>
+    
+    <a class="rk" href="/empresa/BPAC11">
+      <span class="pos mono">4</span>
+      <span class="tk mono">BPAC11</span>
+      <span class="nm">BCO BTG PACTUAL S.A.</span>
+      <span class="bar" style="width:35.2px"></span>
+      <span class="val mono">R$ 274,0 bi</span>
+    </a>
+    
+    <a class="rk" href="/empresa/ABEV3">
+      <span class="pos mono">5</span>
+      <span class="tk mono">ABEV3</span>
+      <span class="nm">AMBEV S.A.</span>
+      <span class="bar" style="width:32.1px"></span>
+      <span class="val mono">R$ 249,7 bi</span>
+    </a>
+    
+    <a class="rk" href="/empresa/WEGE3">
+      <span class="pos mono">6</span>
+      <span class="tk mono">WEGE3</span>
+      <span class="nm">WEG S.A.</span>
+      <span class="bar" style="width:27.8px"></span>
+      <span class="val mono">R$ 216,0 bi</span>
+    </a>
+    
+    <a class="rk" href="/empresa/BBDC3">
+      <span class="pos mono">7</span>
+      <span class="tk mono">BBDC3</span>
+      <span class="nm">BCO BRADESCO S.A.</span>
+      <span class="bar" style="width:24.5px"></span>
+      <span class="val mono">R$ 191,0 bi</span>
+    </a>
+    
+    <a class="rk" href="/empresa/AXIA3">
+      <span class="pos mono">8</span>
+      <span class="tk mono">AXIA3</span>
+      <span class="nm">AXIA ENERGIA S.A.</span>
+      <span class="bar" style="width:21.5px"></span>
+      <span class="val mono">R$ 167,3 bi</span>
+    </a>
+    
+    <a class="rk" href="/empresa/ITSA3">
+      <span class="pos mono">9</span>
+      <span class="tk mono">ITSA3</span>
+      <span class="nm">ITAÚSA S.A.</span>
+      <span class="bar" style="width:21.2px"></span>
+      <span class="val mono">R$ 165,0 bi</span>
+    </a>
+    
+  </article>
+</div>
+
+<article class="panel">
+  <h2>Mapa de calor setorial <span class="h">receita líquida agregada · top 16 · área ∝ receita</span></h2>
+  <div class="tree">
+    
+    <a class="cell "
+       href="/screener?setor=Bancos"
+       title="Bancos · R$ 1,3 tri"
+       style="left:0.0%;top:0.0%;width:22.2277%;height:100.0%;background:rgba(227,168,87,0.6)">
+      <div class="s">Bancos</div>
+      <div class="v mono">R$ 1,3 tri</div>
+    </a>
+    
+    <a class="cell "
+       href="/screener?setor=Com%C3%A9rcio%20%28Atacado%20e%20Varejo%29"
+       title="Comércio (Atacado e Varejo) · R$ 812,5 bi"
+       style="left:22.2277%;top:0.0%;width:27.3994%;height:51.6412%;background:rgba(227,168,87,0.418)">
+      <div class="s">Comércio (Atacado e Varejo)</div>
+      <div class="v mono">R$ 812,5 bi</div>
+    </a>
+    
+    <a class="cell "
+       href="/screener?setor=Alimentos"
+       title="Alimentos · R$ 760,9 bi"
+       style="left:22.2277%;top:51.6412%;width:27.3994%;height:48.3588%;background:rgba(227,168,87,0.398)">
+      <div class="s">Alimentos</div>
+      <div class="v mono">R$ 760,9 bi</div>
+    </a>
+    
+    <a class="cell "
+       href="/screener?setor=Petr%C3%B3leo%20e%20G%C3%A1s"
+       title="Petróleo e Gás · R$ 546,0 bi"
+       style="left:49.6271%;top:0.0%;width:14.6651%;height:64.8362%;background:rgba(227,168,87,0.314)">
+      <div class="s">Petróleo e Gás</div>
+      <div class="v mono">R$ 546,0 bi</div>
+    </a>
+    
+    <a class="cell "
+       href="/screener?setor=Energia%20El%C3%A9trica"
+       title="Energia Elétrica · R$ 296,1 bi"
+       style="left:49.6271%;top:64.8362%;width:14.6651%;height:35.1638%;background:rgba(227,168,87,0.216)">
+      <div class="s">Energia Elétrica</div>
+      <div class="v mono">R$ 296,1 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Servi%C3%A7os%20Transporte%20e%20Log%C3%ADstica"
+       title="Serviços Transporte e Logística · R$ 240,4 bi"
+       style="left:64.2922%;top:0.0%;width:11.9806%;height:34.9476%;background:rgba(227,168,87,0.194)">
+      <div class="s">Serviços Transporte e Logística</div>
+      <div class="v mono">R$ 240,4 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Extra%C3%A7%C3%A3o%20Mineral"
+       title="Extração Mineral · R$ 240,4 bi"
+       style="left:76.2729%;top:0.0%;width:11.9791%;height:34.9476%;background:rgba(227,168,87,0.194)">
+      <div class="s">Extração Mineral</div>
+      <div class="v mono">R$ 240,4 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Telecomunica%C3%A7%C3%B5es"
+       title="Telecomunicações · R$ 235,8 bi"
+       style="left:88.2519%;top:0.0%;width:11.7481%;height:34.9476%;background:rgba(227,168,87,0.192)">
+      <div class="s">Telecomunicações</div>
+      <div class="v mono">R$ 235,8 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Emp.%20Adm.%20Part.%20-%20Energia%20El%C3%A9trica"
+       title="Emp. Adm. Part. - Energia Elétrica · R$ 232,8 bi"
+       style="left:64.2922%;top:34.9476%;width:11.8627%;height:34.1765%;background:rgba(227,168,87,0.191)">
+      <div class="s">Emp. Adm. Part. - Energia Elétrica</div>
+      <div class="v mono">R$ 232,8 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Agricultura%20%28A%C3%A7%C3%BAcar%2C%20%C3%81lcool%20e%20Cana%29"
+       title="Agricultura (Açúcar, Álcool e Cana) · R$ 210,3 bi"
+       style="left:64.2922%;top:69.1241%;width:11.8627%;height:30.8759%;background:rgba(227,168,87,0.182)">
+      <div class="s">Agricultura (Açúcar, Álcool e Cana)</div>
+      <div class="v mono">R$ 210,3 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Emp.%20Adm.%20Part.%20-%20Com%C3%A9rcio%20%28Atacado%20e%20Varejo%29"
+       title="Emp. Adm. Part. - Comércio (Atacado e Varejo) · R$ 172,7 bi"
+       style="left:76.1549%;top:34.9476%;width:8.9878%;height:33.4604%;background:rgba(227,168,87,0.168)">
+      <div class="s">Emp. Adm. Part. - Comércio (Atacado e Varejo)</div>
+      <div class="v mono">R$ 172,7 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Metalurgia%20e%20Siderurgia"
+       title="Metalurgia e Siderurgia · R$ 163,1 bi"
+       style="left:76.1549%;top:68.408%;width:8.9878%;height:31.592%;background:rgba(227,168,87,0.164)">
+      <div class="s">Metalurgia e Siderurgia</div>
+      <div class="v mono">R$ 163,1 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Emp.%20Adm.%20Part.%20-%20Petr%C3%B3leo%20e%20G%C3%A1s"
+       title="Emp. Adm. Part. - Petróleo e Gás · R$ 150,8 bi"
+       style="left:85.1427%;top:34.9476%;width:7.62%;height:34.4676%;background:rgba(227,168,87,0.159)">
+      <div class="s">Emp. Adm. Part. - Petróleo e Gás</div>
+      <div class="v mono">R$ 150,8 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Servi%C3%A7os%20M%C3%A9dicos"
+       title="Serviços Médicos · R$ 143,2 bi"
+       style="left:92.7628%;top:34.9476%;width:7.2372%;height:34.4676%;background:rgba(227,168,87,0.156)">
+      <div class="s">Serviços Médicos</div>
+      <div class="v mono">R$ 143,2 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Bebidas%20e%20Fumo"
+       title="Bebidas e Fumo · R$ 139,4 bi"
+       style="left:85.1427%;top:69.4152%;width:7.9344%;height:30.5848%;background:rgba(227,168,87,0.155)">
+      <div class="s">Bebidas e Fumo</div>
+      <div class="v mono">R$ 139,4 bi</div>
+    </a>
+    
+    <a class="cell sm"
+       href="/screener?setor=Constru%C3%A7%C3%A3o%20Civil%2C%20Mat.%20Constr.%20e%20Decora%C3%A7%C3%A3o"
+       title="Construção Civil, Mat. Constr. e Decoração · R$ 121,6 bi"
+       style="left:93.0771%;top:69.4152%;width:6.9229%;height:30.5848%;background:rgba(227,168,87,0.148)">
+      <div class="s">Construção Civil, Mat. Constr. e Decoração</div>
+      <div class="v mono">R$ 121,6 bi</div>
+    </a>
+    
+  </div>
+</article>
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/mercados#dados">Dados brutos</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

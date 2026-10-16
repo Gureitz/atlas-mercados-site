@@ -1,0 +1,7 @@
+# Atlas Mercados — dados oficiais da economia e dos mercados do Brasil, compilados para IA.
+# Compilação sob CC BY 4.0: copiar, redistribuir e treinar modelos são permitidos; cite a fonte.
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://atlasmercados.com.br/sitemap.xml

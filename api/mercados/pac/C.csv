@@ -1,0 +1,60 @@
+tabela,serie,ano,nivel_cod,territorio_cod,territorio_nome,uf_sigla,classificacao,categoria_cod,categoria_nome,cnae_nivel,cnae_cod,cnae_pai,nome_curto,emenda,variavel_cod,variavel,chave,unidade,unidade_original,valor,situacao,bruto
+1418,antiga,2007,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,189439690000.0,ok,189439690
+1418,antiga,2007,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1203808342000.0,ok,1203808342
+1418,antiga,2007,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,1246000487000.0,ok,1246000487
+1418,antiga,2008,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,219036763000.0,ok,219036763
+1418,antiga,2008,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1428920082000.0,ok,1428920082
+1418,antiga,2008,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,1476987069000.0,ok,1476987069
+1418,antiga,2009,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,252402002000.0,ok,252402002
+1418,antiga,2009,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1555504041000.0,ok,1555504041
+1418,antiga,2009,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,1613144592000.0,ok,1613144592
+1418,antiga,2010,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,300397816000.0,ok,300397816
+1418,antiga,2010,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1816306335000.0,ok,1816306335
+1418,antiga,2010,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,1874087608000.0,ok,1874087608
+1418,antiga,2011,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,352150281000.0,ok,352150281
+1418,antiga,2011,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,2086871464000.0,ok,2086871464
+1418,antiga,2011,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,2149121099000.0,ok,2149121099
+1418,antiga,2012,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,416520235000.0,ok,416520235
+1418,antiga,2012,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,2385952909000.0,ok,2385952909
+1418,antiga,2012,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,2456051981000.0,ok,2456051981
+1418,antiga,2013,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,477122564000.0,ok,477122564
+1418,antiga,2013,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,2709704478000.0,ok,2709704478
+1418,antiga,2013,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,2781114679000.0,ok,2781114679
+1418,antiga,2014,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,526415989000.0,ok,526415989
+1418,antiga,2014,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,2996072341000.0,ok,2996072341
+1418,antiga,2014,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,3078697276000.0,ok,3078697276
+1418,antiga,2015,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,535632867000.0,ok,535632867
+1418,antiga,2015,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,3121208796000.0,ok,3121208796
+1418,antiga,2015,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,3219944146000.0,ok,3219944146
+1418,antiga,2016,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,551931703000.0,ok,551931703
+1418,antiga,2016,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,3267510154000.0,ok,3267510154
+1418,antiga,2016,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,3380858594000.0,ok,3380858594
+1418,antiga,2017,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,574746992000.0,ok,574746992
+1418,antiga,2017,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,3382962343000.0,ok,3382962343
+1418,antiga,2017,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,3482384467000.0,ok,3482384467
+1418,antiga,2018,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,613009425000.0,ok,613009425
+1418,antiga,2018,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,3698858097000.0,ok,3698858097
+1418,antiga,2018,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,3816937344000.0,ok,3816937344
+1418,antiga,2019,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,664240731000.0,ok,664240731
+1418,antiga,2019,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,3975901239000.0,ok,3975901239
+1418,antiga,2019,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,4121532786000.0,ok,4121532786
+1418,antiga,2020,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,734139669000.0,ok,734139669
+1418,antiga,2020,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,4342105982000.0,ok,4342105982
+1418,antiga,2020,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,4543209170000.0,ok,4543209170
+1418,antiga,2021,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,890597720000.0,ok,890597720
+1418,antiga,2021,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,5543286255000.0,ok,5543286255
+1418,antiga,2021,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,5753031905000.0,ok,5753031905
+1418,antiga,2022,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,1091940967000.0,ok,1091940967
+1418,antiga,2022,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,6628413867000.0,ok,6628413867
+1418,antiga,2022,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,6905833841000.0,ok,6905833841
+1418,antiga,2023,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,1184137750000.0,ok,1184137750
+1418,antiga,2023,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,7080655561000.0,ok,7080655561
+1418,antiga,2023,1,1,Brasil,,11070,90128,1. Total,total,C,,Comércio (total),igual,863,Receita total,receita_total,R$,Mil Reais,7406679912000.0,ok,7406679912
+10645,nova,2024,1,1,Brasil,,11070,83311,Total,total,C,,Comércio (total),igual,314,"Gastos com salários, retiradas e outras remunerações em empresas comerciais",salarios,R$,Mil Reais,369179827000.0,ok,369179827
+10645,nova,2024,1,1,Brasil,,11070,83311,Total,total,C,,Comércio (total),igual,631,Pessoal ocupado em 31/12,pessoal,Pessoas,Pessoas,10611994.0,ok,10611994
+10645,nova,2024,1,1,Brasil,,11070,83311,Total,total,C,,Comércio (total),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,1272878558000.0,ok,1272878558
+10645,nova,2024,1,1,Brasil,,11070,83311,Total,total,C,,Comércio (total),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,7711528858000.0,ok,7711528858
+10648,nova,2024,1,1,Brasil,,11070,83311,Total,total,C,,Comércio (total),igual,501,Receita total em empresas comerciais,receita_total,R$,Mil Reais,8054016067000.0,ok,8054016067
+10648,nova,2024,1,1,Brasil,,11070,83311,Total,total,C,,Comércio (total),igual,642,Deduções,deducoes,R$,Mil Reais,879613033000.0,ok,879613033
+10648,nova,2024,1,1,Brasil,,11070,83311,Total,total,C,,Comércio (total),igual,866,Receita bruta de revenda de mercadorias,receita_revenda,R$,Mil Reais,8360635463000.0,ok,8360635463
+10648,nova,2024,1,1,Brasil,,11070,83311,Total,total,C,,Comércio (total),igual,1398,"Receita bruta de outras atividades (indústria, serviços, transportes, etc.)",receita_outras,R$,Mil Reais,230506426000.0,ok,230506426

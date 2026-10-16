@@ -1,0 +1,60 @@
+tabela,serie,ano,nivel_cod,territorio_cod,territorio_nome,uf_sigla,classificacao,categoria_cod,categoria_nome,cnae_nivel,cnae_cod,cnae_pai,nome_curto,emenda,variavel_cod,variavel,chave,unidade,unidade_original,valor,situacao,bruto
+1418,antiga,2007,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,9827356000.0,ok,9827356
+1418,antiga,2007,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,39663299000.0,ok,39663299
+1418,antiga,2007,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,40318442000.0,ok,40318442
+1418,antiga,2008,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,11353174000.0,ok,11353174
+1418,antiga,2008,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,45857426000.0,ok,45857426
+1418,antiga,2008,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,46513203000.0,ok,46513203
+1418,antiga,2009,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,12662795000.0,ok,12662795
+1418,antiga,2009,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,53089575000.0,ok,53089575
+1418,antiga,2009,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,53911036000.0,ok,53911036
+1418,antiga,2010,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,14109048000.0,ok,14109048
+1418,antiga,2010,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,57287292000.0,ok,57287292
+1418,antiga,2010,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,58350783000.0,ok,58350783
+1418,antiga,2011,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,16563383000.0,ok,16563383
+1418,antiga,2011,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,65535936000.0,ok,65535936
+1418,antiga,2011,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,66400274000.0,ok,66400274
+1418,antiga,2012,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,20334957000.0,ok,20334957
+1418,antiga,2012,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,76342435000.0,ok,76342435
+1418,antiga,2012,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,78141307000.0,ok,78141307
+1418,antiga,2013,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,23283963000.0,ok,23283963
+1418,antiga,2013,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,86267303000.0,ok,86267303
+1418,antiga,2013,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,87251929000.0,ok,87251929
+1418,antiga,2014,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,25032549000.0,ok,25032549
+1418,antiga,2014,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,90269756000.0,ok,90269756
+1418,antiga,2014,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,91533051000.0,ok,91533051
+1418,antiga,2015,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,23695741000.0,ok,23695741
+1418,antiga,2015,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,89386921000.0,ok,89386921
+1418,antiga,2015,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,90902970000.0,ok,90902970
+1418,antiga,2016,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,26837201000.0,ok,26837201
+1418,antiga,2016,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,94097404000.0,ok,94097404
+1418,antiga,2016,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,95914149000.0,ok,95914149
+1418,antiga,2017,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,24868321000.0,ok,24868321
+1418,antiga,2017,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,102370014000.0,ok,102370014
+1418,antiga,2017,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,103729786000.0,ok,103729786
+1418,antiga,2018,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,28560091000.0,ok,28560091
+1418,antiga,2018,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,106439838000.0,ok,106439838
+1418,antiga,2018,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,108197456000.0,ok,108197456
+1418,antiga,2019,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,30771820000.0,ok,30771820
+1418,antiga,2019,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,116722722000.0,ok,116722722
+1418,antiga,2019,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,118600046000.0,ok,118600046
+1418,antiga,2020,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,31759848000.0,ok,31759848
+1418,antiga,2020,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,130206006000.0,ok,130206006
+1418,antiga,2020,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,133248566000.0,ok,133248566
+1418,antiga,2021,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,37427510000.0,ok,37427510
+1418,antiga,2021,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,156232216000.0,ok,156232216
+1418,antiga,2021,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,159187246000.0,ok,159187246
+1418,antiga,2022,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,45006531000.0,ok,45006531
+1418,antiga,2022,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,185240970000.0,ok,185240970
+1418,antiga,2022,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,190178548000.0,ok,190178548
+1418,antiga,2023,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,51666263000.0,ok,51666263
+1418,antiga,2023,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,198795926000.0,ok,198795926
+1418,antiga,2023,1,1,Brasil,,11070,90131,2.2 Peças para veículos,grupo,45.3,45,Peças para veículos,igual,863,Receita total,receita_total,R$,Mil Reais,206110312000.0,ok,206110312
+10645,nova,2024,1,1,Brasil,,11070,83314,45.3 Comércio de peças e acessórios para veículos,grupo,45.3,45,Peças e acessórios para veículos,igual,314,"Gastos com salários, retiradas e outras remunerações em empresas comerciais",salarios,R$,Mil Reais,19400443000.0,ok,19400443
+10645,nova,2024,1,1,Brasil,,11070,83314,45.3 Comércio de peças e acessórios para veículos,grupo,45.3,45,Peças e acessórios para veículos,igual,631,Pessoal ocupado em 31/12,pessoal,Pessoas,Pessoas,568790.0,ok,568790
+10645,nova,2024,1,1,Brasil,,11070,83314,45.3 Comércio de peças e acessórios para veículos,grupo,45.3,45,Peças e acessórios para veículos,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,57472368000.0,ok,57472368
+10645,nova,2024,1,1,Brasil,,11070,83314,45.3 Comércio de peças e acessórios para veículos,grupo,45.3,45,Peças e acessórios para veículos,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,232531527000.0,ok,232531527
+10648,nova,2024,1,1,Brasil,,11070,83314,45.3 Comércio de peças e acessórios para veículos,grupo,45.3,45,Peças e acessórios para veículos,igual,501,Receita total em empresas comerciais,receita_total,R$,Mil Reais,239173326000.0,ok,239173326
+10648,nova,2024,1,1,Brasil,,11070,83314,45.3 Comércio de peças e acessórios para veículos,grupo,45.3,45,Peças e acessórios para veículos,igual,642,Deduções,deducoes,R$,Mil Reais,26742075000.0,ok,26742075
+10648,nova,2024,1,1,Brasil,,11070,83314,45.3 Comércio de peças e acessórios para veículos,grupo,45.3,45,Peças e acessórios para veículos,igual,866,Receita bruta de revenda de mercadorias,receita_revenda,R$,Mil Reais,249160005000.0,ok,249160005
+10648,nova,2024,1,1,Brasil,,11070,83314,45.3 Comércio de peças e acessórios para veículos,grupo,45.3,45,Peças e acessórios para veículos,igual,1398,"Receita bruta de outras atividades (indústria, serviços, transportes, etc.)",receita_outras,R$,Mil Reais,10113597000.0,ok,10113597

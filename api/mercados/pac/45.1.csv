@@ -1,0 +1,60 @@
+tabela,serie,ano,nivel_cod,territorio_cod,territorio_nome,uf_sigla,classificacao,categoria_cod,categoria_nome,cnae_nivel,cnae_cod,cnae_pai,nome_curto,emenda,variavel_cod,variavel,chave,unidade,unidade_original,valor,situacao,bruto
+1418,antiga,2007,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,12620350000.0,ok,12620350
+1418,antiga,2007,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,132141761000.0,ok,132141761
+1418,antiga,2007,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,136013077000.0,ok,136013077
+1418,antiga,2008,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,15287012000.0,ok,15287012
+1418,antiga,2008,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,166396939000.0,ok,166396939
+1418,antiga,2008,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,171232945000.0,ok,171232945
+1418,antiga,2009,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,15681233000.0,ok,15681233
+1418,antiga,2009,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,168075489000.0,ok,168075489
+1418,antiga,2009,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,172985888000.0,ok,172985888
+1418,antiga,2010,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,19280629000.0,ok,19280629
+1418,antiga,2010,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,201433092000.0,ok,201433092
+1418,antiga,2010,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,207733377000.0,ok,207733377
+1418,antiga,2011,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,21164222000.0,ok,21164222
+1418,antiga,2011,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,220256680000.0,ok,220256680
+1418,antiga,2011,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,227239063000.0,ok,227239063
+1418,antiga,2012,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,22105668000.0,ok,22105668
+1418,antiga,2012,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,227366648000.0,ok,227366648
+1418,antiga,2012,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,234552601000.0,ok,234552601
+1418,antiga,2013,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,23304918000.0,ok,23304918
+1418,antiga,2013,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,239253174000.0,ok,239253174
+1418,antiga,2013,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,245849303000.0,ok,245849303
+1418,antiga,2014,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,21800025000.0,ok,21800025
+1418,antiga,2014,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,236365378000.0,ok,236365378
+1418,antiga,2014,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,243601183000.0,ok,243601183
+1418,antiga,2015,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,20423116000.0,ok,20423116
+1418,antiga,2015,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,212620157000.0,ok,212620157
+1418,antiga,2015,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,219585292000.0,ok,219585292
+1418,antiga,2016,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,20315888000.0,ok,20315888
+1418,antiga,2016,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,193855416000.0,ok,193855416
+1418,antiga,2016,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,201362348000.0,ok,201362348
+1418,antiga,2017,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,20419505000.0,ok,20419505
+1418,antiga,2017,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,198245918000.0,ok,198245918
+1418,antiga,2017,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,205345186000.0,ok,205345186
+1418,antiga,2018,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,21711688000.0,ok,21711688
+1418,antiga,2018,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,219571861000.0,ok,219571861
+1418,antiga,2018,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,226344921000.0,ok,226344921
+1418,antiga,2019,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,25240719000.0,ok,25240719
+1418,antiga,2019,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,250635593000.0,ok,250635593
+1418,antiga,2019,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,258637039000.0,ok,258637039
+1418,antiga,2020,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,22929204000.0,ok,22929204
+1418,antiga,2020,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,223489099000.0,ok,223489099
+1418,antiga,2020,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,230235808000.0,ok,230235808
+1418,antiga,2021,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,36570264000.0,ok,36570264
+1418,antiga,2021,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,297009131000.0,ok,297009131
+1418,antiga,2021,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,307497495000.0,ok,307497495
+1418,antiga,2022,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,42127516000.0,ok,42127516
+1418,antiga,2022,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,346496011000.0,ok,346496011
+1418,antiga,2022,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,358788466000.0,ok,358788466
+1418,antiga,2023,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,45935012000.0,ok,45935012
+1418,antiga,2023,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,400573728000.0,ok,400573728
+1418,antiga,2023,1,1,Brasil,,11070,90130,2.1 Veículos automotores,grupo,45.1,45,Veículos automotores,igual,863,Receita total,receita_total,R$,Mil Reais,419601745000.0,ok,419601745
+10645,nova,2024,1,1,Brasil,,11070,83313,45.1 Comércio de veículos automotores,grupo,45.1,45,Veículos automotores,igual,314,"Gastos com salários, retiradas e outras remunerações em empresas comerciais",salarios,R$,Mil Reais,14317260000.0,ok,14317260
+10645,nova,2024,1,1,Brasil,,11070,83313,45.1 Comércio de veículos automotores,grupo,45.1,45,Veículos automotores,igual,631,Pessoal ocupado em 31/12,pessoal,Pessoas,Pessoas,276936.0,ok,276936
+10645,nova,2024,1,1,Brasil,,11070,83313,45.1 Comércio de veículos automotores,grupo,45.1,45,Veículos automotores,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,52129839000.0,ok,52129839
+10645,nova,2024,1,1,Brasil,,11070,83313,45.1 Comércio de veículos automotores,grupo,45.1,45,Veículos automotores,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,469405656000.0,ok,469405656
+10648,nova,2024,1,1,Brasil,,11070,83313,45.1 Comércio de veículos automotores,grupo,45.1,45,Veículos automotores,igual,501,Receita total em empresas comerciais,receita_total,R$,Mil Reais,487760915000.0,ok,487760915
+10648,nova,2024,1,1,Brasil,,11070,83313,45.1 Comércio de veículos automotores,grupo,45.1,45,Veículos automotores,igual,642,Deduções,deducoes,R$,Mil Reais,38750052000.0,ok,38750052
+10648,nova,2024,1,1,Brasil,,11070,83313,45.1 Comércio de veículos automotores,grupo,45.1,45,Veículos automotores,igual,866,Receita bruta de revenda de mercadorias,receita_revenda,R$,Mil Reais,495097178000.0,ok,495097178
+10648,nova,2024,1,1,Brasil,,11070,83313,45.1 Comércio de veículos automotores,grupo,45.1,45,Veículos automotores,igual,1398,"Receita bruta de outras atividades (indústria, serviços, transportes, etc.)",receita_outras,R$,Mil Reais,13058530000.0,ok,13058530

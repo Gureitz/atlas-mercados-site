@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cresud S.A.C.I.F. y A. (CRESY) — acompanhamento | Atlas Mercados</title>
+<meta name="description" content="Acompanhamento de Cresud S.A.C.I.F. y A. (CRESY) a partir da planilha de resultados divulgada pelo próprio RI.">
+<link rel="canonical" href="https://atlasmercados.com.br/analise/CRESY">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Cresud S.A.C.I.F. y A. (CRESY) — acompanhamento | Atlas Mercados">
+<meta property="og:description" content="Acompanhamento de Cresud S.A.C.I.F. y A. (CRESY) a partir da planilha de resultados divulgada pelo próprio RI.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Série financeira reportada — Cresud S.A.C.I.F. y A. (CRESY)", "description": "Métricas reportadas por Cresud S.A.C.I.F. y A. em SEC XBRL: 9 indicadores em 11 períodos, de 2015 a 2025.", "url": "https://atlasmercados.com.br/analise/CRESY", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "creator": {"@type": "Organization", "name": "Cresud S.A.C.I.F. y A."}, "variableMeasured": ["Receita líquida", "Lucro bruto", "EBIT", "Lucro líquido", "Capex", "Fluxo de caixa operacional", "Caixa", "Ativo total", "Patrimônio líquido"], "temporalCoverage": "2015-01-01/2025-12-31", "isBasedOn": [{"@type": "CreativeWork", "name": "SEC EDGAR — CIK 1034957 · CRESY", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001034957&type=10-K%2C20-F&dateb=&owner=include&count=40"}], "identifier": [{"@type": "PropertyValue", "name": "SEC CIK", "value": "1034957"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Carteira", "item": "https://atlasmercados.com.br/analise"}, {"@type": "ListItem", "position": 3, "name": "Cresud S.A.C.I.F. y A.", "item": "https://atlasmercados.com.br/analise/CRESY"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="on" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<div class="emp-head">
+  <div class="emp-mono">CR</div>
+  <div>
+    <div class="nm">Cresud S.A.C.I.F. y A.
+      <span class="tag">Exterior</span>
+    </div>
+    <div class="mt mono">
+      CRESY
+      
+      · NASDAQ
+      
+      
+    </div>
+  </div>
+  <div class="toggle">
+    <a href="/analise/CRESY?p=tudo" class="on">Tudo</a>
+    <a href="/analise/CRESY?p=anual" class="">Anual</a>
+    <a href="/analise/CRESY?p=tri" class="">Trimestral</a>
+  </div>
+</div>
+
+
+
+
+<section class="kpis" style="grid-template-columns:repeat(2,1fr)"
+         aria-label="Últimos números divulgados">
+  
+  <div class="kpi">
+    <div class="t">Receita líquida</div>
+    <div class="v mono up" style="font-size:16px">AR$ 914,2 bi</div>
+    <div class="d">2025 · -4.7%</div>
+  </div>
+  
+  <div class="kpi">
+    <div class="t">Lucro líquido</div>
+    <div class="v mono up" style="font-size:16px">AR$ 224,4 bi</div>
+    <div class="d">2025 · +50.7%</div>
+  </div>
+  
+</section>
+
+
+<article class="panel" style="padding:0">
+  <h2 style="padding:12px 14px 0">Série reportada
+    <span class="h">9 métricas × 11 períodos
+      · fonte: SEC XBRL</span></h2>
+  <div class="scrim" style="overflow:auto;max-height:calc(100vh - 320px)">
+  <table>
+    <thead><tr>
+      <th class="l" style="position:sticky;left:0">Métrica</th>
+      <th class="mono">2015</th><th class="mono">2016</th><th class="mono">2017</th><th class="mono">2018</th><th class="mono">2019</th><th class="mono">2020</th><th class="mono">2021</th><th class="mono">2022</th><th class="mono">2023</th><th class="mono">2024</th><th class="mono">2025</th>
+    </tr></thead>
+    <tbody>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Receita líquida
+          <span class="dim2" style="font-size:11px"> · ifrs-full:Revenue</span>
+        </td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          AR$ 15,6 bi</td>
+        
+        <td class="mono up">
+          AR$ 67,9 bi</td>
+        
+        <td class="mono up">
+          AR$ 93,3 bi</td>
+        
+        <td class="mono up">
+          AR$ 47,5 bi</td>
+        
+        <td class="mono up">
+          AR$ 82,2 bi</td>
+        
+        <td class="mono up">
+          AR$ 149,9 bi</td>
+        
+        <td class="mono up">
+          AR$ 767,7 bi</td>
+        
+        <td class="mono up">
+          AR$ 986,3 bi</td>
+        
+        <td class="mono up">
+          AR$ 959,4 bi</td>
+        
+        <td class="mono up">
+          AR$ 914,2 bi</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Lucro bruto
+          <span class="dim2" style="font-size:11px"> · ifrs-full:GrossProfit</span>
+        </td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          AR$ 6,9 bi</td>
+        
+        <td class="mono up">
+          AR$ 25,2 bi</td>
+        
+        <td class="mono up">
+          AR$ 33,4 bi</td>
+        
+        <td class="mono up">
+          AR$ 24,0 bi</td>
+        
+        <td class="mono up">
+          AR$ 35,0 bi</td>
+        
+        <td class="mono up">
+          AR$ 79,4 bi</td>
+        
+        <td class="mono up">
+          AR$ 340,1 bi</td>
+        
+        <td class="mono up">
+          AR$ 369,2 bi</td>
+        
+        <td class="mono up">
+          AR$ 406,5 bi</td>
+        
+        <td class="mono up">
+          AR$ 368,1 bi</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          EBIT
+          <span class="dim2" style="font-size:11px"> · ifrs-full:ProfitLossFromOperatingActivities</span>
+        </td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          US$ 108,0 bi</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Lucro líquido
+          <span class="dim2" style="font-size:11px"> · ifrs-full:ProfitLoss</span>
+        </td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          AR$ 9,1 bi</td>
+        
+        <td class="mono up">
+          AR$ 3,6 bi</td>
+        
+        <td class="mono up">
+          AR$ 27,4 bi</td>
+        
+        <td class="mono down">
+          -AR$ 61,2 bi</td>
+        
+        <td class="mono up">
+          AR$ 49,3 bi</td>
+        
+        <td class="mono down">
+          -AR$ 86,6 bi</td>
+        
+        <td class="mono up">
+          AR$ 504,6 bi</td>
+        
+        <td class="mono up">
+          AR$ 406,5 bi</td>
+        
+        <td class="mono up">
+          AR$ 148,8 bi</td>
+        
+        <td class="mono up">
+          AR$ 224,4 bi</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Capex
+          <span class="dim2" style="font-size:11px"> · ifrs-full:PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities</span>
+        </td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          AR$ 32,2 bi</td>
+        
+        <td class="mono up">
+          AR$ 94,3 bi</td>
+        
+        <td class="mono up">
+          AR$ 109,3 bi</td>
+        
+        <td class="mono up">
+          AR$ 45,7 bi</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Fluxo de caixa operacional
+          <span class="dim2" style="font-size:11px"> · ifrs-full:CashFlowsFromUsedInOperatingActivities</span>
+        </td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          AR$ 4,2 bi</td>
+        
+        <td class="mono up">
+          AR$ 16,5 bi</td>
+        
+        <td class="mono up">
+          AR$ 24,1 bi</td>
+        
+        <td class="mono up">
+          AR$ 25,5 bi</td>
+        
+        <td class="mono up">
+          AR$ 88,0 bi</td>
+        
+        <td class="mono up">
+          AR$ 31,4 bi</td>
+        
+        <td class="mono up">
+          AR$ 174,7 bi</td>
+        
+        <td class="mono up">
+          AR$ 188,0 bi</td>
+        
+        <td class="mono up">
+          AR$ 115,4 bi</td>
+        
+        <td class="mono up">
+          AR$ 151,3 bi</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Caixa
+          <span class="dim2" style="font-size:11px"> · ifrs-full:CashAndCashEquivalents</span>
+        </td>
+        
+        <td class="mono up">
+          AR$ 634,0 mi</td>
+        
+        <td class="mono up">
+          AR$ 33,7 bi</td>
+        
+        <td class="mono up">
+          AR$ 73,0 bi</td>
+        
+        <td class="mono up">
+          AR$ 85,9 bi</td>
+        
+        <td class="mono up">
+          AR$ 89,3 bi</td>
+        
+        <td class="mono up">
+          AR$ 151,6 bi</td>
+        
+        <td class="mono up">
+          AR$ 45,1 bi</td>
+        
+        <td class="mono up">
+          AR$ 75,3 bi</td>
+        
+        <td class="mono up">
+          AR$ 201,7 bi</td>
+        
+        <td class="mono up">
+          AR$ 159,8 bi</td>
+        
+        <td class="mono up">
+          AR$ 250,9 bi</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Ativo total
+          <span class="dim2" style="font-size:11px"> · ifrs-full:Assets</span>
+        </td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono ">
+          —</td>
+        
+        <td class="mono up">
+          AR$ 241,4 bi</td>
+        
+        <td class="mono up">
+          AR$ 557,7 bi</td>
+        
+        <td class="mono up">
+          AR$ 726,0 bi</td>
+        
+        <td class="mono up">
+          AR$ 1,0 tri</td>
+        
+        <td class="mono up">
+          AR$ 556,2 bi</td>
+        
+        <td class="mono up">
+          AR$ 1,1 tri</td>
+        
+        <td class="mono up">
+          AR$ 5,5 tri</td>
+        
+        <td class="mono up">
+          AR$ 4,8 tri</td>
+        
+        <td class="mono up">
+          AR$ 5,1 tri</td>
+        
+      </tr>
+      
+      <tr>
+        <td class="l" style="position:sticky;left:0;background:inherit">
+          Patrimônio líquido
+          <span class="dim2" style="font-size:11px"> · ifrs-full:Equity</span>
+        </td>
+        
+        <td class="mono up">
+          AR$ 14,6 bi</td>
+        
+        <td class="mono up">
+          AR$ 94,4 bi</td>
+        
+        <td class="mono up">
+          AR$ 150,9 bi</td>
+        
+        <td class="mono up">
+          AR$ 265,0 bi</td>
+        
+        <td class="mono up">
+          AR$ 313,3 bi</td>
+        
+        <td class="mono up">
+          AR$ 648,6 bi</td>
+        
+        <td class="mono up">
+          AR$ 374,3 bi</td>
+        
+        <td class="mono up">
+          AR$ 2,3 tri</td>
+        
+        <td class="mono up">
+          AR$ 2,5 tri</td>
+        
+        <td class="mono up">
+          AR$ 2,2 tri</td>
+        
+        <td class="mono up">
+          AR$ 2,2 tri</td>
+        
+      </tr>
+      
+    </tbody>
+  </table>
+  </div>
+</article>
+
+
+
+<div class="note" style="margin-top:14px">
+  Cresud S.A.C.I.F. y A. não entrega DFP/ITR à CVM — é uma emissora estrangeira.
+  A fonte primária aqui é o RI/SEC da própria companhia, não a CVM.
+</div>
+
+
+
+<article class="panel" style="margin-top:14px">
+  <h2>Fonte e proveniência <span class="h">de onde vem cada número desta página</span></h2>
+  <div class="scrim" style="overflow:auto">
+  <table>
+    <thead><tr><th class="l">Tipo</th><th class="l">Documento</th>
+      <th class="l">Endereço</th><th class="l">Acesso</th></tr></thead>
+    <tbody>
+      
+      <tr>
+        <td class="l mono dim2">SEC EDGAR</td>
+        <td class="l">CIK 1034957 · CRESY</td>
+        <td class="l" style="max-width:520px;overflow:hidden;text-overflow:ellipsis">
+          <a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001034957&amp;type=10-K%2C20-F&amp;dateb=&amp;owner=include&amp;count=40" rel="nofollow noopener" target="_blank">https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001034957&amp;type=10-K%2C20-F&amp;dateb=&amp;owner=include&amp;count=40</a></td>
+        <td class="l mono dim2">—</td>
+      </tr>
+      
+    </tbody>
+  </table>
+  </div>
+  <div class="note" style="margin-top:10px">
+    O link direto do arquivo é um identificador gerado pelo gerenciador de documentos
+    do RI e <b>muda a cada divulgação</b> — a página de RI é o endereço estável para
+    citação. Nada aqui é reprocessado de agregadores: os números vêm do arquivo que a
+    própria companhia publicou.
+  </div>
+</article>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/mercados#dados">Dados brutos</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

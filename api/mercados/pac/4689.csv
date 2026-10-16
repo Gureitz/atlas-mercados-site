@@ -1,0 +1,60 @@
+tabela,serie,ano,nivel_cod,territorio_cod,territorio_nome,uf_sigla,classificacao,categoria_cod,categoria_nome,cnae_nivel,cnae_cod,cnae_pai,nome_curto,emenda,variavel_cod,variavel,chave,unidade,unidade_original,valor,situacao,bruto
+1418,antiga,2007,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,1543614000.0,ok,1543614
+1418,antiga,2007,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,8624914000.0,ok,8624914
+1418,antiga,2007,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,8809239000.0,ok,8809239
+1418,antiga,2008,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,1987913000.0,ok,1987913
+1418,antiga,2008,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,10676470000.0,ok,10676470
+1418,antiga,2008,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,11010745000.0,ok,11010745
+1418,antiga,2009,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,2087588000.0,ok,2087588
+1418,antiga,2009,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,10656016000.0,ok,10656016
+1418,antiga,2009,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,10939330000.0,ok,10939330
+1418,antiga,2010,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,1671624000.0,ok,1671624
+1418,antiga,2010,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,10145658000.0,ok,10145658
+1418,antiga,2010,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,10499010000.0,ok,10499010
+1418,antiga,2011,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,1972367000.0,ok,1972367
+1418,antiga,2011,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,11742293000.0,ok,11742293
+1418,antiga,2011,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,12206861000.0,ok,12206861
+1418,antiga,2012,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,2292946000.0,ok,2292946
+1418,antiga,2012,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,15480868000.0,ok,15480868
+1418,antiga,2012,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,16134220000.0,ok,16134220
+1418,antiga,2013,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,2541914000.0,ok,2541914
+1418,antiga,2013,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,15405326000.0,ok,15405326
+1418,antiga,2013,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,15886765000.0,ok,15886765
+1418,antiga,2014,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,3211859000.0,ok,3211859
+1418,antiga,2014,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,18126952000.0,ok,18126952
+1418,antiga,2014,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,18547621000.0,ok,18547621
+1418,antiga,2015,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,3798828000.0,ok,3798828
+1418,antiga,2015,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,19396782000.0,ok,19396782
+1418,antiga,2015,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,20049600000.0,ok,20049600
+1418,antiga,2016,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,3111886000.0,ok,3111886
+1418,antiga,2016,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,17489521000.0,ok,17489521
+1418,antiga,2016,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,18305246000.0,ok,18305246
+1418,antiga,2017,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,3487458000.0,ok,3487458
+1418,antiga,2017,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,18291797000.0,ok,18291797
+1418,antiga,2017,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,18854273000.0,ok,18854273
+1418,antiga,2018,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,3860288000.0,ok,3860288
+1418,antiga,2018,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,19561982000.0,ok,19561982
+1418,antiga,2018,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,20501750000.0,ok,20501750
+1418,antiga,2019,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,4385595000.0,ok,4385595
+1418,antiga,2019,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,20697654000.0,ok,20697654
+1418,antiga,2019,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,21864281000.0,ok,21864281
+1418,antiga,2020,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,4288220000.0,ok,4288220
+1418,antiga,2020,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,23155712000.0,ok,23155712
+1418,antiga,2020,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,24084769000.0,ok,24084769
+1418,antiga,2021,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,7148024000.0,ok,7148024
+1418,antiga,2021,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,39791128000.0,ok,39791128
+1418,antiga,2021,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,41262361000.0,ok,41262361
+1418,antiga,2022,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,7442034000.0,ok,7442034
+1418,antiga,2022,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,45889361000.0,ok,45889361
+1418,antiga,2022,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,47661498000.0,ok,47661498
+1418,antiga,2023,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,8330304000.0,ok,8330304
+1418,antiga,2023,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,44868929000.0,ok,44868929
+1418,antiga,2023,1,1,Brasil,,11070,6553,3.5.6.2 Outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,863,Receita total,receita_total,R$,Mil Reais,46872673000.0,ok,46872673
+10645,nova,2024,1,1,Brasil,,11070,83335,4689 Comércio de outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,314,"Gastos com salários, retiradas e outras remunerações em empresas comerciais",salarios,R$,Mil Reais,1541062000.0,ok,1541062
+10645,nova,2024,1,1,Brasil,,11070,83335,4689 Comércio de outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,631,Pessoal ocupado em 31/12,pessoal,Pessoas,Pessoas,34116.0,ok,34116
+10645,nova,2024,1,1,Brasil,,11070,83335,4689 Comércio de outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,8161379000.0,ok,8161379
+10645,nova,2024,1,1,Brasil,,11070,83335,4689 Comércio de outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,46370648000.0,ok,46370648
+10648,nova,2024,1,1,Brasil,,11070,83335,4689 Comércio de outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,501,Receita total em empresas comerciais,receita_total,R$,Mil Reais,48320194000.0,ok,48320194
+10648,nova,2024,1,1,Brasil,,11070,83335,4689 Comércio de outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,642,Deduções,deducoes,R$,Mil Reais,8400842000.0,ok,8400842
+10648,nova,2024,1,1,Brasil,,11070,83335,4689 Comércio de outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,866,Receita bruta de revenda de mercadorias,receita_revenda,R$,Mil Reais,53267352000.0,ok,53267352
+10648,nova,2024,1,1,Brasil,,11070,83335,4689 Comércio de outros produtos,classe,4689,46.8,Outros produtos (atacado),igual,1398,"Receita bruta de outras atividades (indústria, serviços, transportes, etc.)",receita_outras,R$,Mil Reais,1504138000.0,ok,1504138

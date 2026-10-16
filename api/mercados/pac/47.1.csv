@@ -1,0 +1,60 @@
+tabela,serie,ano,nivel_cod,territorio_cod,territorio_nome,uf_sigla,classificacao,categoria_cod,categoria_nome,cnae_nivel,cnae_cod,cnae_pai,nome_curto,emenda,variavel_cod,variavel,chave,unidade,unidade_original,valor,situacao,bruto
+1418,antiga,2007,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,22295387000.0,ok,22295387
+1418,antiga,2007,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,148580266000.0,ok,148580266
+1418,antiga,2007,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,155029512000.0,ok,155029512
+1418,antiga,2008,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,27076928000.0,ok,27076928
+1418,antiga,2008,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,178147454000.0,ok,178147454
+1418,antiga,2008,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,185136044000.0,ok,185136044
+1418,antiga,2009,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,31591268000.0,ok,31591268
+1418,antiga,2009,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,209195236000.0,ok,209195236
+1418,antiga,2009,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,218156631000.0,ok,218156631
+1418,antiga,2010,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,37208368000.0,ok,37208368
+1418,antiga,2010,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,252112377000.0,ok,252112377
+1418,antiga,2010,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,262203792000.0,ok,262203792
+1418,antiga,2011,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,44903304000.0,ok,44903304
+1418,antiga,2011,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,293219125000.0,ok,293219125
+1418,antiga,2011,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,303910211000.0,ok,303910211
+1418,antiga,2012,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,56528433000.0,ok,56528433
+1418,antiga,2012,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,336171965000.0,ok,336171965
+1418,antiga,2012,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,348677425000.0,ok,348677425
+1418,antiga,2013,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,64907598000.0,ok,64907598
+1418,antiga,2013,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,385996360000.0,ok,385996360
+1418,antiga,2013,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,398736551000.0,ok,398736551
+1418,antiga,2014,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,72737030000.0,ok,72737030
+1418,antiga,2014,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,457036089000.0,ok,457036089
+1418,antiga,2014,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,472899863000.0,ok,472899863
+1418,antiga,2015,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,82351937000.0,ok,82351937
+1418,antiga,2015,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,500537070000.0,ok,500537070
+1418,antiga,2015,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,518303626000.0,ok,518303626
+1418,antiga,2016,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,87393865000.0,ok,87393865
+1418,antiga,2016,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,566264511000.0,ok,566264511
+1418,antiga,2016,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,586655984000.0,ok,586655984
+1418,antiga,2017,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,94676119000.0,ok,94676119
+1418,antiga,2017,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,584573691000.0,ok,584573691
+1418,antiga,2017,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,604806950000.0,ok,604806950
+1418,antiga,2018,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,97863576000.0,ok,97863576
+1418,antiga,2018,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,620404698000.0,ok,620404698
+1418,antiga,2018,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,641866634000.0,ok,641866634
+1418,antiga,2019,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,103169376000.0,ok,103169376
+1418,antiga,2019,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,656429856000.0,ok,656429856
+1418,antiga,2019,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,684369051000.0,ok,684369051
+1418,antiga,2020,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,124100030000.0,ok,124100030
+1418,antiga,2020,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,764827842000.0,ok,764827842
+1418,antiga,2020,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,800092286000.0,ok,800092286
+1418,antiga,2021,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,130965626000.0,ok,130965626
+1418,antiga,2021,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,883931799000.0,ok,883931799
+1418,antiga,2021,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,922902280000.0,ok,922902280
+1418,antiga,2022,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,145222700000.0,ok,145222700
+1418,antiga,2022,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,985331318000.0,ok,985331318
+1418,antiga,2022,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,1032116186000.0,ok,1032116186
+1418,antiga,2023,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,158858353000.0,ok,158858353
+1418,antiga,2023,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1070222453000.0,ok,1070222453
+1418,antiga,2023,1,1,Brasil,,11070,90152,4.1 Comércio não especializado,grupo,47.1,47,Não especializado,igual,863,Receita total,receita_total,R$,Mil Reais,1128680593000.0,ok,1128680593
+10645,nova,2024,1,1,Brasil,,11070,83338,47.1 Comércio varejista não especializado,grupo,47.1,47,Não especializado,igual,314,"Gastos com salários, retiradas e outras remunerações em empresas comerciais",salarios,R$,Mil Reais,71867309000.0,ok,71867309
+10645,nova,2024,1,1,Brasil,,11070,83338,47.1 Comércio varejista não especializado,grupo,47.1,47,Não especializado,igual,631,Pessoal ocupado em 31/12,pessoal,Pessoas,Pessoas,2357285.0,ok,2357285
+10645,nova,2024,1,1,Brasil,,11070,83338,47.1 Comércio varejista não especializado,grupo,47.1,47,Não especializado,igual,635,Valor adicionado bruto a preços básicos,vab,R$,Mil Reais,191942022000.0,ok,191942022
+10645,nova,2024,1,1,Brasil,,11070,83338,47.1 Comércio varejista não especializado,grupo,47.1,47,Não especializado,igual,643,Receita operacional líquida,receita_liquida,R$,Mil Reais,1214962775000.0,ok,1214962775
+10648,nova,2024,1,1,Brasil,,11070,83338,47.1 Comércio varejista não especializado,grupo,47.1,47,Não especializado,igual,501,Receita total em empresas comerciais,receita_total,R$,Mil Reais,1285656861000.0,ok,1285656861
+10648,nova,2024,1,1,Brasil,,11070,83338,47.1 Comércio varejista não especializado,grupo,47.1,47,Não especializado,igual,642,Deduções,deducoes,R$,Mil Reais,143689849000.0,ok,143689849
+10648,nova,2024,1,1,Brasil,,11070,83338,47.1 Comércio varejista não especializado,grupo,47.1,47,Não especializado,igual,866,Receita bruta de revenda de mercadorias,receita_revenda,R$,Mil Reais,1348189353000.0,ok,1348189353
+10648,nova,2024,1,1,Brasil,,11070,83338,47.1 Comércio varejista não especializado,grupo,47.1,47,Não especializado,igual,1398,"Receita bruta de outras atividades (indústria, serviços, transportes, etc.)",receita_outras,R$,Mil Reais,10463271000.0,ok,10463271

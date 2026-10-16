@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mercados do varejo por segmento e UF — Atlas Mercados</title>
+<meta name="description" content="Tamanho dos mercados do comércio brasileiro por segmento (classes CNAE) e por UF: receita bruta de revenda, receita líquida, VAB, unidades locais e pessoal (PAC/IBGE), pulso mensal (PMC) e dados brutos para download em Parquet e CSV.">
+<link rel="canonical" href="https://atlasmercados.com.br/mercados/setor/veiculos">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Mercados do varejo por segmento e UF — Atlas Mercados">
+<meta property="og:description" content="Tamanho dos mercados do comércio brasileiro por segmento (classes CNAE) e por UF: receita bruta de revenda, receita líquida, VAB, unidades locais e pessoal (PAC/IBGE), pulso mensal (PMC) e dados brutos para download em Parquet e CSV.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .q{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .q.ok{border-color:var(--up);color:var(--up)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  .derivado{border-left:2px solid var(--info)}
+  .derivado h2 .h{color:var(--info)}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .filters label{font-size:11px;color:var(--dim2)}
+  .filters input[type=hidden]{display:none}
+  .api{font-size:11px}
+  .api code{color:var(--acc);font-family:'IBM Plex Mono',monospace}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/cempre_varejo.parquet", "name": "CEMPRE — unidades locais, pessoal e salários do varejo por classe CNAE e UF", "description": "Cadastro Central de Empresas (IBGE, SIDRA t/9528), divisão 47 do CNAE 2.0, por UF.", "url": "https://atlasmercados.com.br/mercados", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "inLanguage": "pt-BR", "creator": {"@type": "GovernmentOrganization", "name": "IBGE", "url": "https://www.ibge.gov.br/"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "temporalCoverage": "2022-01-01/2024-12-31", "dateModified": "2026-10-15T20:33:24+00:00", "isBasedOn": [{"@type": "Dataset", "name": "CEMPRE — unidades locais, pessoal e salários do varejo (divisão 47) por UF", "url": "https://sidra.ibge.gov.br/tabela/9528", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/cempre_varejo.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/cempre_varejo.csv"}], "variableMeasured": ["pessoal_assalariado", "pessoal_ocupado", "salarios", "unidades_locais"]}, {"@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/mercados_pac.parquet", "name": "Pesquisa Anual de Comércio — receita, VAB, pessoal e unidades locais por segmento e UF", "description": "Tabelas da PAC/IBGE em formato longo: agrupamentos de atividade por UF (t/1407, t/10653) e classes CNAE do comércio no Brasil (t/1418, t/10645, t/10648), 2007 em diante, com os códigos de categoria do SIDRA preservados e a unidade original registrada.", "url": "https://atlasmercados.com.br/mercados", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "inLanguage": "pt-BR", "creator": {"@type": "GovernmentOrganization", "name": "IBGE", "url": "https://www.ibge.gov.br/"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "temporalCoverage": "2007-01-01/2024-12-31", "dateModified": "2026-10-15T20:31:57+00:00", "isBasedOn": [{"@type": "Dataset", "name": "PAC — classes CNAE, Brasil: receita líquida, VAB, pessoal e salários", "url": "https://sidra.ibge.gov.br/tabela/10645", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}, {"@type": "Dataset", "name": "PAC — classes CNAE, Brasil: receita bruta de revenda e composição da receita", "url": "https://sidra.ibge.gov.br/tabela/10648", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}, {"@type": "Dataset", "name": "PAC — agrupamentos de atividade por Brasil, região e UF", "url": "https://sidra.ibge.gov.br/tabela/10653", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}, {"@type": "Dataset", "name": "PAC — agrupamentos de atividade por UF de atuação (série antiga)", "url": "https://sidra.ibge.gov.br/tabela/1407", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}, {"@type": "Dataset", "name": "PAC — classes CNAE, Brasil (série antiga)", "url": "https://sidra.ibge.gov.br/tabela/1418", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/mercados_pac.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/mercados_pac.csv"}], "variableMeasured": ["deducoes", "empresas", "margem", "pessoal", "receita_liquida", "receita_outras", "receita_revenda", "receita_total", "salarios", "unidades_locais", "vab"]}, {"@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/mercados_pmc.parquet", "name": "Pesquisa Mensal de Comércio — índices de volume e receita por atividade e UF", "description": "Números-índice da PMC/IBGE (média de 2022 = 100), varejo e varejo ampliado, por atividade, Brasil e UFs, mensal desde 2000, com variações contra o mesmo mês e acumuladas em 12 meses.", "url": "https://atlasmercados.com.br/mercados", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "inLanguage": "pt-BR", "creator": {"@type": "GovernmentOrganization", "name": "IBGE", "url": "https://www.ibge.gov.br/"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "temporalCoverage": "2000-01/2026-08", "dateModified": "2026-10-15T20:33:20+00:00", "isBasedOn": [{"@type": "Dataset", "name": "PMC — comércio varejista, índice geral, Brasil e UFs", "url": "https://sidra.ibge.gov.br/tabela/8880", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}, {"@type": "Dataset", "name": "PMC — comércio varejista por atividade, Brasil e UFs", "url": "https://sidra.ibge.gov.br/tabela/8882", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}, {"@type": "Dataset", "name": "PMC — comércio varejista ampliado por atividade, Brasil e UFs", "url": "https://sidra.ibge.gov.br/tabela/8883", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/mercados_pmc.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/mercados_pmc.csv"}], "variableMeasured": ["acum_12m", "indice", "indice_sa", "var_12m"]}, {"@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/uf_vab.parquet", "name": "Contas Regionais — PIB e VAB por atividade, Brasil e UFs", "description": "PIB, impostos e valor adicionado bruto da agropecuária, indústria, serviços e administração pública, por UF, 2002 em diante (IBGE, SIDRA t/5938).", "url": "https://atlasmercados.com.br/mercados", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "inLanguage": "pt-BR", "creator": {"@type": "GovernmentOrganization", "name": "IBGE", "url": "https://www.ibge.gov.br/"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "temporalCoverage": "2002-01-01/2023-12-31", "dateModified": "2026-10-15T20:31:04+00:00", "isBasedOn": [{"@type": "Dataset", "name": "Contas Regionais — PIB, impostos e VAB por atividade, Brasil e UFs", "url": "https://sidra.ibge.gov.br/tabela/5938", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/uf_vab.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/uf_vab.csv"}], "variableMeasured": ["impostos", "pib", "vab_adm_publica", "vab_agropecuaria", "vab_industria", "vab_servicos", "vab_total"]}, {"@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/mercados_derivados.parquet", "name": "Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)", "description": "Estimativa — não é dado publicado. Receita nacional de cada classe do varejo (PAC, t/10648) distribuída entre as UFs na proporção dos salários da classe no CEMPRE (t/9528), com a razão contra o agrupamento publicado por UF ao lado.", "url": "https://atlasmercados.com.br/mercados", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "inLanguage": "pt-BR", "creator": {"@type": "Organization", "name": "Atlas Mercados"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "temporalCoverage": "2024-01-01/2024-12-31", "dateModified": "2026-10-15T20:33:24+00:00", "isBasedOn": [{"@type": "Dataset", "name": "Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)", "url": "https://sidra.ibge.gov.br/tabela/10648", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}}], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/mercados_derivados.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/mercados_derivados.csv"}], "variableMeasured": ["866", "[662, 707]"], "measurementTechnique": "rateio_cempre: receita_BR × share_UF(CEMPRE)"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Mercados", "item": "https://atlasmercados.com.br/mercados"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="on" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+
+<h1 class="page">Mercados do varejo</h1>
+<p class="sub"><b>Brasil</b> · IBGE · PAC 2024 · PMC até 08/2026 · Contas Regionais 2021 · dados brutos abaixo, em Parquet e CSV</p>
+
+
+<div class="filters">
+  <select onchange="window.location=this.value" aria-label="Território">
+    <option value="/mercados/setor/veiculos" selected>Brasil</option>
+    <option value="/mercados/uf/AC/setor/veiculos" >Acre</option><option value="/mercados/uf/AL/setor/veiculos" >Alagoas</option><option value="/mercados/uf/AP/setor/veiculos" >Amapá</option><option value="/mercados/uf/AM/setor/veiculos" >Amazonas</option><option value="/mercados/uf/BA/setor/veiculos" >Bahia</option><option value="/mercados/uf/CE/setor/veiculos" >Ceará</option><option value="/mercados/uf/DF/setor/veiculos" >Distrito Federal</option><option value="/mercados/uf/ES/setor/veiculos" >Espírito Santo</option><option value="/mercados/uf/GO/setor/veiculos" >Goiás</option><option value="/mercados/uf/MA/setor/veiculos" >Maranhão</option><option value="/mercados/uf/MT/setor/veiculos" >Mato Grosso</option><option value="/mercados/uf/MS/setor/veiculos" >Mato Grosso do Sul</option><option value="/mercados/uf/MG/setor/veiculos" >Minas Gerais</option><option value="/mercados/uf/PR/setor/veiculos" >Paraná</option><option value="/mercados/uf/PB/setor/veiculos" >Paraíba</option><option value="/mercados/uf/PA/setor/veiculos" >Pará</option><option value="/mercados/uf/PE/setor/veiculos" >Pernambuco</option><option value="/mercados/uf/PI/setor/veiculos" >Piauí</option><option value="/mercados/uf/RN/setor/veiculos" >Rio Grande do Norte</option><option value="/mercados/uf/RS/setor/veiculos" >Rio Grande do Sul</option><option value="/mercados/uf/RJ/setor/veiculos" >Rio de Janeiro</option><option value="/mercados/uf/RO/setor/veiculos" >Rondônia</option><option value="/mercados/uf/RR/setor/veiculos" >Roraima</option><option value="/mercados/uf/SC/setor/veiculos" >Santa Catarina</option><option value="/mercados/uf/SE/setor/veiculos" >Sergipe</option><option value="/mercados/uf/SP/setor/veiculos" >São Paulo</option><option value="/mercados/uf/TO/setor/veiculos" >Tocantins</option>
+  </select>
+  <select onchange="window.location=this.value" aria-label="Setor">
+    <option value="/mercados" >Comércio varejista</option><option value="/mercados/setor/atacado" >Comércio por atacado</option><option value="/mercados/setor/veiculos" selected>Veículos e motocicletas</option><option value="/mercados/setor/comercio" >Comércio (total)</option>
+  </select>
+  <select onchange="window.location=this.value" aria-label="Abertura">
+    <option value="/mercados/setor/veiculos" selected >por classe CNAE (só Brasil)</option>
+    <option value="/mercados/setor/veiculos/agrupamentos" >por agrupamento da PAC (por UF)</option>
+  </select>
+  
+</div>
+
+
+
+
+<section class="kpis" aria-label="Varejo no Brasil">
+  <div class="kpi"><div class="t">Receita bruta de revenda</div><div class="v mono acc">R$ 3,5 tri</div><div class="d">varejo (divisão 47) · PAC 2024 · t/10648</div></div>
+  <div class="kpi"><div class="t">Receita líquida</div><div class="v mono">R$ 3,2 tri</div><div class="d">receita operacional líquida · t/10645</div></div>
+  <div class="kpi"><div class="t">VAB do varejo</div><div class="v mono">R$ 654,2 bi</div><div class="d">a preços básicos · não somar com receita</div></div>
+  <div class="kpi"><div class="t">Unidades locais</div><div class="v mono">1.329.153</div><div class="d">Σ 27 UFs (calc.) · t/10653</div></div>
+  <div class="kpi"><div class="t">Pessoal ocupado</div><div class="v mono">7.647.251</div><div class="d">PAC 2024 · t/10645</div></div>
+  <div class="kpi"><div class="t">PMC · volume 12 m</div><div class="v mono up">+1,6%</div><div class="d">varejo · acum. até 08/2026 · t/8880</div></div>
+</section>
+
+
+<article class="panel">
+  <h2>Tamanho por segmento
+    <span class="h">Veículos e motocicletas · classes CNAE 2.0 · Brasil · PAC 2024</span></h2>
+  
+  <div class="scrim" style="overflow:auto;max-height:640px">
+  <table class="arv">
+    <thead><tr>
+      <th class="l">Segmento</th><th class="l" style="width:150px">Share do Veículos e motocicletas</th>
+      <th>Receita bruta de revenda<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th><th>Receita líquida<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th><th>VAB a preços básicos<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th><th>Pessoal ocupado<br><span class="dim2" style="font-size:9px;font-weight:400">pessoas</span></th><th>Salários<br><span class="dim2" style="font-size:9px;font-weight:400">R$</span></th>
+    </tr></thead>
+    <tbody>
+    
+    <tr class="clk n0" onclick="window.location='/mercados/45'">
+      <td class="nm p0" title="45 Comércio de veículos automotores e motocicletas · código SIDRA 83312"><span class="mono acc" style="font-size:10.5px">45</span> Veículos e motocicletas</td>
+      <td class="l"><span class="sh" style="width:100.0px"></span><span class="mono dim" style="font-size:11px">100,0%</span></td>
+      
+      <td class="mono ">R$ 807,1 bi</td>
+      
+      <td class="mono ">R$ 761,3 bi</td>
+      
+      <td class="mono ">R$ 121,9 bi</td>
+      
+      <td class="mono ">950.662</td>
+      
+      <td class="mono ">R$ 37,2 bi</td>
+      
+    </tr>
+    
+    <tr class="clk n1" onclick="window.location='/mercados/45.1'">
+      <td class="nm p1" title="45.1 Comércio de veículos automotores · código SIDRA 83313"><span class="mono acc" style="font-size:10.5px">45.1</span> Veículos automotores</td>
+      <td class="l"><span class="sh" style="width:61.3px"></span><span class="mono dim" style="font-size:11px">61,3%</span></td>
+      
+      <td class="mono ">R$ 495,1 bi</td>
+      
+      <td class="mono ">R$ 469,4 bi</td>
+      
+      <td class="mono ">R$ 52,1 bi</td>
+      
+      <td class="mono ">276.936</td>
+      
+      <td class="mono ">R$ 14,3 bi</td>
+      
+    </tr>
+    
+    <tr class="clk n1" onclick="window.location='/mercados/45.3'">
+      <td class="nm p1" title="45.3 Comércio de peças e acessórios para veículos · código SIDRA 83314"><span class="mono acc" style="font-size:10.5px">45.3</span> Peças e acessórios para veículos</td>
+      <td class="l"><span class="sh" style="width:30.9px"></span><span class="mono dim" style="font-size:11px">30,9%</span></td>
+      
+      <td class="mono ">R$ 249,2 bi</td>
+      
+      <td class="mono ">R$ 232,5 bi</td>
+      
+      <td class="mono ">R$ 57,5 bi</td>
+      
+      <td class="mono ">568.790</td>
+      
+      <td class="mono ">R$ 19,4 bi</td>
+      
+    </tr>
+    
+    <tr class="clk n1" onclick="window.location='/mercados/45.4'">
+      <td class="nm p1" title="45.4 Comércio de motocicletas, peças e acessórios · código SIDRA 83315"><span class="mono acc" style="font-size:10.5px">45.4</span> Motocicletas, peças e acessórios</td>
+      <td class="l"><span class="sh" style="width:7.8px"></span><span class="mono dim" style="font-size:11px">7,8%</span></td>
+      
+      <td class="mono ">R$ 62,9 bi</td>
+      
+      <td class="mono ">R$ 59,4 bi</td>
+      
+      <td class="mono ">R$ 12,3 bi</td>
+      
+      <td class="mono ">104.936</td>
+      
+      <td class="mono ">R$ 3,5 bi</td>
+      
+    </tr>
+    
+    </tbody>
+  </table>
+  </div>
+  <div class="dim2" style="font-size:11px;margin-top:8px">
+    Classes CNAE 2.0 como a PAC publica (t/10645 e t/10648, Brasil). Onde a PAC agrega classes ("4754 + 4757 + 4759"), a linha vem agregada. Clique na linha para a série histórica, as classes-filhas e a estimativa por UF.
+    
+    Share calculado nesta página.
+  </div>
+  
+</article>
+
+<article class="panel" style="margin-top:16px" id="mapa">
+  <h2>Brasil por UF <span class="h">Varejo · receita bruta de revenda · PAC 2024 · t/10653 · 27 UFs divulgam</span></h2>
+  <div class="chips">
+    <a href="/mercados/4" class="on" title="Varejo — ranking e mapa por UF">4 Varejo</a><a href="/mercados/4.1" class="" title="Não especializado — ranking e mapa por UF">4.1 Não especializado</a><a href="/mercados/4.1.1" class="" title="Hiper e supermercados — ranking e mapa por UF">4.1.1 Hiper e supermercados</a><a href="/mercados/4.1.2" class="" title="Outros não especializados — ranking e mapa por UF">4.1.2 Outros não especializados</a><a href="/mercados/4.2" class="" title="Alimentos, bebidas e fumo — ranking e mapa por UF">4.2 Alimentos, bebidas e fumo</a><a href="/mercados/4.3" class="" title="Combustíveis e lubrificantes — ranking e mapa por UF">4.3 Combustíveis e lubrificantes</a><a href="/mercados/4.4" class="" title="Outros produtos em lojas especializadas — ranking e mapa por UF">4.4 Outros produtos em lojas especializadas</a><a href="/mercados/4.5" class="" title="Informática e comunicação — ranking e mapa por UF">4.5 Informática e comunicação</a><a href="/mercados/4.6" class="" title="Vestuário e calçados — ranking e mapa por UF">4.6 Vestuário e calçados</a><a href="/mercados/4.7" class="" title="Outros produtos novos e usados — ranking e mapa por UF">4.7 Outros produtos novos e usados</a>
+  </div>
+  <div class="maprow">
+    <div id="brmap" data-endpoint="/api/mercados/uf/4.json" data-rotulo="Varejo" data-unidade="R$" aria-label="Mapa do Brasil: Varejo por UF"></div>
+    <div class="scrim" style="overflow:auto;max-height:560px">
+      <div class="mono dim2" style="font-size:10px;text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px">Ranking · Varejo · R$ · 2024</div>
+      
+      
+      <div class="rk ">
+        <span class="pos mono">1</span>
+        <span class="nm"><a href="/mercados/uf/SP/setor/veiculos">São Paulo</a></span>
+        <span class="bar" style="width:80.0px"></span>
+        <span class="val mono">R$ 1,0 tri</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">2</span>
+        <span class="nm"><a href="/mercados/uf/MG/setor/veiculos">Minas Gerais</a></span>
+        <span class="bar" style="width:28.6px"></span>
+        <span class="val mono">R$ 365,0 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">3</span>
+        <span class="nm"><a href="/mercados/uf/RJ/setor/veiculos">Rio de Janeiro</a></span>
+        <span class="bar" style="width:19.4px"></span>
+        <span class="val mono">R$ 247,3 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">4</span>
+        <span class="nm"><a href="/mercados/uf/PR/setor/veiculos">Paraná</a></span>
+        <span class="bar" style="width:18.5px"></span>
+        <span class="val mono">R$ 235,8 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">5</span>
+        <span class="nm"><a href="/mercados/uf/RS/setor/veiculos">Rio Grande do Sul</a></span>
+        <span class="bar" style="width:17.3px"></span>
+        <span class="val mono">R$ 220,4 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">6</span>
+        <span class="nm"><a href="/mercados/uf/SC/setor/veiculos">Santa Catarina</a></span>
+        <span class="bar" style="width:14.5px"></span>
+        <span class="val mono">R$ 185,6 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">7</span>
+        <span class="nm"><a href="/mercados/uf/BA/setor/veiculos">Bahia</a></span>
+        <span class="bar" style="width:12.9px"></span>
+        <span class="val mono">R$ 164,8 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">8</span>
+        <span class="nm"><a href="/mercados/uf/PE/setor/veiculos">Pernambuco</a></span>
+        <span class="bar" style="width:9.2px"></span>
+        <span class="val mono">R$ 117,9 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">9</span>
+        <span class="nm"><a href="/mercados/uf/GO/setor/veiculos">Goiás</a></span>
+        <span class="bar" style="width:8.6px"></span>
+        <span class="val mono">R$ 110,4 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">10</span>
+        <span class="nm"><a href="/mercados/uf/CE/setor/veiculos">Ceará</a></span>
+        <span class="bar" style="width:7.9px"></span>
+        <span class="val mono">R$ 101,3 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">11</span>
+        <span class="nm"><a href="/mercados/uf/MT/setor/veiculos">Mato Grosso</a></span>
+        <span class="bar" style="width:7.3px"></span>
+        <span class="val mono">R$ 92,9 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">12</span>
+        <span class="nm"><a href="/mercados/uf/PA/setor/veiculos">Pará</a></span>
+        <span class="bar" style="width:6.7px"></span>
+        <span class="val mono">R$ 85,4 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">13</span>
+        <span class="nm"><a href="/mercados/uf/ES/setor/veiculos">Espírito Santo</a></span>
+        <span class="bar" style="width:6.4px"></span>
+        <span class="val mono">R$ 81,3 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">14</span>
+        <span class="nm"><a href="/mercados/uf/MA/setor/veiculos">Maranhão</a></span>
+        <span class="bar" style="width:4.7px"></span>
+        <span class="val mono">R$ 60,2 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">15</span>
+        <span class="nm"><a href="/mercados/uf/MS/setor/veiculos">Mato Grosso do Sul</a></span>
+        <span class="bar" style="width:4.7px"></span>
+        <span class="val mono">R$ 59,8 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">16</span>
+        <span class="nm"><a href="/mercados/uf/DF/setor/veiculos">Distrito Federal</a></span>
+        <span class="bar" style="width:4.4px"></span>
+        <span class="val mono">R$ 56,7 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">17</span>
+        <span class="nm"><a href="/mercados/uf/PB/setor/veiculos">Paraíba</a></span>
+        <span class="bar" style="width:3.9px"></span>
+        <span class="val mono">R$ 49,7 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">18</span>
+        <span class="nm"><a href="/mercados/uf/AM/setor/veiculos">Amazonas</a></span>
+        <span class="bar" style="width:3.4px"></span>
+        <span class="val mono">R$ 42,8 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">19</span>
+        <span class="nm"><a href="/mercados/uf/RN/setor/veiculos">Rio Grande do Norte</a></span>
+        <span class="bar" style="width:3.1px"></span>
+        <span class="val mono">R$ 40,1 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">20</span>
+        <span class="nm"><a href="/mercados/uf/AL/setor/veiculos">Alagoas</a></span>
+        <span class="bar" style="width:3.0px"></span>
+        <span class="val mono">R$ 38,0 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">21</span>
+        <span class="nm"><a href="/mercados/uf/RO/setor/veiculos">Rondônia</a></span>
+        <span class="bar" style="width:2.7px"></span>
+        <span class="val mono">R$ 34,2 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">22</span>
+        <span class="nm"><a href="/mercados/uf/PI/setor/veiculos">Piauí</a></span>
+        <span class="bar" style="width:2.7px"></span>
+        <span class="val mono">R$ 34,2 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">23</span>
+        <span class="nm"><a href="/mercados/uf/SE/setor/veiculos">Sergipe</a></span>
+        <span class="bar" style="width:1.6px"></span>
+        <span class="val mono">R$ 20,9 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">24</span>
+        <span class="nm"><a href="/mercados/uf/TO/setor/veiculos">Tocantins</a></span>
+        <span class="bar" style="width:0.7px"></span>
+        <span class="val mono">R$ 9,5 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">25</span>
+        <span class="nm"><a href="/mercados/uf/AP/setor/veiculos">Amapá</a></span>
+        <span class="bar" style="width:0.7px"></span>
+        <span class="val mono">R$ 8,7 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">26</span>
+        <span class="nm"><a href="/mercados/uf/RR/setor/veiculos">Roraima</a></span>
+        <span class="bar" style="width:0.7px"></span>
+        <span class="val mono">R$ 8,5 bi</span>
+        
+      </div>
+      
+      <div class="rk ">
+        <span class="pos mono">27</span>
+        <span class="nm"><a href="/mercados/uf/AC/setor/veiculos">Acre</a></span>
+        <span class="bar" style="width:0.5px"></span>
+        <span class="val mono">R$ 7,0 bi</span>
+        
+      </div>
+      
+      <div class="rk"><span class="pos"></span><span class="nm dim">Soma das 27 UFs (calc.)</span><span class="val mono acc">R$ 3,5 tri</span></div>
+    </div>
+  </div>
+</article>
+
+<article class="panel derivado" style="margin-top:16px" id="estimativa">
+  <h2>Estimativa por UF <span class="h">camada derivada · rateio pelo CEMPRE · NÃO é dado publicado</span></h2>
+  <div class="filters">
+    <select onchange="if(this.value)window.location=this.value" aria-label="Segmento">
+      <option value="">47.7 — ver outro segmento…</option>
+      <option value="/mercados/47#estimativa">47 Varejo</option><option value="/mercados/47.1#estimativa">47.1 Não especializado</option><option value="/mercados/47.2#estimativa">47.2 Alimentos, bebidas e fumo</option><option value="/mercados/47.3#estimativa">47.3 Combustíveis e lubrificantes</option><option value="/mercados/47.4#estimativa">47.4 Material de construção</option><option value="/mercados/47.5#estimativa">47.5 Informática, comunicação e artigos de uso doméstico</option><option value="/mercados/47.6#estimativa">47.6 Artigos culturais, recreativos e esportivos</option><option value="/mercados/47.7#estimativa">47.7 Farmacêuticos, perfumaria, cosméticos, médicos e ópticos</option><option value="/mercados/47.8#estimativa">47.8 Outros produtos novos e usados</option><option value="/mercados/4711#estimativa">4711 Hiper e supermercados</option><option value="/mercados/4712#estimativa">4712 Minimercados, mercearias e armazéns</option><option value="/mercados/4713#estimativa">4713 Lojas de departamento e não especializado via internet</option><option value="/mercados/4751+4752#estimativa">4751+4752 Informática e comunicação</option><option value="/mercados/4753+4756#estimativa">4753+4756 Eletrodomésticos, áudio e vídeo, instrumentos musicais</option><option value="/mercados/4754+4757+4759#estimativa">4754+4757+4759 Móveis, iluminação e outros artigos de uso doméstico</option><option value="/mercados/4755#estimativa">4755 Tecidos e artigos de armarinho</option><option value="/mercados/4781#estimativa">4781 Vestuário e acessórios</option><option value="/mercados/4782#estimativa">4782 Calçados, couro e artigos de viagem</option><option value="/mercados/4783+4785+4789#estimativa">4783+4785+4789 Joias, relógios, usados e outros produtos</option><option value="/mercados/4784#estimativa">4784 Gás liquefeito de petróleo (GLP)</option>
+    </select>
+    <label>cada segmento tem a estimativa completa, com mapa, na própria página</label>
+  </div>
+  
+  
+  <p class="dim" style="font-size:11.5px;margin:0 0 10px">
+    <b>Método.</b> Receita bruta de revenda de <b>Farmacêuticos, perfumaria, cosméticos, médicos e ópticos</b> no Brasil, R$ 339,7 bi
+    (PAC 2024, t/10648, variável 866), distribuída entre as UFs na proporção dos salários pagos
+    pelas classes <span class="mono">4771+4772+4773+4774</span> em cada UF (CEMPRE 2024, t/9528,
+    variável 662). Σ UF = Brasil por construção. A coluna <b>razão vs publicado</b> soma as estimativas de
+    todas as classes que a PAC coloca no agrupamento <a href="/mercados/4.4" class="acc mono">4.4</a>
+    e divide pelo valor que a PAC publica para esse agrupamento na UF (t/10653): 1,00 seria exato; a maioria
+    das UFs não tem o agrupamento publicado, e fica sem a conferência.
+  </p>
+  <div class="scrim" style="overflow:auto;max-height:440px">
+  <table>
+    <thead><tr><th class="l">UF</th><th>Receita estimada</th><th>Share (salários)</th><th>Share (pessoal ocupado)</th><th>Razão vs publicado · 4.4</th></tr></thead>
+    <tbody>
+    
+    <tr>
+      <td class="l"><span class="mono acc">SP</span> São Paulo</td>
+      <td class="mono">R$ 109,9 bi</td>
+      <td class="mono">32,3%</td>
+      <td class="mono dim">25,5%</td>
+      <td class="mono ">1,13×</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">MG</span> Minas Gerais</td>
+      <td class="mono">R$ 33,6 bi</td>
+      <td class="mono">9,9%</td>
+      <td class="mono dim">10,8%</td>
+      <td class="mono ">0,80×</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">RJ</span> Rio de Janeiro</td>
+      <td class="mono">R$ 28,3 bi</td>
+      <td class="mono">8,3%</td>
+      <td class="mono dim">9,1%</td>
+      <td class="mono ">1,01×</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">RS</span> Rio Grande do Sul</td>
+      <td class="mono">R$ 25,7 bi</td>
+      <td class="mono">7,6%</td>
+      <td class="mono dim">6,5%</td>
+      <td class="mono ">1,11×</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">PR</span> Paraná</td>
+      <td class="mono">R$ 23,3 bi</td>
+      <td class="mono">6,8%</td>
+      <td class="mono dim">6,5%</td>
+      <td class="mono ">0,98×</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">SC</span> Santa Catarina</td>
+      <td class="mono">R$ 15,7 bi</td>
+      <td class="mono">4,6%</td>
+      <td class="mono dim">4,1%</td>
+      <td class="mono ">0,98×</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">BA</span> Bahia</td>
+      <td class="mono">R$ 13,9 bi</td>
+      <td class="mono">4,1%</td>
+      <td class="mono dim">5,3%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">GO</span> Goiás</td>
+      <td class="mono">R$ 10,4 bi</td>
+      <td class="mono">3,1%</td>
+      <td class="mono dim">3,8%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">CE</span> Ceará</td>
+      <td class="mono">R$ 9,8 bi</td>
+      <td class="mono">2,9%</td>
+      <td class="mono dim">3,3%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">PE</span> Pernambuco</td>
+      <td class="mono">R$ 9,7 bi</td>
+      <td class="mono">2,8%</td>
+      <td class="mono dim">3,5%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">PA</span> Pará</td>
+      <td class="mono">R$ 6,1 bi</td>
+      <td class="mono">1,8%</td>
+      <td class="mono dim">2,3%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">MT</span> Mato Grosso</td>
+      <td class="mono">R$ 6,0 bi</td>
+      <td class="mono">1,8%</td>
+      <td class="mono dim">1,9%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">ES</span> Espírito Santo</td>
+      <td class="mono">R$ 6,0 bi</td>
+      <td class="mono">1,8%</td>
+      <td class="mono dim">2,2%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">DF</span> Distrito Federal</td>
+      <td class="mono">R$ 5,6 bi</td>
+      <td class="mono">1,6%</td>
+      <td class="mono dim">1,8%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">MA</span> Maranhão</td>
+      <td class="mono">R$ 5,4 bi</td>
+      <td class="mono">1,6%</td>
+      <td class="mono dim">2,3%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">MS</span> Mato Grosso do Sul</td>
+      <td class="mono">R$ 4,4 bi</td>
+      <td class="mono">1,3%</td>
+      <td class="mono dim">1,4%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">PB</span> Paraíba</td>
+      <td class="mono">R$ 4,2 bi</td>
+      <td class="mono">1,2%</td>
+      <td class="mono dim">1,6%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">RN</span> Rio Grande do Norte</td>
+      <td class="mono">R$ 3,9 bi</td>
+      <td class="mono">1,1%</td>
+      <td class="mono dim">1,5%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">AM</span> Amazonas</td>
+      <td class="mono">R$ 3,5 bi</td>
+      <td class="mono">1,0%</td>
+      <td class="mono dim">1,3%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">PI</span> Piauí</td>
+      <td class="mono">R$ 3,1 bi</td>
+      <td class="mono">0,9%</td>
+      <td class="mono dim">1,3%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">RO</span> Rondônia</td>
+      <td class="mono">R$ 2,9 bi</td>
+      <td class="mono">0,9%</td>
+      <td class="mono dim">0,9%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">AL</span> Alagoas</td>
+      <td class="mono">R$ 2,5 bi</td>
+      <td class="mono">0,7%</td>
+      <td class="mono dim">1,0%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">SE</span> Sergipe</td>
+      <td class="mono">R$ 2,1 bi</td>
+      <td class="mono">0,6%</td>
+      <td class="mono dim">0,8%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">TO</span> Tocantins</td>
+      <td class="mono">R$ 1,8 bi</td>
+      <td class="mono">0,5%</td>
+      <td class="mono dim">0,7%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">AC</span> Acre</td>
+      <td class="mono">R$ 773,7 mi</td>
+      <td class="mono">0,2%</td>
+      <td class="mono dim">0,3%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">AP</span> Amapá</td>
+      <td class="mono">R$ 602,1 mi</td>
+      <td class="mono">0,2%</td>
+      <td class="mono dim">0,2%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    <tr>
+      <td class="l"><span class="mono acc">RR</span> Roraima</td>
+      <td class="mono">R$ 598,9 mi</td>
+      <td class="mono">0,2%</td>
+      <td class="mono dim">0,2%</td>
+      <td class="mono dim2">sem publicado</td>
+    </tr>
+    
+    </tbody>
+  </table>
+  </div>
+  <div class="dim2" style="font-size:11px;margin-top:8px">Arquivo próprio, <span class="mono">mercados_derivados.parquet</span>, com <span class="mono">tipo="derivado"</span>, método e insumos em cada linha; nunca misturado ao dado bruto. Gerado em 2026-10-15T20:33.</div>
+  
+</article>
+
+
+<article class="panel" style="margin-top:16px">
+  <h2>Pulso mensal · PMC <span class="h">Brasil · até 08/2026 · número-índice, média de 2022 = 100 · t/8880, 8882, 8883</span></h2>
+  <div class="scrim" style="overflow:auto">
+  <table>
+    <thead><tr><th class="l">Atividade (PMC)</th><th>Volume · acum. 12 m</th><th>Receita nominal · acum. 12 m</th><th>Volume · vs mesmo mês</th><th>Índice de volume</th><th class="l">Corresponde na PAC · classe</th><th class="l">· agrupamento (UF)</th></tr></thead>
+    <tbody>
+    
+    <tr>
+      <td class="l">Varejo — índice geral</td>
+      <td class="mono up">+1,6%</td>
+      <td class="mono">+4,7%</td>
+      <td class="mono">+0,4%</td>
+      <td class="mono dim">107,6</td>
+      <td class="l"></td>
+      <td class="l"></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Combustíveis e lubrificantes</td>
+      <td class="mono up">+1,2%</td>
+      <td class="mono">+6,8%</td>
+      <td class="mono">+0,8%</td>
+      <td class="mono dim">106,5</td>
+      <td class="l"><a href="/mercados/47.3" class="mono acc">47.3</a><span class="q ok" title="">1:1</span></td>
+      <td class="l"><a href="/mercados/4.3" class="mono acc">4.3</a><span class="q ok" title="">1:1</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Hiper, supermercados, alimentos, bebidas e fumo</td>
+      <td class="mono up">+1,0%</td>
+      <td class="mono">+3,8%</td>
+      <td class="mono">+0,5%</td>
+      <td class="mono dim">111,3</td>
+      <td class="l"><a href="/mercados/47.1" class="mono acc">47.1</a> + <a href="/mercados/47.2" class="mono acc">47.2</a><span class="q " title="">agregado</span></td>
+      <td class="l"><a href="/mercados/4.1" class="mono acc">4.1</a> + <a href="/mercados/4.2" class="mono acc">4.2</a><span class="q " title="">agregado</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Hiper e supermercados</td>
+      <td class="mono up">+1,1%</td>
+      <td class="mono">+3,8%</td>
+      <td class="mono">+0,6%</td>
+      <td class="mono dim">112,9</td>
+      <td class="l"><a href="/mercados/4711" class="mono acc">4711</a><span class="q ok" title="">1:1</span></td>
+      <td class="l"><a href="/mercados/4.1.1" class="mono acc">4.1.1</a><span class="q ok" title="">1:1</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Tecidos, vestuário e calçados</td>
+      <td class="mono down">-1,8%</td>
+      <td class="mono">+1,8%</td>
+      <td class="mono">-3,9%</td>
+      <td class="mono dim">92,2</td>
+      <td class="l"><a href="/mercados/4755" class="mono acc">4755</a> + <a href="/mercados/4781" class="mono acc">4781</a> + <a href="/mercados/4782" class="mono acc">4782</a><span class="q " title="tecidos ficam em 4.4 na série nova da PAC">agregado</span></td>
+      <td class="l"><a href="/mercados/4.6" class="mono acc">4.6</a><span class="q " title="tecidos ficam em 4.4 na série nova da PAC">parcial</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Móveis e eletrodomésticos</td>
+      <td class="mono up">+3,0%</td>
+      <td class="mono">+1,2%</td>
+      <td class="mono">-8,5%</td>
+      <td class="mono dim">95,3</td>
+      <td class="l"><a href="/mercados/4753+4756" class="mono acc">4753+4756</a> + <a href="/mercados/4754+4757+4759" class="mono acc">4754+4757+4759</a><span class="q " title="4.4 não separa móveis e eletro de farmácia e material de construção">agregado</span></td>
+      <td class="l"><a href="/mercados/4.4" class="mono acc">4.4</a><span class="q " title="4.4 não separa móveis e eletro de farmácia e material de construção">parcial</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Móveis</td>
+      <td class="mono down">-2,8%</td>
+      <td class="mono">-0,3%</td>
+      <td class="mono">-1,6%</td>
+      <td class="mono dim">88,8</td>
+      <td class="l"><a href="/mercados/4754+4757+4759" class="mono acc">4754+4757+4759</a><span class="q " title="4.4 não separa móveis de farmácia e material de construção">parcial</span></td>
+      <td class="l"><a href="/mercados/4.4" class="mono acc">4.4</a><span class="q " title="4.4 não separa móveis de farmácia e material de construção">parcial</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Eletrodomésticos</td>
+      <td class="mono up">+5,2%</td>
+      <td class="mono">+1,6%</td>
+      <td class="mono">-10,1%</td>
+      <td class="mono dim">100,0</td>
+      <td class="l"><a href="/mercados/4753+4756" class="mono acc">4753+4756</a><span class="q " title="4.4 não separa eletro de farmácia e material de construção">parcial</span></td>
+      <td class="l"><a href="/mercados/4.4" class="mono acc">4.4</a><span class="q " title="4.4 não separa eletro de farmácia e material de construção">parcial</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Farmacêuticos, médicos, perfumaria e cosméticos</td>
+      <td class="mono up">+5,3%</td>
+      <td class="mono">+10,4%</td>
+      <td class="mono">+4,8%</td>
+      <td class="mono dim">124,1</td>
+      <td class="l"><a href="/mercados/47.7" class="mono acc">47.7</a><span class="q ok" title="4.4 não separa farmácia de móveis e material de construção">1:1</span></td>
+      <td class="l"><a href="/mercados/4.4" class="mono acc">4.4</a><span class="q " title="4.4 não separa farmácia de móveis e material de construção">parcial</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Livros, jornais, revistas e papelaria</td>
+      <td class="mono up">+2,4%</td>
+      <td class="mono">+6,4%</td>
+      <td class="mono">+1,1%</td>
+      <td class="mono dim">74,5</td>
+      <td class="l"><a href="/mercados/47.6" class="mono acc">47.6</a><span class="q " title="4.4 não separa livros de farmácia e material de construção">parcial</span></td>
+      <td class="l"><a href="/mercados/4.4" class="mono acc">4.4</a><span class="q " title="4.4 não separa livros de farmácia e material de construção">parcial</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Escritório, informática e comunicação</td>
+      <td class="mono up">+8,6%</td>
+      <td class="mono">+7,9%</td>
+      <td class="mono">+10,2%</td>
+      <td class="mono dim">108,2</td>
+      <td class="l"><a href="/mercados/4751+4752" class="mono acc">4751+4752</a><span class="q ok" title="">1:1</span></td>
+      <td class="l"><a href="/mercados/4.5" class="mono acc">4.5</a><span class="q ok" title="">1:1</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Outros artigos de uso pessoal e doméstico</td>
+      <td class="mono up">+1,7%</td>
+      <td class="mono">+5,9%</td>
+      <td class="mono">+2,5%</td>
+      <td class="mono dim">92,8</td>
+      <td class="l"><a href="/mercados/4783+4785+4789" class="mono acc">4783+4785+4789</a><span class="q " title="a PAC inclui usados; a PMC inclui joias, relojoaria e ópticas">parcial</span></td>
+      <td class="l"><a href="/mercados/4.7" class="mono acc">4.7</a><span class="q " title="a PAC inclui usados; a PMC inclui joias, relojoaria e ópticas">parcial</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Veículos, motocicletas, partes e peças <span class="q">ampliado</span></td>
+      <td class="mono up">+0,9%</td>
+      <td class="mono">+1,7%</td>
+      <td class="mono">+1,5%</td>
+      <td class="mono dim">120,5</td>
+      <td class="l"><a href="/mercados/45" class="mono acc">45</a><span class="q ok" title="">1:1</span></td>
+      <td class="l"><a href="/mercados/2" class="mono acc">2</a><span class="q ok" title="">1:1</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Material de construção <span class="q">ampliado</span></td>
+      <td class="mono down">-1,4%</td>
+      <td class="mono">+2,3%</td>
+      <td class="mono">-3,8%</td>
+      <td class="mono dim">101,0</td>
+      <td class="l"><a href="/mercados/47.4" class="mono acc">47.4</a><span class="q ok" title="4.4 não separa material de construção de farmácia e móveis">1:1</span></td>
+      <td class="l"><a href="/mercados/4.4" class="mono acc">4.4</a><span class="q " title="4.4 não separa material de construção de farmácia e móveis">parcial</span></td>
+    </tr>
+    
+    <tr>
+      <td class="l">Atacado especializado em alimentos, bebidas e fumo <span class="q">ampliado</span></td>
+      <td class="mono up">+2,7%</td>
+      <td class="mono">+3,1%</td>
+      <td class="mono">-1,4%</td>
+      <td class="mono dim">88,6</td>
+      <td class="l"><a href="/mercados/46.3" class="mono acc">46.3</a><span class="q ok" title="">1:1</span></td>
+      <td class="l"><a href="/mercados/3.3" class="mono acc">3.3</a><span class="q ok" title="">1:1</span></td>
+    </tr>
+    
+    </tbody>
+  </table>
+  </div>
+  <div class="dim2" style="font-size:11px;margin-top:8px">A PMC é índice, não R$: dá direção e ritmo, nunca tamanho. Amostra de empresas com 20 ou mais ocupados. "1:1" = mesmo recorte na PAC; "agregado" = a PMC soma categorias da PAC; "parcial" = recortes diferentes (passe o mouse). Por UF a PMC chega um ou dois meses depois do Brasil.</div>
+</article>
+
+
+
+<article class="panel" style="margin-top:16px">
+  <h2>Moldura macro · VAB por atividade <span class="h">Contas Regionais · Brasil · 2021 · t/5938 · peso no PIB, não receita</span></h2>
+  <div class="row1">
+    <div>
+      <table>
+        <thead><tr><th class="l">Atividade</th><th>VAB a preços correntes</th><th>Share do VAB</th></tr></thead>
+        <tbody>
+        <tr><td class="l">Agropecuária</td><td class="mono">R$ 591,1 bi</td><td class="mono">7,7%</td></tr><tr><td class="l">Indústria</td><td class="mono">R$ 2,0 tri</td><td class="mono">25,8%</td></tr><tr><td class="l">Serviços (exc. adm. pública)</td><td class="mono">R$ 3,9 tri</td><td class="mono">50,7%</td></tr><tr><td class="l">Administração pública</td><td class="mono">R$ 1,2 tri</td><td class="mono">15,8%</td></tr>
+        <tr><td class="l"><b>VAB total</b></td><td class="mono acc">R$ 7,7 tri</td><td class="mono">100%</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="dim" style="font-size:11.5px">
+      <p style="margin:0 0 8px"><b>PIB 2023:</b> <span class="mono">R$ 10,9 tri</span> (a preços correntes; o VAB por atividade sai dois anos depois do PIB).</p>
+      <p style="margin:0 0 8px"><b>Peso do varejo:</b> VAB do comércio varejista em 2021 (PAC, t/1418, variável 635) = <span class="mono">R$ 436,0 bi</span>, ou <span class="mono acc">5,7%</span> do VAB total do mesmo ano.</p>
+      <p style="margin:0">Receita (quanto gira) e VAB (quanto fica de valor adicionado) são medidas diferentes do mesmo setor e nunca se somam: a receita do varejo é maior que o VAB de todos os serviços porque cada real de mercadoria é contado de novo a cada elo da cadeia.</p>
+    </div>
+  </div>
+</article>
+
+
+<div class="note">
+  <b>Metodologia &amp; fonte.</b> Tudo vem do IBGE pela API do SIDRA, como publicado, uma linha por célula, com os
+  códigos de categoria e o texto original de cada célula preservados; a única conversão é "Mil Reais" × 1.000 → R$.
+  <b>Duas aberturas que não se cruzam:</b> por classe CNAE (farmácia, material de construção, móveis…) a PAC
+  publica só o Brasil; por UF publica agrupamentos próprios, e os segmentos especializados caem juntos em 4.4.
+  A estimativa por UF que cruza as duas é camada derivada, rotulada, em arquivo separado.
+  <b>Duas séries:</b> a PAC foi reformulada em 2024 — os agrupamentos mudaram de código e de recorte, então
+  2007–2023 e 2024 são comparáveis só onde a correspondência é marcada "igual"; esta página não calcula a
+  variação 2023→2024. <b>Sinais da fonte:</b> "—" não divulgado (a PAC imprime "-" nas células que não abre
+  por UF), "X" sigilo estatístico. <b>Cobertura:</b> PAC = empresas formais com CNPJ (receita bruta de
+  revenda = vendas de mercadorias, antes de deduções); PMC = amostra de 20+ ocupados; CEMPRE = cadastro de
+  todas as empresas formais. <b>Defasagem:</b> PAC do ano t sai em t+2; PMC por UF um a dois meses atrás do
+  Brasil; VAB por atividade dois anos atrás do PIB. Não é recomendação de nada: é dado compilado.
+</div>
+
+<article class="panel" style="margin-top:16px" id="dados">
+  <h2>Dados brutos <span class="h">Parquet e CSV · catálogo de proveniência · uma linha por tabela do SIDRA</span></h2>
+  
+  <div class="scrim" style="overflow:auto">
+  <table>
+    <thead><tr><th class="l">Dataset</th><th class="l">Tabela SIDRA</th><th class="l">Conteúdo</th><th class="l">Período</th><th>Linhas</th><th class="l">Unidade original · conversão</th><th class="l">Coletado em</th><th class="l">Download</th></tr></thead>
+    <tbody>
+    
+    <tr class="">
+      <td class="l"><span class="mono">cempre</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/9528" rel="nofollow" class="mono acc">t/9528</a></td>
+      <td class="l" style="font-size:11px">CEMPRE — unidades locais, pessoal e salários do varejo (divisão 47) por UF</td>
+      <td class="l mono dim">2022–2024</td>
+      <td class="mono">15.456</td>
+      <td class="l dim2" style="font-size:10.5px">Mil Reais; Pessoas; Unidades · Mil Reais × 1000 → R$</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:33</td>
+      <td class="l dl"><a href="/dados/cempre_varejo.parquet">parquet</a><a href="/dados/cempre_varejo.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pac</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/10645" rel="nofollow" class="mono acc">t/10645</a></td>
+      <td class="l" style="font-size:11px">PAC — classes CNAE, Brasil: receita líquida, VAB, pessoal e salários</td>
+      <td class="l mono dim">2024–2024</td>
+      <td class="mono">184</td>
+      <td class="l dim2" style="font-size:10.5px">Mil Reais; Unidades; Pessoas · Mil Reais × 1000 → R$; &#39;-&#39; com total &gt; 0 → nd</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:31</td>
+      <td class="l dl"><a href="/dados/mercados_pac.parquet">parquet</a><a href="/dados/mercados_pac.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pac</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/10648" rel="nofollow" class="mono acc">t/10648</a></td>
+      <td class="l" style="font-size:11px">PAC — classes CNAE, Brasil: receita bruta de revenda e composição da receita</td>
+      <td class="l mono dim">2024–2024</td>
+      <td class="mono">184</td>
+      <td class="l dim2" style="font-size:10.5px">Mil Reais; Unidades; Pessoas · Mil Reais × 1000 → R$; &#39;-&#39; com total &gt; 0 → nd</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:31</td>
+      <td class="l dl"><a href="/dados/mercados_pac.parquet">parquet</a><a href="/dados/mercados_pac.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pac</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/10653" rel="nofollow" class="mono acc">t/10653</a></td>
+      <td class="l" style="font-size:11px">PAC — agrupamentos de atividade por Brasil, região e UF</td>
+      <td class="l mono dim">2024–2024</td>
+      <td class="mono">3.036</td>
+      <td class="l dim2" style="font-size:10.5px">Mil Reais; Unidades; Pessoas · Mil Reais × 1000 → R$; &#39;-&#39; com total &gt; 0 → nd</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:31</td>
+      <td class="l dl"><a href="/dados/mercados_pac.parquet">parquet</a><a href="/dados/mercados_pac.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pac</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/1407" rel="nofollow" class="mono acc">t/1407</a></td>
+      <td class="l" style="font-size:11px">PAC — agrupamentos de atividade por UF de atuação (série antiga)</td>
+      <td class="l mono dim">2007–2023</td>
+      <td class="mono">64.515</td>
+      <td class="l dim2" style="font-size:10.5px">Mil Reais; Unidades; Pessoas · Mil Reais × 1000 → R$; &#39;-&#39; com total &gt; 0 → nd</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:31</td>
+      <td class="l dl"><a href="/dados/mercados_pac.parquet">parquet</a><a href="/dados/mercados_pac.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pac</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/1418" rel="nofollow" class="mono acc">t/1418</a></td>
+      <td class="l" style="font-size:11px">PAC — classes CNAE, Brasil (série antiga)</td>
+      <td class="l mono dim">2007–2023</td>
+      <td class="mono">2.550</td>
+      <td class="l dim2" style="font-size:10.5px">Mil Reais; Unidades; Pessoas · Mil Reais × 1000 → R$; &#39;-&#39; com total &gt; 0 → nd</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:31</td>
+      <td class="l dl"><a href="/dados/mercados_pac.parquet">parquet</a><a href="/dados/mercados_pac.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pmc</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/8880" rel="nofollow" class="mono acc">t/8880</a></td>
+      <td class="l" style="font-size:11px">PMC — comércio varejista, índice geral, Brasil e UFs</td>
+      <td class="l mono dim">2000-01–2026-08</td>
+      <td class="mono">21.248</td>
+      <td class="l dim2" style="font-size:10.5px">Número-índice (média 2022 = 100); % · nenhuma; índice &#39;-&#39; antes do início da série → nd</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:32</td>
+      <td class="l dl"><a href="/dados/mercados_pmc.parquet">parquet</a><a href="/dados/mercados_pmc.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pmc</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/8882" rel="nofollow" class="mono acc">t/8882</a></td>
+      <td class="l" style="font-size:11px">PMC — comércio varejista por atividade, Brasil e UFs</td>
+      <td class="l mono dim">2000-01–2026-08</td>
+      <td class="mono">112.288</td>
+      <td class="l dim2" style="font-size:10.5px">Número-índice (média 2022 = 100); % · nenhuma; índice &#39;-&#39; antes do início da série → nd</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:32</td>
+      <td class="l dl"><a href="/dados/mercados_pmc.parquet">parquet</a><a href="/dados/mercados_pmc.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pmc</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/8883" rel="nofollow" class="mono acc">t/8883</a></td>
+      <td class="l" style="font-size:11px">PMC — comércio varejista ampliado por atividade, Brasil e UFs</td>
+      <td class="l mono dim">2000-01–2026-08</td>
+      <td class="mono">142.912</td>
+      <td class="l dim2" style="font-size:10.5px">Número-índice (média 2022 = 100); % · nenhuma; índice &#39;-&#39; antes do início da série → nd</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:33</td>
+      <td class="l dl"><a href="/dados/mercados_pmc.parquet">parquet</a><a href="/dados/mercados_pmc.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">uf_vab</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/5938" rel="nofollow" class="mono acc">t/5938</a></td>
+      <td class="l" style="font-size:11px">Contas Regionais — PIB, impostos e VAB por atividade, Brasil e UFs</td>
+      <td class="l mono dim">2002–2023</td>
+      <td class="mono">4.312</td>
+      <td class="l dim2" style="font-size:10.5px">Mil Reais · valor × 1000 → R$</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:31</td>
+      <td class="l dl"><a href="/dados/uf_vab.parquet">parquet</a><a href="/dados/uf_vab.csv">csv</a></td>
+    </tr>
+    
+    <tr class="derivado">
+      <td class="l"><span class="mono">mercados_derivados</span> <span class="q" style="border-color:var(--info);color:var(--info)">derivado</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/10648" rel="nofollow" class="mono acc">t/10648+9528</a></td>
+      <td class="l" style="font-size:11px">Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)</td>
+      <td class="l mono dim">2024–2024</td>
+      <td class="mono">1.080</td>
+      <td class="l dim2" style="font-size:10.5px">R$ (PAC, já convertido) · receita_BR × share_UF(CEMPRE)</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:33</td>
+      <td class="l dl"><a href="/dados/mercados_derivados.parquet">parquet</a><a href="/dados/mercados_derivados.csv">csv</a></td>
+    </tr>
+    
+    </tbody>
+  </table>
+  </div>
+  
+  <div class="api" style="margin-top:10px">
+    <div class="dim" style="margin-bottom:4px"><b>Arquivos inteiros:</b> <a href="/dados/mercados_pac.parquet" class="acc mono">mercados_pac.parquet</a> · <a href="/dados/mercados_pac.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_pmc.parquet" class="acc mono">mercados_pmc.parquet</a> · <a href="/dados/mercados_pmc.csv" class="acc mono">.csv</a> · <a href="/dados/uf_vab.parquet" class="acc mono">uf_vab.parquet</a> · <a href="/dados/uf_vab.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_varejo.parquet" class="acc mono">cempre_varejo.parquet</a> · <a href="/dados/cempre_varejo.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_derivados.parquet" class="acc mono">mercados_derivados.parquet</a> · <a href="/dados/mercados_derivados.csv" class="acc mono">.csv</a> · <a href="/dados/catalogo_fontes.parquet" class="acc mono">catalogo_fontes.parquet</a> · <a href="/dados/catalogo_fontes.csv" class="acc mono">.csv</a></div>
+    <div class="dim"><b>Fatias por API</b> (JSON; <code>&amp;formato=csv</code> para CSV; filtros <code>tabela, uf, ano, desde, categoria, variavel, atividade, situacao</code>):
+      <code>/api/mercados/pac?tabela=10653&amp;uf=SP&amp;variavel=866</code> ·
+      <code>/api/mercados/pac?categoria=47.7</code> ·
+      <code>/api/mercados/pmc?atividade=103155&amp;uf=BR&amp;desde=2024-01</code> ·
+      <code>/api/mercados/cempre?uf=MG&amp;ano=2024</code> ·
+      <code>/api/mercados/derivados?categoria=47.7</code> ·
+      <code>/api/mercados/vab?uf=BR</code> ·
+      <code>/api/mercados/fontes</code> ·
+      <code>/api/mercados/uf?categoria=4.4</code></div>
+  </div>
+</article>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/mercados#dados">Dados brutos</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

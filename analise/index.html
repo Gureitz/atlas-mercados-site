@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Carteira acompanhada — Atlas Mercados</title>
+<meta name="description" content="Companhias acompanhadas de perto a partir das planilhas de resultados divulgadas pelos próprios RIs, cruzadas com a base CVM.">
+<link rel="canonical" href="https://atlasmercados.com.br/analise">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Carteira acompanhada — Atlas Mercados">
+<meta property="og:description" content="Companhias acompanhadas de perto a partir das planilhas de resultados divulgadas pelos próprios RIs, cruzadas com a base CVM.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Carteira", "item": "https://atlasmercados.com.br/analise"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="on" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,90% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,22%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>-0,40%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>-0,22%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,09</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,91</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,5% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 373 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,2</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Carteira Acompanhada</h1>
+<p class="sub"><b>22</b> companhias · fonte: planilha de resultados do RI de cada emissora
+  · <b>21</b> com dado carregado
+  · fora da carteira, <a href="/valuation?escopo=universo"><b>427</b> companhias do universo B3</a> têm série auditada da CVM</p>
+
+
+
+<article class="panel" style="padding:0;margin-bottom:14px">
+  <h2 style="padding:12px 14px 0">B3 — com demonstrações na CVM
+    <span class="h">12 companhias</span></h2>
+  <div class="scrim" style="overflow:auto">
+  <table>
+    <thead><tr>
+      <th class="l">Ticker</th><th class="l">Companhia</th><th class="l">Bolsa</th>
+      <th class="l">CVM</th><th class="l">Planilha RI</th><th class="l">Mapa</th><th class="l">Dado</th>
+    </tr></thead>
+    <tbody>
+      
+      <tr class="clk" onclick="window.location='/analise/PRIO3'">
+        <td class="l mono acc">PRIO3</td>
+        <td class="l">PRIO S.A.</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">22187</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/TTEN3'">
+        <td class="l mono acc">TTEN3</td>
+        <td class="l">TRÊS TENTOS AGROINDUSTRIAL S.A.</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">25950</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/JHSF3'">
+        <td class="l mono acc">JHSF3</td>
+        <td class="l">JHSF PARTICIPAÇÕES SA</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">20605</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/SIMH3'">
+        <td class="l mono acc">SIMH3</td>
+        <td class="l">SIMPAR S.A.</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">25003</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/BLAU3'">
+        <td class="l mono acc">BLAU3</td>
+        <td class="l">BLAU FARMACÊUTICA S.A.</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">24627</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/SLCE3'">
+        <td class="l mono acc">SLCE3</td>
+        <td class="l">SLC AGRICOLA SA</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">20745</td>
+        <td class="l mono up">2/2</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/SUZB3'">
+        <td class="l mono acc">SUZB3</td>
+        <td class="l">SUZANO S.A.</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">13986</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/EZTC3'">
+        <td class="l mono acc">EZTC3</td>
+        <td class="l">EZ TEC EMPREEND. E PARTICIPAÇÕES S/A</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">20770</td>
+        <td class="l mono up">2/2</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/MDNE3'">
+        <td class="l mono acc">MDNE3</td>
+        <td class="l">MOURA DUBEUX ENGENHARIA S/A</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">21067</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/AGRO3'">
+        <td class="l mono acc">AGRO3</td>
+        <td class="l">BRASILAGRO CIA BRAS DE PROP AGRICOLAS</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">20036</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/PRNR3'">
+        <td class="l mono acc">PRNR3</td>
+        <td class="l">PRINER SERVIÇOS INDUSTRIAIS S.A.</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">24236</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/BRST3'">
+        <td class="l mono acc">BRST3</td>
+        <td class="l">BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.</td>
+        <td class="l dim2">B3</td>
+        <td class="l mono dim2">27693</td>
+        <td class="l mono up">1/1</td>
+        <td class="l mono up">sim</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+    </tbody>
+  </table>
+  </div>
+</article>
+
+
+
+<article class="panel" style="padding:0;margin-bottom:14px">
+  <h2 style="padding:12px 14px 0">BDR — emissora estrangeira
+    <span class="h">5 companhias</span></h2>
+  <div class="scrim" style="overflow:auto">
+  <table>
+    <thead><tr>
+      <th class="l">Ticker</th><th class="l">Companhia</th><th class="l">Bolsa</th>
+      <th class="l">CVM</th><th class="l">Planilha RI</th><th class="l">Mapa</th><th class="l">Dado</th>
+    </tr></thead>
+    <tbody>
+      
+      <tr class="clk" onclick="window.location='/analise/INBR32'">
+        <td class="l mono acc">INBR32</td>
+        <td class="l">Inter &amp; Co, Inc.</td>
+        <td class="l dim2">B3 (BDR)</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/AURA33'">
+        <td class="l mono acc">AURA33</td>
+        <td class="l">Aura Minerals Inc.</td>
+        <td class="l dim2">B3 (BDR)</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/ROXO34'">
+        <td class="l mono acc">ROXO34</td>
+        <td class="l">Nu Holdings Ltd.</td>
+        <td class="l dim2">B3 (BDR)</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/MELI34'">
+        <td class="l mono acc">MELI34</td>
+        <td class="l">MercadoLibre, Inc.</td>
+        <td class="l dim2">B3 (BDR)</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/S2EA34'">
+        <td class="l mono acc">S2EA34</td>
+        <td class="l">Sea Limited</td>
+        <td class="l dim2">B3 (BDR)</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+    </tbody>
+  </table>
+  </div>
+</article>
+
+
+
+<article class="panel" style="padding:0;margin-bottom:14px">
+  <h2 style="padding:12px 14px 0">Ação estrangeira
+    <span class="h">5 companhias</span></h2>
+  <div class="scrim" style="overflow:auto">
+  <table>
+    <thead><tr>
+      <th class="l">Ticker</th><th class="l">Companhia</th><th class="l">Bolsa</th>
+      <th class="l">CVM</th><th class="l">Planilha RI</th><th class="l">Mapa</th><th class="l">Dado</th>
+    </tr></thead>
+    <tbody>
+      
+      <tr class="clk" onclick="window.location='/analise/AMZN'">
+        <td class="l mono acc">AMZN</td>
+        <td class="l">Amazon.com, Inc.</td>
+        <td class="l dim2">NASDAQ</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/META'">
+        <td class="l mono acc">META</td>
+        <td class="l">Meta Platforms, Inc.</td>
+        <td class="l dim2">NASDAQ</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/MU'">
+        <td class="l mono acc">MU</td>
+        <td class="l">Micron Technology, Inc.</td>
+        <td class="l dim2">NASDAQ</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/CRESY'">
+        <td class="l mono acc">CRESY</td>
+        <td class="l">Cresud S.A.C.I.F. y A.</td>
+        <td class="l dim2">NASDAQ</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+      <tr class="clk" onclick="window.location='/analise/PAM'">
+        <td class="l mono acc">PAM</td>
+        <td class="l">Pampa Energia S.A.</td>
+        <td class="l dim2">NYSE</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono dim2">—</td>
+        <td class="l mono up">sim</td>
+      </tr>
+      
+    </tbody>
+  </table>
+  </div>
+</article>
+
+
+
+<div class="note">
+  As colunas <b>Planilha RI</b>, <b>Mapa</b> e <b>Dado</b> refletem o estado da ingestão:
+  a planilha precisa ser baixada, ter suas linhas mapeadas para métricas no
+  <span class="mono">data/ri/manifest.json</span> e então ser normalizada com
+  <span class="mono">python scripts/build_ri.py construir</span>.
+  Companhias do grupo <b>B3 — com demonstrações na CVM</b> já têm o histórico auditado
+  disponível mesmo antes disso, na página de perfil.
+</div>
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/mercados#dados">Dados brutos</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>
