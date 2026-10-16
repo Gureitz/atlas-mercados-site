@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dados para download — Parquet e CSV com proveniência — Atlas Mercados</title>
+<meta name="description" content="7 conjuntos de dados oficiais da economia e dos mercados do Brasil, com 375.961 linhas no total, em Parquet e CSV: Pesquisa Anual e Mensal de Comércio, CEMPRE e Contas Regionais do IBGE, séries do Banco Central e o catálogo de proveniência.">
+<link rel="canonical" href="https://atlasmercados.com.br/dados">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Dados para download — Parquet e CSV com proveniência — Atlas Mercados">
+<meta property="og:description" content="7 conjuntos de dados oficiais da economia e dos mercados do Brasil, com 375.961 linhas no total, em Parquet e CSV: Pesquisa Anual e Mensal de Comércio, CEMPRE e Contas Regionais do IBGE, séries do Banco Central e o catálogo de proveniência.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "DataCatalog", "name": "Atlas Mercados — dados", "url": "https://atlasmercados.com.br/dados", "inLanguage": "pt-BR", "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "publisher": {"@type": "Organization", "name": "Atlas Mercados", "url": "https://atlasmercados.com.br"}, "description": "Conjuntos de dados oficiais da economia e dos mercados do Brasil (IBGE, Banco Central), em Parquet e CSV, com catálogo de proveniência por tabela.", "dataset": [{"@type": "Dataset", "name": "Pesquisa Anual de Comércio — receita, VAB, pessoal e unidades locais por segmento e UF", "url": "https://atlasmercados.com.br/dados/mercados_pac"}, {"@type": "Dataset", "name": "Pesquisa Mensal de Comércio — índices de volume e receita por atividade e UF", "url": "https://atlasmercados.com.br/dados/mercados_pmc"}, {"@type": "Dataset", "name": "Contas Regionais — PIB e VAB por atividade, Brasil e UFs", "url": "https://atlasmercados.com.br/dados/uf_vab"}, {"@type": "Dataset", "name": "CEMPRE — unidades locais, pessoal e salários do varejo por classe CNAE e UF", "url": "https://atlasmercados.com.br/dados/cempre_varejo"}, {"@type": "Dataset", "name": "Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)", "url": "https://atlasmercados.com.br/dados/mercados_derivados"}, {"@type": "Dataset", "name": "Banco Central do Brasil — séries macroeconômicas do SGS", "url": "https://atlasmercados.com.br/dados/macro_bcb"}, {"@type": "Dataset", "name": "Catálogo de proveniência dos dados de mercado", "url": "https://atlasmercados.com.br/dados/catalogo_fontes"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Dados", "item": "https://atlasmercados.com.br/dados"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="on" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Dados para download</h1>
+<p class="sub"><b>7</b> conjuntos · Parquet e CSV · IBGE e Banco Central · licença <a href="/licenca">CC BY 4.0</a> na compilação</p>
+<p class="resposta" data-resposta>7 conjuntos de dados oficiais da economia e dos mercados do Brasil, com 375.961 linhas no total, em Parquet e CSV: Pesquisa Anual e Mensal de Comércio, CEMPRE e Contas Regionais do IBGE, séries do Banco Central e o catálogo de proveniência.</p>
+
+<article class="panel" style="padding:0">
+  <table>
+    <thead><tr><th class="l">Conjunto</th><th class="l">Fonte</th><th class="l">Período</th><th>Linhas</th><th class="l">Tipo</th><th class="l">Coletado em</th><th class="l">Arquivos</th></tr></thead>
+    <tbody>
+    
+    <tr>
+      <td class="l"><a href="/dados/mercados_pac" class="acc">Pesquisa Anual de Comércio — receita, VAB, pessoal e unidades locais por segmento e UF</a><div class="dim2 mono" style="font-size:10.5px">mercados_pac</div></td>
+      <td class="l dim">IBGE</td>
+      <td class="l mono dim">2007–2024</td>
+      <td class="mono">70.469</td>
+      <td class="l">bruto</td>
+      <td class="l mono dim2">2026-10-15</td>
+      <td class="l"><a href="/dados/mercados_pac.parquet" class="acc mono">parquet</a> · <a href="/dados/mercados_pac.csv" class="acc mono">csv</a></td>
+    </tr>
+    
+    <tr>
+      <td class="l"><a href="/dados/mercados_pmc" class="acc">Pesquisa Mensal de Comércio — índices de volume e receita por atividade e UF</a><div class="dim2 mono" style="font-size:10.5px">mercados_pmc</div></td>
+      <td class="l dim">IBGE</td>
+      <td class="l mono dim">2000-01–2026-08</td>
+      <td class="mono">276.448</td>
+      <td class="l">bruto</td>
+      <td class="l mono dim2">2026-10-15</td>
+      <td class="l"><a href="/dados/mercados_pmc.parquet" class="acc mono">parquet</a> · <a href="/dados/mercados_pmc.csv" class="acc mono">csv.gz</a></td>
+    </tr>
+    
+    <tr>
+      <td class="l"><a href="/dados/uf_vab" class="acc">Contas Regionais — PIB e VAB por atividade, Brasil e UFs</a><div class="dim2 mono" style="font-size:10.5px">uf_vab</div></td>
+      <td class="l dim">IBGE</td>
+      <td class="l mono dim">2002–2023</td>
+      <td class="mono">4.312</td>
+      <td class="l">bruto</td>
+      <td class="l mono dim2">2026-10-15</td>
+      <td class="l"><a href="/dados/uf_vab.parquet" class="acc mono">parquet</a> · <a href="/dados/uf_vab.csv" class="acc mono">csv</a></td>
+    </tr>
+    
+    <tr>
+      <td class="l"><a href="/dados/cempre_varejo" class="acc">CEMPRE — unidades locais, pessoal e salários do varejo por classe CNAE e UF</a><div class="dim2 mono" style="font-size:10.5px">cempre_varejo</div></td>
+      <td class="l dim">IBGE</td>
+      <td class="l mono dim">2022–2024</td>
+      <td class="mono">15.456</td>
+      <td class="l">bruto</td>
+      <td class="l mono dim2">2026-10-15</td>
+      <td class="l"><a href="/dados/cempre_varejo.parquet" class="acc mono">parquet</a> · <a href="/dados/cempre_varejo.csv" class="acc mono">csv</a></td>
+    </tr>
+    
+    <tr>
+      <td class="l"><a href="/dados/mercados_derivados" class="acc">Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)</a><div class="dim2 mono" style="font-size:10.5px">mercados_derivados</div></td>
+      <td class="l dim">Atlas Mercados</td>
+      <td class="l mono dim">2024–2024</td>
+      <td class="mono">1.080</td>
+      <td class="l"><span style="color:var(--info)">derivado</span></td>
+      <td class="l mono dim2">2026-10-15</td>
+      <td class="l"><a href="/dados/mercados_derivados.parquet" class="acc mono">parquet</a> · <a href="/dados/mercados_derivados.csv" class="acc mono">csv</a></td>
+    </tr>
+    
+    <tr>
+      <td class="l"><a href="/dados/macro_bcb" class="acc">Banco Central do Brasil — séries macroeconômicas do SGS</a><div class="dim2 mono" style="font-size:10.5px">macro_bcb</div></td>
+      <td class="l dim">Banco Central do Brasil</td>
+      <td class="l mono dim">2015-01-01–2026-10-16</td>
+      <td class="mono">8.185</td>
+      <td class="l">bruto</td>
+      <td class="l mono dim2">2026-10-16</td>
+      <td class="l"><a href="/dados/macro_bcb.parquet" class="acc mono">parquet</a> · <a href="/dados/macro_bcb.csv" class="acc mono">csv</a></td>
+    </tr>
+    
+    <tr>
+      <td class="l"><a href="/dados/catalogo_fontes" class="acc">Catálogo de proveniência dos dados de mercado</a><div class="dim2 mono" style="font-size:10.5px">catalogo_fontes</div></td>
+      <td class="l dim">IBGE</td>
+      <td class="l mono dim"></td>
+      <td class="mono">11</td>
+      <td class="l">bruto</td>
+      <td class="l mono dim2">—</td>
+      <td class="l"><a href="/dados/catalogo_fontes.parquet" class="acc mono">parquet</a> · <a href="/dados/catalogo_fontes.csv" class="acc mono">csv</a></td>
+    </tr>
+    
+    </tbody>
+  </table>
+</article>
+
+<div class="note">
+  <b>Bruto e derivado.</b> "Bruto" é o que a fonte oficial publica, como publica — códigos de categoria, texto
+  original de cada célula e unidade original preservados; a única conversão é "Mil Reais" × 1.000 → R$.
+  "Derivado" é estimativa do site, em arquivo próprio, com método e insumos em cada linha. Cada conjunto tem
+  uma página com a descrição das colunas, as tabelas de origem e o modo de carregar. Para séries individuais,
+  veja os <a href="/indicadores">indicadores</a>.
+</div>
+
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Dados para download. https://atlasmercados.com.br/dados. Dados: IBGE (SIDRA) e Banco Central do Brasil (SGS). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    
+    Permalink: <a href="https://atlasmercados.com.br/dados">https://atlasmercados.com.br/dados</a>
+    
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

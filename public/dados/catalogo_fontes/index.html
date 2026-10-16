@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Catálogo de proveniência dos dados de mercado — dados em Parquet e CSV — Atlas Mercados</title>
+<meta name="description" content="Catálogo de proveniência dos dados de mercado: 11 linhas, em Parquet e CSV (dado oficial como publicado).">
+<link rel="canonical" href="https://atlasmercados.com.br/dados/catalogo_fontes">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Catálogo de proveniência dos dados de mercado — dados em Parquet e CSV — Atlas Mercados">
+<meta property="og:description" content="Catálogo de proveniência dos dados de mercado: 11 linhas, em Parquet e CSV (dado oficial como publicado).">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/catalogo_fontes", "url": "https://atlasmercados.com.br/dados/catalogo_fontes", "identifier": "atlas-mercados:catalogo_fontes", "name": "Catálogo de proveniência dos dados de mercado", "description": "Uma linha por (conjunto de dados, tabela oficial): título, tabela e endereço no SIDRA, URL exata da consulta à API, níveis territoriais, variáveis, classificações, período, unidade original, conversão aplicada, número de linhas, arquivo e data de coleta. Separa o dado bruto (o que a fonte publica) do derivado (estimativas do site, com método declarado).", "keywords": ["catálogo", "proveniência", "metadados", "SIDRA"], "inLanguage": "pt-BR", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}, "publisher": {"@type": "Organization", "name": "Atlas Mercados", "url": "https://atlasmercados.com.br"}, "includedInDataCatalog": {"@type": "DataCatalog", "name": "Atlas Mercados — dados", "url": "https://atlasmercados.com.br/dados"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/catalogo_fontes.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/catalogo_fontes.csv"}], "variableMeasured": ["dataset", "tabela", "titulo", "fonte", "tipo", "metodo", "url_sidra", "url_api", "niveis", "variaveis", "classificacoes", "periodo_ini", "periodo_fim", "unidade_original", "conversao", "n_linhas", "parquet", "coletado_em"], "creditText": "IBGE; compilação Atlas Mercados"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Dados", "item": "https://atlasmercados.com.br/dados"}, {"@type": "ListItem", "position": 3, "name": "Catálogo de proveniência dos dados de mercado", "item": "https://atlasmercados.com.br/dados/catalogo_fontes"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="on" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Catálogo de proveniência dos dados de mercado</h1>
+<p class="sub"><b>IBGE</b> · dado oficial como publicado · <span class="mono">catalogo_fontes</span></p>
+<p class="resposta" data-resposta>Catálogo de proveniência dos dados de mercado: 11 linhas, em Parquet e CSV (dado oficial como publicado).</p>
+
+<section class="kpis" aria-label="Resumo do conjunto">
+  <div class="kpi"><div class="t">Linhas</div><div class="v mono acc" style="font-size:18px">11</div><div class="d">18 colunas</div></div>
+  <div class="kpi"><div class="t">Período</div><div class="v mono" style="font-size:16px">—</div><div class="d">cobertura temporal</div></div>
+  <div class="kpi"><div class="t">Coletado em</div><div class="v mono" style="font-size:16px">—</div><div class="d">última ingestão</div></div>
+  <div class="kpi"><div class="t">Parquet</div><div class="v mono" style="font-size:16px">0,0 MB</div><div class="d"><a href="/dados/catalogo_fontes.parquet" class="acc">baixar</a></div></div>
+  <div class="kpi"><div class="t">CSV</div><div class="v mono" style="font-size:16px">texto</div><div class="d"><a href="/dados/catalogo_fontes.csv" class="acc">baixar</a></div></div>
+  <div class="kpi"><div class="t">Licença</div><div class="v" style="font-size:12.5px;line-height:1.35"><a href="https://creativecommons.org/licenses/by/4.0/deed.pt-br" rel="license nofollow">CC BY 4.0</a></div><div class="d"><a href="/licenca">termos e fontes</a></div></div>
+</section>
+
+<article class="panel">
+  <h2>O que é</h2>
+  <p style="margin:0;max-width:90ch">Uma linha por (conjunto de dados, tabela oficial): título, tabela e endereço no SIDRA, URL exata da consulta à API, níveis territoriais, variáveis, classificações, período, unidade original, conversão aplicada, número de linhas, arquivo e data de coleta. Separa o dado bruto (o que a fonte publica) do derivado (estimativas do site, com método declarado).</p>
+</article>
+
+<div class="row1" style="margin-top:16px">
+  <article class="panel">
+    <h2>Colunas <span class="h">18 · tipo no Parquet</span></h2>
+    <table>
+      <thead><tr><th class="l">Coluna</th><th class="l">Tipo</th><th class="l">O que é</th></tr></thead>
+      <tbody>
+      <tr><td class="l mono acc">dataset</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Conjunto de dados.</td></tr><tr><td class="l mono acc">tabela</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Número da tabela no SIDRA do IBGE (ex.: 10653).</td></tr><tr><td class="l mono acc">titulo</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Título da tabela oficial.</td></tr><tr><td class="l mono acc">fonte</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">tipo</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">bruto ou derivado.</td></tr><tr><td class="l mono acc">metodo</td><td class="l mono dim2" style="font-size:10.5px">string</td><td class="l dim" style="font-size:11.5px">Método da estimativa (só derivados).</td></tr><tr><td class="l mono acc">url_sidra</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Página da tabela no SIDRA.</td></tr><tr><td class="l mono acc">url_api</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Consulta exata feita à API do SIDRA.</td></tr><tr><td class="l mono acc">niveis</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">variaveis</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">classificacoes</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">periodo_ini</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">periodo_fim</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">unidade_original</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Unidade publicada pela fonte (ex.: Mil Reais).</td></tr><tr><td class="l mono acc">conversao</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">n_linhas</td><td class="l mono dim2" style="font-size:10.5px">int64</td><td class="l dim" style="font-size:11.5px">Número de linhas no arquivo.</td></tr><tr><td class="l mono acc">parquet</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Arquivo de destino.</td></tr><tr><td class="l mono acc">coletado_em</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Data e hora da coleta (UTC).</td></tr>
+      </tbody>
+    </table>
+  </article>
+  <article class="panel">
+    <h2>Como carregar</h2>
+    <pre class="mono" style="font-size:11.5px;white-space:pre-wrap;margin:0">import pandas as pd
+df = pd.read_csv("https://atlasmercados.com.br/dados/catalogo_fontes.csv")
+
+# ou, direto no Parquet, com DuckDB:
+import duckdb
+duckdb.sql("SELECT * FROM 'https://atlasmercados.com.br/dados/catalogo_fontes.parquet' LIMIT 10")</pre>
+    
+  </article>
+</div>
+
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Catálogo de proveniência dos dados de mercado. https://atlasmercados.com.br/dados/catalogo_fontes. Dados: IBGE. Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    Identificador da série: <code>atlas-mercados:catalogo_fontes</code> · 
+    Permalink: <a href="https://atlasmercados.com.br/dados/catalogo_fontes">https://atlasmercados.com.br/dados/catalogo_fontes</a>
+    
+     · <a href="/dados/catalogo_fontes.csv">CSV</a>
+     · <a href="/dados/catalogo_fontes.parquet">Parquet</a>
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

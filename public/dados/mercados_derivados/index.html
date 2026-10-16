@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE) — dados em Parquet e CSV — Atlas Mercados</title>
+<meta name="description" content="Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE): 1.080 linhas, de 2024 a 2024, em Parquet e CSV (estimativa do site, com método declarado), coletado em 15/10/2026.">
+<link rel="canonical" href="https://atlasmercados.com.br/dados/mercados_derivados">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE) — dados em Parquet e CSV — Atlas Mercados">
+<meta property="og:description" content="Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE): 1.080 linhas, de 2024 a 2024, em Parquet e CSV (estimativa do site, com método declarado), coletado em 15/10/2026.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/mercados_derivados", "url": "https://atlasmercados.com.br/dados/mercados_derivados", "identifier": "atlas-mercados:mercados_derivados", "name": "Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)", "description": "Estimativa — não é dado publicado. Receita nacional de cada classe do varejo (PAC, t/10648) distribuída entre as UFs na proporção dos salários da classe no CEMPRE (t/9528), com a razão contra o agrupamento publicado por UF ao lado.", "keywords": ["estimativa", "varejo", "UF", "rateio", "CEMPRE", "PAC"], "inLanguage": "pt-BR", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "creator": {"@type": "Organization", "name": "Atlas Mercados", "url": "https://atlasmercados.com.br"}, "publisher": {"@type": "Organization", "name": "Atlas Mercados", "url": "https://atlasmercados.com.br"}, "includedInDataCatalog": {"@type": "DataCatalog", "name": "Atlas Mercados — dados", "url": "https://atlasmercados.com.br/dados"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/mercados_derivados.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/mercados_derivados.csv"}], "variableMeasured": ["tipo", "metodo", "chave", "ano_pac", "ano_cempre", "nivel_cod", "territorio_cod", "territorio_nome", "uf_sigla", "categoria_cod", "cnae_nivel", "cnae_cod", "nome_curto", "classes_cempre", "receita_brasil", "share_uf", "valor_estimado", "unidade", "agrupamento_pac_cod", "razao_vs_publicado", "insumos", "gerado_em"], "creditText": "Atlas Mercados; compilação Atlas Mercados", "temporalCoverage": "2024-01-01/2024-12-31", "dateModified": "2026-10-15", "version": "2026-10-15", "isBasedOn": [{"@type": "Dataset", "name": "Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)", "url": "https://sidra.ibge.gov.br/tabela/10648"}], "measurementTechnique": "Rateio da receita nacional de cada classe do varejo (PAC, tabela 10648) pela participação da UF nos salários da classe (CEMPRE, tabela 9528)."}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Dados", "item": "https://atlasmercados.com.br/dados"}, {"@type": "ListItem", "position": 3, "name": "Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)", "item": "https://atlasmercados.com.br/dados/mercados_derivados"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="on" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)</h1>
+<p class="sub"><b>Atlas Mercados</b> · <span style="color:var(--info)">estimativa (derivado)</span> · <span class="mono">mercados_derivados</span></p>
+<p class="resposta" data-resposta>Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE): 1.080 linhas, de 2024 a 2024, em Parquet e CSV (estimativa do site, com método declarado), coletado em 15/10/2026.</p>
+
+<section class="kpis" aria-label="Resumo do conjunto">
+  <div class="kpi"><div class="t">Linhas</div><div class="v mono acc" style="font-size:18px">1.080</div><div class="d">22 colunas</div></div>
+  <div class="kpi"><div class="t">Período</div><div class="v mono" style="font-size:16px">2024 – 2024</div><div class="d">cobertura temporal</div></div>
+  <div class="kpi"><div class="t">Coletado em</div><div class="v mono" style="font-size:16px">2026-10-15</div><div class="d">última ingestão</div></div>
+  <div class="kpi"><div class="t">Parquet</div><div class="v mono" style="font-size:16px">0,0 MB</div><div class="d"><a href="/dados/mercados_derivados.parquet" class="acc">baixar</a></div></div>
+  <div class="kpi"><div class="t">CSV</div><div class="v mono" style="font-size:16px">texto</div><div class="d"><a href="/dados/mercados_derivados.csv" class="acc">baixar</a></div></div>
+  <div class="kpi"><div class="t">Licença</div><div class="v" style="font-size:12.5px;line-height:1.35"><a href="https://creativecommons.org/licenses/by/4.0/deed.pt-br" rel="license nofollow">CC BY 4.0</a></div><div class="d"><a href="/licenca">termos e fontes</a></div></div>
+</section>
+
+<article class="panel">
+  <h2>O que é</h2>
+  <p style="margin:0;max-width:90ch">Estimativa — não é dado publicado. Receita nacional de cada classe do varejo (PAC, t/10648) distribuída entre as UFs na proporção dos salários da classe no CEMPRE (t/9528), com a razão contra o agrupamento publicado por UF ao lado.</p>
+</article>
+
+<div class="row1" style="margin-top:16px">
+  <article class="panel">
+    <h2>Colunas <span class="h">22 · tipo no Parquet</span></h2>
+    <table>
+      <thead><tr><th class="l">Coluna</th><th class="l">Tipo</th><th class="l">O que é</th></tr></thead>
+      <tbody>
+      <tr><td class="l mono acc">tipo</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">bruto ou derivado.</td></tr><tr><td class="l mono acc">metodo</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Método da estimativa (só derivados).</td></tr><tr><td class="l mono acc">chave</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nome curto da variável.</td></tr><tr><td class="l mono acc">ano_pac</td><td class="l mono dim2" style="font-size:10.5px">int64</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">ano_cempre</td><td class="l mono dim2" style="font-size:10.5px">int64</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">nivel_cod</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nível territorial: 1 Brasil, 2 Grande Região, 3 UF.</td></tr><tr><td class="l mono acc">territorio_cod</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Código IBGE do território (1 = Brasil; 35 = São Paulo…).</td></tr><tr><td class="l mono acc">territorio_nome</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nome do território.</td></tr><tr><td class="l mono acc">uf_sigla</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Sigla da UF (vazio para Brasil e regiões).</td></tr><tr><td class="l mono acc">categoria_cod</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Código da categoria no SIDRA — a chave para conferir a célula na fonte.</td></tr><tr><td class="l mono acc">cnae_nivel</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nível da categoria: total, divisao, grupo, classe, classe_agregada, agrupamento_pac…</td></tr><tr><td class="l mono acc">cnae_cod</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Chave harmonizada do projeto entre as séries antiga e nova (ex.: 47.7, 4.4, 4754+4757+4759).</td></tr><tr><td class="l mono acc">nome_curto</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nome curto da categoria.</td></tr><tr><td class="l mono acc">classes_cempre</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">receita_brasil</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">share_uf</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Participação estimada da UF no total do Brasil.</td></tr><tr><td class="l mono acc">valor_estimado</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Valor estimado (R$).</td></tr><tr><td class="l mono acc">unidade</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Unidade do valor depois da conversão (R$, Unidades, Pessoas, Número-índice, %).</td></tr><tr><td class="l mono acc">agrupamento_pac_cod</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr><tr><td class="l mono acc">razao_vs_publicado</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Soma das estimativas do agrupamento ÷ valor publicado pela PAC na UF (1,0 = exato).</td></tr><tr><td class="l mono acc">insumos</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">JSON com as tabelas, variáveis e anos usados na estimativa.</td></tr><tr><td class="l mono acc">gerado_em</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">—</td></tr>
+      </tbody>
+    </table>
+  </article>
+  <article class="panel">
+    <h2>Como carregar</h2>
+    <pre class="mono" style="font-size:11.5px;white-space:pre-wrap;margin:0">import pandas as pd
+df = pd.read_csv("https://atlasmercados.com.br/dados/mercados_derivados.csv")
+
+# ou, direto no Parquet, com DuckDB:
+import duckdb
+duckdb.sql("SELECT * FROM 'https://atlasmercados.com.br/dados/mercados_derivados.parquet' LIMIT 10")</pre>
+    
+    <h2 style="margin-top:16px">Tabelas de origem <span class="h">1</span></h2>
+    <table>
+      <thead><tr><th class="l">Fonte</th><th class="l">Período</th><th>Linhas</th></tr></thead>
+      <tbody>
+      
+      <tr>
+        <td class="l" style="font-size:11.5px"><a href="https://sidra.ibge.gov.br/tabela/10648" rel="nofollow" class="acc mono">t/10648+9528</a> Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)</td>
+        <td class="l mono dim">2024–2024</td>
+        <td class="mono dim">1.080</td>
+      </tr>
+      
+      </tbody>
+    </table>
+    
+  </article>
+</div>
+
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE). https://atlasmercados.com.br/dados/mercados_derivados. Dados: Atlas Mercados. Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    Identificador da série: <code>atlas-mercados:mercados_derivados</code> · 
+    Permalink: <a href="https://atlasmercados.com.br/dados/mercados_derivados">https://atlasmercados.com.br/dados/mercados_derivados</a>
+    
+     · <a href="/dados/mercados_derivados.csv">CSV</a>
+     · <a href="/dados/mercados_derivados.parquet">Parquet</a>
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

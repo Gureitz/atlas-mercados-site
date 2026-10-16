@@ -154,3 +154,11 @@ caption{caption-side:top;text-align:left;color:var(--dim2);font-size:11px;paddin
 footer.ft{margin-top:26px;padding-top:16px;border-top:1px solid var(--bd2);color:var(--dim2);font-size:11px}
 footer.ft a{color:var(--dim)}
 @media(max-width:1100px){.kpis{grid-template-columns:repeat(3,1fr)}.row2,.row1{grid-template-columns:1fr}.heat{grid-template-columns:repeat(2,1fr)}}
+/* frase-resposta (a passagem que uma IA cita) e bloco "Como citar" */
+.resposta{font-size:14px;line-height:1.55;color:var(--tx);max-width:95ch;margin:2px 0 18px;
+  padding-left:12px;border-left:2px solid var(--acc)}
+.citar{background:var(--panel2);border:1px solid var(--bd2);border-radius:8px;padding:12px 14px;
+  margin:16px 0;font-size:11.5px;color:var(--dim)}
+.citar .t{font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--dim2);margin-bottom:6px}
+.citar p{margin:0 0 6px;color:var(--tx);font-size:11.5px;line-height:1.5}
+.citar code{color:var(--acc)}

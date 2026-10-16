@@ -67,3 +67,10 @@
     tick(); setInterval(tick, 1000);
   }
 })();
+
+// "Como citar": a data de acesso é a de quem lê, não a da publicação do site.
+(function () {
+  var hoje = new Date();
+  var txt = ("0" + hoje.getDate()).slice(-2) + "/" + ("0" + (hoje.getMonth() + 1)).slice(-2) + "/" + hoje.getFullYear();
+  document.querySelectorAll("[data-hoje]").forEach(function (el) { el.textContent = txt; });
+})();

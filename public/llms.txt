@@ -8,8 +8,38 @@
 - [Mercados do varejo](https://atlasmercados.com.br/mercados): tamanho por segmento (classes CNAE) e por UF, PMC mensal, VAB
 - [Triagem de companhias](https://atlasmercados.com.br/screener): receita, lucro, margem, P/L, P/VPA das listadas
 - [Mapa macroeconômico](https://atlasmercados.com.br/mapa): PIB por UF (IBGE) e indicadores mundiais (World Bank)
-- [Perfil por companhia](https://atlasmercados.com.br/empresa/PETR4): /empresa/{ticker} — DFP/ITR da CVM desde 2010
-- [Licença e como citar](https://atlasmercados.com.br/licenca)
+- [Perfil por companhia](https://atlasmercados.com.br/empresa/PETR3): /empresa/{ticker} — DFP/ITR da CVM desde 2010
+- [Indicadores](https://atlasmercados.com.br/indicadores): Selic, IPCA, dólar, desemprego, PIB… com série histórica
+- [Dados para download](https://atlasmercados.com.br/dados): Parquet e CSV, uma página por conjunto
+- [Sobre](https://atlasmercados.com.br/sobre) · [Metodologia](https://atlasmercados.com.br/metodologia) · [Licença e como citar](https://atlasmercados.com.br/licenca)
+
+## Indicadores (último valor na data da publicação)
+
+- [Taxa Selic efetiva](https://atlasmercados.com.br/indicador/selic): 13,65% ao ano (15/10/2026) — Banco Central do Brasil, `bcb-sgs:1178` · [JSON](https://atlasmercados.com.br/indicador/selic.json)
+- [CDI acumulado no mês](https://atlasmercados.com.br/indicador/cdi): 0,51% (outubro de 2026) — Banco Central do Brasil, `bcb-sgs:4391` · [JSON](https://atlasmercados.com.br/indicador/cdi.json)
+- [IPCA acumulado em 12 meses](https://atlasmercados.com.br/indicador/ipca-12-meses): 4,58% (setembro de 2026) — IBGE, `bcb-sgs:13522` · [JSON](https://atlasmercados.com.br/indicador/ipca-12-meses.json)
+- [IPCA no mês](https://atlasmercados.com.br/indicador/ipca-mensal): 0,82% (setembro de 2026) — IBGE, `bcb-sgs:433` · [JSON](https://atlasmercados.com.br/indicador/ipca-mensal.json)
+- [IPCA-15 no mês](https://atlasmercados.com.br/indicador/ipca-15): 0,70% (setembro de 2026) — IBGE, `bcb-sgs:7478` · [JSON](https://atlasmercados.com.br/indicador/ipca-15.json)
+- [INPC no mês](https://atlasmercados.com.br/indicador/inpc): 0,82% (setembro de 2026) — IBGE, `bcb-sgs:188` · [JSON](https://atlasmercados.com.br/indicador/inpc.json)
+- [IGP-M no mês](https://atlasmercados.com.br/indicador/igp-m): 1,57% (setembro de 2026) — FGV IBRE, `bcb-sgs:189` · [JSON](https://atlasmercados.com.br/indicador/igp-m.json)
+- [Dólar comercial (venda)](https://atlasmercados.com.br/indicador/dolar): R$ 5,0826 (16/10/2026) — Banco Central do Brasil, `bcb-sgs:1` · [JSON](https://atlasmercados.com.br/indicador/dolar.json)
+- [Euro (venda)](https://atlasmercados.com.br/indicador/euro): R$ 5,7088 (16/10/2026) — Banco Central do Brasil, `bcb-sgs:21619` · [JSON](https://atlasmercados.com.br/indicador/euro.json)
+- [IBC-Br (atividade econômica)](https://atlasmercados.com.br/indicador/ibc-br): 110,41 (agosto de 2026) — Banco Central do Brasil, `bcb-sgs:24364` · [JSON](https://atlasmercados.com.br/indicador/ibc-br.json)
+- [Taxa de desocupação (PNAD Contínua)](https://atlasmercados.com.br/indicador/desemprego): 5,30% (agosto de 2026) — IBGE, `bcb-sgs:24369` · [JSON](https://atlasmercados.com.br/indicador/desemprego.json)
+- [Dívida bruta do governo geral](https://atlasmercados.com.br/indicador/divida-bruta): 82,9% do PIB (agosto de 2026) — Banco Central do Brasil, `bcb-sgs:13762` · [JSON](https://atlasmercados.com.br/indicador/divida-bruta.json)
+- [Reservas internacionais](https://atlasmercados.com.br/indicador/reservas-internacionais): US$ 362,8 bilhões (setembro de 2026) — Banco Central do Brasil, `bcb-sgs:3546` · [JSON](https://atlasmercados.com.br/indicador/reservas-internacionais.json)
+- [PIB do Brasil (preços correntes)](https://atlasmercados.com.br/indicador/pib): R$ 10,94 trilhões (2023) — IBGE, `ibge-sidra:5938/v37/n1` · [JSON](https://atlasmercados.com.br/indicador/pib.json)
+- [Vendas no varejo (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-varejo): 1,60% (agosto de 2026) — IBGE, `ibge-sidra:8880/v11711/n1/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-varejo.json)
+
+## Conjuntos de dados (páginas com colunas, fontes e licença)
+
+- [Pesquisa Anual de Comércio — receita, VAB, pessoal e unidades locais por segmento e UF](https://atlasmercados.com.br/dados/mercados_pac) — 70.469 linhas, 2007–2024, bruto
+- [Pesquisa Mensal de Comércio — índices de volume e receita por atividade e UF](https://atlasmercados.com.br/dados/mercados_pmc) — 276.448 linhas, 2000-01–2026-08, bruto
+- [Contas Regionais — PIB e VAB por atividade, Brasil e UFs](https://atlasmercados.com.br/dados/uf_vab) — 4.312 linhas, 2002–2023, bruto
+- [CEMPRE — unidades locais, pessoal e salários do varejo por classe CNAE e UF](https://atlasmercados.com.br/dados/cempre_varejo) — 15.456 linhas, 2022–2024, bruto
+- [Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)](https://atlasmercados.com.br/dados/mercados_derivados) — 1.080 linhas, 2024–2024, derivado
+- [Banco Central do Brasil — séries macroeconômicas do SGS](https://atlasmercados.com.br/dados/macro_bcb) — 8.185 linhas, 2015-01-01–2026-10-16, bruto
+- [Catálogo de proveniência dos dados de mercado](https://atlasmercados.com.br/dados/catalogo_fontes) — 11 linhas, –, bruto
 
 ## Segmentos do varejo (exemplos)
 
