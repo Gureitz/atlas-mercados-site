@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Comércio exterior do Brasil — exportações e importações por UF, produto e país — Atlas Mercados</title>
+<meta name="description" content="Em 2025, o Brasil exportou US$ 348,3 bilhões e importou US$ 280,2 bilhões, com superávit comercial de US$ 68,1 bilhões, segundo o Comex Stat do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC); os maiores produtos exportados foram óleos brutos de petróleo ou de minerais betuminosos (US$ 44,5 bilhões), soja, mesmo triturada (US$ 43,5 bilhões) e minérios de ferro e seus concentrados (US$ 29,0 bilhões), e os principais destinos, China (28,7%), Estados Unidos (10,8%) e Argentina (5,2%). De janeiro a setembro de 2026, as exportações somaram US$ 284,7 bilhões (+10,4% sobre o mesmo período de 2025) e as importações, US$ 222,3 bilhões.">
+<link rel="canonical" href="https://atlasmercados.com.br/comercio-exterior">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Comércio exterior do Brasil — exportações e importações por UF, produto e país — Atlas Mercados">
+<meta property="og:description" content="Em 2025, o Brasil exportou US$ 348,3 bilhões e importou US$ 280,2 bilhões, com superávit comercial de US$ 68,1 bilhões, segundo o Comex Stat do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC); os maiores produtos exportados foram óleos brutos de petróleo ou de minerais betuminosos (US$ 44,5 bilhões), soja, mesmo triturada (US$ 43,5 bilhões) e minérios de ferro e seus concentrados (US$ 29,0 bilhões), e os principais destinos, China (28,7%), Estados Unidos (10,8%) e Argentina (5,2%). De janeiro a setembro de 2026, as exportações somaram US$ 284,7 bilhões (+10,4% sobre o mesmo período de 2025) e as importações, US$ 222,3 bilhões.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}.arv .p4{padding-left:90px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv tr.n3 td,.arv tr.n4 td{font-size:11px;color:var(--dim)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .tag{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:0 0 16px}
+  .card{display:block;padding:14px 16px;border:1px solid var(--bd);border-radius:10px;background:var(--panel)}
+  .card:hover{border-color:var(--acc)}
+  .card .t{font-size:11px;color:var(--dim2);text-transform:uppercase;letter-spacing:.06em}
+  .card .v{font-size:19px;margin:6px 0 2px}
+  .card .d{font-size:11px;color:var(--dim)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .bars{height:140px}
+  .bars .b{background:var(--acc)}
+  .bars .b .t{position:absolute;top:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--dim2);white-space:nowrap}
+  .sel{height:32px;background:var(--panel);border:1px solid var(--bd);border-radius:8px;color:var(--tx);padding:0 10px;font-family:inherit;font-size:12px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Comércio exterior", "item": "https://atlasmercados.com.br/comercio-exterior"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/comercio-exterior" class="on" title="Comércio ext.">
+      <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+
+<h1 class="page">Comércio exterior do Brasil</h1>
+<p class="sub">Comex Stat (MDIC/SECEX) · 2025 e jan–set 2026 · US$ FOB · <a href="/comercio-exterior.json">JSON</a></p>
+<p class="resposta" data-resposta>Em 2025, o Brasil exportou US$ 348,3 bilhões e importou US$ 280,2 bilhões, com superávit comercial de US$ 68,1 bilhões, segundo o Comex Stat do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC); os maiores produtos exportados foram óleos brutos de petróleo ou de minerais betuminosos (US$ 44,5 bilhões), soja, mesmo triturada (US$ 43,5 bilhões) e minérios de ferro e seus concentrados (US$ 29,0 bilhões), e os principais destinos, China (28,7%), Estados Unidos (10,8%) e Argentina (5,2%). De janeiro a setembro de 2026, as exportações somaram US$ 284,7 bilhões (+10,4% sobre o mesmo período de 2025) e as importações, US$ 222,3 bilhões.</p>
+
+<section class="kpis">
+  <div class="kpi"><div class="t">Exportações 2025</div><div class="v mono acc" style="font-size:18px">US$ 348,3 bi</div><div class="d">US$ FOB</div></div>
+  <div class="kpi"><div class="t">Importações 2025</div><div class="v mono" style="font-size:18px">US$ 280,2 bi</div><div class="d">US$ FOB</div></div>
+  <div class="kpi"><div class="t">Saldo 2025</div><div class="v mono" style="font-size:18px">US$ 68,1 bi</div><div class="d">exportações − importações (calc.)</div></div>
+  <div class="kpi"><div class="t">Exportações jan–set 2026</div><div class="v mono" style="font-size:18px">US$ 284,7 bi</div><div class="d">importações US$ 222,3 bi</div></div>
+</section>
+<div class="cards" style="grid-template-columns:repeat(auto-fill,minmax(180px,1fr))">
+  <a class="card" href="/indicador/exportacoes"><div class="t">Exportações no mês</div><div class="d">série mensal desde 1997</div></a>
+  <a class="card" href="/indicador/importacoes"><div class="t">Importações no mês</div><div class="d">série mensal desde 1997</div></a>
+  <a class="card" href="/indicador/balanca-comercial"><div class="t">Saldo da balança comercial</div><div class="d">mensal e 12 meses</div></a>
+</div>
+<article class="panel">
+  <h2>Por UF <span class="h">exportações pela UF de produção · 2025</span></h2>
+  <div class="maprow">
+    <div id="brmap" data-endpoint="/api/comercio-exterior/uf.json" data-rotulo="Exportações 2025" data-unidade="US$"></div>
+    <div class="scrim" style="overflow:auto;max-height:560px">
+      
+      
+      <div class="rk"><span class="pos mono">1</span><span class="nm"><a href="/comercio-exterior/uf/SP">São Paulo</a></span>
+        <span class="bar" style="width:80.0px"></span><span class="val mono">US$ 71,4 bi <span class="dim2">20,5%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">2</span><span class="nm"><a href="/comercio-exterior/uf/RJ">Rio de Janeiro</a></span>
+        <span class="bar" style="width:54.9px"></span><span class="val mono">US$ 49,0 bi <span class="dim2">14,1%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">3</span><span class="nm"><a href="/comercio-exterior/uf/MG">Minas Gerais</a></span>
+        <span class="bar" style="width:51.4px"></span><span class="val mono">US$ 45,8 bi <span class="dim2">13,2%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">4</span><span class="nm"><a href="/comercio-exterior/uf/MT">Mato Grosso</a></span>
+        <span class="bar" style="width:33.8px"></span><span class="val mono">US$ 30,2 bi <span class="dim2">8,7%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">5</span><span class="nm"><a href="/comercio-exterior/uf/PA">Pará</a></span>
+        <span class="bar" style="width:27.3px"></span><span class="val mono">US$ 24,3 bi <span class="dim2">7,0%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">6</span><span class="nm"><a href="/comercio-exterior/uf/PR">Paraná</a></span>
+        <span class="bar" style="width:26.5px"></span><span class="val mono">US$ 23,7 bi <span class="dim2">6,8%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">7</span><span class="nm"><a href="/comercio-exterior/uf/RS">Rio Grande do Sul</a></span>
+        <span class="bar" style="width:24.1px"></span><span class="val mono">US$ 21,5 bi <span class="dim2">6,2%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">8</span><span class="nm"><a href="/comercio-exterior/uf/GO">Goiás</a></span>
+        <span class="bar" style="width:15.1px"></span><span class="val mono">US$ 13,5 bi <span class="dim2">3,9%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">9</span><span class="nm"><a href="/comercio-exterior/uf/SC">Santa Catarina</a></span>
+        <span class="bar" style="width:13.7px"></span><span class="val mono">US$ 12,2 bi <span class="dim2">3,5%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">10</span><span class="nm"><a href="/comercio-exterior/uf/BA">Bahia</a></span>
+        <span class="bar" style="width:13.0px"></span><span class="val mono">US$ 11,6 bi <span class="dim2">3,3%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">11</span><span class="nm"><a href="/comercio-exterior/uf/MS">Mato Grosso do Sul</a></span>
+        <span class="bar" style="width:12.1px"></span><span class="val mono">US$ 10,8 bi <span class="dim2">3,1%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">12</span><span class="nm"><a href="/comercio-exterior/uf/ES">Espírito Santo</a></span>
+        <span class="bar" style="width:11.8px"></span><span class="val mono">US$ 10,5 bi <span class="dim2">3,0%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">13</span><span class="nm"><a href="/comercio-exterior/uf/MA">Maranhão</a></span>
+        <span class="bar" style="width:5.6px"></span><span class="val mono">US$ 5,0 bi <span class="dim2">1,4%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">14</span><span class="nm"><a href="/comercio-exterior/uf/RO">Rondônia</a></span>
+        <span class="bar" style="width:3.5px"></span><span class="val mono">US$ 3,1 bi <span class="dim2">0,9%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">15</span><span class="nm"><a href="/comercio-exterior/uf/TO">Tocantins</a></span>
+        <span class="bar" style="width:3.4px"></span><span class="val mono">US$ 3,0 bi <span class="dim2">0,9%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">16</span><span class="nm"><a href="/comercio-exterior/uf/PE">Pernambuco</a></span>
+        <span class="bar" style="width:2.8px"></span><span class="val mono">US$ 2,5 bi <span class="dim2">0,7%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">17</span><span class="nm"><a href="/comercio-exterior/uf/CE">Ceará</a></span>
+        <span class="bar" style="width:2.6px"></span><span class="val mono">US$ 2,3 bi <span class="dim2">0,7%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">18</span><span class="nm"><a href="/comercio-exterior/uf/PI">Piauí</a></span>
+        <span class="bar" style="width:1.3px"></span><span class="val mono">US$ 1,2 bi <span class="dim2">0,3%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">19</span><span class="nm"><a href="/comercio-exterior/uf/RN">Rio Grande do Norte</a></span>
+        <span class="bar" style="width:1.3px"></span><span class="val mono">US$ 1,1 bi <span class="dim2">0,3%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">20</span><span class="nm"><a href="/comercio-exterior/uf/AM">Amazonas</a></span>
+        <span class="bar" style="width:1.1px"></span><span class="val mono">US$ 939,5 mi <span class="dim2">0,3%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">21</span><span class="nm"><a href="/comercio-exterior/uf/AL">Alagoas</a></span>
+        <span class="bar" style="width:0.9px"></span><span class="val mono">US$ 823,4 mi <span class="dim2">0,2%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">22</span><span class="nm"><a href="/comercio-exterior/uf/SE">Sergipe</a></span>
+        <span class="bar" style="width:0.5px"></span><span class="val mono">US$ 446,1 mi <span class="dim2">0,1%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">23</span><span class="nm"><a href="/comercio-exterior/uf/DF">Distrito Federal</a></span>
+        <span class="bar" style="width:0.4px"></span><span class="val mono">US$ 316,8 mi <span class="dim2">0,1%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">24</span><span class="nm"><a href="/comercio-exterior/uf/RR">Roraima</a></span>
+        <span class="bar" style="width:0.3px"></span><span class="val mono">US$ 240,6 mi <span class="dim2">0,1%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">25</span><span class="nm"><a href="/comercio-exterior/uf/PB">Paraíba</a></span>
+        <span class="bar" style="width:0.2px"></span><span class="val mono">US$ 178,5 mi <span class="dim2">0,1%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">26</span><span class="nm"><a href="/comercio-exterior/uf/AP">Amapá</a></span>
+        <span class="bar" style="width:0.2px"></span><span class="val mono">US$ 144,2 mi <span class="dim2">0,0%</span></span></div>
+      
+      <div class="rk"><span class="pos mono">27</span><span class="nm"><a href="/comercio-exterior/uf/AC">Acre</a></span>
+        <span class="bar" style="width:0.1px"></span><span class="val mono">US$ 98,8 mi <span class="dim2">0,0%</span></span></div>
+      
+      <div class="rk dim2"><span class="pos"></span><span class="nm">Sem UF declarada / outras</span><span class="val mono">US$ 2,3 bi</span></div>
+    </div>
+  </div>
+</article>
+<article class="panel" style="margin-top:16px"><h2>O que o Brasil exporta <span class="h">posições SH4 · 2025</span></h2><table class="arv">
+  <thead><tr><th class="l">#</th><th class="l">Produto</th><th class="l" style="width:130px">Share (calc.)</th><th>US$ FOB</th></tr></thead>
+  <tbody>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/2709'">
+    <td class="l mono dim2">1</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">2709</span> <a href="/comercio-exterior/produto/2709">Óleos brutos de petróleo ou de minerais betuminosos</a></td>
+    <td class="l"><span class="sh" style="width:15.3px"></span><span class="mono dim" style="font-size:11px">12,8%</span></td>
+    <td class="mono">US$ 44,5 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/1201'">
+    <td class="l mono dim2">2</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">1201</span> <a href="/comercio-exterior/produto/1201">Soja, mesmo triturada</a></td>
+    <td class="l"><span class="sh" style="width:15.0px"></span><span class="mono dim" style="font-size:11px">12,5%</span></td>
+    <td class="mono">US$ 43,5 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/2601'">
+    <td class="l mono dim2">3</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">2601</span> <a href="/comercio-exterior/produto/2601">Minérios de ferro e seus concentrados, incluídas as pirites de ferro ustuladas (cinzas de pirites)</a></td>
+    <td class="l"><span class="sh" style="width:10.0px"></span><span class="mono dim" style="font-size:11px">8,3%</span></td>
+    <td class="mono">US$ 29,0 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/0901'">
+    <td class="l mono dim2">4</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">0901</span> <a href="/comercio-exterior/produto/0901">Café, mesmo torrado ou descafeinado; cascas e películas de café; sucedâneos do café contendo café em qualquer proporção</a></td>
+    <td class="l"><span class="sh" style="width:5.1px"></span><span class="mono dim" style="font-size:11px">4,3%</span></td>
+    <td class="mono">US$ 14,9 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/0202'">
+    <td class="l mono dim2">5</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">0202</span> <a href="/comercio-exterior/produto/0202">Carnes de animais da espécie bovina, congeladas</a></td>
+    <td class="l"><span class="sh" style="width:5.0px"></span><span class="mono dim" style="font-size:11px">4,1%</span></td>
+    <td class="mono">US$ 14,4 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/1701'">
+    <td class="l mono dim2">6</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">1701</span> <a href="/comercio-exterior/produto/1701">Açúcares de cana ou de beterraba e sacarose quimicamente pura, no estado sólido</a></td>
+    <td class="l"><span class="sh" style="width:4.9px"></span><span class="mono dim" style="font-size:11px">4,1%</span></td>
+    <td class="mono">US$ 14,1 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/2710'">
+    <td class="l mono dim2">7</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">2710</span> <a href="/comercio-exterior/produto/2710">Óleos de petróleo ou de minerais betuminosos, exceto óleos brutos; preparações não especificadas nem compreendidas noutras posições, contendo, em peso, 70 % ou mais de óleos de petróleo ou de minerais betuminosos, os quais devem constituir o seu elemento</a></td>
+    <td class="l"><span class="sh" style="width:3.6px"></span><span class="mono dim" style="font-size:11px">3,0%</span></td>
+    <td class="mono">US$ 10,3 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/4703'">
+    <td class="l mono dim2">8</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">4703</span> <a href="/comercio-exterior/produto/4703">Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução</a></td>
+    <td class="l"><span class="sh" style="width:3.2px"></span><span class="mono dim" style="font-size:11px">2,6%</span></td>
+    <td class="mono">US$ 9,2 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/0207'">
+    <td class="l mono dim2">9</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">0207</span> <a href="/comercio-exterior/produto/0207">Carnes e miudezas comestíveis, frescas, refrigeradas ou congeladas, das aves da posição 0105</a></td>
+    <td class="l"><span class="sh" style="width:3.0px"></span><span class="mono dim" style="font-size:11px">2,5%</span></td>
+    <td class="mono">US$ 8,8 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/1005'">
+    <td class="l mono dim2">10</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">1005</span> <a href="/comercio-exterior/produto/1005">Milho</a></td>
+    <td class="l"><span class="sh" style="width:3.0px"></span><span class="mono dim" style="font-size:11px">2,5%</span></td>
+    <td class="mono">US$ 8,6 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/2304'">
+    <td class="l mono dim2">11</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">2304</span> <a href="/comercio-exterior/produto/2304">Tortas e outros resíduos sólidos da extração do óleo de soja</a></td>
+    <td class="l"><span class="sh" style="width:2.7px"></span><span class="mono dim" style="font-size:11px">2,3%</span></td>
+    <td class="mono">US$ 7,9 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/7108'">
+    <td class="l mono dim2">12</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">7108</span> <a href="/comercio-exterior/produto/7108">Ouro (incluído o ouro platinado), em formas brutas ou semimanufacturadas, ou em pó</a></td>
+    <td class="l"><span class="sh" style="width:2.3px"></span><span class="mono dim" style="font-size:11px">1,9%</span></td>
+    <td class="mono">US$ 6,6 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/8703'">
+    <td class="l mono dim2">13</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">8703</span> <a href="/comercio-exterior/produto/8703">Automóveis de passageiros e outros veículos automóveis principalmente concebidos para o transporte de pessoas (exceto os da posição 8702), incluídos os veículos de uso misto (station wagons) e os automóveis de corrida</a></td>
+    <td class="l"><span class="sh" style="width:2.0px"></span><span class="mono dim" style="font-size:11px">1,7%</span></td>
+    <td class="mono">US$ 5,9 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/2603'">
+    <td class="l mono dim2">14</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">2603</span> <a href="/comercio-exterior/produto/2603">Minérios de cobre e seus concentrados</a></td>
+    <td class="l"><span class="sh" style="width:1.7px"></span><span class="mono dim" style="font-size:11px">1,4%</span></td>
+    <td class="mono">US$ 5,0 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/5201'">
+    <td class="l mono dim2">15</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">5201</span> <a href="/comercio-exterior/produto/5201">Algodão, não cardado nem penteado</a></td>
+    <td class="l"><span class="sh" style="width:1.7px"></span><span class="mono dim" style="font-size:11px">1,4%</span></td>
+    <td class="mono">US$ 4,9 bi</td>
+  </tr>
+  
+  </tbody>
+</table></article>
+<article class="panel" style="margin-top:16px"><h2>O que o Brasil importa <span class="h">posições SH4 · 2025</span></h2><table class="arv">
+  <thead><tr><th class="l">#</th><th class="l">Produto</th><th class="l" style="width:130px">Share (calc.)</th><th>US$ FOB</th></tr></thead>
+  <tbody>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/2710'">
+    <td class="l mono dim2">1</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">2710</span> <a href="/comercio-exterior/produto/2710">Óleos de petróleo ou de minerais betuminosos, exceto óleos brutos; preparações não especificadas nem compreendidas noutras posições, contendo, em peso, 70 % ou mais de óleos de petróleo ou de minerais betuminosos, os quais devem constituir o seu elemento</a></td>
+    <td class="l"><span class="sh" style="width:6.7px"></span><span class="mono dim" style="font-size:11px">5,6%</span></td>
+    <td class="mono">US$ 15,6 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/8411'">
+    <td class="l mono dim2">2</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">8411</span> <a href="/comercio-exterior/produto/8411">Turborreactores, turbopropulsores e outras turbinas a gás</a></td>
+    <td class="l"><span class="sh" style="width:4.7px"></span><span class="mono dim" style="font-size:11px">3,9%</span></td>
+    <td class="mono">US$ 11,0 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/8708'">
+    <td class="l mono dim2">3</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">8708</span> <a href="/comercio-exterior/produto/8708">Partes e acessórios dos veículos automóveis das posições 8701 a 8705</a></td>
+    <td class="l"><span class="sh" style="width:3.7px"></span><span class="mono dim" style="font-size:11px">3,1%</span></td>
+    <td class="mono">US$ 8,6 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/8703'">
+    <td class="l mono dim2">4</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">8703</span> <a href="/comercio-exterior/produto/8703">Automóveis de passageiros e outros veículos automóveis principalmente concebidos para o transporte de pessoas (exceto os da posição 8702), incluídos os veículos de uso misto (station wagons) e os automóveis de corrida</a></td>
+    <td class="l"><span class="sh" style="width:3.2px"></span><span class="mono dim" style="font-size:11px">2,6%</span></td>
+    <td class="mono">US$ 7,4 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/3004'">
+    <td class="l mono dim2">5</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">3004</span> <a href="/comercio-exterior/produto/3004">Medicamentos (exceto os produtos das posições 3002, 3005 ou 3006) constituídos por produtos misturados ou não misturados, preparados para fins terapêuticos ou profilácticos, apresentados em doses (incluindo os destinados a serem administrados por via sub</a></td>
+    <td class="l"><span class="sh" style="width:3.1px"></span><span class="mono dim" style="font-size:11px">2,6%</span></td>
+    <td class="mono">US$ 7,3 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/2709'">
+    <td class="l mono dim2">6</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">2709</span> <a href="/comercio-exterior/produto/2709">Óleos brutos de petróleo ou de minerais betuminosos</a></td>
+    <td class="l"><span class="sh" style="width:2.8px"></span><span class="mono dim" style="font-size:11px">2,4%</span></td>
+    <td class="mono">US$ 6,6 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/3002'">
+    <td class="l mono dim2">7</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">3002</span> <a href="/comercio-exterior/produto/3002">Sangue humano; sangue animal preparado para usos terapêuticos, profilácticos ou de diagnóstico; anti-soros, outras fracções do sangue, produtos imunológicos modificados, mesmo obtidos por via biotecnológica; vacinas, toxinas, culturas de microrganismos (e</a></td>
+    <td class="l"><span class="sh" style="width:2.8px"></span><span class="mono dim" style="font-size:11px">2,3%</span></td>
+    <td class="mono">US$ 6,5 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/3808'">
+    <td class="l mono dim2">8</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">3808</span> <a href="/comercio-exterior/produto/3808">Insecticidas, rodenticidas, fungicidas, herbicidas, inibidores de germinação e reguladores de crescimento para plantas, desinfectantes e produtos semelhantes, apresentados em formas ou embalagens para venda a retalho ou como preparações ou ainda sob a for</a></td>
+    <td class="l"><span class="sh" style="width:2.4px"></span><span class="mono dim" style="font-size:11px">2,0%</span></td>
+    <td class="mono">US$ 5,6 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/8542'">
+    <td class="l mono dim2">9</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">8542</span> <a href="/comercio-exterior/produto/8542">Circuitos integrados e microconjuntos electrónicos</a></td>
+    <td class="l"><span class="sh" style="width:2.4px"></span><span class="mono dim" style="font-size:11px">2,0%</span></td>
+    <td class="mono">US$ 5,6 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/8905'">
+    <td class="l mono dim2">10</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">8905</span> <a href="/comercio-exterior/produto/8905">Barcos-faróis, barcos-bombas, dragas, guindastes flutuantes e outras embarcações em que a navegação é acessória da função principal; docas flutuantes; plataformas de perfuração ou de exploração, flutuantes ou submersíveis</a></td>
+    <td class="l"><span class="sh" style="width:2.2px"></span><span class="mono dim" style="font-size:11px">1,8%</span></td>
+    <td class="mono">US$ 5,2 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/3102'">
+    <td class="l mono dim2">11</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">3102</span> <a href="/comercio-exterior/produto/3102">Adubos (fertilizantes) minerais ou químicos, azotados</a></td>
+    <td class="l"><span class="sh" style="width:2.1px"></span><span class="mono dim" style="font-size:11px">1,7%</span></td>
+    <td class="mono">US$ 4,9 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/3105'">
+    <td class="l mono dim2">12</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">3105</span> <a href="/comercio-exterior/produto/3105">Adubos (fertilizantes) minerais ou químicos, contendo dois ou três dos seguintes elementos fertilizantes: azoto (nitrogénio), fósforo e potássio; outros adubos (fertilizantes); produtos do presente capítulo apresentados em tabletes ou formas semelhantes, </a></td>
+    <td class="l"><span class="sh" style="width:2.0px"></span><span class="mono dim" style="font-size:11px">1,7%</span></td>
+    <td class="mono">US$ 4,7 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/8704'">
+    <td class="l mono dim2">13</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">8704</span> <a href="/comercio-exterior/produto/8704">Veículos automóveis para transporte de mercadorias</a></td>
+    <td class="l"><span class="sh" style="width:1.9px"></span><span class="mono dim" style="font-size:11px">1,6%</span></td>
+    <td class="mono">US$ 4,4 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/2933'">
+    <td class="l mono dim2">14</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">2933</span> <a href="/comercio-exterior/produto/2933">Compostos heterocíclicos, exclusivamente de hetero-átomo(s) de azoto (nitrogénio)</a></td>
+    <td class="l"><span class="sh" style="width:1.8px"></span><span class="mono dim" style="font-size:11px">1,5%</span></td>
+    <td class="mono">US$ 4,3 bi</td>
+  </tr>
+  
+  <tr class="clk" onclick="window.location='/comercio-exterior/produto/8517'">
+    <td class="l mono dim2">15</td>
+    <td class="nm"><span class="mono acc" style="font-size:10.5px">8517</span> <a href="/comercio-exterior/produto/8517">Aparelhos elétricos para telefonia ou telegrafia por fios, incluídos os aparelhos telefónicos por fio combinados com auscultadores sem fio e os aparelhos de telecomunicação por corrente portadora ou de telecomunicação digital; videofones</a></td>
+    <td class="l"><span class="sh" style="width:1.8px"></span><span class="mono dim" style="font-size:11px">1,5%</span></td>
+    <td class="mono">US$ 4,3 bi</td>
+  </tr>
+  
+  </tbody>
+</table></article>
+<article class="panel" style="margin-top:16px">
+  <h2>Parceiros <span class="h">2025 · US$ FOB</span></h2>
+  <div class="maprow" style="grid-template-columns:1fr 1fr">
+    <table><thead><tr><th class="l">Destino das exportações</th><th>US$ FOB</th><th>Share</th></tr></thead><tbody>
+      <tr><td class="l">China</td><td class="mono">US$ 99,9 bi</td><td class="mono dim">28,7%</td></tr><tr><td class="l">Estados Unidos</td><td class="mono">US$ 37,7 bi</td><td class="mono dim">10,8%</td></tr><tr><td class="l">Argentina</td><td class="mono">US$ 18,1 bi</td><td class="mono dim">5,2%</td></tr><tr><td class="l">Países Baixos (Holanda)</td><td class="mono">US$ 11,7 bi</td><td class="mono dim">3,4%</td></tr><tr><td class="l">Espanha</td><td class="mono">US$ 8,8 bi</td><td class="mono dim">2,5%</td></tr><tr><td class="l">México</td><td class="mono">US$ 7,7 bi</td><td class="mono dim">2,2%</td></tr><tr><td class="l">Singapura</td><td class="mono">US$ 7,4 bi</td><td class="mono dim">2,1%</td></tr><tr><td class="l">Canadá</td><td class="mono">US$ 7,3 bi</td><td class="mono dim">2,1%</td></tr><tr><td class="l">Chile</td><td class="mono">US$ 7,2 bi</td><td class="mono dim">2,1%</td></tr><tr><td class="l">Índia</td><td class="mono">US$ 6,9 bi</td><td class="mono dim">2,0%</td></tr><tr><td class="l">Alemanha</td><td class="mono">US$ 6,5 bi</td><td class="mono dim">1,9%</td></tr><tr><td class="l">Japão</td><td class="mono">US$ 5,5 bi</td><td class="mono dim">1,6%</td></tr><tr><td class="l">Coreia do Sul</td><td class="mono">US$ 5,5 bi</td><td class="mono dim">1,6%</td></tr><tr><td class="l">Itália</td><td class="mono">US$ 5,4 bi</td><td class="mono dim">1,5%</td></tr><tr><td class="l">Turquia</td><td class="mono">US$ 4,1 bi</td><td class="mono dim">1,2%</td></tr>
+    </tbody></table>
+    <table><thead><tr><th class="l">Origem das importações</th><th>US$ FOB</th><th>Share</th></tr></thead><tbody>
+      <tr><td class="l">China</td><td class="mono">US$ 70,9 bi</td><td class="mono dim">25,3%</td></tr><tr><td class="l">Estados Unidos</td><td class="mono">US$ 45,1 bi</td><td class="mono dim">16,1%</td></tr><tr><td class="l">Alemanha</td><td class="mono">US$ 14,4 bi</td><td class="mono dim">5,1%</td></tr><tr><td class="l">Argentina</td><td class="mono">US$ 12,9 bi</td><td class="mono dim">4,6%</td></tr><tr><td class="l">Rússia</td><td class="mono">US$ 9,4 bi</td><td class="mono dim">3,4%</td></tr><tr><td class="l">Índia</td><td class="mono">US$ 8,3 bi</td><td class="mono dim">3,0%</td></tr><tr><td class="l">França</td><td class="mono">US$ 7,2 bi</td><td class="mono dim">2,6%</td></tr><tr><td class="l">Itália</td><td class="mono">US$ 7,1 bi</td><td class="mono dim">2,5%</td></tr><tr><td class="l">México</td><td class="mono">US$ 6,2 bi</td><td class="mono dim">2,2%</td></tr><tr><td class="l">Japão</td><td class="mono">US$ 6,1 bi</td><td class="mono dim">2,2%</td></tr><tr><td class="l">Coreia do Sul</td><td class="mono">US$ 5,3 bi</td><td class="mono dim">1,9%</td></tr><tr><td class="l">Chile</td><td class="mono">US$ 4,6 bi</td><td class="mono dim">1,7%</td></tr><tr><td class="l">Espanha</td><td class="mono">US$ 3,8 bi</td><td class="mono dim">1,4%</td></tr><tr><td class="l">Reino Unido</td><td class="mono">US$ 3,8 bi</td><td class="mono dim">1,4%</td></tr><tr><td class="l">Vietnã</td><td class="mono">US$ 3,7 bi</td><td class="mono dim">1,3%</td></tr>
+    </tbody></table>
+  </div>
+</article>
+<article class="panel" style="margin-top:16px">
+  <h2>Série anual <span class="h">Brasil · US$ FOB · saldo calculado</span></h2>
+  <table><thead><tr><th class="l">Ano</th><th>Exportações</th><th>Importações</th><th>Saldo (calc.)</th><th class="l">Meses</th></tr></thead><tbody>
+    <tr><td class="l mono">2026</td><td class="mono">US$ 284,7 bi</td><td class="mono">US$ 222,3 bi</td><td class="mono up">US$ 62,4 bi</td><td class="l dim2">jan–set</td></tr><tr><td class="l mono">2025</td><td class="mono">US$ 348,3 bi</td><td class="mono">US$ 280,2 bi</td><td class="mono up">US$ 68,1 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2024</td><td class="mono">US$ 337,0 bi</td><td class="mono">US$ 262,9 bi</td><td class="mono up">US$ 74,2 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2023</td><td class="mono">US$ 339,7 bi</td><td class="mono">US$ 240,8 bi</td><td class="mono up">US$ 98,9 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2022</td><td class="mono">US$ 334,1 bi</td><td class="mono">US$ 272,6 bi</td><td class="mono up">US$ 61,5 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2021</td><td class="mono">US$ 280,8 bi</td><td class="mono">US$ 219,4 bi</td><td class="mono up">US$ 61,4 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2020</td><td class="mono">US$ 209,2 bi</td><td class="mono">US$ 158,8 bi</td><td class="mono up">US$ 50,4 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2019</td><td class="mono">US$ 221,1 bi</td><td class="mono">US$ 185,9 bi</td><td class="mono up">US$ 35,2 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2018</td><td class="mono">US$ 231,9 bi</td><td class="mono">US$ 185,3 bi</td><td class="mono up">US$ 46,6 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2017</td><td class="mono">US$ 215,0 bi</td><td class="mono">US$ 159,0 bi</td><td class="mono up">US$ 56,0 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2016</td><td class="mono">US$ 179,5 bi</td><td class="mono">US$ 139,3 bi</td><td class="mono up">US$ 40,2 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2015</td><td class="mono">US$ 186,8 bi</td><td class="mono">US$ 173,1 bi</td><td class="mono up">US$ 13,7 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2014</td><td class="mono">US$ 220,9 bi</td><td class="mono">US$ 230,8 bi</td><td class="mono down">-US$ 9,9 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2013</td><td class="mono">US$ 232,5 bi</td><td class="mono">US$ 241,5 bi</td><td class="mono down">-US$ 9,0 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2012</td><td class="mono">US$ 240,0 bi</td><td class="mono">US$ 225,2 bi</td><td class="mono up">US$ 14,8 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2011</td><td class="mono">US$ 253,7 bi</td><td class="mono">US$ 228,0 bi</td><td class="mono up">US$ 25,7 bi</td><td class="l dim2">ano</td></tr><tr><td class="l mono">2010</td><td class="mono">US$ 200,4 bi</td><td class="mono">US$ 183,3 bi</td><td class="mono up">US$ 17,1 bi</td><td class="l dim2">ano</td></tr>
+  </tbody></table>
+</article>
+
+<div class="note">
+  <b>Fonte.</b> Comex Stat, Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC/SECEX), API oficial;
+  valores em US$ FOB como publicados, sem conversão para reais nem deflação. Produto pela posição SH4 do Sistema
+  Harmonizado. "UF" é a UF do produto no conceito do MDIC: na exportação, a UF onde a mercadoria foi produzida.
+  O ano corrente é parcial e vem marcado. Saldo, participações e somas são cálculos desta página. Não é recomendação de nada.
+</div>
+<div class="dl" style="font-size:11px;margin-top:8px"><b class="dim">Dados:</b>
+  <a href="/dados/comex_mdic">comex_mdic (Parquet e CSV)</a>
+  <a href="/api/comercio-exterior/uf.json">JSON por UF</a>
+  <a href="/comercio-exterior.json">JSON desta página</a>
+</div>
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Comércio exterior do Brasil. https://atlasmercados.com.br/comercio-exterior. Dados: MDIC/SECEX — Comex Stat (api-comexstat.mdic.gov.br). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    Identificador da série: <code>mdic-comexstat:2025/brasil</code> · 
+    Permalink: <a href="https://atlasmercados.com.br/comercio-exterior">https://atlasmercados.com.br/comercio-exterior</a>
+     · <a href="/comercio-exterior.json">JSON</a>
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

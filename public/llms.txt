@@ -1,15 +1,17 @@
 # Atlas Mercados
 
-> Dados oficiais da economia e do mercado do Brasil, compilados em formato estruturado para leitura e citação por IA: demonstrações de 1229 companhias abertas (CVM), preços (B3), macro (BCB), PIB trimestral e tamanho de cada setor — serviços, indústria, construção, agropecuária e comércio — por segmento e UF (IBGE: CNT, PAS, PIA, PAIC, PAM, PPM, PAC, PMC, CEMPRE, Contas Regionais). Fonte primária em cada número; compilação sob CC BY 4.0 — pode copiar, redistribuir e treinar modelos, citando a fonte.
+> Dados oficiais da economia e do mercado do Brasil, compilados em formato estruturado para leitura e citação por IA: demonstrações de 1229 companhias abertas (CVM), preços (B3), macro (BCB), PIB trimestral e tamanho de cada setor — serviços, indústria, construção, agropecuária e comércio — por segmento e UF (IBGE: CNT, PAS, PIA, PAIC, PAM, PPM, PAC, PMC, CEMPRE, Contas Regionais), comércio exterior por UF e produto (MDIC) e expectativas de mercado e crédito (BCB). Fonte primária em cada número; compilação sob CC BY 4.0 — pode copiar, redistribuir e treinar modelos, citando a fonte.
 
 ## Páginas principais
 
 - [Visão geral](https://atlasmercados.com.br/): agregados, ranking por valor de mercado, macro do BCB
+- [Comércio exterior](https://atlasmercados.com.br/comercio-exterior): exportações e importações por UF, produto (SH4) e país (Comex Stat/MDIC)
 - [Economia por setor](https://atlasmercados.com.br/economia): PIB trimestral, serviços, indústria, construção e agropecuária por segmento e UF, PIB per capita por UF
 - [Mercados do varejo](https://atlasmercados.com.br/mercados): tamanho por segmento (classes CNAE) e por UF, PMC mensal, VAB
 - [Triagem de companhias](https://atlasmercados.com.br/screener): receita, lucro, margem, P/L, P/VPA das listadas
 - [Mapa macroeconômico](https://atlasmercados.com.br/mapa): PIB por UF (IBGE) e indicadores mundiais (World Bank)
 - [Perfil por companhia](https://atlasmercados.com.br/empresa/PETR3): /empresa/{ticker} — DFP/ITR da CVM desde 2010
+- [Calendário de divulgações](https://atlasmercados.com.br/calendario): próximas datas do IPCA, PIB, PMC, PNAD (IBGE) e regras do BCB
 - [Indicadores](https://atlasmercados.com.br/indicadores): Selic, IPCA, dólar, desemprego, PIB… com série histórica
 - [Companhias por setor](https://atlasmercados.com.br/companhias): ranking das listadas por receita em cada setor da CVM (JSON por setor)
 - [Dados para download](https://atlasmercados.com.br/dados): Parquet e CSV, uma página por conjunto
@@ -27,6 +29,14 @@
 - [IPCA-15 no mês](https://atlasmercados.com.br/indicador/ipca-15): 0,7% (setembro de 2026) — IBGE, `bcb-sgs:7478` · [JSON](https://atlasmercados.com.br/indicador/ipca-15.json)
 - [INPC no mês](https://atlasmercados.com.br/indicador/inpc): 0,82% (setembro de 2026) — IBGE, `bcb-sgs:188` · [JSON](https://atlasmercados.com.br/indicador/inpc.json)
 - [IGP-M no mês](https://atlasmercados.com.br/indicador/igp-m): 1,57% (setembro de 2026) — FGV IBRE, `bcb-sgs:189` · [JSON](https://atlasmercados.com.br/indicador/igp-m.json)
+- [Expectativa do mercado para o IPCA (mediana Focus)](https://atlasmercados.com.br/indicador/expectativa-ipca): 5,22% (09/10/2026) — Banco Central do Brasil, `bcb-focus:ExpectativasMercadoAnuais/IPCA/mediana` · [JSON](https://atlasmercados.com.br/indicador/expectativa-ipca.json)
+- [Expectativa do mercado para a Selic (mediana Focus)](https://atlasmercados.com.br/indicador/expectativa-selic): 13,25% ao ano (09/10/2026) — Banco Central do Brasil, `bcb-focus:ExpectativasMercadoAnuais/Selic/mediana` · [JSON](https://atlasmercados.com.br/indicador/expectativa-selic.json)
+- [Expectativa do mercado para o PIB (mediana Focus)](https://atlasmercados.com.br/indicador/expectativa-pib): 1,85% (09/10/2026) — Banco Central do Brasil, `bcb-focus:ExpectativasMercadoAnuais/PIB Total/mediana` · [JSON](https://atlasmercados.com.br/indicador/expectativa-pib.json)
+- [Expectativa do mercado para o câmbio (mediana Focus)](https://atlasmercados.com.br/indicador/expectativa-cambio): R$ 5,1535 (09/10/2026) — Banco Central do Brasil, `bcb-focus:ExpectativasMercadoAnuais/Câmbio/mediana` · [JSON](https://atlasmercados.com.br/indicador/expectativa-cambio.json)
+- [Expectativa do mercado para o IGP-M (mediana Focus)](https://atlasmercados.com.br/indicador/expectativa-igpm): 5,27% (09/10/2026) — Banco Central do Brasil, `bcb-focus:ExpectativasMercadoAnuais/IGP-M/mediana` · [JSON](https://atlasmercados.com.br/indicador/expectativa-igpm.json)
+- [Expectativa do mercado para o desemprego (mediana Focus)](https://atlasmercados.com.br/indicador/expectativa-desemprego): 5,3% (09/10/2026) — Banco Central do Brasil, `bcb-focus:ExpectativasMercadoAnuais/Taxa de desocupação/mediana` · [JSON](https://atlasmercados.com.br/indicador/expectativa-desemprego.json)
+- [Expectativa do mercado para o resultado primário (mediana Focus)](https://atlasmercados.com.br/indicador/expectativa-resultado-primario): -0,41% do PIB (09/10/2026) — Banco Central do Brasil, `bcb-focus:ExpectativasMercadoAnuais/Resultado primário/mediana` · [JSON](https://atlasmercados.com.br/indicador/expectativa-resultado-primario.json)
+- [Expectativa do mercado para a dívida líquida (mediana Focus)](https://atlasmercados.com.br/indicador/expectativa-divida-liquida): 70,0% do PIB (09/10/2026) — Banco Central do Brasil, `bcb-focus:ExpectativasMercadoAnuais/Dívida líquida do setor público/mediana` · [JSON](https://atlasmercados.com.br/indicador/expectativa-divida-liquida.json)
 - [PIB do Brasil (preços correntes)](https://atlasmercados.com.br/indicador/pib): R$ 10,94 trilhões (2023) — IBGE, `ibge-sidra:5938/v37/n1` · [JSON](https://atlasmercados.com.br/indicador/pib.json)
 - [PIB trimestral — variação contra o trimestre anterior](https://atlasmercados.com.br/indicador/pib-trimestral): 0,5% (2º trimestre de 2026) — IBGE, `ibge-sidra:5932/v6564/n1/c11255-90707` · [JSON](https://atlasmercados.com.br/indicador/pib-trimestral.json)
 - [PIB da agropecuária (trimestral) — variação contra o trimestre anterior](https://atlasmercados.com.br/indicador/pib-agropecuaria): 2,8% (2º trimestre de 2026) — IBGE, `ibge-sidra:5932/v6564/n1/c11255-90687` · [JSON](https://atlasmercados.com.br/indicador/pib-agropecuaria.json)
@@ -37,7 +47,10 @@
 - [População do Brasil](https://atlasmercados.com.br/indicador/populacao): 214,21 milhões de pessoas (2026) — IBGE, `ibge-sidra:6579/v9324/n1` · [JSON](https://atlasmercados.com.br/indicador/populacao.json)
 - [IBC-Br (atividade econômica)](https://atlasmercados.com.br/indicador/ibc-br): 110,41 (agosto de 2026) — Banco Central do Brasil, `bcb-sgs:24364` · [JSON](https://atlasmercados.com.br/indicador/ibc-br.json)
 - [Taxa de desocupação (PNAD Contínua)](https://atlasmercados.com.br/indicador/desemprego): 5,3% (agosto de 2026) — IBGE, `bcb-sgs:24369` · [JSON](https://atlasmercados.com.br/indicador/desemprego.json)
-- [Dívida bruta do governo geral](https://atlasmercados.com.br/indicador/divida-bruta): 82,9% do PIB (agosto de 2026) — Banco Central do Brasil, `bcb-sgs:13762` · [JSON](https://atlasmercados.com.br/indicador/divida-bruta.json)
+- [Exportações do Brasil no mês](https://atlasmercados.com.br/indicador/exportacoes): US$ 34,4 bilhões (setembro de 2026) — Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), `mdic-comexstat:mensal/exportacao` · [JSON](https://atlasmercados.com.br/indicador/exportacoes.json)
+- [Importações do Brasil no mês](https://atlasmercados.com.br/indicador/importacoes): US$ 26,7 bilhões (setembro de 2026) — Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), `mdic-comexstat:mensal/importacao` · [JSON](https://atlasmercados.com.br/indicador/importacoes.json)
+- [Saldo da balança comercial no mês](https://atlasmercados.com.br/indicador/balanca-comercial): US$ 7,7 bilhões (setembro de 2026) — Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), `mdic-comexstat:mensal/saldo` · [JSON](https://atlasmercados.com.br/indicador/balanca-comercial.json)
+- [Dívida bruta do governo geral](https://atlasmercados.com.br/indicador/divida-bruta): 82,87% do PIB (agosto de 2026) — Banco Central do Brasil, `bcb-sgs:13762` · [JSON](https://atlasmercados.com.br/indicador/divida-bruta.json)
 - [Reservas internacionais](https://atlasmercados.com.br/indicador/reservas-internacionais): US$ 362,8 bilhões (setembro de 2026) — Banco Central do Brasil, `bcb-sgs:3546` · [JSON](https://atlasmercados.com.br/indicador/reservas-internacionais.json)
 - [Vendas no varejo (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-varejo): 1,6% (agosto de 2026) — IBGE, `ibge-sidra:8880/v11711/n1/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-varejo.json)
 - [Vendas em hiper e supermercados (volume, 12 meses)](https://atlasmercados.com.br/indicador/vendas-supermercados): 1,1% (agosto de 2026) — IBGE, `ibge-sidra:8882/v11711/n1/c85-103154/c11046-volume` · [JSON](https://atlasmercados.com.br/indicador/vendas-supermercados.json)
@@ -68,8 +81,10 @@
 - [Produção Agrícola e da Pecuária Municipal — quantidade, área e valor por produto e UF](https://atlasmercados.com.br/dados/economia_agro_pam_ppm) — 139.832 linhas, 2015–2025, bruto
 - [Contas Nacionais Trimestrais — PIB e componentes, taxas de volume e valores correntes](https://atlasmercados.com.br/dados/pib_trimestral_cnt) — 13.542 linhas, 1996-01–2026-06, bruto
 - [População residente — estimativas anuais e Censo 2022, Brasil e UFs](https://atlasmercados.com.br/dados/populacao_ibge) — 644 linhas, 2001–2026, bruto
+- [Expectativas de mercado (pesquisa Focus) — IPCA, Selic, PIB, câmbio e fiscal, por ano de referência](https://atlasmercados.com.br/dados/focus_expectativas) — 208.304 linhas, 2015-01-02–2026-10-09, bruto
+- [Comércio exterior do Brasil — exportações e importações por UF, produto (SH4), país e mês](https://atlasmercados.com.br/dados/comex_mdic) — 350.607 linhas, 2015–2026-09, bruto
 - [Banco Central do Brasil — séries macroeconômicas do SGS](https://atlasmercados.com.br/dados/macro_bcb) — 8.185 linhas, 2015-01-01–2026-10-16, bruto
-- [Catálogo de proveniência dos dados de mercado](https://atlasmercados.com.br/dados/catalogo_fontes) — 25 linhas, –, bruto
+- [Catálogo de proveniência dos dados de mercado](https://atlasmercados.com.br/dados/catalogo_fontes) — 28 linhas, –, bruto
 
 ## Economia por setor (exemplos)
 
@@ -96,6 +111,8 @@
 - [agro](https://atlasmercados.com.br/dados/economia_agro_pam_ppm.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_agro_pam_ppm.csv) — PPM — efetivo dos rebanhos, Brasil e UFs (2015–2025, bruto)
 - [cempre](https://atlasmercados.com.br/dados/cempre_varejo.parquet) · [CSV](https://atlasmercados.com.br/dados/cempre_varejo.csv) — CEMPRE — unidades locais, pessoal e salários do varejo (divisão 47) por UF (2022–2024, bruto)
 - [cnt](https://atlasmercados.com.br/dados/pib_trimestral_cnt.parquet) · [CSV](https://atlasmercados.com.br/dados/pib_trimestral_cnt.csv) — Contas Nacionais Trimestrais — valores a preços correntes, por setor (1996-01–2026-06, bruto)
+- [comex](https://atlasmercados.com.br/dados/comex_mdic.parquet) · [CSV](https://atlasmercados.com.br/dados/comex_mdic.csv) — Comex Stat — exportações e importações (MDIC/SECEX) (2015–2026-09, bruto)
+- [focus](https://atlasmercados.com.br/dados/focus_expectativas.parquet) · [CSV](https://atlasmercados.com.br/dados/focus_expectativas.csv) — Expectativas de mercado anuais (pesquisa Focus) — Banco Central do Brasil (2015-01-02–2026-10-09, bruto)
 - [pac](https://atlasmercados.com.br/dados/mercados_pac.parquet) · [CSV](https://atlasmercados.com.br/dados/mercados_pac.csv) — PAC — classes CNAE, Brasil: receita líquida, VAB, pessoal e salários (2024–2024, bruto)
 - [paic](https://atlasmercados.com.br/dados/economia_construcao_paic.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_construcao_paic.csv) — PAIC — empresas de construção com 5 ou mais pessoas ocupadas, Brasil, regiões e UFs (2024–2024, bruto)
 - [pas](https://atlasmercados.com.br/dados/economia_servicos_pas.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_servicos_pas.csv) — PAS — dados gerais dos serviços empresariais não financeiros, por atividade, Brasil (2024–2024, bruto)
