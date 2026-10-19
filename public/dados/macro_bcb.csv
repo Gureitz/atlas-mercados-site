@@ -2257,9 +2257,6 @@ cambio_eur,21619,Câmbio EUR/BRL,R$,2026-10-13,5.6092
 cambio_eur,21619,Câmbio EUR/BRL,R$,2026-10-14,5.6111
 cambio_eur,21619,Câmbio EUR/BRL,R$,2026-10-15,5.6609
 cambio_eur,21619,Câmbio EUR/BRL,R$,2026-10-16,5.7088
-cambio_usd,1,Câmbio USD/BRL,R$,2017-10-16,3.1607
-cambio_usd,1,Câmbio USD/BRL,R$,2017-10-17,3.1769
-cambio_usd,1,Câmbio USD/BRL,R$,2017-10-18,3.1673
 cambio_usd,1,Câmbio USD/BRL,R$,2017-10-19,3.1732
 cambio_usd,1,Câmbio USD/BRL,R$,2017-10-20,3.1833
 cambio_usd,1,Câmbio USD/BRL,R$,2017-10-23,3.2003
@@ -4517,39 +4514,6 @@ cambio_usd,1,Câmbio USD/BRL,R$,2026-10-13,5.0096
 cambio_usd,1,Câmbio USD/BRL,R$,2026-10-14,5.0441
 cambio_usd,1,Câmbio USD/BRL,R$,2026-10-15,5.0521
 cambio_usd,1,Câmbio USD/BRL,R$,2026-10-16,5.0826
-cdi_mes,4391,CDI no mês,%,2015-01-01,0.93
-cdi_mes,4391,CDI no mês,%,2015-02-01,0.82
-cdi_mes,4391,CDI no mês,%,2015-03-01,1.04
-cdi_mes,4391,CDI no mês,%,2015-04-01,0.95
-cdi_mes,4391,CDI no mês,%,2015-05-01,0.98
-cdi_mes,4391,CDI no mês,%,2015-06-01,1.07
-cdi_mes,4391,CDI no mês,%,2015-07-01,1.18
-cdi_mes,4391,CDI no mês,%,2015-08-01,1.11
-cdi_mes,4391,CDI no mês,%,2015-09-01,1.11
-cdi_mes,4391,CDI no mês,%,2015-10-01,1.11
-cdi_mes,4391,CDI no mês,%,2015-11-01,1.06
-cdi_mes,4391,CDI no mês,%,2015-12-01,1.16
-cdi_mes,4391,CDI no mês,%,2016-01-01,1.05
-cdi_mes,4391,CDI no mês,%,2016-02-01,1.0
-cdi_mes,4391,CDI no mês,%,2016-03-01,1.16
-cdi_mes,4391,CDI no mês,%,2016-04-01,1.05
-cdi_mes,4391,CDI no mês,%,2016-05-01,1.11
-cdi_mes,4391,CDI no mês,%,2016-06-01,1.16
-cdi_mes,4391,CDI no mês,%,2016-07-01,1.11
-cdi_mes,4391,CDI no mês,%,2016-08-01,1.21
-cdi_mes,4391,CDI no mês,%,2016-09-01,1.11
-cdi_mes,4391,CDI no mês,%,2016-10-01,1.05
-cdi_mes,4391,CDI no mês,%,2016-11-01,1.04
-cdi_mes,4391,CDI no mês,%,2016-12-01,1.12
-cdi_mes,4391,CDI no mês,%,2017-01-01,1.08
-cdi_mes,4391,CDI no mês,%,2017-02-01,0.86
-cdi_mes,4391,CDI no mês,%,2017-03-01,1.05
-cdi_mes,4391,CDI no mês,%,2017-04-01,0.79
-cdi_mes,4391,CDI no mês,%,2017-05-01,0.93
-cdi_mes,4391,CDI no mês,%,2017-06-01,0.81
-cdi_mes,4391,CDI no mês,%,2017-07-01,0.8
-cdi_mes,4391,CDI no mês,%,2017-08-01,0.8
-cdi_mes,4391,CDI no mês,%,2017-09-01,0.64
 cdi_mes,4391,CDI no mês,%,2017-10-01,0.64
 cdi_mes,4391,CDI no mês,%,2017-11-01,0.57
 cdi_mes,4391,CDI no mês,%,2017-12-01,0.54
@@ -5220,39 +5184,6 @@ igpm_mes,189,IGP-M no mês,%,2026-06-01,-0.5
 igpm_mes,189,IGP-M no mês,%,2026-07-01,-1.16
 igpm_mes,189,IGP-M no mês,%,2026-08-01,-0.22
 igpm_mes,189,IGP-M no mês,%,2026-09-01,1.57
-inpc_mes,188,INPC no mês,%,2015-01-01,1.48
-inpc_mes,188,INPC no mês,%,2015-02-01,1.16
-inpc_mes,188,INPC no mês,%,2015-03-01,1.51
-inpc_mes,188,INPC no mês,%,2015-04-01,0.71
-inpc_mes,188,INPC no mês,%,2015-05-01,0.99
-inpc_mes,188,INPC no mês,%,2015-06-01,0.77
-inpc_mes,188,INPC no mês,%,2015-07-01,0.58
-inpc_mes,188,INPC no mês,%,2015-08-01,0.25
-inpc_mes,188,INPC no mês,%,2015-09-01,0.51
-inpc_mes,188,INPC no mês,%,2015-10-01,0.77
-inpc_mes,188,INPC no mês,%,2015-11-01,1.11
-inpc_mes,188,INPC no mês,%,2015-12-01,0.9
-inpc_mes,188,INPC no mês,%,2016-01-01,1.51
-inpc_mes,188,INPC no mês,%,2016-02-01,0.95
-inpc_mes,188,INPC no mês,%,2016-03-01,0.44
-inpc_mes,188,INPC no mês,%,2016-04-01,0.64
-inpc_mes,188,INPC no mês,%,2016-05-01,0.98
-inpc_mes,188,INPC no mês,%,2016-06-01,0.47
-inpc_mes,188,INPC no mês,%,2016-07-01,0.64
-inpc_mes,188,INPC no mês,%,2016-08-01,0.31
-inpc_mes,188,INPC no mês,%,2016-09-01,0.08
-inpc_mes,188,INPC no mês,%,2016-10-01,0.17
-inpc_mes,188,INPC no mês,%,2016-11-01,0.07
-inpc_mes,188,INPC no mês,%,2016-12-01,0.14
-inpc_mes,188,INPC no mês,%,2017-01-01,0.42
-inpc_mes,188,INPC no mês,%,2017-02-01,0.24
-inpc_mes,188,INPC no mês,%,2017-03-01,0.32
-inpc_mes,188,INPC no mês,%,2017-04-01,0.08
-inpc_mes,188,INPC no mês,%,2017-05-01,0.36
-inpc_mes,188,INPC no mês,%,2017-06-01,-0.3
-inpc_mes,188,INPC no mês,%,2017-07-01,0.17
-inpc_mes,188,INPC no mês,%,2017-08-01,-0.03
-inpc_mes,188,INPC no mês,%,2017-09-01,-0.02
 inpc_mes,188,INPC no mês,%,2017-10-01,0.37
 inpc_mes,188,INPC no mês,%,2017-11-01,0.18
 inpc_mes,188,INPC no mês,%,2017-12-01,0.26
@@ -5643,39 +5574,6 @@ ipca_12m,13522,IPCA 12 meses,%,2026-06-01,4.64
 ipca_12m,13522,IPCA 12 meses,%,2026-07-01,4.44
 ipca_12m,13522,IPCA 12 meses,%,2026-08-01,4.22
 ipca_12m,13522,IPCA 12 meses,%,2026-09-01,4.58
-ipca_mes,433,IPCA no mês,%,2015-01-01,1.24
-ipca_mes,433,IPCA no mês,%,2015-02-01,1.22
-ipca_mes,433,IPCA no mês,%,2015-03-01,1.32
-ipca_mes,433,IPCA no mês,%,2015-04-01,0.71
-ipca_mes,433,IPCA no mês,%,2015-05-01,0.74
-ipca_mes,433,IPCA no mês,%,2015-06-01,0.79
-ipca_mes,433,IPCA no mês,%,2015-07-01,0.62
-ipca_mes,433,IPCA no mês,%,2015-08-01,0.22
-ipca_mes,433,IPCA no mês,%,2015-09-01,0.54
-ipca_mes,433,IPCA no mês,%,2015-10-01,0.82
-ipca_mes,433,IPCA no mês,%,2015-11-01,1.01
-ipca_mes,433,IPCA no mês,%,2015-12-01,0.96
-ipca_mes,433,IPCA no mês,%,2016-01-01,1.27
-ipca_mes,433,IPCA no mês,%,2016-02-01,0.9
-ipca_mes,433,IPCA no mês,%,2016-03-01,0.43
-ipca_mes,433,IPCA no mês,%,2016-04-01,0.61
-ipca_mes,433,IPCA no mês,%,2016-05-01,0.78
-ipca_mes,433,IPCA no mês,%,2016-06-01,0.35
-ipca_mes,433,IPCA no mês,%,2016-07-01,0.52
-ipca_mes,433,IPCA no mês,%,2016-08-01,0.44
-ipca_mes,433,IPCA no mês,%,2016-09-01,0.08
-ipca_mes,433,IPCA no mês,%,2016-10-01,0.26
-ipca_mes,433,IPCA no mês,%,2016-11-01,0.18
-ipca_mes,433,IPCA no mês,%,2016-12-01,0.3
-ipca_mes,433,IPCA no mês,%,2017-01-01,0.38
-ipca_mes,433,IPCA no mês,%,2017-02-01,0.33
-ipca_mes,433,IPCA no mês,%,2017-03-01,0.25
-ipca_mes,433,IPCA no mês,%,2017-04-01,0.14
-ipca_mes,433,IPCA no mês,%,2017-05-01,0.31
-ipca_mes,433,IPCA no mês,%,2017-06-01,-0.23
-ipca_mes,433,IPCA no mês,%,2017-07-01,0.24
-ipca_mes,433,IPCA no mês,%,2017-08-01,0.19
-ipca_mes,433,IPCA no mês,%,2017-09-01,0.16
 ipca_mes,433,IPCA no mês,%,2017-10-01,0.42
 ipca_mes,433,IPCA no mês,%,2017-11-01,0.28
 ipca_mes,433,IPCA no mês,%,2017-12-01,0.44
@@ -5925,9 +5823,6 @@ reservas,3546,Reservas internacionais,US$ mi,2026-06-01,367558.0
 reservas,3546,Reservas internacionais,US$ mi,2026-07-01,369742.0
 reservas,3546,Reservas internacionais,US$ mi,2026-08-01,372616.0
 reservas,3546,Reservas internacionais,US$ mi,2026-09-01,362821.0
-selic,1178,Selic (efetiva),% a.a.,2017-10-16,8.15
-selic,1178,Selic (efetiva),% a.a.,2017-10-17,8.15
-selic,1178,Selic (efetiva),% a.a.,2017-10-18,8.15
 selic,1178,Selic (efetiva),% a.a.,2017-10-19,8.15
 selic,1178,Selic (efetiva),% a.a.,2017-10-20,8.15
 selic,1178,Selic (efetiva),% a.a.,2017-10-23,8.15
@@ -8184,3 +8079,4 @@ selic,1178,Selic (efetiva),% a.a.,2026-10-09,13.65
 selic,1178,Selic (efetiva),% a.a.,2026-10-13,13.65
 selic,1178,Selic (efetiva),% a.a.,2026-10-14,13.65
 selic,1178,Selic (efetiva),% a.a.,2026-10-15,13.65
+selic,1178,Selic (efetiva),% a.a.,2026-10-16,13.65
