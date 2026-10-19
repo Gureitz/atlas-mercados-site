@@ -1,6 +1,9 @@
+/dados/agro_municipios.csv /dados/agro_municipios.csv.gz 301
 /dados/comex_mdic.csv /dados/comex_mdic.csv.gz 301
 /dados/economia_agro_pam_ppm.csv /dados/economia_agro_pam_ppm.csv.gz 301
+/dados/economia_industria_pia.csv /dados/economia_industria_pia.csv.gz 301
 /dados/mercados_pmc.csv /dados/mercados_pmc.csv.gz 301
+/dados/pulso_industria_servicos.csv /dados/pulso_industria_servicos.csv.gz 301
 /empresa/16284 /empresa/QVQP3 301
 /empresa/qvqp3 /empresa/QVQP3 301
 /empresa/25283 /empresa/AERI3 301
