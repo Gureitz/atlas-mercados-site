@@ -201,7 +201,8 @@
 - https://atlasmercados.com.br/api/economia/servicos/uf.json — valores por UF de um setor
 - https://atlasmercados.com.br/economia/agropecuaria/milho-em-grao.json — um produto agropecuário
 - https://atlasmercados.com.br/sitemap.xml — todas as URLs, com lastmod
-- Toda página tem versão Markdown: acrescente .md ao caminho (ex.: https://atlasmercados.com.br/economia.md; a inicial é https://atlasmercados.com.br/index.md)
+- Toda página tem versão Markdown, exceto as de município: acrescente .md ao caminho (ex.: https://atlasmercados.com.br/economia.md; a inicial é https://atlasmercados.com.br/index.md)
+- Municípios em JSON por UF: https://atlasmercados.com.br/municipios/uf/SP.json (todos os municípios do estado)
 
 ## Licença e citação
 

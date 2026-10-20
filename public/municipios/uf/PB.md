@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/PB
 
 # Municípios da Paraíba
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/PB) · [economia](https://atlasmercados.com.br/economia/industria/uf/PB) · 223 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/PB) · [economia](https://atlasmercados.com.br/economia/industria/uf/PB) · 223 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/PB.json)
 
 > A Paraíba tem 223 municípios; os maiores pelo PIB de 2023 são João Pessoa (R$ 28,4 bilhões), Campina Grande (R$ 12,9 bilhões) e Cabedelo (R$ 4,1 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

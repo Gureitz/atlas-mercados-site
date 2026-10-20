@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/RO
 
 # Municípios de Rondônia
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/RO) · [economia](https://atlasmercados.com.br/economia/industria/uf/RO) · 52 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/RO) · [economia](https://atlasmercados.com.br/economia/industria/uf/RO) · 52 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/RO.json)
 
 > Rondônia tem 52 municípios; os maiores pelo PIB de 2023 são Porto Velho (R$ 25,4 bilhões), Ji-Paraná (R$ 5,8 bilhões) e Vilhena (R$ 5,1 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

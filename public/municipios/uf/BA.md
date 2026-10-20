@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/BA
 
 # Municípios da Bahia
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/BA) · [economia](https://atlasmercados.com.br/economia/industria/uf/BA) · 417 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/BA) · [economia](https://atlasmercados.com.br/economia/industria/uf/BA) · 417 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/BA.json)
 
 > A Bahia tem 417 municípios; os maiores pelo PIB de 2023 são Salvador (R$ 76,7 bilhões), Camaçari (R$ 27,4 bilhões) e São Francisco do Conde (R$ 26,5 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

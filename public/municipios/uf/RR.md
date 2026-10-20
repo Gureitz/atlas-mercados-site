@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/RR
 
 # Municípios de Roraima
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/RR) · [economia](https://atlasmercados.com.br/economia/industria/uf/RR) · 15 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/RR) · [economia](https://atlasmercados.com.br/economia/industria/uf/RR) · 15 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/RR.json)
 
 > Roraima tem 15 municípios; os maiores pelo PIB de 2023 são Boa Vista (R$ 18,2 bilhões), Rorainópolis (R$ 981,0 milhões) e Alto Alegre (R$ 802,5 milhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

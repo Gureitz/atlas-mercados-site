@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/PE
 
 # Municípios de Pernambuco
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/PE) · [economia](https://atlasmercados.com.br/economia/industria/uf/PE) · 185 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/PE) · [economia](https://atlasmercados.com.br/economia/industria/uf/PE) · 185 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/PE.json)
 
 > Pernambuco tem 185 municípios; os maiores pelo PIB de 2023 são Recife (R$ 66,4 bilhões), Jaboatão dos Guararapes (R$ 20,3 bilhões) e Ipojuca (R$ 18,0 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

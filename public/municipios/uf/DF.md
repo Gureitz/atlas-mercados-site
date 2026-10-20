@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/DF
 
 # Municípios do Distrito Federal
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/DF) · [economia](https://atlasmercados.com.br/economia/industria/uf/DF) · 1 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/DF) · [economia](https://atlasmercados.com.br/economia/industria/uf/DF) · 1 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/DF.json)
 
 > O Distrito Federal tem um único município, Brasília, com PIB de R$ 365,7 bilhões em 2023, segundo o PIB dos Municípios do IBGE (tabela 5938).
 

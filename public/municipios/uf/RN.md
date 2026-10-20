@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/RN
 
 # Municípios do Rio Grande do Norte
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/RN) · [economia](https://atlasmercados.com.br/economia/industria/uf/RN) · 167 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/RN) · [economia](https://atlasmercados.com.br/economia/industria/uf/RN) · 167 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/RN.json)
 
 > O Rio Grande do Norte tem 167 municípios; os maiores pelo PIB de 2023 são Natal (R$ 31,2 bilhões), Mossoró (R$ 10,3 bilhões) e Parnamirim (R$ 7,6 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

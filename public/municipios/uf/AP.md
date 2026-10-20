@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/AP
 
 # Municípios do Amapá
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/AP) · [economia](https://atlasmercados.com.br/economia/industria/uf/AP) · 16 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/AP) · [economia](https://atlasmercados.com.br/economia/industria/uf/AP) · 16 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/AP.json)
 
 > O Amapá tem 16 municípios; os maiores pelo PIB de 2023 são Macapá (R$ 18,5 bilhões), Santana (R$ 3,7 bilhões) e Laranjal do Jari (R$ 1,3 bilhão), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

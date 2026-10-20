@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/GO
 
 # Municípios de Goiás
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/GO) · [economia](https://atlasmercados.com.br/economia/industria/uf/GO) · 246 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/GO) · [economia](https://atlasmercados.com.br/economia/industria/uf/GO) · 246 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/GO.json)
 
 > Goiás tem 246 municípios; os maiores pelo PIB de 2023 são Goiânia (R$ 75,8 bilhões), Rio Verde (R$ 22,3 bilhões) e Aparecida de Goiânia (R$ 20,9 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

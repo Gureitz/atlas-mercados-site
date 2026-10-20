@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/MG
 
 # Municípios de Minas Gerais
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/MG) · [economia](https://atlasmercados.com.br/economia/industria/uf/MG) · 853 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/MG) · [economia](https://atlasmercados.com.br/economia/industria/uf/MG) · 853 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/MG.json)
 
 > Minas Gerais tem 853 municípios; os maiores pelo PIB de 2023 são Belo Horizonte (R$ 130,2 bilhões), Betim (R$ 52,6 bilhões) e Uberlândia (R$ 51,1 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

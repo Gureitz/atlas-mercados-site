@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/MA
 
 # Municípios do Maranhão
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/MA) · [economia](https://atlasmercados.com.br/economia/industria/uf/MA) · 217 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/MA) · [economia](https://atlasmercados.com.br/economia/industria/uf/MA) · 217 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/MA.json)
 
 > O Maranhão tem 217 municípios; os maiores pelo PIB de 2023 são São Luís (R$ 42,4 bilhões), Imperatriz (R$ 9,5 bilhões) e Balsas (R$ 7,5 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/PI
 
 # Municípios do Piauí
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/PI) · [economia](https://atlasmercados.com.br/economia/industria/uf/PI) · 224 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/PI) · [economia](https://atlasmercados.com.br/economia/industria/uf/PI) · 224 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/PI.json)
 
 > O Piauí tem 224 municípios; os maiores pelo PIB de 2023 são Teresina (R$ 29,4 bilhões), Uruçuí (R$ 4,2 bilhões) e Parnaíba (R$ 3,7 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

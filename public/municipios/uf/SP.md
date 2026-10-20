@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/SP
 
 # Municípios de São Paulo
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/SP) · [economia](https://atlasmercados.com.br/economia/industria/uf/SP) · 645 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/SP) · [economia](https://atlasmercados.com.br/economia/industria/uf/SP) · 645 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/SP.json)
 
 > São Paulo tem 645 municípios; os maiores pelo PIB de 2023 são São Paulo (R$ 1,07 trilhão), Osasco (R$ 119,4 bilhões) e Guarulhos (R$ 97,6 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

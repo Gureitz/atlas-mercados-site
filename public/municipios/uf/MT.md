@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/MT
 
 # Municípios de Mato Grosso
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/MT) · [economia](https://atlasmercados.com.br/economia/industria/uf/MT) · 142 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/MT) · [economia](https://atlasmercados.com.br/economia/industria/uf/MT) · 142 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/MT.json)
 
 > Mato Grosso tem 142 municípios; os maiores pelo PIB de 2023 são Cuiabá (R$ 39,1 bilhões), Rondonópolis (R$ 16,6 bilhões) e Várzea Grande (R$ 14,0 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

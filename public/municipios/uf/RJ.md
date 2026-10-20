@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/RJ
 
 # Municípios do Rio de Janeiro
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/RJ) · [economia](https://atlasmercados.com.br/economia/industria/uf/RJ) · 92 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/RJ) · [economia](https://atlasmercados.com.br/economia/industria/uf/RJ) · 92 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/RJ.json)
 
 > O Rio de Janeiro tem 92 municípios; os maiores pelo PIB de 2023 são Rio de Janeiro (R$ 418,5 bilhões), Maricá (R$ 134,1 bilhões) e Niterói (R$ 76,3 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

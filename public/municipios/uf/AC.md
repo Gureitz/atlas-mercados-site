@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/AC
 
 # Municípios do Acre
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/AC) · [economia](https://atlasmercados.com.br/economia/industria/uf/AC) · 22 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/AC) · [economia](https://atlasmercados.com.br/economia/industria/uf/AC) · 22 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/AC.json)
 
 > O Acre tem 22 municípios; os maiores pelo PIB de 2023 são Rio Branco (R$ 13,0 bilhões), Cruzeiro do Sul (R$ 2,7 bilhões) e Senador Guiomard (R$ 1,1 bilhão), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

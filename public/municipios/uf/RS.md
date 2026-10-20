@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/RS
 
 # Municípios do Rio Grande do Sul
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/RS) · [economia](https://atlasmercados.com.br/economia/industria/uf/RS) · 497 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/RS) · [economia](https://atlasmercados.com.br/economia/industria/uf/RS) · 497 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/RS.json)
 
 > O Rio Grande do Sul tem 497 municípios; os maiores pelo PIB de 2023 são Porto Alegre (R$ 104,7 bilhões), Caxias do Sul (R$ 37,9 bilhões) e Canoas (R$ 29,2 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/TO
 
 # Municípios do Tocantins
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/TO) · [economia](https://atlasmercados.com.br/economia/industria/uf/TO) · 139 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/TO) · [economia](https://atlasmercados.com.br/economia/industria/uf/TO) · 139 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/TO.json)
 
 > O Tocantins tem 139 municípios; os maiores pelo PIB de 2023 são Palmas (R$ 14,2 bilhões), Araguaína (R$ 7,4 bilhões) e Gurupi (R$ 3,7 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

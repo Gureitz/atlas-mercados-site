@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/AM
 
 # Municípios do Amazonas
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/AM) · [economia](https://atlasmercados.com.br/economia/industria/uf/AM) · 62 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/AM) · [economia](https://atlasmercados.com.br/economia/industria/uf/AM) · 62 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/AM.json)
 
 > O Amazonas tem 62 municípios; os maiores pelo PIB de 2023 são Manaus (R$ 127,6 bilhões), Coari (R$ 3,9 bilhões) e Itacoatiara (R$ 3,3 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

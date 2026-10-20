@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/AL
 
 # Municípios de Alagoas
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/AL) · [economia](https://atlasmercados.com.br/economia/industria/uf/AL) · 102 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/AL) · [economia](https://atlasmercados.com.br/economia/industria/uf/AL) · 102 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/AL.json)
 
 > Alagoas tem 102 municípios; os maiores pelo PIB de 2023 são Maceió (R$ 33,7 bilhões), Arapiraca (R$ 6,9 bilhões) e Marechal Deodoro (R$ 3,2 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

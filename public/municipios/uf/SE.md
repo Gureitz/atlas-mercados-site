@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/SE
 
 # Municípios de Sergipe
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/SE) · [economia](https://atlasmercados.com.br/economia/industria/uf/SE) · 75 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/SE) · [economia](https://atlasmercados.com.br/economia/industria/uf/SE) · 75 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/SE.json)
 
 > Sergipe tem 75 municípios; os maiores pelo PIB de 2023 são Aracaju (R$ 22,3 bilhões), Canindé de São Francisco (R$ 3,0 bilhões) e Itabaiana (R$ 2,9 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

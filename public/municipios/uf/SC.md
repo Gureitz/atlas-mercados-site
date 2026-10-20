@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/SC
 
 # Municípios de Santa Catarina
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/SC) · [economia](https://atlasmercados.com.br/economia/industria/uf/SC) · 295 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/SC) · [economia](https://atlasmercados.com.br/economia/industria/uf/SC) · 295 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/SC.json)
 
 > Santa Catarina tem 295 municípios; os maiores pelo PIB de 2023 são Joinville (R$ 49,8 bilhões), Itajaí (R$ 48,2 bilhões) e Florianópolis (R$ 31,2 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

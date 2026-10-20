@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/PA
 
 # Municípios do Pará
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/PA) · [economia](https://atlasmercados.com.br/economia/industria/uf/PA) · 144 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/PA) · [economia](https://atlasmercados.com.br/economia/industria/uf/PA) · 144 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/PA.json)
 
 > O Pará tem 144 municípios; os maiores pelo PIB de 2023 são Belém (R$ 40,5 bilhões), Parauapebas (R$ 26,4 bilhões) e Canaã dos Carajás (R$ 16,6 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

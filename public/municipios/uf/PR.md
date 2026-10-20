@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/PR
 
 # Municípios do Paraná
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/PR) · [economia](https://atlasmercados.com.br/economia/industria/uf/PR) · 399 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/PR) · [economia](https://atlasmercados.com.br/economia/industria/uf/PR) · 399 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/PR.json)
 
 > O Paraná tem 399 municípios; os maiores pelo PIB de 2023 são Curitiba (R$ 120,1 bilhões), Araucária (R$ 34,1 bilhões) e São José dos Pinhais (R$ 34,0 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

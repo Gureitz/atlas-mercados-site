@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/ES
 
 # Municípios do Espírito Santo
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/ES) · [economia](https://atlasmercados.com.br/economia/industria/uf/ES) · 78 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/ES) · [economia](https://atlasmercados.com.br/economia/industria/uf/ES) · 78 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/ES.json)
 
 > O Espírito Santo tem 78 municípios; os maiores pelo PIB de 2023 são Serra (R$ 37,6 bilhões), Vitória (R$ 28,3 bilhões) e Vila Velha (R$ 19,7 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 

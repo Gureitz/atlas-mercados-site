@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/municipios/uf/CE
 
 # Municípios do Ceará
 
-[trabalho](https://atlasmercados.com.br/trabalho/uf/CE) · [economia](https://atlasmercados.com.br/economia/industria/uf/CE) · 184 municípios · ordenados pelo PIB
+[trabalho](https://atlasmercados.com.br/trabalho/uf/CE) · [economia](https://atlasmercados.com.br/economia/industria/uf/CE) · 184 municípios · ordenados pelo PIB · [JSON](https://atlasmercados.com.br/municipios/uf/CE.json)
 
 > O Ceará tem 184 municípios; os maiores pelo PIB de 2023 são Fortaleza (R$ 86,9 bilhões), Maracanaú (R$ 13,5 bilhões) e Caucaia (R$ 9,9 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).
 
