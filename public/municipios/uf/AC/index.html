@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Municípios do Acre — população, PIB e emprego — Atlas Mercados</title>
+<meta name="description" content="O Acre tem 22 municípios; os maiores pelo PIB de 2023 são Rio Branco (R$ 13,0 bilhões), Cruzeiro do Sul (R$ 2,7 bilhões) e Senador Guiomard (R$ 1,1 bilhão), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<link rel="canonical" href="https://atlasmercados.com.br/municipios/uf/AC">
+<link rel="alternate" type="text/markdown" href="/municipios/uf/AC.md">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Municípios do Acre — população, PIB e emprego — Atlas Mercados">
+<meta property="og:description" content="O Acre tem 22 municípios; os maiores pelo PIB de 2023 são Rio Branco (R$ 13,0 bilhões), Cruzeiro do Sul (R$ 2,7 bilhões) e Senador Guiomard (R$ 1,1 bilhão), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}.arv .p4{padding-left:90px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv tr.n3 td,.arv tr.n4 td{font-size:11px;color:var(--dim)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .tag{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:0 0 16px}
+  .card{display:block;padding:14px 16px;border:1px solid var(--bd);border-radius:10px;background:var(--panel)}
+  .card:hover{border-color:var(--acc)}
+  .card .t{font-size:11px;color:var(--dim2);text-transform:uppercase;letter-spacing:.06em}
+  .card .v{font-size:19px;margin:6px 0 2px}
+  .card .d{font-size:11px;color:var(--dim)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .bars{height:140px}
+  .bars .b{background:var(--acc)}
+  .bars .b .t{position:absolute;top:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--dim2);white-space:nowrap}
+  .sel{height:32px;background:var(--panel);border:1px solid var(--bd);border-radius:8px;color:var(--tx);padding:0 10px;font-family:inherit;font-size:12px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Municípios — Acre", "item": "https://atlasmercados.com.br/municipios/uf/AC"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="on" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/comercio-exterior" class="" title="Comércio ext.">
+      <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/trabalho" class="" title="Trabalho">
+      <span class="i">⚒</span><span class="l">Trabalho</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+
+<h1 class="page">Municípios do Acre</h1>
+<p class="sub"><a href="/trabalho/uf/AC">trabalho</a> · <a href="/economia/industria/uf/AC">economia</a> · 22 municípios · ordenados pelo PIB</p>
+<p class="resposta" data-resposta>O Acre tem 22 municípios; os maiores pelo PIB de 2023 são Rio Branco (R$ 13,0 bilhões), Cruzeiro do Sul (R$ 2,7 bilhões) e Senador Guiomard (R$ 1,1 bilhão), segundo o PIB dos Municípios do IBGE (tabela 5938).</p>
+<article class="panel" style="padding:0"><div class="scrim" style="overflow:auto">
+<table><thead><tr><th class="l">#</th><th class="l">Município</th><th>População</th><th>PIB</th><th>PIB per capita (calc.)</th><th>Pessoal ocupado (CEMPRE)</th></tr></thead><tbody>
+<tr class="clk" onclick="window.location='/municipio/1200401'"><td class="l mono dim2">1</td><td class="l"><a href="/municipio/1200401">Rio Branco</a></td><td class="mono">390.058</td><td class="mono">R$ 13,0 bi</td><td class="mono dim">R$ 33.228</td><td class="mono dim">137.439</td></tr><tr class="clk" onclick="window.location='/municipio/1200203'"><td class="l mono dim2">2</td><td class="l"><a href="/municipio/1200203">Cruzeiro do Sul</a></td><td class="mono">99.404</td><td class="mono">R$ 2,7 bi</td><td class="mono dim">R$ 26.962</td><td class="mono dim">15.697</td></tr><tr class="clk" onclick="window.location='/municipio/1200450'"><td class="l mono dim2">3</td><td class="l"><a href="/municipio/1200450">Senador Guiomard</a></td><td class="mono">22.447</td><td class="mono">R$ 1,1 bi</td><td class="mono dim">R$ 49.531</td><td class="mono dim">3.656</td></tr><tr class="clk" onclick="window.location='/municipio/1200500'"><td class="l mono dim2">4</td><td class="l"><a href="/municipio/1200500">Sena Madureira</a></td><td class="mono">44.170</td><td class="mono">R$ 972,6 mi</td><td class="mono dim">R$ 22.021</td><td class="mono dim">4.260</td></tr><tr class="clk" onclick="window.location='/municipio/1200609'"><td class="l mono dim2">5</td><td class="l"><a href="/municipio/1200609">Tarauacá</a></td><td class="mono">47.090</td><td class="mono">R$ 932,1 mi</td><td class="mono dim">R$ 19.794</td><td class="mono dim">3.227</td></tr><tr class="clk" onclick="window.location='/municipio/1200104'"><td class="l mono dim2">6</td><td class="l"><a href="/municipio/1200104">Brasiléia</a></td><td class="mono">28.198</td><td class="mono">R$ 929,8 mi</td><td class="mono dim">R$ 32.974</td><td class="mono dim">3.832</td></tr><tr class="clk" onclick="window.location='/municipio/1200252'"><td class="l mono dim2">7</td><td class="l"><a href="/municipio/1200252">Epitaciolândia</a></td><td class="mono">19.997</td><td class="mono">R$ 793,4 mi</td><td class="mono dim">R$ 39.677</td><td class="mono dim">3.083</td></tr><tr class="clk" onclick="window.location='/municipio/1200385'"><td class="l mono dim2">8</td><td class="l"><a href="/municipio/1200385">Plácido de Castro</a></td><td class="mono">17.088</td><td class="mono">R$ 764,8 mi</td><td class="mono dim">R$ 44.758</td><td class="mono dim">2.885</td></tr><tr class="clk" onclick="window.location='/municipio/1200302'"><td class="l mono dim2">9</td><td class="l"><a href="/municipio/1200302">Feijó</a></td><td class="mono">37.874</td><td class="mono">R$ 741,3 mi</td><td class="mono dim">R$ 19.574</td><td class="mono dim">3.049</td></tr><tr class="clk" onclick="window.location='/municipio/1200708'"><td class="l mono dim2">10</td><td class="l"><a href="/municipio/1200708">Xapuri</a></td><td class="mono">19.244</td><td class="mono">R$ 626,0 mi</td><td class="mono dim">R$ 32.531</td><td class="mono dim">1.563</td></tr><tr class="clk" onclick="window.location='/municipio/1200807'"><td class="l mono dim2">11</td><td class="l"><a href="/municipio/1200807">Porto Acre</a></td><td class="mono">17.585</td><td class="mono">R$ 533,4 mi</td><td class="mono dim">R$ 30.332</td><td class="mono dim">1.349</td></tr><tr class="clk" onclick="window.location='/municipio/1200179'"><td class="l mono dim2">12</td><td class="l"><a href="/municipio/1200179">Capixaba</a></td><td class="mono">11.035</td><td class="mono">R$ 530,7 mi</td><td class="mono dim">R$ 48.089</td><td class="mono dim">773</td></tr><tr class="clk" onclick="window.location='/municipio/1200013'"><td class="l mono dim2">13</td><td class="l"><a href="/municipio/1200013">Acrelândia</a></td><td class="mono">14.762</td><td class="mono">R$ 502,7 mi</td><td class="mono dim">R$ 34.051</td><td class="mono dim">1.259</td></tr><tr class="clk" onclick="window.location='/municipio/1200138'"><td class="l mono dim2">14</td><td class="l"><a href="/municipio/1200138">Bujari</a></td><td class="mono">14.076</td><td class="mono">R$ 365,4 mi</td><td class="mono dim">R$ 25.960</td><td class="mono dim">1.833</td></tr><tr class="clk" onclick="window.location='/municipio/1200336'"><td class="l mono dim2">15</td><td class="l"><a href="/municipio/1200336">Mâncio Lima</a></td><td class="mono">20.616</td><td class="mono">R$ 339,2 mi</td><td class="mono dim">R$ 16.454</td><td class="mono dim">1.356</td></tr><tr class="clk" onclick="window.location='/municipio/1200427'"><td class="l mono dim2">16</td><td class="l"><a href="/municipio/1200427">Rodrigues Alves</a></td><td class="mono">15.580</td><td class="mono">R$ 293,6 mi</td><td class="mono dim">R$ 18.848</td><td class="mono dim">1.589</td></tr><tr class="clk" onclick="window.location='/municipio/1200351'"><td class="l mono dim2">17</td><td class="l"><a href="/municipio/1200351">Marechal Thaumaturgo</a></td><td class="mono">18.154</td><td class="mono">R$ 288,0 mi</td><td class="mono dim">R$ 15.867</td><td class="mono dim">931</td></tr><tr class="clk" onclick="window.location='/municipio/1200344'"><td class="l mono dim2">18</td><td class="l"><a href="/municipio/1200344">Manoel Urbano</a></td><td class="mono">13.057</td><td class="mono">R$ 262,6 mi</td><td class="mono dim">R$ 20.113</td><td class="mono dim">744</td></tr><tr class="clk" onclick="window.location='/municipio/1200393'"><td class="l mono dim2">19</td><td class="l"><a href="/municipio/1200393">Porto Walter</a></td><td class="mono">11.386</td><td class="mono">R$ 200,5 mi</td><td class="mono dim">R$ 17.610</td><td class="mono dim">930</td></tr><tr class="clk" onclick="window.location='/municipio/1200054'"><td class="l mono dim2">20</td><td class="l"><a href="/municipio/1200054">Assis Brasil</a></td><td class="mono">8.716</td><td class="mono">R$ 187,4 mi</td><td class="mono dim">R$ 21.497</td><td class="mono dim">749</td></tr><tr class="clk" onclick="window.location='/municipio/1200328'"><td class="l mono dim2">21</td><td class="l"><a href="/municipio/1200328">Jordão</a></td><td class="mono">9.972</td><td class="mono">R$ 150,6 mi</td><td class="mono dim">R$ 15.107</td><td class="mono dim">764</td></tr><tr class="clk" onclick="window.location='/municipio/1200435'"><td class="l mono dim2">22</td><td class="l"><a href="/municipio/1200435">Santa Rosa do Purus</a></td><td class="mono">7.285</td><td class="mono">R$ 124,1 mi</td><td class="mono dim">R$ 17.031</td><td class="mono dim">626</td></tr>
+</tbody></table></div></article>
+
+<div class="note"><b>Fonte.</b> IBGE: PIB dos Municípios (SIDRA t/5938), estimativas de população (t/6579) e Censo 2022 (t/4709), Cadastro Central de Empresas (t/9528) e PAM/PPM (t/5457, t/74), como publicados; "Mil Reais" convertido para R$. PIB per capita e participações são cálculo da página. Não é recomendação de nada.</div>
+<div class="dl" style="font-size:11px;margin-top:8px"><b class="dim">Dados:</b> <a href="/dados/municipios_ibge">municipios_ibge</a> <a href="/dados/cempre_municipios">cempre_municipios</a> <a href="/dados/agro_municipios">agro_municipios</a></div>
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Municípios — Acre. https://atlasmercados.com.br/municipios/uf/AC. Dados: IBGE — PIB dos Municípios (t/5938), população (t/6579), CEMPRE (t/9528). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    
+    Permalink: <a href="https://atlasmercados.com.br/municipios/uf/AC">https://atlasmercados.com.br/municipios/uf/AC</a>
+    
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

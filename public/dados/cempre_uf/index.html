@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emprego formal por UF × seção e divisão CNAE (CEMPRE) — dados em Parquet e CSV — Atlas Mercados</title>
+<meta name="description" content="Emprego formal por UF × seção e divisão CNAE (CEMPRE): 36.624 linhas, de 2022 a 2024, em Parquet e CSV (dado oficial como publicado), coletado em 20/10/2026.">
+<link rel="canonical" href="https://atlasmercados.com.br/dados/cempre_uf">
+<link rel="alternate" type="text/markdown" href="/dados/cempre_uf.md">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Emprego formal por UF × seção e divisão CNAE (CEMPRE) — dados em Parquet e CSV — Atlas Mercados">
+<meta property="og:description" content="Emprego formal por UF × seção e divisão CNAE (CEMPRE): 36.624 linhas, de 2022 a 2024, em Parquet e CSV (dado oficial como publicado), coletado em 20/10/2026.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/cempre_uf", "url": "https://atlasmercados.com.br/dados/cempre_uf", "identifier": "atlas-mercados:cempre_uf", "name": "Emprego formal por UF × seção e divisão CNAE (CEMPRE)", "description": "Cadastro Central de Empresas do IBGE, Brasil e UFs, 2022 em diante: unidades locais, pessoal ocupado total, pessoal assalariado e salários por seção e divisão da CNAE 2.0.", "keywords": ["emprego formal", "assalariados", "CNAE", "UF", "CEMPRE", "IBGE"], "inLanguage": "pt-BR", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "creator": {"@type": "GovernmentOrganization", "name": "IBGE"}, "publisher": {"@type": "Organization", "name": "Atlas Mercados", "url": "https://atlasmercados.com.br"}, "includedInDataCatalog": {"@type": "DataCatalog", "name": "Atlas Mercados — dados", "url": "https://atlasmercados.com.br/dados"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/cempre_uf.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/cempre_uf.csv"}], "variableMeasured": ["ano", "nivel_cod", "territorio_cod", "territorio_nome", "uf_sigla", "nivel_cnae", "cnae_cod", "cnae_nome", "chave", "unidade", "valor", "situacao"], "creditText": "IBGE; compilação Atlas Mercados", "temporalCoverage": "2022-01-01/2024-12-31", "dateModified": "2026-10-20", "version": "2026-10-20", "isBasedOn": [{"@type": "Dataset", "name": "CEMPRE — unidades locais, pessoal ocupado, assalariados e salários por UF × seção e divisão CNAE", "url": "https://sidra.ibge.gov.br/tabela/9528"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Dados", "item": "https://atlasmercados.com.br/dados"}, {"@type": "ListItem", "position": 3, "name": "Emprego formal por UF × seção e divisão CNAE (CEMPRE)", "item": "https://atlasmercados.com.br/dados/cempre_uf"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="on" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/comercio-exterior" class="" title="Comércio ext.">
+      <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/trabalho" class="" title="Trabalho">
+      <span class="i">⚒</span><span class="l">Trabalho</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Emprego formal por UF × seção e divisão CNAE (CEMPRE)</h1>
+<p class="sub"><b>IBGE</b> · dado oficial como publicado · <span class="mono">cempre_uf</span></p>
+<p class="resposta" data-resposta>Emprego formal por UF × seção e divisão CNAE (CEMPRE): 36.624 linhas, de 2022 a 2024, em Parquet e CSV (dado oficial como publicado), coletado em 20/10/2026.</p>
+
+<section class="kpis" aria-label="Resumo do conjunto">
+  <div class="kpi"><div class="t">Linhas</div><div class="v mono acc" style="font-size:18px">36.624</div><div class="d">12 colunas</div></div>
+  <div class="kpi"><div class="t">Período</div><div class="v mono" style="font-size:16px">2022 – 2024</div><div class="d">cobertura temporal</div></div>
+  <div class="kpi"><div class="t">Coletado em</div><div class="v mono" style="font-size:16px">2026-10-20</div><div class="d">última ingestão</div></div>
+  <div class="kpi"><div class="t">Parquet</div><div class="v mono" style="font-size:16px">0,2 MB</div><div class="d"><a href="/dados/cempre_uf.parquet" class="acc">baixar</a></div></div>
+  <div class="kpi"><div class="t">CSV</div><div class="v mono" style="font-size:16px">texto</div><div class="d"><a href="/dados/cempre_uf.csv" class="acc">baixar</a></div></div>
+  <div class="kpi"><div class="t">Licença</div><div class="v" style="font-size:12.5px;line-height:1.35"><a href="https://creativecommons.org/licenses/by/4.0/deed.pt-br" rel="license nofollow">CC BY 4.0</a></div><div class="d"><a href="/licenca">termos e fontes</a></div></div>
+</section>
+
+<article class="panel">
+  <h2>O que é</h2>
+  <p style="margin:0;max-width:90ch">Cadastro Central de Empresas do IBGE, Brasil e UFs, 2022 em diante: unidades locais, pessoal ocupado total, pessoal assalariado e salários por seção e divisão da CNAE 2.0.</p>
+</article>
+
+<div class="row1" style="margin-top:16px">
+  <article class="panel">
+    <h2>Colunas <span class="h">12 · tipo no Parquet</span></h2>
+    <table>
+      <thead><tr><th class="l">Coluna</th><th class="l">Tipo</th><th class="l">O que é</th></tr></thead>
+      <tbody>
+      <tr><td class="l mono acc">ano</td><td class="l mono dim2" style="font-size:10.5px">int64</td><td class="l dim" style="font-size:11.5px">Ano de referência.</td></tr><tr><td class="l mono acc">nivel_cod</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nível territorial: 1 Brasil, 2 Grande Região, 3 UF.</td></tr><tr><td class="l mono acc">territorio_cod</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Código IBGE do território (1 = Brasil; 35 = São Paulo…).</td></tr><tr><td class="l mono acc">territorio_nome</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nome do território.</td></tr><tr><td class="l mono acc">uf_sigla</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Sigla da UF (vazio para Brasil e regiões).</td></tr><tr><td class="l mono acc">nivel_cnae</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nível da CNAE: total, secao (A–U) ou divisao (2 dígitos).</td></tr><tr><td class="l mono acc">cnae_cod</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Chave harmonizada do projeto entre as séries antiga e nova (ex.: 47.7, 4.4, 4754+4757+4759).</td></tr><tr><td class="l mono acc">cnae_nome</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nome da seção ou divisão da CNAE 2.0.</td></tr><tr><td class="l mono acc">chave</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nome curto da variável.</td></tr><tr><td class="l mono acc">unidade</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Unidade do valor depois da conversão (R$, Unidades, Pessoas, Número-índice, %).</td></tr><tr><td class="l mono acc">valor</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Valor numérico (Mil Reais já multiplicado por 1.000 → R$). Vazio quando sigilo ou não divulgado.</td></tr><tr><td class="l mono acc">situacao</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">ok, zero (o &#39;-&#39; da fonte), sigilo (X), nd (não divulgado/não disponível).</td></tr>
+      </tbody>
+    </table>
+  </article>
+  <article class="panel">
+    <h2>Como carregar</h2>
+    <pre class="mono" style="font-size:11.5px;white-space:pre-wrap;margin:0">import pandas as pd
+df = pd.read_csv("https://atlasmercados.com.br/dados/cempre_uf.csv")
+
+# ou, direto no Parquet, com DuckDB:
+import duckdb
+duckdb.sql("SELECT * FROM 'https://atlasmercados.com.br/dados/cempre_uf.parquet' LIMIT 10")</pre>
+    
+    <h2 style="margin-top:16px">Tabelas de origem <span class="h">1</span></h2>
+    <table>
+      <thead><tr><th class="l">Fonte</th><th class="l">Período</th><th>Linhas</th></tr></thead>
+      <tbody>
+      
+      <tr>
+        <td class="l" style="font-size:11.5px"><a href="https://sidra.ibge.gov.br/tabela/9528" rel="nofollow" class="acc mono">t/9528</a> CEMPRE — unidades locais, pessoal ocupado, assalariados e salários por UF × seção e divisão CNAE</td>
+        <td class="l mono dim">2022–2024</td>
+        <td class="mono dim">36.624</td>
+      </tr>
+      
+      </tbody>
+    </table>
+    
+  </article>
+</div>
+
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Emprego formal por UF × seção e divisão CNAE (CEMPRE). https://atlasmercados.com.br/dados/cempre_uf. Dados: IBGE. Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    Identificador da série: <code>atlas-mercados:cempre_uf</code> · 
+    Permalink: <a href="https://atlasmercados.com.br/dados/cempre_uf">https://atlasmercados.com.br/dados/cempre_uf</a>
+    
+     · <a href="/dados/cempre_uf.csv">CSV</a>
+     · <a href="/dados/cempre_uf.parquet">Parquet</a>
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

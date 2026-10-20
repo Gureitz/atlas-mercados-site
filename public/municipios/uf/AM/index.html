@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Municípios do Amazonas — população, PIB e emprego — Atlas Mercados</title>
+<meta name="description" content="O Amazonas tem 62 municípios; os maiores pelo PIB de 2023 são Manaus (R$ 127,6 bilhões), Coari (R$ 3,9 bilhões) e Itacoatiara (R$ 3,3 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<link rel="canonical" href="https://atlasmercados.com.br/municipios/uf/AM">
+<link rel="alternate" type="text/markdown" href="/municipios/uf/AM.md">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Municípios do Amazonas — população, PIB e emprego — Atlas Mercados">
+<meta property="og:description" content="O Amazonas tem 62 municípios; os maiores pelo PIB de 2023 são Manaus (R$ 127,6 bilhões), Coari (R$ 3,9 bilhões) e Itacoatiara (R$ 3,3 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}.arv .p4{padding-left:90px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv tr.n3 td,.arv tr.n4 td{font-size:11px;color:var(--dim)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .tag{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:0 0 16px}
+  .card{display:block;padding:14px 16px;border:1px solid var(--bd);border-radius:10px;background:var(--panel)}
+  .card:hover{border-color:var(--acc)}
+  .card .t{font-size:11px;color:var(--dim2);text-transform:uppercase;letter-spacing:.06em}
+  .card .v{font-size:19px;margin:6px 0 2px}
+  .card .d{font-size:11px;color:var(--dim)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .bars{height:140px}
+  .bars .b{background:var(--acc)}
+  .bars .b .t{position:absolute;top:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--dim2);white-space:nowrap}
+  .sel{height:32px;background:var(--panel);border:1px solid var(--bd);border-radius:8px;color:var(--tx);padding:0 10px;font-family:inherit;font-size:12px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Municípios — Amazonas", "item": "https://atlasmercados.com.br/municipios/uf/AM"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="on" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/comercio-exterior" class="" title="Comércio ext.">
+      <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/trabalho" class="" title="Trabalho">
+      <span class="i">⚒</span><span class="l">Trabalho</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+
+<h1 class="page">Municípios do Amazonas</h1>
+<p class="sub"><a href="/trabalho/uf/AM">trabalho</a> · <a href="/economia/industria/uf/AM">economia</a> · 62 municípios · ordenados pelo PIB</p>
+<p class="resposta" data-resposta>O Amazonas tem 62 municípios; os maiores pelo PIB de 2023 são Manaus (R$ 127,6 bilhões), Coari (R$ 3,9 bilhões) e Itacoatiara (R$ 3,3 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).</p>
+<article class="panel" style="padding:0"><div class="scrim" style="overflow:auto">
+<table><thead><tr><th class="l">#</th><th class="l">Município</th><th>População</th><th>PIB</th><th>PIB per capita (calc.)</th><th>Pessoal ocupado (CEMPRE)</th></tr></thead><tbody>
+<tr class="clk" onclick="window.location='/municipio/1302603'"><td class="l mono dim2">1</td><td class="l"><a href="/municipio/1302603">Manaus</a></td><td class="mono">2.327.101</td><td class="mono">R$ 127,6 bi</td><td class="mono dim">R$ 54.854</td><td class="mono dim">692.491</td></tr><tr class="clk" onclick="window.location='/municipio/1301209'"><td class="l mono dim2">2</td><td class="l"><a href="/municipio/1301209">Coari</a></td><td class="mono">73.403</td><td class="mono">R$ 3,9 bi</td><td class="mono dim">R$ 53.045</td><td class="mono dim">10.737</td></tr><tr class="clk" onclick="window.location='/municipio/1301902'"><td class="l mono dim2">3</td><td class="l"><a href="/municipio/1301902">Itacoatiara</a></td><td class="mono">115.218</td><td class="mono">R$ 3,3 bi</td><td class="mono dim">R$ 28.832</td><td class="mono dim">12.542</td></tr><tr class="clk" onclick="window.location='/municipio/1302504'"><td class="l mono dim2">4</td><td class="l"><a href="/municipio/1302504">Manacapuru</a></td><td class="mono">113.042</td><td class="mono">R$ 1,9 bi</td><td class="mono dim">R$ 16.962</td><td class="mono dim">12.074</td></tr><tr class="clk" onclick="window.location='/municipio/1303403'"><td class="l mono dim2">5</td><td class="l"><a href="/municipio/1303403">Parintins</a></td><td class="mono">101.754</td><td class="mono">R$ 1,7 bi</td><td class="mono dim">R$ 16.284</td><td class="mono dim">11.097</td></tr><tr class="clk" onclick="window.location='/municipio/1304203'"><td class="l mono dim2">6</td><td class="l"><a href="/municipio/1304203">Tefé</a></td><td class="mono">81.046</td><td class="mono">R$ 1,6 bi</td><td class="mono dim">R$ 19.983</td><td class="mono dim">12.390</td></tr><tr class="clk" onclick="window.location='/municipio/1301852'"><td class="l mono dim2">7</td><td class="l"><a href="/municipio/1301852">Iranduba</a></td><td class="mono">70.248</td><td class="mono">R$ 1,3 bi</td><td class="mono dim">R$ 17.986</td><td class="mono dim">8.640</td></tr><tr class="clk" onclick="window.location='/municipio/1302702'"><td class="l mono dim2">8</td><td class="l"><a href="/municipio/1302702">Manicoré</a></td><td class="mono">58.557</td><td class="mono">R$ 926,4 mi</td><td class="mono dim">R$ 15.821</td><td class="mono dim">6.152</td></tr><tr class="clk" onclick="window.location='/municipio/1301704'"><td class="l mono dim2">9</td><td class="l"><a href="/municipio/1301704">Humaitá</a></td><td class="mono">64.390</td><td class="mono">R$ 926,1 mi</td><td class="mono dim">R$ 14.382</td><td class="mono dim">5.290</td></tr><tr class="clk" onclick="window.location='/municipio/1304062'"><td class="l mono dim2">10</td><td class="l"><a href="/municipio/1304062">Tabatinga</a></td><td class="mono">74.384</td><td class="mono">R$ 849,7 mi</td><td class="mono dim">R$ 11.423</td><td class="mono dim">7.412</td></tr><tr class="clk" onclick="window.location='/municipio/1302405'"><td class="l mono dim2">11</td><td class="l"><a href="/municipio/1302405">Lábrea</a></td><td class="mono">50.040</td><td class="mono">R$ 743,0 mi</td><td class="mono dim">R$ 14.848</td><td class="mono dim">3.065</td></tr><tr class="clk" onclick="window.location='/municipio/1303536'"><td class="l mono dim2">12</td><td class="l"><a href="/municipio/1303536">Presidente Figueiredo</a></td><td class="mono">33.580</td><td class="mono">R$ 730,3 mi</td><td class="mono dim">R$ 21.748</td><td class="mono dim">5.691</td></tr><tr class="clk" onclick="window.location='/municipio/1302900'"><td class="l mono dim2">13</td><td class="l"><a href="/municipio/1302900">Maués</a></td><td class="mono">67.021</td><td class="mono">R$ 695,9 mi</td><td class="mono dim">R$ 10.383</td><td class="mono dim">4.199</td></tr><tr class="clk" onclick="window.location='/municipio/1301407'"><td class="l mono dim2">14</td><td class="l"><a href="/municipio/1301407">Eirunepé</a></td><td class="mono">36.027</td><td class="mono">R$ 683,6 mi</td><td class="mono dim">R$ 18.976</td><td class="mono dim">2.329</td></tr><tr class="clk" onclick="window.location='/municipio/1300706'"><td class="l mono dim2">15</td><td class="l"><a href="/municipio/1300706">Boca do Acre</a></td><td class="mono">39.176</td><td class="mono">R$ 661,7 mi</td><td class="mono dim">R$ 16.891</td><td class="mono dim">3.738</td></tr><tr class="clk" onclick="window.location='/municipio/1301308'"><td class="l mono dim2">16</td><td class="l"><a href="/municipio/1301308">Codajás</a></td><td class="mono">24.627</td><td class="mono">R$ 637,7 mi</td><td class="mono dim">R$ 25.895</td><td class="mono dim">1.949</td></tr><tr class="clk" onclick="window.location='/municipio/1300300'"><td class="l mono dim2">17</td><td class="l"><a href="/municipio/1300300">Autazes</a></td><td class="mono">46.641</td><td class="mono">R$ 585,0 mi</td><td class="mono dim">R$ 12.542</td><td class="mono dim">4.274</td></tr><tr class="clk" onclick="window.location='/municipio/1303809'"><td class="l mono dim2">18</td><td class="l"><a href="/municipio/1303809">São Gabriel da Cachoeira</a></td><td class="mono">58.359</td><td class="mono">R$ 584,4 mi</td><td class="mono dim">R$ 10.014</td><td class="mono dim">3.171</td></tr><tr class="clk" onclick="window.location='/municipio/1303569'"><td class="l mono dim2">19</td><td class="l"><a href="/municipio/1303569">Rio Preto da Eva</a></td><td class="mono">25.342</td><td class="mono">R$ 495,9 mi</td><td class="mono dim">R$ 19.567</td><td class="mono dim">2.854</td></tr><tr class="clk" onclick="window.location='/municipio/1300607'"><td class="l mono dim2">20</td><td class="l"><a href="/municipio/1300607">Benjamin Constant</a></td><td class="mono">41.261</td><td class="mono">R$ 469,4 mi</td><td class="mono dim">R$ 11.377</td><td class="mono dim">3.423</td></tr><tr class="clk" onclick="window.location='/municipio/1301100'"><td class="l mono dim2">21</td><td class="l"><a href="/municipio/1301100">Careiro</a></td><td class="mono">32.289</td><td class="mono">R$ 436,7 mi</td><td class="mono dim">R$ 13.524</td><td class="mono dim">4.332</td></tr><tr class="clk" onclick="window.location='/municipio/1300805'"><td class="l mono dim2">22</td><td class="l"><a href="/municipio/1300805">Borba</a></td><td class="mono">34.836</td><td class="mono">R$ 435,7 mi</td><td class="mono dim">R$ 12.507</td><td class="mono dim">4.179</td></tr><tr class="clk" onclick="window.location='/municipio/1304005'"><td class="l mono dim2">23</td><td class="l"><a href="/municipio/1304005">Silves</a></td><td class="mono">12.827</td><td class="mono">R$ 434,2 mi</td><td class="mono dim">R$ 33.853</td><td class="mono dim">1.326</td></tr><tr class="clk" onclick="window.location='/municipio/1301001'"><td class="l mono dim2">24</td><td class="l"><a href="/municipio/1301001">Carauari</a></td><td class="mono">31.383</td><td class="mono">R$ 433,3 mi</td><td class="mono dim">R$ 13.808</td><td class="mono dim">2.080</td></tr><tr class="clk" onclick="window.location='/municipio/1301159'"><td class="l mono dim2">25</td><td class="l"><a href="/municipio/1301159">Careiro da Várzea</a></td><td class="mono">20.081</td><td class="mono">R$ 418,9 mi</td><td class="mono dim">R$ 20.862</td><td class="mono dim">1.634</td></tr><tr class="clk" onclick="window.location='/municipio/1300508'"><td class="l mono dim2">26</td><td class="l"><a href="/municipio/1300508">Barreirinha</a></td><td class="mono">34.025</td><td class="mono">R$ 398,1 mi</td><td class="mono dim">R$ 11.699</td><td class="mono dim">3.991</td></tr><tr class="clk" onclick="window.location='/municipio/1302306'"><td class="l mono dim2">27</td><td class="l"><a href="/municipio/1302306">Jutaí</a></td><td class="mono">28.712</td><td class="mono">R$ 394,6 mi</td><td class="mono dim">R$ 13.742</td><td class="mono dim">1.542</td></tr><tr class="clk" onclick="window.location='/municipio/1300144'"><td class="l mono dim2">28</td><td class="l"><a href="/municipio/1300144">Apuí</a></td><td class="mono">21.971</td><td class="mono">R$ 386,1 mi</td><td class="mono dim">R$ 17.575</td><td class="mono dim">1.737</td></tr><tr class="clk" onclick="window.location='/municipio/1303908'"><td class="l mono dim2">29</td><td class="l"><a href="/municipio/1303908">São Paulo de Olivença</a></td><td class="mono">35.619</td><td class="mono">R$ 358,4 mi</td><td class="mono dim">R$ 10.062</td><td class="mono dim">2.974</td></tr><tr class="clk" onclick="window.location='/municipio/1303106'"><td class="l mono dim2">30</td><td class="l"><a href="/municipio/1303106">Nova Olinda do Norte</a></td><td class="mono">27.965</td><td class="mono">R$ 354,7 mi</td><td class="mono dim">R$ 12.683</td><td class="mono dim">2.742</td></tr><tr class="clk" onclick="window.location='/municipio/1303700'"><td class="l mono dim2">31</td><td class="l"><a href="/municipio/1303700">Santo Antônio do Içá</a></td><td class="mono">30.987</td><td class="mono">R$ 354,3 mi</td><td class="mono dim">R$ 11.433</td><td class="mono dim">2.863</td></tr><tr class="clk" onclick="window.location='/municipio/1301605'"><td class="l mono dim2">32</td><td class="l"><a href="/municipio/1301605">Fonte Boa</a></td><td class="mono">28.491</td><td class="mono">R$ 324,3 mi</td><td class="mono dim">R$ 11.384</td><td class="mono dim">3.278</td></tr><tr class="clk" onclick="window.location='/municipio/1304104'"><td class="l mono dim2">33</td><td class="l"><a href="/municipio/1304104">Tapauá</a></td><td class="mono">20.849</td><td class="mono">R$ 318,0 mi</td><td class="mono dim">R$ 15.253</td><td class="mono dim">2.227</td></tr><tr class="clk" onclick="window.location='/municipio/1303304'"><td class="l mono dim2">34</td><td class="l"><a href="/municipio/1303304">Novo Aripuanã</a></td><td class="mono">25.506</td><td class="mono">R$ 311,7 mi</td><td class="mono dim">R$ 12.222</td><td class="mono dim">1.949</td></tr><tr class="clk" onclick="window.location='/municipio/1302553'"><td class="l mono dim2">35</td><td class="l"><a href="/municipio/1302553">Manaquiri</a></td><td class="mono">15.902</td><td class="mono">R$ 303,9 mi</td><td class="mono dim">R$ 19.114</td><td class="mono dim">1.190</td></tr><tr class="clk" onclick="window.location='/municipio/1304401'"><td class="l mono dim2">36</td><td class="l"><a href="/municipio/1304401">Urucurituba</a></td><td class="mono">26.373</td><td class="mono">R$ 297,2 mi</td><td class="mono dim">R$ 11.268</td><td class="mono dim">1.987</td></tr><tr class="clk" onclick="window.location='/municipio/1300102'"><td class="l mono dim2">37</td><td class="l"><a href="/municipio/1300102">Anori</a></td><td class="mono">18.135</td><td class="mono">R$ 297,2 mi</td><td class="mono dim">R$ 16.387</td><td class="mono dim">1.324</td></tr><tr class="clk" onclick="window.location='/municipio/1304260'"><td class="l mono dim2">38</td><td class="l"><a href="/municipio/1304260">Uarini</a></td><td class="mono">15.815</td><td class="mono">R$ 265,2 mi</td><td class="mono dim">R$ 16.772</td><td class="mono dim">823</td></tr><tr class="clk" onclick="window.location='/municipio/1300631'"><td class="l mono dim2">39</td><td class="l"><a href="/municipio/1300631">Beruri</a></td><td class="mono">22.842</td><td class="mono">R$ 262,1 mi</td><td class="mono dim">R$ 11.475</td><td class="mono dim">1.574</td></tr><tr class="clk" onclick="window.location='/municipio/1301803'"><td class="l mono dim2">40</td><td class="l"><a href="/municipio/1301803">Ipixuna</a></td><td class="mono">25.792</td><td class="mono">R$ 247,8 mi</td><td class="mono dim">R$ 9.609</td><td class="mono dim">688</td></tr><tr class="clk" onclick="window.location='/municipio/1304302'"><td class="l mono dim2">41</td><td class="l"><a href="/municipio/1304302">Urucará</a></td><td class="mono">19.738</td><td class="mono">R$ 244,5 mi</td><td class="mono dim">R$ 12.390</td><td class="mono dim">1.468</td></tr><tr class="clk" onclick="window.location='/municipio/1300680'"><td class="l mono dim2">42</td><td class="l"><a href="/municipio/1300680">Boa Vista do Ramos</a></td><td class="mono">27.052</td><td class="mono">R$ 243,8 mi</td><td class="mono dim">R$ 9.011</td><td class="mono dim">2.481</td></tr><tr class="clk" onclick="window.location='/municipio/1303205'"><td class="l mono dim2">43</td><td class="l"><a href="/municipio/1303205">Novo Airão</a></td><td class="mono">16.648</td><td class="mono">R$ 243,3 mi</td><td class="mono dim">R$ 14.615</td><td class="mono dim">2.400</td></tr><tr class="clk" onclick="window.location='/municipio/1300029'"><td class="l mono dim2">44</td><td class="l"><a href="/municipio/1300029">Alvarães</a></td><td class="mono">16.938</td><td class="mono">R$ 242,6 mi</td><td class="mono dim">R$ 14.322</td><td class="mono dim">2.030</td></tr><tr class="clk" onclick="window.location='/municipio/1300409'"><td class="l mono dim2">45</td><td class="l"><a href="/municipio/1300409">Barcelos</a></td><td class="mono">17.805</td><td class="mono">R$ 242,1 mi</td><td class="mono dim">R$ 13.597</td><td class="mono dim">1.308</td></tr><tr class="clk" onclick="window.location='/municipio/1303007'"><td class="l mono dim2">46</td><td class="l"><a href="/municipio/1303007">Nhamundá</a></td><td class="mono">21.394</td><td class="mono">R$ 239,7 mi</td><td class="mono dim">R$ 11.206</td><td class="mono dim">1.922</td></tr><tr class="clk" onclick="window.location='/municipio/1303502'"><td class="l mono dim2">47</td><td class="l"><a href="/municipio/1303502">Pauini</a></td><td class="mono">20.330</td><td class="mono">R$ 237,8 mi</td><td class="mono dim">R$ 11.699</td><td class="mono dim">1.623</td></tr><tr class="clk" onclick="window.location='/municipio/1301506'"><td class="l mono dim2">48</td><td class="l"><a href="/municipio/1301506">Envira</a></td><td class="mono">18.062</td><td class="mono">R$ 236,1 mi</td><td class="mono dim">R$ 13.073</td><td class="mono dim">1.550</td></tr><tr class="clk" onclick="window.location='/municipio/1300839'"><td class="l mono dim2">49</td><td class="l"><a href="/municipio/1300839">Caapiranga</a></td><td class="mono">14.980</td><td class="mono">R$ 219,1 mi</td><td class="mono dim">R$ 14.627</td><td class="mono dim">1.739</td></tr><tr class="clk" onclick="window.location='/municipio/1304237'"><td class="l mono dim2">50</td><td class="l"><a href="/municipio/1304237">Tonantins</a></td><td class="mono">20.417</td><td class="mono">R$ 214,6 mi</td><td class="mono dim">R$ 10.511</td><td class="mono dim">2.901</td></tr><tr class="clk" onclick="window.location='/municipio/1300904'"><td class="l mono dim2">51</td><td class="l"><a href="/municipio/1300904">Canutama</a></td><td class="mono">18.327</td><td class="mono">R$ 208,2 mi</td><td class="mono dim">R$ 11.363</td><td class="mono dim">1.896</td></tr><tr class="clk" onclick="window.location='/municipio/1300201'"><td class="l mono dim2">52</td><td class="l"><a href="/municipio/1300201">Atalaia do Norte</a></td><td class="mono">15.920</td><td class="mono">R$ 206,8 mi</td><td class="mono dim">R$ 12.988</td><td class="mono dim">2.104</td></tr><tr class="clk" onclick="window.location='/municipio/1302801'"><td class="l mono dim2">53</td><td class="l"><a href="/municipio/1302801">Maraã</a></td><td class="mono">15.716</td><td class="mono">R$ 202,7 mi</td><td class="mono dim">R$ 12.896</td><td class="mono dim">1.795</td></tr><tr class="clk" onclick="window.location='/municipio/1303601'"><td class="l mono dim2">54</td><td class="l"><a href="/municipio/1303601">Santa Isabel do Rio Negro</a></td><td class="mono">13.724</td><td class="mono">R$ 197,9 mi</td><td class="mono dim">R$ 14.417</td><td class="mono dim">1.391</td></tr><tr class="clk" onclick="window.location='/municipio/1302009'"><td class="l mono dim2">55</td><td class="l"><a href="/municipio/1302009">Itapiranga</a></td><td class="mono">11.090</td><td class="mono">R$ 196,6 mi</td><td class="mono dim">R$ 17.724</td><td class="mono dim">973</td></tr><tr class="clk" onclick="window.location='/municipio/1301654'"><td class="l mono dim2">56</td><td class="l"><a href="/municipio/1301654">Guajará</a></td><td class="mono">14.356</td><td class="mono">R$ 184,6 mi</td><td class="mono dim">R$ 12.862</td><td class="mono dim">737</td></tr><tr class="clk" onclick="window.location='/municipio/1301951'"><td class="l mono dim2">57</td><td class="l"><a href="/municipio/1301951">Itamarati</a></td><td class="mono">12.150</td><td class="mono">R$ 161,8 mi</td><td class="mono dim">R$ 13.315</td><td class="mono dim">1.172</td></tr><tr class="clk" onclick="window.location='/municipio/1300086'"><td class="l mono dim2">58</td><td class="l"><a href="/municipio/1300086">Anamã</a></td><td class="mono">9.981</td><td class="mono">R$ 154,7 mi</td><td class="mono dim">R$ 15.499</td><td class="mono dim">720</td></tr><tr class="clk" onclick="window.location='/municipio/1302207'"><td class="l mono dim2">59</td><td class="l"><a href="/municipio/1302207">Juruá</a></td><td class="mono">11.106</td><td class="mono">R$ 147,9 mi</td><td class="mono dim">R$ 13.322</td><td class="mono dim">1.483</td></tr><tr class="clk" onclick="window.location='/municipio/1303957'"><td class="l mono dim2">60</td><td class="l"><a href="/municipio/1303957">São Sebastião do Uatumã</a></td><td class="mono">12.415</td><td class="mono">R$ 145,5 mi</td><td class="mono dim">R$ 11.721</td><td class="mono dim">880</td></tr><tr class="clk" onclick="window.location='/municipio/1302108'"><td class="l mono dim2">61</td><td class="l"><a href="/municipio/1302108">Japurá</a></td><td class="mono">9.527</td><td class="mono">R$ 145,3 mi</td><td class="mono dim">R$ 15.255</td><td class="mono dim">1.675</td></tr><tr class="clk" onclick="window.location='/municipio/1300060'"><td class="l mono dim2">62</td><td class="l"><a href="/municipio/1300060">Amaturá</a></td><td class="mono">11.633</td><td class="mono">R$ 134,7 mi</td><td class="mono dim">R$ 11.582</td><td class="mono dim">647</td></tr>
+</tbody></table></div></article>
+
+<div class="note"><b>Fonte.</b> IBGE: PIB dos Municípios (SIDRA t/5938), estimativas de população (t/6579) e Censo 2022 (t/4709), Cadastro Central de Empresas (t/9528) e PAM/PPM (t/5457, t/74), como publicados; "Mil Reais" convertido para R$. PIB per capita e participações são cálculo da página. Não é recomendação de nada.</div>
+<div class="dl" style="font-size:11px;margin-top:8px"><b class="dim">Dados:</b> <a href="/dados/municipios_ibge">municipios_ibge</a> <a href="/dados/cempre_municipios">cempre_municipios</a> <a href="/dados/agro_municipios">agro_municipios</a></div>
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Municípios — Amazonas. https://atlasmercados.com.br/municipios/uf/AM. Dados: IBGE — PIB dos Municípios (t/5938), população (t/6579), CEMPRE (t/9528). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    
+    Permalink: <a href="https://atlasmercados.com.br/municipios/uf/AM">https://atlasmercados.com.br/municipios/uf/AM</a>
+    
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

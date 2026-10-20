@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Municípios de Mato Grosso do Sul — população, PIB e emprego — Atlas Mercados</title>
+<meta name="description" content="Mato Grosso do Sul tem 79 municípios; os maiores pelo PIB de 2023 são Campo Grande (R$ 42,3 bilhões), Dourados (R$ 20,3 bilhões) e Três Lagoas (R$ 14,8 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<link rel="canonical" href="https://atlasmercados.com.br/municipios/uf/MS">
+<link rel="alternate" type="text/markdown" href="/municipios/uf/MS.md">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Municípios de Mato Grosso do Sul — população, PIB e emprego — Atlas Mercados">
+<meta property="og:description" content="Mato Grosso do Sul tem 79 municípios; os maiores pelo PIB de 2023 são Campo Grande (R$ 42,3 bilhões), Dourados (R$ 20,3 bilhões) e Três Lagoas (R$ 14,8 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}.arv .p4{padding-left:90px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv tr.n3 td,.arv tr.n4 td{font-size:11px;color:var(--dim)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .tag{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:0 0 16px}
+  .card{display:block;padding:14px 16px;border:1px solid var(--bd);border-radius:10px;background:var(--panel)}
+  .card:hover{border-color:var(--acc)}
+  .card .t{font-size:11px;color:var(--dim2);text-transform:uppercase;letter-spacing:.06em}
+  .card .v{font-size:19px;margin:6px 0 2px}
+  .card .d{font-size:11px;color:var(--dim)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .bars{height:140px}
+  .bars .b{background:var(--acc)}
+  .bars .b .t{position:absolute;top:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--dim2);white-space:nowrap}
+  .sel{height:32px;background:var(--panel);border:1px solid var(--bd);border-radius:8px;color:var(--tx);padding:0 10px;font-family:inherit;font-size:12px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Municípios — Mato Grosso do Sul", "item": "https://atlasmercados.com.br/municipios/uf/MS"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="on" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/comercio-exterior" class="" title="Comércio ext.">
+      <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/trabalho" class="" title="Trabalho">
+      <span class="i">⚒</span><span class="l">Trabalho</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+
+<h1 class="page">Municípios de Mato Grosso do Sul</h1>
+<p class="sub"><a href="/trabalho/uf/MS">trabalho</a> · <a href="/economia/industria/uf/MS">economia</a> · 79 municípios · ordenados pelo PIB</p>
+<p class="resposta" data-resposta>Mato Grosso do Sul tem 79 municípios; os maiores pelo PIB de 2023 são Campo Grande (R$ 42,3 bilhões), Dourados (R$ 20,3 bilhões) e Três Lagoas (R$ 14,8 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).</p>
+<article class="panel" style="padding:0"><div class="scrim" style="overflow:auto">
+<table><thead><tr><th class="l">#</th><th class="l">Município</th><th>População</th><th>PIB</th><th>PIB per capita (calc.)</th><th>Pessoal ocupado (CEMPRE)</th></tr></thead><tbody>
+<tr class="clk" onclick="window.location='/municipio/5002704'"><td class="l mono dim2">1</td><td class="l"><a href="/municipio/5002704">Campo Grande</a></td><td class="mono">970.843</td><td class="mono">R$ 42,3 bi</td><td class="mono dim">R$ 43.539</td><td class="mono dim">381.239</td></tr><tr class="clk" onclick="window.location='/municipio/5003702'"><td class="l mono dim2">2</td><td class="l"><a href="/municipio/5003702">Dourados</a></td><td class="mono">266.950</td><td class="mono">R$ 20,3 bi</td><td class="mono dim">R$ 75.887</td><td class="mono dim">87.808</td></tr><tr class="clk" onclick="window.location='/municipio/5008305'"><td class="l mono dim2">3</td><td class="l"><a href="/municipio/5008305">Três Lagoas</a></td><td class="mono">145.514</td><td class="mono">R$ 14,8 bi</td><td class="mono dim">R$ 101.446</td><td class="mono dim">53.898</td></tr><tr class="clk" onclick="window.location='/municipio/5006606'"><td class="l mono dim2">4</td><td class="l"><a href="/municipio/5006606">Ponta Porã</a></td><td class="mono">99.572</td><td class="mono">R$ 6,1 bi</td><td class="mono dim">R$ 60.959</td><td class="mono dim">21.129</td></tr><tr class="clk" onclick="window.location='/municipio/5005400'"><td class="l mono dim2">5</td><td class="l"><a href="/municipio/5005400">Maracaju</a></td><td class="mono">48.564</td><td class="mono">R$ 5,9 bi</td><td class="mono dim">R$ 121.927</td><td class="mono dim">13.563</td></tr><tr class="clk" onclick="window.location='/municipio/5003207'"><td class="l mono dim2">6</td><td class="l"><a href="/municipio/5003207">Corumbá</a></td><td class="mono">96.334</td><td class="mono">R$ 4,2 bi</td><td class="mono dim">R$ 43.468</td><td class="mono dim">22.767</td></tr><tr class="clk" onclick="window.location='/municipio/5007901'"><td class="l mono dim2">7</td><td class="l"><a href="/municipio/5007901">Sidrolândia</a></td><td class="mono">50.079</td><td class="mono">R$ 4,1 bi</td><td class="mono dim">R$ 81.917</td><td class="mono dim">14.043</td></tr><tr class="clk" onclick="window.location='/municipio/5007208'"><td class="l mono dim2">8</td><td class="l"><a href="/municipio/5007208">Rio Brilhante</a></td><td class="mono">40.880</td><td class="mono">R$ 3,8 bi</td><td class="mono dim">R$ 93.785</td><td class="mono dim">13.093</td></tr><tr class="clk" onclick="window.location='/municipio/5005707'"><td class="l mono dim2">9</td><td class="l"><a href="/municipio/5005707">Naviraí</a></td><td class="mono">53.307</td><td class="mono">R$ 3,7 bi</td><td class="mono dim">R$ 68.850</td><td class="mono dim">16.446</td></tr><tr class="clk" onclick="window.location='/municipio/5006200'"><td class="l mono dim2">10</td><td class="l"><a href="/municipio/5006200">Nova Andradina</a></td><td class="mono">51.081</td><td class="mono">R$ 3,6 bi</td><td class="mono dim">R$ 69.864</td><td class="mono dim">16.952</td></tr><tr class="clk" onclick="window.location='/municipio/5007109'"><td class="l mono dim2">11</td><td class="l"><a href="/municipio/5007109">Ribas do Rio Pardo</a></td><td class="mono">24.300</td><td class="mono">R$ 3,4 bi</td><td class="mono dim">R$ 137.995</td><td class="mono dim">13.295</td></tr><tr class="clk" onclick="window.location='/municipio/5003256'"><td class="l mono dim2">12</td><td class="l"><a href="/municipio/5003256">Costa Rica</a></td><td class="mono">29.292</td><td class="mono">R$ 3,3 bi</td><td class="mono dim">R$ 114.075</td><td class="mono dim">7.619</td></tr><tr class="clk" onclick="window.location='/municipio/5002951'"><td class="l mono dim2">13</td><td class="l"><a href="/municipio/5002951">Chapadão do Sul</a></td><td class="mono">35.384</td><td class="mono">R$ 3,3 bi</td><td class="mono dim">R$ 94.097</td><td class="mono dim">12.965</td></tr><tr class="clk" onclick="window.location='/municipio/5007695'"><td class="l mono dim2">14</td><td class="l"><a href="/municipio/5007695">São Gabriel do Oeste</a></td><td class="mono">32.696</td><td class="mono">R$ 2,9 bi</td><td class="mono dim">R$ 88.202</td><td class="mono dim">12.147</td></tr><tr class="clk" onclick="window.location='/municipio/5007802'"><td class="l mono dim2">15</td><td class="l"><a href="/municipio/5007802">Selvíria</a></td><td class="mono">8.834</td><td class="mono">R$ 2,7 bi</td><td class="mono dim">R$ 304.643</td><td class="mono dim">2.414</td></tr><tr class="clk" onclick="window.location='/municipio/5006002'"><td class="l mono dim2">16</td><td class="l"><a href="/municipio/5006002">Nova Alvorada do Sul</a></td><td class="mono">23.747</td><td class="mono">R$ 2,6 bi</td><td class="mono dim">R$ 109.177</td><td class="mono dim">6.210</td></tr><tr class="clk" onclick="window.location='/municipio/5002407'"><td class="l mono dim2">17</td><td class="l"><a href="/municipio/5002407">Caarapó</a></td><td class="mono">33.074</td><td class="mono">R$ 2,6 bi</td><td class="mono dim">R$ 77.193</td><td class="mono dim">9.930</td></tr><tr class="clk" onclick="window.location='/municipio/5000609'"><td class="l mono dim2">18</td><td class="l"><a href="/municipio/5000609">Amambai</a></td><td class="mono">42.071</td><td class="mono">R$ 2,4 bi</td><td class="mono dim">R$ 57.671</td><td class="mono dim">7.670</td></tr><tr class="clk" onclick="window.location='/municipio/5001003'"><td class="l mono dim2">19</td><td class="l"><a href="/municipio/5001003">Aparecida do Taboado</a></td><td class="mono">30.189</td><td class="mono">R$ 2,2 bi</td><td class="mono dim">R$ 72.517</td><td class="mono dim">12.523</td></tr><tr class="clk" onclick="window.location='/municipio/5006309'"><td class="l mono dim2">20</td><td class="l"><a href="/municipio/5006309">Paranaíba</a></td><td class="mono">42.728</td><td class="mono">R$ 2,0 bi</td><td class="mono dim">R$ 47.091</td><td class="mono dim">12.885</td></tr><tr class="clk" onclick="window.location='/municipio/5004700'"><td class="l mono dim2">21</td><td class="l"><a href="/municipio/5004700">Ivinhema</a></td><td class="mono">30.371</td><td class="mono">R$ 2,0 bi</td><td class="mono dim">R$ 66.032</td><td class="mono dim">6.178</td></tr><tr class="clk" onclick="window.location='/municipio/5001904'"><td class="l mono dim2">22</td><td class="l"><a href="/municipio/5001904">Bataguassu</a></td><td class="mono">24.430</td><td class="mono">R$ 1,8 bi</td><td class="mono dim">R$ 75.396</td><td class="mono dim">8.259</td></tr><tr class="clk" onclick="window.location='/municipio/5002209'"><td class="l mono dim2">23</td><td class="l"><a href="/municipio/5002209">Bonito</a></td><td class="mono">25.294</td><td class="mono">R$ 1,6 bi</td><td class="mono dim">R$ 62.725</td><td class="mono dim">7.718</td></tr><tr class="clk" onclick="window.location='/municipio/5004601'"><td class="l mono dim2">24</td><td class="l"><a href="/municipio/5004601">Itaquiraí</a></td><td class="mono">20.122</td><td class="mono">R$ 1,5 bi</td><td class="mono dim">R$ 76.859</td><td class="mono dim">6.309</td></tr><tr class="clk" onclick="window.location='/municipio/5000203'"><td class="l mono dim2">25</td><td class="l"><a href="/municipio/5000203">Água Clara</a></td><td class="mono">18.143</td><td class="mono">R$ 1,5 bi</td><td class="mono dim">R$ 85.137</td><td class="mono dim">8.052</td></tr><tr class="clk" onclick="window.location='/municipio/5004502'"><td class="l mono dim2">26</td><td class="l"><a href="/municipio/5004502">Itaporã</a></td><td class="mono">25.732</td><td class="mono">R$ 1,5 bi</td><td class="mono dim">R$ 59.290</td><td class="mono dim">4.073</td></tr><tr class="clk" onclick="window.location='/municipio/5007935'"><td class="l mono dim2">27</td><td class="l"><a href="/municipio/5007935">Sonora</a></td><td class="mono">14.804</td><td class="mono">R$ 1,5 bi</td><td class="mono dim">R$ 100.587</td><td class="mono dim">4.766</td></tr><tr class="clk" onclick="window.location='/municipio/5001102'"><td class="l mono dim2">28</td><td class="l"><a href="/municipio/5001102">Aquidauana</a></td><td class="mono">48.810</td><td class="mono">R$ 1,4 bi</td><td class="mono dim">R$ 29.450</td><td class="mono dim">8.905</td></tr><tr class="clk" onclick="window.location='/municipio/5003306'"><td class="l mono dim2">29</td><td class="l"><a href="/municipio/5003306">Coxim</a></td><td class="mono">33.488</td><td class="mono">R$ 1,4 bi</td><td class="mono dim">R$ 41.831</td><td class="mono dim">7.288</td></tr><tr class="clk" onclick="window.location='/municipio/5006275'"><td class="l mono dim2">30</td><td class="l"><a href="/municipio/5006275">Paraíso das Águas</a></td><td class="mono">5.904</td><td class="mono">R$ 1,4 bi</td><td class="mono dim">R$ 235.384</td><td class="mono dim">1.704</td></tr><tr class="clk" onclick="window.location='/municipio/5001243'"><td class="l mono dim2">31</td><td class="l"><a href="/municipio/5001243">Aral Moreira</a></td><td class="mono">11.163</td><td class="mono">R$ 1,3 bi</td><td class="mono dim">R$ 120.823</td><td class="mono dim">1.638</td></tr><tr class="clk" onclick="window.location='/municipio/5008008'"><td class="l mono dim2">32</td><td class="l"><a href="/municipio/5008008">Terenos</a></td><td class="mono">18.223</td><td class="mono">R$ 1,3 bi</td><td class="mono dim">R$ 74.002</td><td class="mono dim">3.953</td></tr><tr class="clk" onclick="window.location='/municipio/5005251'"><td class="l mono dim2">33</td><td class="l"><a href="/municipio/5005251">Laguna Carapã</a></td><td class="mono">7.060</td><td class="mono">R$ 1,3 bi</td><td class="mono dim">R$ 178.137</td><td class="mono dim">1.691</td></tr><tr class="clk" onclick="window.location='/municipio/5000856'"><td class="l mono dim2">34</td><td class="l"><a href="/municipio/5000856">Angélica</a></td><td class="mono">11.408</td><td class="mono">R$ 1,2 bi</td><td class="mono dim">R$ 109.000</td><td class="mono dim">7.337</td></tr><tr class="clk" onclick="window.location='/municipio/5002100'"><td class="l mono dim2">35</td><td class="l"><a href="/municipio/5002100">Bela Vista</a></td><td class="mono">21.800</td><td class="mono">R$ 1,2 bi</td><td class="mono dim">R$ 53.959</td><td class="mono dim">3.483</td></tr><tr class="clk" onclick="window.location='/municipio/5002308'"><td class="l mono dim2">36</td><td class="l"><a href="/municipio/5002308">Brasilândia</a></td><td class="mono">11.826</td><td class="mono">R$ 1,2 bi</td><td class="mono dim">R$ 98.040</td><td class="mono dim">3.548</td></tr><tr class="clk" onclick="window.location='/municipio/5005004'"><td class="l mono dim2">37</td><td class="l"><a href="/municipio/5005004">Jardim</a></td><td class="mono">24.499</td><td class="mono">R$ 1,1 bi</td><td class="mono dim">R$ 46.134</td><td class="mono dim">5.589</td></tr><tr class="clk" onclick="window.location='/municipio/5002902'"><td class="l mono dim2">38</td><td class="l"><a href="/municipio/5002902">Cassilândia</a></td><td class="mono">21.581</td><td class="mono">R$ 1,1 bi</td><td class="mono dim">R$ 49.116</td><td class="mono dim">5.335</td></tr><tr class="clk" onclick="window.location='/municipio/5005681'"><td class="l mono dim2">39</td><td class="l"><a href="/municipio/5005681">Mundo Novo</a></td><td class="mono">20.229</td><td class="mono">R$ 1,0 bi</td><td class="mono dim">R$ 50.333</td><td class="mono dim">4.346</td></tr><tr class="clk" onclick="window.location='/municipio/5001508'"><td class="l mono dim2">40</td><td class="l"><a href="/municipio/5001508">Bandeirantes</a></td><td class="mono">8.406</td><td class="mono">R$ 1,0 bi</td><td class="mono dim">R$ 119.123</td><td class="mono dim">2.133</td></tr><tr class="clk" onclick="window.location='/municipio/5004304'"><td class="l mono dim2">41</td><td class="l"><a href="/municipio/5004304">Iguatemi</a></td><td class="mono">13.906</td><td class="mono">R$ 962,6 mi</td><td class="mono dim">R$ 69.221</td><td class="mono dim">3.192</td></tr><tr class="clk" onclick="window.location='/municipio/5004403'"><td class="l mono dim2">42</td><td class="l"><a href="/municipio/5004403">Inocência</a></td><td class="mono">8.814</td><td class="mono">R$ 946,3 mi</td><td class="mono dim">R$ 107.364</td><td class="mono dim">4.838</td></tr><tr class="clk" onclick="window.location='/municipio/5007406'"><td class="l mono dim2">43</td><td class="l"><a href="/municipio/5007406">Rio Verde de Mato Grosso</a></td><td class="mono">20.513</td><td class="mono">R$ 926,6 mi</td><td class="mono dim">R$ 45.171</td><td class="mono dim">3.443</td></tr><tr class="clk" onclick="window.location='/municipio/5002605'"><td class="l mono dim2">44</td><td class="l"><a href="/municipio/5002605">Camapuã</a></td><td class="mono">13.935</td><td class="mono">R$ 872,3 mi</td><td class="mono dim">R$ 62.596</td><td class="mono dim">2.829</td></tr><tr class="clk" onclick="window.location='/municipio/5000906'"><td class="l mono dim2">45</td><td class="l"><a href="/municipio/5000906">Antônio João</a></td><td class="mono">9.790</td><td class="mono">R$ 851,8 mi</td><td class="mono dim">R$ 87.005</td><td class="mono dim">1.428</td></tr><tr class="clk" onclick="window.location='/municipio/5002001'"><td class="l mono dim2">46</td><td class="l"><a href="/municipio/5002001">Batayporã</a></td><td class="mono">10.935</td><td class="mono">R$ 784,8 mi</td><td class="mono dim">R$ 71.772</td><td class="mono dim">3.310</td></tr><tr class="clk" onclick="window.location='/municipio/5000708'"><td class="l mono dim2">47</td><td class="l"><a href="/municipio/5000708">Anastácio</a></td><td class="mono">24.820</td><td class="mono">R$ 783,8 mi</td><td class="mono dim">R$ 31.581</td><td class="mono dim">3.924</td></tr><tr class="clk" onclick="window.location='/municipio/5005608'"><td class="l mono dim2">48</td><td class="l"><a href="/municipio/5005608">Miranda</a></td><td class="mono">26.535</td><td class="mono">R$ 782,4 mi</td><td class="mono dim">R$ 29.487</td><td class="mono dim">4.298</td></tr><tr class="clk" onclick="window.location='/municipio/5003801'"><td class="l mono dim2">49</td><td class="l"><a href="/municipio/5003801">Fátima do Sul</a></td><td class="mono">21.615</td><td class="mono">R$ 769,3 mi</td><td class="mono dim">R$ 35.593</td><td class="mono dim">5.093</td></tr><tr class="clk" onclick="window.location='/municipio/5005103'"><td class="l mono dim2">50</td><td class="l"><a href="/municipio/5005103">Jateí</a></td><td class="mono">3.573</td><td class="mono">R$ 730,0 mi</td><td class="mono dim">R$ 204.304</td><td class="mono dim">735</td></tr><tr class="clk" onclick="window.location='/municipio/5004908'"><td class="l mono dim2">51</td><td class="l"><a href="/municipio/5004908">Jaraguari</a></td><td class="mono">7.533</td><td class="mono">R$ 717,7 mi</td><td class="mono dim">R$ 95.274</td><td class="mono dim">1.144</td></tr><tr class="clk" onclick="window.location='/municipio/5003454'"><td class="l mono dim2">52</td><td class="l"><a href="/municipio/5003454">Deodápolis</a></td><td class="mono">14.419</td><td class="mono">R$ 712,6 mi</td><td class="mono dim">R$ 49.423</td><td class="mono dim">3.038</td></tr><tr class="clk" onclick="window.location='/municipio/5003751'"><td class="l mono dim2">53</td><td class="l"><a href="/municipio/5003751">Eldorado</a></td><td class="mono">11.612</td><td class="mono">R$ 704,6 mi</td><td class="mono dim">R$ 60.678</td><td class="mono dim">2.911</td></tr><tr class="clk" onclick="window.location='/municipio/5007554'"><td class="l mono dim2">54</td><td class="l"><a href="/municipio/5007554">Santa Rita do Pardo</a></td><td class="mono">7.156</td><td class="mono">R$ 643,0 mi</td><td class="mono dim">R$ 89.850</td><td class="mono dim">2.219</td></tr><tr class="clk" onclick="window.location='/municipio/5000807'"><td class="l mono dim2">55</td><td class="l"><a href="/municipio/5000807">Anaurilândia</a></td><td class="mono">7.643</td><td class="mono">R$ 623,7 mi</td><td class="mono dim">R$ 81.605</td><td class="mono dim">2.423</td></tr><tr class="clk" onclick="window.location='/municipio/5005806'"><td class="l mono dim2">56</td><td class="l"><a href="/municipio/5005806">Nioaque</a></td><td class="mono">13.298</td><td class="mono">R$ 618,8 mi</td><td class="mono dim">R$ 46.532</td><td class="mono dim">2.077</td></tr><tr class="clk" onclick="window.location='/municipio/5006903'"><td class="l mono dim2">57</td><td class="l"><a href="/municipio/5006903">Porto Murtinho</a></td><td class="mono">12.584</td><td class="mono">R$ 571,5 mi</td><td class="mono dim">R$ 45.416</td><td class="mono dim">2.050</td></tr><tr class="clk" onclick="window.location='/municipio/5005152'"><td class="l mono dim2">58</td><td class="l"><a href="/municipio/5005152">Juti</a></td><td class="mono">7.122</td><td class="mono">R$ 517,9 mi</td><td class="mono dim">R$ 72.723</td><td class="mono dim">976</td></tr><tr class="clk" onclick="window.location='/municipio/5007703'"><td class="l mono dim2">59</td><td class="l"><a href="/municipio/5007703">Sete Quedas</a></td><td class="mono">11.343</td><td class="mono">R$ 493,9 mi</td><td class="mono dim">R$ 43.547</td><td class="mono dim">1.437</td></tr><tr class="clk" onclick="window.location='/municipio/5004106'"><td class="l mono dim2">60</td><td class="l"><a href="/municipio/5004106">Guia Lopes da Laguna</a></td><td class="mono">10.097</td><td class="mono">R$ 477,6 mi</td><td class="mono dim">R$ 47.301</td><td class="mono dim">1.609</td></tr><tr class="clk" onclick="window.location='/municipio/5006408'"><td class="l mono dim2">61</td><td class="l"><a href="/municipio/5006408">Pedro Gomes</a></td><td class="mono">6.850</td><td class="mono">R$ 460,9 mi</td><td class="mono dim">R$ 67.290</td><td class="mono dim">1.078</td></tr><tr class="clk" onclick="window.location='/municipio/5003488'"><td class="l mono dim2">62</td><td class="l"><a href="/municipio/5003488">Dois Irmãos do Buriti</a></td><td class="mono">11.570</td><td class="mono">R$ 456,8 mi</td><td class="mono dim">R$ 39.479</td><td class="mono dim">1.828</td></tr><tr class="clk" onclick="window.location='/municipio/5006259'"><td class="l mono dim2">63</td><td class="l"><a href="/municipio/5006259">Novo Horizonte do Sul</a></td><td class="mono">4.791</td><td class="mono">R$ 450,9 mi</td><td class="mono dim">R$ 94.111</td><td class="mono dim">702</td></tr><tr class="clk" onclick="window.location='/municipio/5004007'"><td class="l mono dim2">64</td><td class="l"><a href="/municipio/5004007">Glória de Dourados</a></td><td class="mono">10.856</td><td class="mono">R$ 449,9 mi</td><td class="mono dim">R$ 41.445</td><td class="mono dim">1.577</td></tr><tr class="clk" onclick="window.location='/municipio/5005202'"><td class="l mono dim2">65</td><td class="l"><a href="/municipio/5005202">Ladário</a></td><td class="mono">24.631</td><td class="mono">R$ 420,7 mi</td><td class="mono dim">R$ 17.079</td><td class="mono dim">1.825</td></tr><tr class="clk" onclick="window.location='/municipio/5003157'"><td class="l mono dim2">66</td><td class="l"><a href="/municipio/5003157">Coronel Sapucaia</a></td><td class="mono">14.708</td><td class="mono">R$ 388,2 mi</td><td class="mono dim">R$ 26.397</td><td class="mono dim">1.516</td></tr><tr class="clk" onclick="window.location='/municipio/5002159'"><td class="l mono dim2">67</td><td class="l"><a href="/municipio/5002159">Bodoquena</a></td><td class="mono">8.923</td><td class="mono">R$ 386,4 mi</td><td class="mono dim">R$ 43.306</td><td class="mono dim">2.026</td></tr><tr class="clk" onclick="window.location='/municipio/5008404'"><td class="l mono dim2">68</td><td class="l"><a href="/municipio/5008404">Vicentina</a></td><td class="mono">6.534</td><td class="mono">R$ 384,7 mi</td><td class="mono dim">R$ 58.882</td><td class="mono dim">1.247</td></tr><tr class="clk" onclick="window.location='/municipio/5000252'"><td class="l mono dim2">69</td><td class="l"><a href="/municipio/5000252">Alcinópolis</a></td><td class="mono">4.651</td><td class="mono">R$ 384,4 mi</td><td class="mono dim">R$ 82.642</td><td class="mono dim">945</td></tr><tr class="clk" onclick="window.location='/municipio/5007950'"><td class="l mono dim2">70</td><td class="l"><a href="/municipio/5007950">Tacuru</a></td><td class="mono">11.248</td><td class="mono">R$ 378,2 mi</td><td class="mono dim">R$ 33.619</td><td class="mono dim">1.031</td></tr><tr class="clk" onclick="window.location='/municipio/5006358'"><td class="l mono dim2">71</td><td class="l"><a href="/municipio/5006358">Paranhos</a></td><td class="mono">13.412</td><td class="mono">R$ 371,2 mi</td><td class="mono dim">R$ 27.675</td><td class="mono dim">1.091</td></tr><tr class="clk" onclick="window.location='/municipio/5007505'"><td class="l mono dim2">72</td><td class="l"><a href="/municipio/5007505">Rochedo</a></td><td class="mono">5.494</td><td class="mono">R$ 352,3 mi</td><td class="mono dim">R$ 64.131</td><td class="mono dim">1.897</td></tr><tr class="clk" onclick="window.location='/municipio/5003504'"><td class="l mono dim2">73</td><td class="l"><a href="/municipio/5003504">Douradina</a></td><td class="mono">5.785</td><td class="mono">R$ 260,0 mi</td><td class="mono dim">R$ 44.944</td><td class="mono dim">921</td></tr><tr class="clk" onclick="window.location='/municipio/5002803'"><td class="l mono dim2">74</td><td class="l"><a href="/municipio/5002803">Caracol</a></td><td class="mono">5.078</td><td class="mono">R$ 251,1 mi</td><td class="mono dim">R$ 49.458</td><td class="mono dim">749</td></tr><tr class="clk" onclick="window.location='/municipio/5004809'"><td class="l mono dim2">75</td><td class="l"><a href="/municipio/5004809">Japorã</a></td><td class="mono">8.472</td><td class="mono">R$ 242,2 mi</td><td class="mono dim">R$ 28.585</td><td class="mono dim">653</td></tr><tr class="clk" onclick="window.location='/municipio/5007976'"><td class="l mono dim2">76</td><td class="l"><a href="/municipio/5007976">Taquarussu</a></td><td class="mono">3.748</td><td class="mono">R$ 215,4 mi</td><td class="mono dim">R$ 57.462</td><td class="mono dim">606</td></tr><tr class="clk" onclick="window.location='/municipio/5003900'"><td class="l mono dim2">77</td><td class="l"><a href="/municipio/5003900">Figueirão</a></td><td class="mono">3.790</td><td class="mono">R$ 186,8 mi</td><td class="mono dim">R$ 49.297</td><td class="mono dim">749</td></tr><tr class="clk" onclick="window.location='/municipio/5003108'"><td class="l mono dim2">78</td><td class="l"><a href="/municipio/5003108">Corguinho</a></td><td class="mono">4.890</td><td class="mono">R$ 172,6 mi</td><td class="mono dim">R$ 35.287</td><td class="mono dim">919</td></tr><tr class="clk" onclick="window.location='/municipio/5007307'"><td class="l mono dim2">79</td><td class="l"><a href="/municipio/5007307">Rio Negro</a></td><td class="mono">4.911</td><td class="mono">R$ 170,4 mi</td><td class="mono dim">R$ 34.695</td><td class="mono dim">914</td></tr>
+</tbody></table></div></article>
+
+<div class="note"><b>Fonte.</b> IBGE: PIB dos Municípios (SIDRA t/5938), estimativas de população (t/6579) e Censo 2022 (t/4709), Cadastro Central de Empresas (t/9528) e PAM/PPM (t/5457, t/74), como publicados; "Mil Reais" convertido para R$. PIB per capita e participações são cálculo da página. Não é recomendação de nada.</div>
+<div class="dl" style="font-size:11px;margin-top:8px"><b class="dim">Dados:</b> <a href="/dados/municipios_ibge">municipios_ibge</a> <a href="/dados/cempre_municipios">cempre_municipios</a> <a href="/dados/agro_municipios">agro_municipios</a></div>
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Municípios — Mato Grosso do Sul. https://atlasmercados.com.br/municipios/uf/MS. Dados: IBGE — PIB dos Municípios (t/5938), população (t/6579), CEMPRE (t/9528). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    
+    Permalink: <a href="https://atlasmercados.com.br/municipios/uf/MS">https://atlasmercados.com.br/municipios/uf/MS</a>
+    
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Municípios de Rondônia — população, PIB e emprego — Atlas Mercados</title>
+<meta name="description" content="Rondônia tem 52 municípios; os maiores pelo PIB de 2023 são Porto Velho (R$ 25,4 bilhões), Ji-Paraná (R$ 5,8 bilhões) e Vilhena (R$ 5,1 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<link rel="canonical" href="https://atlasmercados.com.br/municipios/uf/RO">
+<link rel="alternate" type="text/markdown" href="/municipios/uf/RO.md">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Municípios de Rondônia — população, PIB e emprego — Atlas Mercados">
+<meta property="og:description" content="Rondônia tem 52 municípios; os maiores pelo PIB de 2023 são Porto Velho (R$ 25,4 bilhões), Ji-Paraná (R$ 5,8 bilhões) e Vilhena (R$ 5,1 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}.arv .p4{padding-left:90px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv tr.n3 td,.arv tr.n4 td{font-size:11px;color:var(--dim)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .tag{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:0 0 16px}
+  .card{display:block;padding:14px 16px;border:1px solid var(--bd);border-radius:10px;background:var(--panel)}
+  .card:hover{border-color:var(--acc)}
+  .card .t{font-size:11px;color:var(--dim2);text-transform:uppercase;letter-spacing:.06em}
+  .card .v{font-size:19px;margin:6px 0 2px}
+  .card .d{font-size:11px;color:var(--dim)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .bars{height:140px}
+  .bars .b{background:var(--acc)}
+  .bars .b .t{position:absolute;top:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--dim2);white-space:nowrap}
+  .sel{height:32px;background:var(--panel);border:1px solid var(--bd);border-radius:8px;color:var(--tx);padding:0 10px;font-family:inherit;font-size:12px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Municípios — Rondônia", "item": "https://atlasmercados.com.br/municipios/uf/RO"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="on" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/comercio-exterior" class="" title="Comércio ext.">
+      <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/trabalho" class="" title="Trabalho">
+      <span class="i">⚒</span><span class="l">Trabalho</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+
+<h1 class="page">Municípios de Rondônia</h1>
+<p class="sub"><a href="/trabalho/uf/RO">trabalho</a> · <a href="/economia/industria/uf/RO">economia</a> · 52 municípios · ordenados pelo PIB</p>
+<p class="resposta" data-resposta>Rondônia tem 52 municípios; os maiores pelo PIB de 2023 são Porto Velho (R$ 25,4 bilhões), Ji-Paraná (R$ 5,8 bilhões) e Vilhena (R$ 5,1 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).</p>
+<article class="panel" style="padding:0"><div class="scrim" style="overflow:auto">
+<table><thead><tr><th class="l">#</th><th class="l">Município</th><th>População</th><th>PIB</th><th>PIB per capita (calc.)</th><th>Pessoal ocupado (CEMPRE)</th></tr></thead><tbody>
+<tr class="clk" onclick="window.location='/municipio/1100205'"><td class="l mono dim2">1</td><td class="l"><a href="/municipio/1100205">Porto Velho</a></td><td class="mono">520.379</td><td class="mono">R$ 25,4 bi</td><td class="mono dim">R$ 48.815</td><td class="mono dim">206.670</td></tr><tr class="clk" onclick="window.location='/municipio/1100122'"><td class="l mono dim2">2</td><td class="l"><a href="/municipio/1100122">Ji-Paraná</a></td><td class="mono">140.800</td><td class="mono">R$ 5,8 bi</td><td class="mono dim">R$ 41.367</td><td class="mono dim">40.272</td></tr><tr class="clk" onclick="window.location='/municipio/1100304'"><td class="l mono dim2">3</td><td class="l"><a href="/municipio/1100304">Vilhena</a></td><td class="mono">110.708</td><td class="mono">R$ 5,1 bi</td><td class="mono dim">R$ 46.210</td><td class="mono dim">35.339</td></tr><tr class="clk" onclick="window.location='/municipio/1100023'"><td class="l mono dim2">4</td><td class="l"><a href="/municipio/1100023">Ariquemes</a></td><td class="mono">109.731</td><td class="mono">R$ 4,4 bi</td><td class="mono dim">R$ 39.951</td><td class="mono dim">25.852</td></tr><tr class="clk" onclick="window.location='/municipio/1100049'"><td class="l mono dim2">5</td><td class="l"><a href="/municipio/1100049">Cacoal</a></td><td class="mono">98.884</td><td class="mono">R$ 3,8 bi</td><td class="mono dim">R$ 38.919</td><td class="mono dim">26.225</td></tr><tr class="clk" onclick="window.location='/municipio/1100114'"><td class="l mono dim2">6</td><td class="l"><a href="/municipio/1100114">Jaru</a></td><td class="mono">55.774</td><td class="mono">R$ 2,5 bi</td><td class="mono dim">R$ 45.103</td><td class="mono dim">13.676</td></tr><tr class="clk" onclick="window.location='/municipio/1100288'"><td class="l mono dim2">7</td><td class="l"><a href="/municipio/1100288">Rolim de Moura</a></td><td class="mono">63.336</td><td class="mono">R$ 2,3 bi</td><td class="mono dim">R$ 36.119</td><td class="mono dim">16.238</td></tr><tr class="clk" onclick="window.location='/municipio/1100189'"><td class="l mono dim2">8</td><td class="l"><a href="/municipio/1100189">Pimenta Bueno</a></td><td class="mono">39.377</td><td class="mono">R$ 2,1 bi</td><td class="mono dim">R$ 53.949</td><td class="mono dim">12.228</td></tr><tr class="clk" onclick="window.location='/municipio/1100320'"><td class="l mono dim2">9</td><td class="l"><a href="/municipio/1100320">São Miguel do Guaporé</a></td><td class="mono">22.343</td><td class="mono">R$ 1,5 bi</td><td class="mono dim">R$ 69.337</td><td class="mono dim">4.460</td></tr><tr class="clk" onclick="window.location='/municipio/1100155'"><td class="l mono dim2">10</td><td class="l"><a href="/municipio/1100155">Ouro Preto do Oeste</a></td><td class="mono">38.686</td><td class="mono">R$ 1,3 bi</td><td class="mono dim">R$ 32.970</td><td class="mono dim">7.862</td></tr><tr class="clk" onclick="window.location='/municipio/1100452'"><td class="l mono dim2">11</td><td class="l"><a href="/municipio/1100452">Buritis</a></td><td class="mono">30.573</td><td class="mono">R$ 1,2 bi</td><td class="mono dim">R$ 39.937</td><td class="mono dim">4.833</td></tr><tr class="clk" onclick="window.location='/municipio/1100106'"><td class="l mono dim2">12</td><td class="l"><a href="/municipio/1100106">Guajará-Mirim</a></td><td class="mono">43.633</td><td class="mono">R$ 1,1 bi</td><td class="mono dim">R$ 26.242</td><td class="mono dim">6.188</td></tr><tr class="clk" onclick="window.location='/municipio/1100338'"><td class="l mono dim2">13</td><td class="l"><a href="/municipio/1100338">Nova Mamoré</a></td><td class="mono">28.894</td><td class="mono">R$ 1,1 bi</td><td class="mono dim">R$ 36.705</td><td class="mono dim">2.962</td></tr><tr class="clk" onclick="window.location='/municipio/1100130'"><td class="l mono dim2">14</td><td class="l"><a href="/municipio/1100130">Machadinho D&#39;Oeste</a></td><td class="mono">34.229</td><td class="mono">R$ 1,1 bi</td><td class="mono dim">R$ 30.845</td><td class="mono dim">4.403</td></tr><tr class="clk" onclick="window.location='/municipio/1100015'"><td class="l mono dim2">15</td><td class="l"><a href="/municipio/1100015">Alta Floresta D&#39;Oeste</a></td><td class="mono">22.724</td><td class="mono">R$ 1,0 bi</td><td class="mono dim">R$ 46.046</td><td class="mono dim">3.855</td></tr><tr class="clk" onclick="window.location='/municipio/1100098'"><td class="l mono dim2">16</td><td class="l"><a href="/municipio/1100098">Espigão D&#39;Oeste</a></td><td class="mono">32.960</td><td class="mono">R$ 1,0 bi</td><td class="mono dim">R$ 31.067</td><td class="mono dim">6.282</td></tr><tr class="clk" onclick="window.location='/municipio/1100056'"><td class="l mono dim2">17</td><td class="l"><a href="/municipio/1100056">Cerejeiras</a></td><td class="mono">16.957</td><td class="mono">R$ 1,0 bi</td><td class="mono dim">R$ 59.349</td><td class="mono dim">3.707</td></tr><tr class="clk" onclick="window.location='/municipio/1100809'"><td class="l mono dim2">18</td><td class="l"><a href="/municipio/1100809">Candeias do Jamari</a></td><td class="mono">24.454</td><td class="mono">R$ 1,0 bi</td><td class="mono dim">R$ 40.959</td><td class="mono dim">3.725</td></tr><tr class="clk" onclick="window.location='/municipio/1100254'"><td class="l mono dim2">19</td><td class="l"><a href="/municipio/1100254">Presidente Médici</a></td><td class="mono">20.372</td><td class="mono">R$ 776,3 mi</td><td class="mono dim">R$ 38.105</td><td class="mono dim">3.943</td></tr><tr class="clk" onclick="window.location='/municipio/1100148'"><td class="l mono dim2">20</td><td class="l"><a href="/municipio/1100148">Nova Brasilândia D&#39;Oeste</a></td><td class="mono">16.251</td><td class="mono">R$ 732,0 mi</td><td class="mono dim">R$ 45.040</td><td class="mono dim">2.710</td></tr><tr class="clk" onclick="window.location='/municipio/1101492'"><td class="l mono dim2">21</td><td class="l"><a href="/municipio/1101492">São Francisco do Guaporé</a></td><td class="mono">17.601</td><td class="mono">R$ 716,4 mi</td><td class="mono dim">R$ 40.703</td><td class="mono dim">2.311</td></tr><tr class="clk" onclick="window.location='/municipio/1100924'"><td class="l mono dim2">22</td><td class="l"><a href="/municipio/1100924">Chupinguaia</a></td><td class="mono">10.250</td><td class="mono">R$ 674,0 mi</td><td class="mono dim">R$ 65.755</td><td class="mono dim">2.867</td></tr><tr class="clk" onclick="window.location='/municipio/1100403'"><td class="l mono dim2">23</td><td class="l"><a href="/municipio/1100403">Alto Paraíso</a></td><td class="mono">17.471</td><td class="mono">R$ 667,9 mi</td><td class="mono dim">R$ 38.230</td><td class="mono dim">1.888</td></tr><tr class="clk" onclick="window.location='/municipio/1100940'"><td class="l mono dim2">24</td><td class="l"><a href="/municipio/1100940">Cujubim</a></td><td class="mono">15.872</td><td class="mono">R$ 582,1 mi</td><td class="mono dim">R$ 36.678</td><td class="mono dim">2.147</td></tr><tr class="clk" onclick="window.location='/municipio/1100064'"><td class="l mono dim2">25</td><td class="l"><a href="/municipio/1100064">Colorado do Oeste</a></td><td class="mono">16.432</td><td class="mono">R$ 580,9 mi</td><td class="mono dim">R$ 35.352</td><td class="mono dim">3.061</td></tr><tr class="clk" onclick="window.location='/municipio/1100379'"><td class="l mono dim2">26</td><td class="l"><a href="/municipio/1100379">Alto Alegre dos Parecis</a></td><td class="mono">12.213</td><td class="mono">R$ 575,1 mi</td><td class="mono dim">R$ 47.092</td><td class="mono dim">1.366</td></tr><tr class="clk" onclick="window.location='/municipio/1101401'"><td class="l mono dim2">27</td><td class="l"><a href="/municipio/1101401">Monte Negro</a></td><td class="mono">12.100</td><td class="mono">R$ 527,0 mi</td><td class="mono dim">R$ 43.553</td><td class="mono dim">1.750</td></tr><tr class="clk" onclick="window.location='/municipio/1100072'"><td class="l mono dim2">28</td><td class="l"><a href="/municipio/1100072">Corumbiara</a></td><td class="mono">7.938</td><td class="mono">R$ 509,6 mi</td><td class="mono dim">R$ 64.193</td><td class="mono dim">1.416</td></tr><tr class="clk" onclick="window.location='/municipio/1100346'"><td class="l mono dim2">29</td><td class="l"><a href="/municipio/1100346">Alvorada D&#39;Oeste</a></td><td class="mono">13.611</td><td class="mono">R$ 486,6 mi</td><td class="mono dim">R$ 35.752</td><td class="mono dim">1.754</td></tr><tr class="clk" onclick="window.location='/municipio/1100700'"><td class="l mono dim2">30</td><td class="l"><a href="/municipio/1100700">Campo Novo de Rondônia</a></td><td class="mono">8.972</td><td class="mono">R$ 455,3 mi</td><td class="mono dim">R$ 50.741</td><td class="mono dim">1.161</td></tr><tr class="clk" onclick="window.location='/municipio/1101500'"><td class="l mono dim2">31</td><td class="l"><a href="/municipio/1101500">Seringueiras</a></td><td class="mono">12.973</td><td class="mono">R$ 447,0 mi</td><td class="mono dim">R$ 34.456</td><td class="mono dim">1.637</td></tr><tr class="clk" onclick="window.location='/municipio/1101203'"><td class="l mono dim2">32</td><td class="l"><a href="/municipio/1101203">Ministro Andreazza</a></td><td class="mono">6.389</td><td class="mono">R$ 440,3 mi</td><td class="mono dim">R$ 68.913</td><td class="mono dim">1.396</td></tr><tr class="clk" onclick="window.location='/municipio/1100080'"><td class="l mono dim2">33</td><td class="l"><a href="/municipio/1100080">Costa Marques</a></td><td class="mono">13.499</td><td class="mono">R$ 413,9 mi</td><td class="mono dim">R$ 30.665</td><td class="mono dim">1.416</td></tr><tr class="clk" onclick="window.location='/municipio/1101302'"><td class="l mono dim2">34</td><td class="l"><a href="/municipio/1101302">Mirante da Serra</a></td><td class="mono">9.579</td><td class="mono">R$ 380,2 mi</td><td class="mono dim">R$ 39.689</td><td class="mono dim">1.618</td></tr><tr class="clk" onclick="window.location='/municipio/1101708'"><td class="l mono dim2">35</td><td class="l"><a href="/municipio/1101708">Urupá</a></td><td class="mono">11.254</td><td class="mono">R$ 370,2 mi</td><td class="mono dim">R$ 32.896</td><td class="mono dim">1.785</td></tr><tr class="clk" onclick="window.location='/municipio/1101468'"><td class="l mono dim2">36</td><td class="l"><a href="/municipio/1101468">Pimenteiras do Oeste</a></td><td class="mono">2.308</td><td class="mono">R$ 355,2 mi</td><td class="mono dim">R$ 153.893</td><td class="mono dim">529</td></tr><tr class="clk" onclick="window.location='/municipio/1101104'"><td class="l mono dim2">37</td><td class="l"><a href="/municipio/1101104">Itapuã do Oeste</a></td><td class="mono">9.247</td><td class="mono">R$ 340,2 mi</td><td class="mono dim">R$ 36.786</td><td class="mono dim">1.752</td></tr><tr class="clk" onclick="window.location='/municipio/1100502'"><td class="l mono dim2">38</td><td class="l"><a href="/municipio/1100502">Novo Horizonte do Oeste</a></td><td class="mono">7.894</td><td class="mono">R$ 332,0 mi</td><td class="mono dim">R$ 42.052</td><td class="mono dim">1.111</td></tr><tr class="clk" onclick="window.location='/municipio/1101005'"><td class="l mono dim2">39</td><td class="l"><a href="/municipio/1101005">Governador Jorge Teixeira</a></td><td class="mono">8.264</td><td class="mono">R$ 320,1 mi</td><td class="mono dim">R$ 38.737</td><td class="mono dim">1.182</td></tr><tr class="clk" onclick="window.location='/municipio/1101609'"><td class="l mono dim2">40</td><td class="l"><a href="/municipio/1101609">Theobroma</a></td><td class="mono">8.383</td><td class="mono">R$ 307,8 mi</td><td class="mono dim">R$ 36.712</td><td class="mono dim">794</td></tr><tr class="clk" onclick="window.location='/municipio/1100031'"><td class="l mono dim2">41</td><td class="l"><a href="/municipio/1100031">Cabixi</a></td><td class="mono">5.640</td><td class="mono">R$ 300,8 mi</td><td class="mono dim">R$ 53.339</td><td class="mono dim">856</td></tr><tr class="clk" onclick="window.location='/municipio/1100296'"><td class="l mono dim2">42</td><td class="l"><a href="/municipio/1100296">Santa Luzia D&#39;Oeste</a></td><td class="mono">7.798</td><td class="mono">R$ 291,9 mi</td><td class="mono dim">R$ 37.431</td><td class="mono dim">959</td></tr><tr class="clk" onclick="window.location='/municipio/1100262'"><td class="l mono dim2">43</td><td class="l"><a href="/municipio/1100262">Rio Crespo</a></td><td class="mono">3.781</td><td class="mono">R$ 265,2 mi</td><td class="mono dim">R$ 70.130</td><td class="mono dim">555</td></tr><tr class="clk" onclick="window.location='/municipio/1101757'"><td class="l mono dim2">44</td><td class="l"><a href="/municipio/1101757">Vale do Anari</a></td><td class="mono">8.178</td><td class="mono">R$ 257,3 mi</td><td class="mono dim">R$ 31.464</td><td class="mono dim">944</td></tr><tr class="clk" onclick="window.location='/municipio/1100601'"><td class="l mono dim2">45</td><td class="l"><a href="/municipio/1100601">Cacaulândia</a></td><td class="mono">4.242</td><td class="mono">R$ 239,0 mi</td><td class="mono dim">R$ 56.339</td><td class="mono dim">550</td></tr><tr class="clk" onclick="window.location='/municipio/1101807'"><td class="l mono dim2">46</td><td class="l"><a href="/municipio/1101807">Vale do Paraíso</a></td><td class="mono">6.740</td><td class="mono">R$ 225,2 mi</td><td class="mono dim">R$ 33.411</td><td class="mono dim">870</td></tr><tr class="clk" onclick="window.location='/municipio/1101450'"><td class="l mono dim2">47</td><td class="l"><a href="/municipio/1101450">Parecis</a></td><td class="mono">4.356</td><td class="mono">R$ 201,5 mi</td><td class="mono dim">R$ 46.260</td><td class="mono dim">660</td></tr><tr class="clk" onclick="window.location='/municipio/1101435'"><td class="l mono dim2">48</td><td class="l"><a href="/municipio/1101435">Nova União</a></td><td class="mono">6.506</td><td class="mono">R$ 193,6 mi</td><td class="mono dim">R$ 29.751</td><td class="mono dim">814</td></tr><tr class="clk" onclick="window.location='/municipio/1101484'"><td class="l mono dim2">49</td><td class="l"><a href="/municipio/1101484">São Felipe D&#39;Oeste</a></td><td class="mono">5.571</td><td class="mono">R$ 177,9 mi</td><td class="mono dim">R$ 31.934</td><td class="mono dim">670</td></tr><tr class="clk" onclick="window.location='/municipio/1101559'"><td class="l mono dim2">50</td><td class="l"><a href="/municipio/1101559">Teixeirópolis</a></td><td class="mono">4.507</td><td class="mono">R$ 156,4 mi</td><td class="mono dim">R$ 34.707</td><td class="mono dim">544</td></tr><tr class="clk" onclick="window.location='/municipio/1100908'"><td class="l mono dim2">51</td><td class="l"><a href="/municipio/1100908">Castanheiras</a></td><td class="mono">3.445</td><td class="mono">R$ 138,6 mi</td><td class="mono dim">R$ 40.230</td><td class="mono dim">525</td></tr><tr class="clk" onclick="window.location='/municipio/1101476'"><td class="l mono dim2">52</td><td class="l"><a href="/municipio/1101476">Primavera de Rondônia</a></td><td class="mono">3.259</td><td class="mono">R$ 131,2 mi</td><td class="mono dim">R$ 40.256</td><td class="mono dim">541</td></tr>
+</tbody></table></div></article>
+
+<div class="note"><b>Fonte.</b> IBGE: PIB dos Municípios (SIDRA t/5938), estimativas de população (t/6579) e Censo 2022 (t/4709), Cadastro Central de Empresas (t/9528) e PAM/PPM (t/5457, t/74), como publicados; "Mil Reais" convertido para R$. PIB per capita e participações são cálculo da página. Não é recomendação de nada.</div>
+<div class="dl" style="font-size:11px;margin-top:8px"><b class="dim">Dados:</b> <a href="/dados/municipios_ibge">municipios_ibge</a> <a href="/dados/cempre_municipios">cempre_municipios</a> <a href="/dados/agro_municipios">agro_municipios</a></div>
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Municípios — Rondônia. https://atlasmercados.com.br/municipios/uf/RO. Dados: IBGE — PIB dos Municípios (t/5938), população (t/6579), CEMPRE (t/9528). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    
+    Permalink: <a href="https://atlasmercados.com.br/municipios/uf/RO">https://atlasmercados.com.br/municipios/uf/RO</a>
+    
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Municípios de Roraima — população, PIB e emprego — Atlas Mercados</title>
+<meta name="description" content="Roraima tem 15 municípios; os maiores pelo PIB de 2023 são Boa Vista (R$ 18,2 bilhões), Rorainópolis (R$ 981,0 milhões) e Alto Alegre (R$ 802,5 milhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<link rel="canonical" href="https://atlasmercados.com.br/municipios/uf/RR">
+<link rel="alternate" type="text/markdown" href="/municipios/uf/RR.md">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Municípios de Roraima — população, PIB e emprego — Atlas Mercados">
+<meta property="og:description" content="Roraima tem 15 municípios; os maiores pelo PIB de 2023 são Boa Vista (R$ 18,2 bilhões), Rorainópolis (R$ 981,0 milhões) e Alto Alegre (R$ 802,5 milhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}.arv .p4{padding-left:90px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv tr.n3 td,.arv tr.n4 td{font-size:11px;color:var(--dim)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .tag{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:0 0 16px}
+  .card{display:block;padding:14px 16px;border:1px solid var(--bd);border-radius:10px;background:var(--panel)}
+  .card:hover{border-color:var(--acc)}
+  .card .t{font-size:11px;color:var(--dim2);text-transform:uppercase;letter-spacing:.06em}
+  .card .v{font-size:19px;margin:6px 0 2px}
+  .card .d{font-size:11px;color:var(--dim)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .bars{height:140px}
+  .bars .b{background:var(--acc)}
+  .bars .b .t{position:absolute;top:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--dim2);white-space:nowrap}
+  .sel{height:32px;background:var(--panel);border:1px solid var(--bd);border-radius:8px;color:var(--tx);padding:0 10px;font-family:inherit;font-size:12px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Municípios — Roraima", "item": "https://atlasmercados.com.br/municipios/uf/RR"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="on" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/comercio-exterior" class="" title="Comércio ext.">
+      <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/trabalho" class="" title="Trabalho">
+      <span class="i">⚒</span><span class="l">Trabalho</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+
+<h1 class="page">Municípios de Roraima</h1>
+<p class="sub"><a href="/trabalho/uf/RR">trabalho</a> · <a href="/economia/industria/uf/RR">economia</a> · 15 municípios · ordenados pelo PIB</p>
+<p class="resposta" data-resposta>Roraima tem 15 municípios; os maiores pelo PIB de 2023 são Boa Vista (R$ 18,2 bilhões), Rorainópolis (R$ 981,0 milhões) e Alto Alegre (R$ 802,5 milhões), segundo o PIB dos Municípios do IBGE (tabela 5938).</p>
+<article class="panel" style="padding:0"><div class="scrim" style="overflow:auto">
+<table><thead><tr><th class="l">#</th><th class="l">Município</th><th>População</th><th>PIB</th><th>PIB per capita (calc.)</th><th>Pessoal ocupado (CEMPRE)</th></tr></thead><tbody>
+<tr class="clk" onclick="window.location='/municipio/1400100'"><td class="l mono dim2">1</td><td class="l"><a href="/municipio/1400100">Boa Vista</a></td><td class="mono">500.965</td><td class="mono">R$ 18,2 bi</td><td class="mono dim">R$ 36.398</td><td class="mono dim">144.015</td></tr><tr class="clk" onclick="window.location='/municipio/1400472'"><td class="l mono dim2">2</td><td class="l"><a href="/municipio/1400472">Rorainópolis</a></td><td class="mono">38.840</td><td class="mono">R$ 981,0 mi</td><td class="mono dim">R$ 25.258</td><td class="mono dim">5.014</td></tr><tr class="clk" onclick="window.location='/municipio/1400050'"><td class="l mono dim2">3</td><td class="l"><a href="/municipio/1400050">Alto Alegre</a></td><td class="mono">24.135</td><td class="mono">R$ 802,5 mi</td><td class="mono dim">R$ 33.252</td><td class="mono dim">1.301</td></tr><tr class="clk" onclick="window.location='/municipio/1400159'"><td class="l mono dim2">4</td><td class="l"><a href="/municipio/1400159">Bonfim</a></td><td class="mono">15.922</td><td class="mono">R$ 772,9 mi</td><td class="mono dim">R$ 48.543</td><td class="mono dim">1.514</td></tr><tr class="clk" onclick="window.location='/municipio/1400209'"><td class="l mono dim2">5</td><td class="l"><a href="/municipio/1400209">Caracaraí</a></td><td class="mono">23.061</td><td class="mono">R$ 637,5 mi</td><td class="mono dim">R$ 27.642</td><td class="mono dim">1.975</td></tr><tr class="clk" onclick="window.location='/municipio/1400308'"><td class="l mono dim2">6</td><td class="l"><a href="/municipio/1400308">Mucajaí</a></td><td class="mono">20.398</td><td class="mono">R$ 552,0 mi</td><td class="mono dim">R$ 27.064</td><td class="mono dim">1.745</td></tr><tr class="clk" onclick="window.location='/municipio/1400175'"><td class="l mono dim2">7</td><td class="l"><a href="/municipio/1400175">Cantá</a></td><td class="mono">21.659</td><td class="mono">R$ 498,4 mi</td><td class="mono dim">R$ 23.011</td><td class="mono dim">1.917</td></tr><tr class="clk" onclick="window.location='/municipio/1400456'"><td class="l mono dim2">8</td><td class="l"><a href="/municipio/1400456">Pacaraima</a></td><td class="mono">24.132</td><td class="mono">R$ 447,4 mi</td><td class="mono dim">R$ 18.541</td><td class="mono dim">2.235</td></tr><tr class="clk" onclick="window.location='/municipio/1400506'"><td class="l mono dim2">9</td><td class="l"><a href="/municipio/1400506">São João da Baliza</a></td><td class="mono">10.215</td><td class="mono">R$ 425,8 mi</td><td class="mono dim">R$ 41.685</td><td class="mono dim">1.449</td></tr><tr class="clk" onclick="window.location='/municipio/1400407'"><td class="l mono dim2">10</td><td class="l"><a href="/municipio/1400407">Normandia</a></td><td class="mono">16.908</td><td class="mono">R$ 371,0 mi</td><td class="mono dim">R$ 21.940</td><td class="mono dim">1.726</td></tr><tr class="clk" onclick="window.location='/municipio/1400027'"><td class="l mono dim2">11</td><td class="l"><a href="/municipio/1400027">Amajari</a></td><td class="mono">16.647</td><td class="mono">R$ 329,1 mi</td><td class="mono dim">R$ 19.769</td><td class="mono dim">896</td></tr><tr class="clk" onclick="window.location='/municipio/1400233'"><td class="l mono dim2">12</td><td class="l"><a href="/municipio/1400233">Caroebe</a></td><td class="mono">12.303</td><td class="mono">R$ 317,4 mi</td><td class="mono dim">R$ 25.797</td><td class="mono dim">841</td></tr><tr class="clk" onclick="window.location='/municipio/1400282'"><td class="l mono dim2">13</td><td class="l"><a href="/municipio/1400282">Iracema</a></td><td class="mono">11.098</td><td class="mono">R$ 279,6 mi</td><td class="mono dim">R$ 25.190</td><td class="mono dim">1.122</td></tr><tr class="clk" onclick="window.location='/municipio/1400704'"><td class="l mono dim2">14</td><td class="l"><a href="/municipio/1400704">Uiramutã</a></td><td class="mono">16.809</td><td class="mono">R$ 254,5 mi</td><td class="mono dim">R$ 15.138</td><td class="mono dim">754</td></tr><tr class="clk" onclick="window.location='/municipio/1400605'"><td class="l mono dim2">15</td><td class="l"><a href="/municipio/1400605">São Luiz do Anauá</a></td><td class="mono">7.920</td><td class="mono">R$ 221,6 mi</td><td class="mono dim">R$ 27.978</td><td class="mono dim">770</td></tr>
+</tbody></table></div></article>
+
+<div class="note"><b>Fonte.</b> IBGE: PIB dos Municípios (SIDRA t/5938), estimativas de população (t/6579) e Censo 2022 (t/4709), Cadastro Central de Empresas (t/9528) e PAM/PPM (t/5457, t/74), como publicados; "Mil Reais" convertido para R$. PIB per capita e participações são cálculo da página. Não é recomendação de nada.</div>
+<div class="dl" style="font-size:11px;margin-top:8px"><b class="dim">Dados:</b> <a href="/dados/municipios_ibge">municipios_ibge</a> <a href="/dados/cempre_municipios">cempre_municipios</a> <a href="/dados/agro_municipios">agro_municipios</a></div>
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Municípios — Roraima. https://atlasmercados.com.br/municipios/uf/RR. Dados: IBGE — PIB dos Municípios (t/5938), população (t/6579), CEMPRE (t/9528). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    
+    Permalink: <a href="https://atlasmercados.com.br/municipios/uf/RR">https://atlasmercados.com.br/municipios/uf/RR</a>
+    
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

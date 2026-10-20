@@ -5,6 +5,8 @@
 ## Páginas principais
 
 - [Visão geral](https://atlasmercados.com.br/): agregados, ranking por valor de mercado, macro do BCB
+- [Municípios](https://atlasmercados.com.br/municipios/uf/SP): /municipio/{código IBGE} — população, PIB, empresas e emprego por setor (CEMPRE), produção agro
+- [Mercado de trabalho](https://atlasmercados.com.br/trabalho): desocupação, informalidade e renda por UF (PNAD Contínua), /trabalho/uf/{sigla}
 - [Comércio exterior](https://atlasmercados.com.br/comercio-exterior): exportações e importações por UF, produto (SH4) e país (Comex Stat/MDIC)
 - [Economia por setor](https://atlasmercados.com.br/economia): PIB trimestral, serviços, indústria, construção e agropecuária por segmento e UF, PIB per capita por UF
 - [Mercados do varejo](https://atlasmercados.com.br/mercados): tamanho por segmento (classes CNAE) e por UF, PMC mensal, VAB
@@ -127,9 +129,9 @@
 - [Contas Regionais — PIB e VAB por atividade, Brasil e UFs](https://atlasmercados.com.br/dados/uf_vab) — 4.312 linhas, 2002–2023, bruto
 - [CEMPRE — unidades locais, pessoal e salários do varejo por classe CNAE e UF](https://atlasmercados.com.br/dados/cempre_varejo) — 15.456 linhas, 2022–2024, bruto
 - [Estimativa — receita das classes do varejo por UF (rateio pelo CEMPRE)](https://atlasmercados.com.br/dados/mercados_derivados) — 1.080 linhas, 2024–2024, derivado
-- [Pesquisa Anual de Serviços — receita, valor adicionado, pessoal e empresas por segmento e UF](https://atlasmercados.com.br/dados/economia_servicos_pas) — 2.420 linhas, 2024–2024, bruto
+- [Pesquisa Anual de Serviços — receita, valor adicionado, pessoal e empresas por segmento e UF](https://atlasmercados.com.br/dados/economia_servicos_pas) — 3.236 linhas, 2007–2024, bruto
 - [Pesquisa Industrial Anual — receita, valor da transformação industrial e pessoal por divisão CNAE e UF](https://atlasmercados.com.br/dados/economia_industria_pia) — 198.612 linhas, 2007–2024, bruto
-- [Pesquisa Anual da Indústria da Construção — valor das obras, receita e pessoal por divisão, porte e UF](https://atlasmercados.com.br/dados/economia_construcao_paic) — 614 linhas, 2024–2024, bruto
+- [Pesquisa Anual da Indústria da Construção — valor das obras, receita e pessoal por divisão, porte e UF](https://atlasmercados.com.br/dados/economia_construcao_paic) — 6.802 linhas, 2007–2024, bruto
 - [Produção Agrícola e da Pecuária Municipal — quantidade, área e valor por produto e UF](https://atlasmercados.com.br/dados/economia_agro_pam_ppm) — 139.832 linhas, 2015–2025, bruto
 - [Contas Nacionais Trimestrais — PIB e componentes, taxas de volume e valores correntes](https://atlasmercados.com.br/dados/pib_trimestral_cnt) — 13.542 linhas, 1996-01–2026-06, bruto
 - [População residente — estimativas anuais e Censo 2022, Brasil e UFs](https://atlasmercados.com.br/dados/populacao_ibge) — 644 linhas, 2001–2026, bruto
@@ -138,9 +140,13 @@
 - [Pulso mensal da indústria e dos serviços — PIM-PF e PMS por atividade e UF](https://atlasmercados.com.br/dados/pulso_industria_servicos) — 299.568 linhas, 2002-01–2026-08, bruto
 - [Safra do ano corrente — estimativas mensais do LSPA por produto e UF](https://atlasmercados.com.br/dados/safra_lspa) — 131.600 linhas, 2024-09–2026-09, bruto
 - [Agropecuária por município — produção, valor e área de cada produto (PAM e PPM)](https://atlasmercados.com.br/dados/agro_municipios) — 503.379 linhas, 2025–2025, bruto
+- [Mercado de trabalho por UF — desocupação, informalidade, rendimento e ocupação (PNAD Contínua)](https://atlasmercados.com.br/dados/pnad_trabalho) — 32.256 linhas, 2012-01–2026-06, bruto
+- [Municípios — PIB, valor adicionado e população (IBGE)](https://atlasmercados.com.br/dados/municipios_ibge) — 55.702 linhas, 2022–2026, bruto
+- [Empresas e emprego por município × seção e divisão CNAE (CEMPRE)](https://atlasmercados.com.br/dados/cempre_municipios) — 1.030.022 linhas, 2024–2024, bruto
+- [Emprego formal por UF × seção e divisão CNAE (CEMPRE)](https://atlasmercados.com.br/dados/cempre_uf) — 36.624 linhas, 2022–2024, bruto
 - [Comércio exterior do Brasil — exportações e importações por UF, produto (SH4), país e mês](https://atlasmercados.com.br/dados/comex_mdic) — 350.607 linhas, 2015–2026-09, bruto
 - [Banco Central do Brasil — séries macroeconômicas do SGS](https://atlasmercados.com.br/dados/macro_bcb) — 8.081 linhas, 2015-01-01–2026-10-16, bruto
-- [Catálogo de proveniência dos dados de mercado](https://atlasmercados.com.br/dados/catalogo_fontes) — 39 linhas, –, bruto
+- [Catálogo de proveniência dos dados de mercado](https://atlasmercados.com.br/dados/catalogo_fontes) — 50 linhas, –, bruto
 
 ## Economia por setor (exemplos)
 
@@ -167,15 +173,19 @@
 - [agro](https://atlasmercados.com.br/dados/economia_agro_pam_ppm.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_agro_pam_ppm.csv) — PPM — efetivo dos rebanhos, Brasil e UFs (2015–2025, bruto)
 - [agro_municipios](https://atlasmercados.com.br/dados/agro_municipios.parquet) · [CSV](https://atlasmercados.com.br/dados/agro_municipios.csv) — PPM — rebanhos por município, 2025 (2025–2025, bruto)
 - [cempre](https://atlasmercados.com.br/dados/cempre_varejo.parquet) · [CSV](https://atlasmercados.com.br/dados/cempre_varejo.csv) — CEMPRE — unidades locais, pessoal e salários do varejo (divisão 47) por UF (2022–2024, bruto)
+- [cempre_municipios](https://atlasmercados.com.br/dados/cempre_municipios.parquet) · [CSV](https://atlasmercados.com.br/dados/cempre_municipios.csv) — CEMPRE — unidades locais, pessoal ocupado e salários por município × seção e divisão CNAE, 2024 (2024–2024, bruto)
+- [cempre_uf](https://atlasmercados.com.br/dados/cempre_uf.parquet) · [CSV](https://atlasmercados.com.br/dados/cempre_uf.csv) — CEMPRE — unidades locais, pessoal ocupado, assalariados e salários por UF × seção e divisão CNAE (2022–2024, bruto)
 - [cnt](https://atlasmercados.com.br/dados/pib_trimestral_cnt.parquet) · [CSV](https://atlasmercados.com.br/dados/pib_trimestral_cnt.csv) — Contas Nacionais Trimestrais — valores a preços correntes, por setor (1996-01–2026-06, bruto)
 - [comex](https://atlasmercados.com.br/dados/comex_mdic.parquet) · [CSV](https://atlasmercados.com.br/dados/comex_mdic.csv) — Comex Stat — exportações e importações (MDIC/SECEX) (2015–2026-09, bruto)
 - [focus](https://atlasmercados.com.br/dados/focus_expectativas.parquet) · [CSV](https://atlasmercados.com.br/dados/focus_expectativas.csv) — Expectativas de mercado anuais (pesquisa Focus) — Banco Central do Brasil (2015-01-02–2026-10-16, bruto)
 - [lspa](https://atlasmercados.com.br/dados/safra_lspa.parquet) · [CSV](https://atlasmercados.com.br/dados/safra_lspa.csv) — LSPA — estimativa mensal da safra do ano: área, produção e rendimento por produto, Brasil e UFs (2024-09–2026-09, bruto)
+- [municipios](https://atlasmercados.com.br/dados/municipios_ibge.parquet) · [CSV](https://atlasmercados.com.br/dados/municipios_ibge.csv) — Censo 2022 — população por município (2022–2022, bruto)
 - [pac](https://atlasmercados.com.br/dados/mercados_pac.parquet) · [CSV](https://atlasmercados.com.br/dados/mercados_pac.csv) — PAC — classes CNAE, Brasil: receita líquida, VAB, pessoal e salários (2024–2024, bruto)
 - [paic](https://atlasmercados.com.br/dados/economia_construcao_paic.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_construcao_paic.csv) — PAIC — empresas de construção com 5 ou mais pessoas ocupadas, Brasil, regiões e UFs (2024–2024, bruto)
 - [pas](https://atlasmercados.com.br/dados/economia_servicos_pas.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_servicos_pas.csv) — PAS — dados gerais dos serviços empresariais não financeiros, por atividade, Brasil (2024–2024, bruto)
 - [pia](https://atlasmercados.com.br/dados/economia_industria_pia.parquet) · [CSV](https://atlasmercados.com.br/dados/economia_industria_pia.csv) — PIA — unidades locais industriais (5 ou mais pessoas ocupadas), UF × CNAE (UFs publicadas) (2024–2024, bruto)
 - [pmc](https://atlasmercados.com.br/dados/mercados_pmc.parquet) · [CSV](https://atlasmercados.com.br/dados/mercados_pmc.csv) — PMC — comércio varejista, índice geral, Brasil e UFs (2000-01–2026-08, bruto)
+- [pnad](https://atlasmercados.com.br/dados/pnad_trabalho.parquet) · [CSV](https://atlasmercados.com.br/dados/pnad_trabalho.csv) — PNAD Contínua — força de trabalho, ocupados, desocupados e informalidade (2012-01–2026-06, bruto)
 - [populacao](https://atlasmercados.com.br/dados/populacao_ibge.parquet) · [CSV](https://atlasmercados.com.br/dados/populacao_ibge.csv) — Censo Demográfico 2022 — população residente (2022–2022, bruto)
 - [pulso](https://atlasmercados.com.br/dados/pulso_industria_servicos.parquet) · [CSV](https://atlasmercados.com.br/dados/pulso_industria_servicos.csv) — PMS — volume e receita nominal de serviços, índice geral, Brasil e UFs (2011-01–2026-08, bruto)
 - [uf_vab](https://atlasmercados.com.br/dados/uf_vab.parquet) · [CSV](https://atlasmercados.com.br/dados/uf_vab.csv) — Contas Regionais — PIB, impostos e VAB por atividade, Brasil e UFs (2002–2023, bruto)
@@ -191,6 +201,7 @@
 - https://atlasmercados.com.br/api/economia/servicos/uf.json — valores por UF de um setor
 - https://atlasmercados.com.br/economia/agropecuaria/milho-em-grao.json — um produto agropecuário
 - https://atlasmercados.com.br/sitemap.xml — todas as URLs, com lastmod
+- Toda página tem versão Markdown: acrescente .md ao caminho (ex.: https://atlasmercados.com.br/economia.md; a inicial é https://atlasmercados.com.br/index.md)
 
 ## Licença e citação
 

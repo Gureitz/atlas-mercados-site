@@ -1,0 +1,62 @@
+---
+title: C&A MODAS S.A. (CEAB3) — acompanhamento | Atlas Mercados
+description: Acompanhamento de C&A MODAS S.A. (CEAB3) a partir da planilha de resultados divulgada pelo próprio RI, cruzada com as demonstrações da CVM.
+url: https://atlasmercados.com.br/analise/CEAB3
+---
+<!-- https://atlasmercados.com.br/analise/CEAB3 — versão Markdown da página -->
+
+CE
+
+C&A MODAS S.A. B3 · CVM
+
+CEAB3 · B3 · CD_CVM 24848
+
+[Tudo](https://atlasmercados.com.br/analise/CEAB3?p=tudo) [Anual](https://atlasmercados.com.br/analise/CEAB3?p=anual) [Trimestral](https://atlasmercados.com.br/analise/CEAB3?p=tri)
+
+- Receita líquida · R$ 2,1 bi · 2T2026 · +28.6%
+
+- Lucro líquido · R$ 177,9 mi · 2T2026 · +10599.4%
+
+## Série reportada — 16 métricas × 39 períodos · fonte: CVM · reporte em BRL
+
+| Métrica | 2018 | 4T2018 | 2019 | 1T2019 | 2T2019 | 3T2019 | 4T2019 | 2020 | 1T2020 | 2T2020 | 3T2020 | 4T2020 | 2021 | 1T2021 | 2T2021 | 3T2021 | 4T2021 | 2022 | 1T2022 | 2T2022 | 3T2022 | 4T2022 | 2023 | 1T2023 | 2T2023 | 3T2023 | 4T2023 | 2024 | 1T2024 | 2T2024 | 3T2024 | 4T2024 | 2025 | 1T2025 | 2T2025 | 3T2025 | 4T2025 | 1T2026 | 2T2026 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Receita líquida · Receita de Venda de Bens e/ou Serviços · último trimestre derivado (DFP − ITRs) | R$ 5,2 bi | — | R$ 5,3 bi | R$ 1,0 bi | R$ 1,3 bi | R$ 1,3 bi | R$ 1,7 bi | R$ 4,1 bi | R$ 976,9 mi | R$ 294,5 mi | R$ 1,1 bi | R$ 1,7 bi | R$ 5,2 bi | R$ 776,1 mi | R$ 1,2 bi | R$ 1,3 bi | R$ 1,9 bi | R$ 6,2 bi | R$ 1,2 bi | R$ 1,6 bi | R$ 1,4 bi | R$ 1,9 bi | R$ 6,7 bi | R$ 1,2 bi | R$ 1,6 bi | R$ 1,5 bi | R$ 2,3 bi | R$ 7,6 bi | R$ 1,5 bi | R$ 1,8 bi | R$ 1,8 bi | R$ 2,6 bi | R$ 8,0 bi | R$ 1,6 bi | R$ 2,1 bi | R$ 1,8 bi | R$ 2,5 bi | R$ 1,6 bi | R$ 2,1 bi |
+| Custo dos produtos/serviços vendidos · Custo dos Bens e/ou Serviços Vendidos · último trimestre derivado (DFP − ITRs) | -R$ 2,6 bi | — | -R$ 2,7 bi | -R$ 539,9 mi | -R$ 649,6 mi | -R$ 664,2 mi | -R$ 863,3 mi | -R$ 2,2 bi | -R$ 500,5 mi | -R$ 151,2 mi | -R$ 612,1 mi | -R$ 925,0 mi | -R$ 2,8 bi | -R$ 425,1 mi | -R$ 627,2 mi | -R$ 740,1 mi | -R$ 963,6 mi | -R$ 3,1 bi | -R$ 629,6 mi | -R$ 793,8 mi | -R$ 713,7 mi | -R$ 940,4 mi | -R$ 3,2 bi | -R$ 616,1 mi | -R$ 763,6 mi | -R$ 745,4 mi | -R$ 1,1 bi | -R$ 3,5 bi | -R$ 682,7 mi | -R$ 805,8 mi | -R$ 821,3 mi | -R$ 1,2 bi | -R$ 3,6 bi | -R$ 740,1 mi | -R$ 891,6 mi | -R$ 834,9 mi | -R$ 1,1 bi | -R$ 718,4 mi | -R$ 871,9 mi |
+| Lucro bruto · Resultado Bruto · último trimestre derivado (DFP − ITRs) | R$ 2,5 bi | — | R$ 2,6 bi | R$ 501,2 mi | R$ 620,0 mi | R$ 587,6 mi | R$ 859,3 mi | R$ 1,9 bi | R$ 476,3 mi | R$ 143,3 mi | R$ 455,0 mi | R$ 822,0 mi | R$ 2,4 bi | R$ 351,0 mi | R$ 548,4 mi | R$ 599,3 mi | R$ 898,5 mi | R$ 3,1 bi | R$ 567,4 mi | R$ 836,5 mi | R$ 693,8 mi | R$ 1,0 bi | R$ 3,5 bi | R$ 624,5 mi | R$ 879,3 mi | R$ 797,2 mi | R$ 1,2 bi | R$ 4,2 bi | R$ 770,3 mi | R$ 1,0 bi | R$ 978,5 mi | R$ 1,4 bi | R$ 4,4 bi | R$ 872,0 mi | R$ 1,2 bi | R$ 1,0 bi | R$ 1,4 bi | R$ 901,2 mi | R$ 1,2 bi |
+| Despesas operacionais · Despesas/Receitas Operacionais · último trimestre derivado (DFP − ITRs) | -R$ 2,2 bi | — | -R$ 1,5 bi | R$ 109,6 mi | -R$ 547,9 mi | -R$ 529,7 mi | -R$ 567,0 mi | -R$ 2,1 bi | -R$ 526,2 mi | -R$ 387,7 mi | -R$ 494,2 mi | -R$ 652,6 mi | -R$ 2,3 bi | -R$ 520,1 mi | -R$ 462,7 mi | -R$ 640,0 mi | -R$ 681,8 mi | -R$ 2,8 bi | -R$ 738,4 mi | -R$ 747,2 mi | -R$ 696,2 mi | -R$ 656,2 mi | -R$ 3,1 bi | -R$ 717,7 mi | -R$ 777,4 mi | -R$ 769,1 mi | -R$ 863,6 mi | -R$ 3,4 bi | -R$ 714,5 mi | -R$ 805,3 mi | -R$ 850,6 mi | -R$ 997,0 mi | -R$ 3,4 bi | -R$ 798,3 mi | -R$ 787,6 mi | -R$ 856,3 mi | -R$ 945,8 mi | -R$ 850,4 mi | -R$ 888,4 mi |
+| Depreciação e amortização · Depreciação e amortização · trimestre por diferença de acumulados | R$ 205,2 mi | R$ 205,2 mi | R$ 528,7 mi | R$ 129,6 mi | R$ 131,0 mi | R$ 132,1 mi | R$ 136,0 mi | R$ 246,3 mi | R$ 60,2 mi | R$ 60,9 mi | R$ 61,0 mi | R$ 64,2 mi | R$ 246,7 mi | R$ 57,0 mi | R$ 59,9 mi | R$ 61,6 mi | R$ 68,2 mi | R$ 295,1 mi | R$ 80,8 mi | R$ 82,7 mi | R$ 84,1 mi | R$ 47,4 mi | R$ 367,7 mi | R$ 88,2 mi | R$ 90,1 mi | R$ 93,6 mi | R$ 95,9 mi | R$ 349,0 mi | R$ 89,4 mi | R$ 86,0 mi | R$ 86,2 mi | R$ 87,4 mi | R$ 344,6 mi | R$ 85,8 mi | R$ 84,3 mi | R$ 85,8 mi | R$ 88,7 mi | R$ 91,0 mi | R$ 91,9 mi |
+| EBIT · Resultado Antes do Resultado Financeiro e dos Tributos · último trimestre derivado (DFP − ITRs) | R$ 356,2 mi | — | R$ 1,0 bi | R$ 610,8 mi | R$ 72,1 mi | R$ 57,9 mi | R$ 292,3 mi | -R$ 164,2 mi | -R$ 49,9 mi | -R$ 244,5 mi | -R$ 39,2 mi | R$ 169,4 mi | R$ 92,8 mi | -R$ 169,1 mi | R$ 85,7 mi | -R$ 40,6 mi | R$ 216,8 mi | R$ 268,2 mi | -R$ 170,9 mi | R$ 89,3 mi | -R$ 2,4 mi | R$ 352,2 mi | R$ 394,4 mi | -R$ 93,2 mi | R$ 101,9 mi | R$ 28,2 mi | R$ 357,5 mi | R$ 809,2 mi | R$ 55,9 mi | R$ 220,5 mi | R$ 128,0 mi | R$ 404,9 mi | R$ 1,0 bi | R$ 73,7 mi | R$ 379,3 mi | R$ 149,6 mi | R$ 441,9 mi | R$ 50,8 mi | R$ 322,1 mi |
+| Resultado financeiro líquido · Resultado Financeiro · último trimestre derivado (DFP − ITRs) | -R$ 130,7 mi | — | R$ 388,9 mi | R$ 528,2 mi | -R$ 32,6 mi | -R$ 28,8 mi | -R$ 77,9 mi | -R$ 91,4 mi | -R$ 39,0 mi | -R$ 41,2 mi | -R$ 13,1 mi | R$ 1,8 mi | -R$ 91,8 mi | -R$ 38,3 mi | R$ 18,6 mi | -R$ 41,8 mi | -R$ 30,4 mi | -R$ 311,5 mi | -R$ 68,6 mi | -R$ 95,6 mi | -R$ 101,5 mi | -R$ 45,7 mi | -R$ 428,7 mi | -R$ 101,0 mi | -R$ 104,6 mi | -R$ 110,9 mi | -R$ 112,2 mi | -R$ 296,3 mi | -R$ 3,9 mi | -R$ 101,5 mi | -R$ 92,1 mi | -R$ 98,8 mi | -R$ 317,6 mi | -R$ 77,1 mi | -R$ 87,1 mi | -R$ 72,5 mi | -R$ 80,9 mi | -R$ 59,2 mi | -R$ 73,8 mi |
+| Resultado antes dos impostos (LAIR) · Resultado Antes dos Tributos sobre o Lucro · último trimestre derivado (DFP − ITRs) | R$ 225,6 mi | — | R$ 1,4 bi | R$ 1,1 bi | R$ 39,5 mi | R$ 29,0 mi | R$ 214,4 mi | -R$ 255,7 mi | -R$ 88,9 mi | -R$ 285,6 mi | -R$ 52,3 mi | R$ 171,2 mi | R$ 991 mil | -R$ 207,4 mi | R$ 104,4 mi | -R$ 82,4 mi | R$ 186,4 mi | -R$ 43,3 mi | -R$ 239,5 mi | -R$ 6,4 mi | -R$ 103,9 mi | R$ 306,5 mi | -R$ 34,2 mi | -R$ 194,2 mi | -R$ 2,7 mi | -R$ 82,7 mi | R$ 245,3 mi | R$ 512,9 mi | R$ 52,0 mi | R$ 119,0 mi | R$ 35,8 mi | R$ 306,1 mi | R$ 727,0 mi | -R$ 3,4 mi | R$ 292,2 mi | R$ 77,2 mi | R$ 361,0 mi | -R$ 8,4 mi | R$ 248,3 mi |
+| IR e CSLL · Imposto de Renda e Contribuição Social sobre o Lucro · último trimestre derivado (DFP − ITRs) | -R$ 51,9 mi | — | -R$ 450,0 mi | -R$ 387,6 mi | -R$ 13,8 mi | -R$ 9,9 mi | -R$ 38,7 mi | R$ 89,3 mi | R$ 33,5 mi | R$ 93,6 mi | R$ 24,1 mi | -R$ 61,9 mi | R$ 328,0 mi | R$ 68,8 mi | -R$ 35,1 mi | R$ 326,3 mi | -R$ 32,0 mi | R$ 44,1 mi | R$ 86,8 mi | R$ 8,5 mi | R$ 42,5 mi | -R$ 93,6 mi | R$ 36,6 mi | R$ 67,8 mi | R$ 6,9 mi | R$ 38,5 mi | -R$ 76,7 mi | -R$ 60,4 mi | R$ 18,9 mi | -R$ 35,1 mi | R$ 7,0 mi | -R$ 51,2 mi | -R$ 139,9 mi | R$ 7,5 mi | -R$ 91,9 mi | -R$ 7,7 mi | -R$ 47,8 mi | R$ 10,0 mi | -R$ 70,4 mi |
+| Lucro líquido · Lucro/Prejuízo Consolidado do Período · último trimestre derivado (DFP − ITRs) | R$ 173,6 mi | — | R$ 972,0 mi | R$ 751,4 mi | R$ 25,8 mi | R$ 19,1 mi | R$ 175,7 mi | -R$ 166,3 mi | -R$ 55,4 mi | -R$ 192,1 mi | -R$ 28,2 mi | R$ 109,3 mi | R$ 329,0 mi | -R$ 138,5 mi | R$ 69,2 mi | R$ 243,9 mi | R$ 154,4 mi | R$ 829 mil | -R$ 152,7 mi | R$ 2,1 mi | -R$ 61,4 mi | R$ 212,9 mi | R$ 2,3 mi | -R$ 126,3 mi | R$ 4,2 mi | -R$ 44,2 mi | R$ 168,7 mi | R$ 452,5 mi | R$ 70,9 mi | R$ 83,9 mi | R$ 42,8 mi | R$ 254,9 mi | R$ 587,1 mi | R$ 4,1 mi | R$ 200,3 mi | R$ 69,5 mi | R$ 313,2 mi | R$ 1,7 mi | R$ 177,9 mi |
+| Capex · Aquisição de Intangível · trimestre por diferença de acumulados | -R$ 246,5 mi | -R$ 246,5 mi | -R$ 321,3 mi | -R$ 89,9 mi | -R$ 73,4 mi | -R$ 77,7 mi | -R$ 80,3 mi | -R$ 260,1 mi | -R$ 32,6 mi | -R$ 44,0 mi | -R$ 51,8 mi | -R$ 131,6 mi | -R$ 571,4 mi | -R$ 72,6 mi | -R$ 134,5 mi | -R$ 124,0 mi | -R$ 240,3 mi | -R$ 472,0 mi | -R$ 177,9 mi | -R$ 113,9 mi | -R$ 97,2 mi | -R$ 83,0 mi | -R$ 236,0 mi | -R$ 73,6 mi | -R$ 56,4 mi | -R$ 51,5 mi | -R$ 54,4 mi | -R$ 291,8 mi | -R$ 54,9 mi | -R$ 44,9 mi | -R$ 72,3 mi | -R$ 119,8 mi | -R$ 539,9 mi | -R$ 134,8 mi | -R$ 83,4 mi | -R$ 133,6 mi | -R$ 188,1 mi | -R$ 162,0 mi | -R$ 85,2 mi |
+| Fluxo de caixa operacional · Caixa Líquido Atividades Operacionais · trimestre por diferença de acumulados | R$ 358,5 mi | R$ 358,5 mi | R$ 851,9 mi | R$ 119,6 mi | R$ 19,8 mi | R$ 252,2 mi | R$ 460,4 mi | R$ 604,6 mi | -R$ 40,1 mi | -R$ 93,4 mi | R$ 223,5 mi | R$ 514,7 mi | R$ 480,8 mi | -R$ 290,3 mi | -R$ 35,8 mi | R$ 327,3 mi | R$ 479,6 mi | R$ 1,1 bi | -R$ 383,4 mi | R$ 132,9 mi | R$ 381,0 mi | R$ 959,9 mi | R$ 960,3 mi | -R$ 9,8 mi | R$ 262,0 mi | R$ 394,3 mi | R$ 313,8 mi | R$ 1,5 bi | R$ 93,4 mi | R$ 217,1 mi | R$ 474,8 mi | R$ 699,8 mi | R$ 1,3 bi | R$ 189,4 mi | R$ 79,1 mi | R$ 412,1 mi | R$ 631,7 mi | R$ 38,8 mi | R$ 409,8 mi |
+| Caixa · Caixa e Equivalentes de Caixa | R$ 446,0 mi | R$ 446,0 mi | R$ 447,1 mi | R$ 134,9 mi | R$ 95,3 mi | R$ 188,7 mi | R$ 447,1 mi | R$ 1,5 bi | R$ 280,0 mi | R$ 1,3 bi | R$ 1,3 bi | R$ 1,5 bi | R$ 1,1 bi | R$ 1,0 bi | R$ 879,0 mi | R$ 969,4 mi | R$ 1,1 bi | R$ 1,7 bi | R$ 660,4 mi | R$ 1,1 bi | R$ 1,2 bi | R$ 1,7 bi | R$ 1,2 bi | R$ 1,5 bi | R$ 960,8 mi | R$ 1,1 bi | R$ 1,2 bi | R$ 1,4 bi | R$ 1,0 bi | R$ 610,1 mi | R$ 949,1 mi | R$ 1,4 bi | R$ 774,5 mi | R$ 1,2 bi | R$ 832,7 mi | R$ 907,3 mi | R$ 774,5 mi | R$ 445,1 mi | R$ 540,7 mi |
+| Ativo total · Ativo Total | R$ 3,5 bi | R$ 3,5 bi | R$ 6,0 bi | R$ 5,4 bi | R$ 5,6 bi | R$ 5,5 bi | R$ 6,0 bi | R$ 7,3 bi | R$ 5,8 bi | R$ 6,5 bi | R$ 6,8 bi | R$ 7,3 bi | R$ 8,7 bi | R$ 6,8 bi | R$ 7,0 bi | R$ 7,6 bi | R$ 8,7 bi | R$ 9,6 bi | R$ 8,3 bi | R$ 9,0 bi | R$ 9,0 bi | R$ 9,6 bi | R$ 9,4 bi | R$ 9,0 bi | R$ 8,7 bi | R$ 8,8 bi | R$ 9,4 bi | R$ 10,1 bi | R$ 8,9 bi | R$ 8,6 bi | R$ 8,8 bi | R$ 10,1 bi | R$ 9,3 bi | R$ 9,3 bi | R$ 8,9 bi | R$ 8,9 bi | R$ 9,3 bi | R$ 8,6 bi | R$ 8,7 bi |
+| Dívida bruta (empréstimos e financiamentos) · Empréstimos e Financiamentos | R$ 1,8 mi | R$ 1,8 mi | R$ 1,6 bi | R$ 1,7 bi | R$ 1,7 bi | R$ 1,6 bi | R$ 1,6 bi | R$ 1,2 bi | R$ 1,7 bi | R$ 2,9 bi | R$ 2,9 bi | R$ 1,2 bi | R$ 1,4 bi | R$ 1,2 bi | R$ 1,3 bi | R$ 1,4 bi | R$ 1,4 bi | R$ 2,2 bi | R$ 1,7 bi | R$ 2,3 bi | R$ 2,4 bi | R$ 2,2 bi | R$ 1,7 bi | R$ 2,2 bi | R$ 1,7 bi | R$ 1,7 bi | R$ 1,7 bi | R$ 1,5 bi | R$ 1,7 bi | R$ 1,3 bi | R$ 1,4 bi | R$ 1,5 bi | R$ 960,5 mi | R$ 1,4 bi | R$ 1,3 bi | R$ 1,2 bi | R$ 960,5 mi | R$ 937,4 mi | R$ 949,4 mi |
+| Patrimônio líquido · Patrimônio Líquido Consolidado | R$ 1,1 bi | R$ 1,1 bi | R$ 2,7 bi | R$ 1,9 bi | R$ 1,9 bi | R$ 1,9 bi | R$ 2,7 bi | R$ 2,7 bi | R$ 2,7 bi | R$ 2,6 bi | R$ 2,5 bi | R$ 2,7 bi | R$ 3,0 bi | R$ 2,5 bi | R$ 2,6 bi | R$ 2,8 bi | R$ 3,0 bi | R$ 3,0 bi | R$ 2,8 bi | R$ 2,8 bi | R$ 2,8 bi | R$ 3,0 bi | R$ 3,0 bi | R$ 2,9 bi | R$ 2,9 bi | R$ 2,8 bi | R$ 3,0 bi | R$ 3,3 bi | R$ 3,1 bi | R$ 3,1 bi | R$ 3,2 bi | R$ 3,3 bi | R$ 3,7 bi | R$ 3,3 bi | R$ 3,5 bi | R$ 3,5 bi | R$ 3,7 bi | R$ 3,7 bi | R$ 3,8 bi |
+
+## Contraponto CVM — DFP consolidada · dado auditado
+
+| Exercício | Receita líquida | Lucro líquido | Patrimônio líquido | Ativo total |
+|---|---|---|---|---|
+| 2018 | R$ 5,2 bi | R$ 173,6 mi | R$ 1,1 bi | R$ 3,5 bi |
+| 2019 | R$ 5,3 bi | R$ 972,0 mi | R$ 2,7 bi | R$ 6,0 bi |
+| 2020 | R$ 4,1 bi | -R$ 166,3 mi | R$ 2,7 bi | R$ 7,3 bi |
+| 2021 | R$ 5,2 bi | R$ 329,0 mi | R$ 3,0 bi | R$ 8,7 bi |
+| 2022 | R$ 6,2 bi | R$ 829 mil | R$ 3,0 bi | R$ 9,6 bi |
+| 2023 | R$ 6,7 bi | R$ 2,3 mi | R$ 3,0 bi | R$ 9,4 bi |
+| 2024 | R$ 7,6 bi | R$ 452,5 mi | R$ 3,3 bi | R$ 10,1 bi |
+| 2025 | R$ 8,0 bi | R$ 587,1 mi | R$ 3,7 bi | R$ 9,3 bi |
+
+O RI publica o número gerencial (EBITDA ajustado, receita por segmento, volumes); a CVM publica o auditado no plano de contas oficial. Divergência entre os dois é esperada e é justamente o que vale investigar — não é erro de ingestão. Perfil completo: [/empresa/CEAB3](https://atlasmercados.com.br/empresa/CEAB3).
+
+## Fonte e proveniência — de onde vem cada número desta página
+
+| Tipo | Documento | Endereço | Acesso |
+|---|---|---|---|
+| CVM Dados Abertos | CD_CVM 24848 · DFP/ITR | https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/ | — |
+
+O link direto do arquivo é um identificador gerado pelo gerenciador de documentos do RI e muda a cada divulgação — a página de RI é o endereço estável para citação. Nada aqui é reprocessado de agregadores: os números vêm do arquivo que a própria companhia publicou, e a série auditada vem da CVM.

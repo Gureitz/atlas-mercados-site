@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Municípios de Sergipe — população, PIB e emprego — Atlas Mercados</title>
+<meta name="description" content="Sergipe tem 75 municípios; os maiores pelo PIB de 2023 são Aracaju (R$ 22,3 bilhões), Canindé de São Francisco (R$ 3,0 bilhões) e Itabaiana (R$ 2,9 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<link rel="canonical" href="https://atlasmercados.com.br/municipios/uf/SE">
+<link rel="alternate" type="text/markdown" href="/municipios/uf/SE.md">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Municípios de Sergipe — população, PIB e emprego — Atlas Mercados">
+<meta property="og:description" content="Sergipe tem 75 municípios; os maiores pelo PIB de 2023 são Aracaju (R$ 22,3 bilhões), Canindé de São Francisco (R$ 3,0 bilhões) e Itabaiana (R$ 2,9 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+<style>
+  .arv td.nm{text-align:left}
+  .arv .p1{padding-left:24px}.arv .p2{padding-left:46px}.arv .p3{padding-left:68px}.arv .p4{padding-left:90px}
+  .arv tr.n0 td{font-weight:600;background:rgba(227,168,87,.06)}
+  .arv tr.n3 td,.arv tr.n4 td{font-size:11px;color:var(--dim)}
+  .arv td.x{color:var(--dim2)}
+  .arv .sh{display:inline-block;height:6px;background:var(--acc);opacity:.7;border-radius:3px;vertical-align:middle;margin-right:6px}
+  .tag{display:inline-block;font-size:9.5px;padding:1px 6px;border:1px solid var(--bd);border-radius:10px;color:var(--dim2);margin-left:4px;white-space:nowrap}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:0 0 16px}
+  .card{display:block;padding:14px 16px;border:1px solid var(--bd);border-radius:10px;background:var(--panel)}
+  .card:hover{border-color:var(--acc)}
+  .card .t{font-size:11px;color:var(--dim2);text-transform:uppercase;letter-spacing:.06em}
+  .card .v{font-size:19px;margin:6px 0 2px}
+  .card .d{font-size:11px;color:var(--dim)}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .chips a{padding:4px 10px;font-size:11px;border:1px solid var(--bd2);border-radius:7px;color:var(--dim)}
+  .chips a.on{border-color:var(--acc);color:var(--acc)}
+  .dl a{color:var(--acc);margin-right:8px;white-space:nowrap}
+  #brmap{position:relative;width:100%;min-height:300px}
+  .bars{height:140px}
+  .bars .b{background:var(--acc)}
+  .bars .b .t{position:absolute;top:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--dim2);white-space:nowrap}
+  .sel{height:32px;background:var(--panel);border:1px solid var(--bd);border-radius:8px;color:var(--tx);padding:0 10px;font-family:inherit;font-size:12px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="/static/map.js" defer></script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Municípios — Sergipe", "item": "https://atlasmercados.com.br/municipios/uf/SE"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="on" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/comercio-exterior" class="" title="Comércio ext.">
+      <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/trabalho" class="" title="Trabalho">
+      <span class="i">⚒</span><span class="l">Trabalho</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+
+<h1 class="page">Municípios de Sergipe</h1>
+<p class="sub"><a href="/trabalho/uf/SE">trabalho</a> · <a href="/economia/industria/uf/SE">economia</a> · 75 municípios · ordenados pelo PIB</p>
+<p class="resposta" data-resposta>Sergipe tem 75 municípios; os maiores pelo PIB de 2023 são Aracaju (R$ 22,3 bilhões), Canindé de São Francisco (R$ 3,0 bilhões) e Itabaiana (R$ 2,9 bilhões), segundo o PIB dos Municípios do IBGE (tabela 5938).</p>
+<article class="panel" style="padding:0"><div class="scrim" style="overflow:auto">
+<table><thead><tr><th class="l">#</th><th class="l">Município</th><th>População</th><th>PIB</th><th>PIB per capita (calc.)</th><th>Pessoal ocupado (CEMPRE)</th></tr></thead><tbody>
+<tr class="clk" onclick="window.location='/municipio/2800308'"><td class="l mono dim2">1</td><td class="l"><a href="/municipio/2800308">Aracaju</a></td><td class="mono">623.328</td><td class="mono">R$ 22,3 bi</td><td class="mono dim">R$ 35.763</td><td class="mono dim">277.686</td></tr><tr class="clk" onclick="window.location='/municipio/2801207'"><td class="l mono dim2">2</td><td class="l"><a href="/municipio/2801207">Canindé de São Francisco</a></td><td class="mono">33.782</td><td class="mono">R$ 3,0 bi</td><td class="mono dim">R$ 87.856</td><td class="mono dim">4.317</td></tr><tr class="clk" onclick="window.location='/municipio/2802908'"><td class="l mono dim2">3</td><td class="l"><a href="/municipio/2802908">Itabaiana</a></td><td class="mono">110.041</td><td class="mono">R$ 2,9 bi</td><td class="mono dim">R$ 26.742</td><td class="mono dim">23.500</td></tr><tr class="clk" onclick="window.location='/municipio/2804805'"><td class="l mono dim2">4</td><td class="l"><a href="/municipio/2804805">Nossa Senhora do Socorro</a></td><td class="mono">205.611</td><td class="mono">R$ 2,9 bi</td><td class="mono dim">R$ 13.871</td><td class="mono dim">31.608</td></tr><tr class="clk" onclick="window.location='/municipio/2800605'"><td class="l mono dim2">5</td><td class="l"><a href="/municipio/2800605">Barra dos Coqueiros</a></td><td class="mono">45.916</td><td class="mono">R$ 2,5 bi</td><td class="mono dim">R$ 53.990</td><td class="mono dim">6.056</td></tr><tr class="clk" onclick="window.location='/municipio/2803500'"><td class="l mono dim2">6</td><td class="l"><a href="/municipio/2803500">Lagarto</a></td><td class="mono">106.330</td><td class="mono">R$ 2,2 bi</td><td class="mono dim">R$ 20.482</td><td class="mono dim">18.955</td></tr><tr class="clk" onclick="window.location='/municipio/2802106'"><td class="l mono dim2">7</td><td class="l"><a href="/municipio/2802106">Estância</a></td><td class="mono">67.136</td><td class="mono">R$ 1,5 bi</td><td class="mono dim">R$ 21.944</td><td class="mono dim">13.738</td></tr><tr class="clk" onclick="window.location='/municipio/2806701'"><td class="l mono dim2">8</td><td class="l"><a href="/municipio/2806701">São Cristóvão</a></td><td class="mono">111.567</td><td class="mono">R$ 1,4 bi</td><td class="mono dim">R$ 12.485</td><td class="mono dim">17.460</td></tr><tr class="clk" onclick="window.location='/municipio/2807402'"><td class="l mono dim2">9</td><td class="l"><a href="/municipio/2807402">Tobias Barreto</a></td><td class="mono">52.943</td><td class="mono">R$ 1,2 bi</td><td class="mono dim">R$ 21.722</td><td class="mono dim">6.660</td></tr><tr class="clk" onclick="window.location='/municipio/2804508'"><td class="l mono dim2">10</td><td class="l"><a href="/municipio/2804508">Nossa Senhora da Glória</a></td><td class="mono">44.088</td><td class="mono">R$ 1,0 bi</td><td class="mono dim">R$ 23.778</td><td class="mono dim">8.143</td></tr><tr class="clk" onclick="window.location='/municipio/2807105'"><td class="l mono dim2">11</td><td class="l"><a href="/municipio/2807105">Simão Dias</a></td><td class="mono">44.708</td><td class="mono">R$ 925,4 mi</td><td class="mono dim">R$ 20.698</td><td class="mono dim">6.840</td></tr><tr class="clk" onclick="window.location='/municipio/2803005'"><td class="l mono dim2">12</td><td class="l"><a href="/municipio/2803005">Itabaianinha</a></td><td class="mono">42.339</td><td class="mono">R$ 865,8 mi</td><td class="mono dim">R$ 20.449</td><td class="mono dim">4.759</td></tr><tr class="clk" onclick="window.location='/municipio/2805406'"><td class="l mono dim2">13</td><td class="l"><a href="/municipio/2805406">Poço Redondo</a></td><td class="mono">29.352</td><td class="mono">R$ 763,5 mi</td><td class="mono dim">R$ 26.013</td><td class="mono dim">1.955</td></tr><tr class="clk" onclick="window.location='/municipio/2801405'"><td class="l mono dim2">14</td><td class="l"><a href="/municipio/2801405">Carira</a></td><td class="mono">20.314</td><td class="mono">R$ 723,8 mi</td><td class="mono dim">R$ 35.629</td><td class="mono dim">2.451</td></tr><tr class="clk" onclick="window.location='/municipio/2807600'"><td class="l mono dim2">15</td><td class="l"><a href="/municipio/2807600">Umbaúba</a></td><td class="mono">24.693</td><td class="mono">R$ 721,9 mi</td><td class="mono dim">R$ 29.234</td><td class="mono dim">2.969</td></tr><tr class="clk" onclick="window.location='/municipio/2803609'"><td class="l mono dim2">16</td><td class="l"><a href="/municipio/2803609">Laranjeiras</a></td><td class="mono">23.932</td><td class="mono">R$ 638,0 mi</td><td class="mono dim">R$ 26.660</td><td class="mono dim">7.216</td></tr><tr class="clk" onclick="window.location='/municipio/2805604'"><td class="l mono dim2">17</td><td class="l"><a href="/municipio/2805604">Porto da Folha</a></td><td class="mono">27.345</td><td class="mono">R$ 637,8 mi</td><td class="mono dim">R$ 23.324</td><td class="mono dim">2.656</td></tr><tr class="clk" onclick="window.location='/municipio/2805703'"><td class="l mono dim2">18</td><td class="l"><a href="/municipio/2805703">Propriá</a></td><td class="mono">27.157</td><td class="mono">R$ 614,9 mi</td><td class="mono dim">R$ 22.642</td><td class="mono dim">4.947</td></tr><tr class="clk" onclick="window.location='/municipio/2801306'"><td class="l mono dim2">19</td><td class="l"><a href="/municipio/2801306">Capela</a></td><td class="mono">32.847</td><td class="mono">R$ 595,1 mi</td><td class="mono dim">R$ 18.116</td><td class="mono dim">5.663</td></tr><tr class="clk" onclick="window.location='/municipio/2801702'"><td class="l mono dim2">20</td><td class="l"><a href="/municipio/2801702">Cristinápolis</a></td><td class="mono">17.646</td><td class="mono">R$ 589,9 mi</td><td class="mono dim">R$ 33.430</td><td class="mono dim">2.475</td></tr><tr class="clk" onclick="window.location='/municipio/2803203'"><td class="l mono dim2">21</td><td class="l"><a href="/municipio/2803203">Itaporanga d&#39;Ajuda</a></td><td class="mono">36.272</td><td class="mono">R$ 562,4 mi</td><td class="mono dim">R$ 15.504</td><td class="mono dim">4.748</td></tr><tr class="clk" onclick="window.location='/municipio/2802304'"><td class="l mono dim2">22</td><td class="l"><a href="/municipio/2802304">Frei Paulo</a></td><td class="mono">14.957</td><td class="mono">R$ 551,0 mi</td><td class="mono dim">R$ 36.840</td><td class="mono dim">2.365</td></tr><tr class="clk" onclick="window.location='/municipio/2803302'"><td class="l mono dim2">23</td><td class="l"><a href="/municipio/2803302">Japaratuba</a></td><td class="mono">16.432</td><td class="mono">R$ 549,1 mi</td><td class="mono dim">R$ 33.415</td><td class="mono dim">3.310</td></tr><tr class="clk" onclick="window.location='/municipio/2804607'"><td class="l mono dim2">24</td><td class="l"><a href="/municipio/2804607">Nossa Senhora das Dores</a></td><td class="mono">25.600</td><td class="mono">R$ 540,6 mi</td><td class="mono dim">R$ 21.118</td><td class="mono dim">4.233</td></tr><tr class="clk" onclick="window.location='/municipio/2801504'"><td class="l mono dim2">25</td><td class="l"><a href="/municipio/2801504">Carmópolis</a></td><td class="mono">14.226</td><td class="mono">R$ 464,4 mi</td><td class="mono dim">R$ 32.646</td><td class="mono dim">4.077</td></tr><tr class="clk" onclick="window.location='/municipio/2800670'"><td class="l mono dim2">26</td><td class="l"><a href="/municipio/2800670">Boquim</a></td><td class="mono">24.978</td><td class="mono">R$ 436,6 mi</td><td class="mono dim">R$ 17.481</td><td class="mono dim">2.576</td></tr><tr class="clk" onclick="window.location='/municipio/2805802'"><td class="l mono dim2">27</td><td class="l"><a href="/municipio/2805802">Riachão do Dantas</a></td><td class="mono">18.505</td><td class="mono">R$ 419,3 mi</td><td class="mono dim">R$ 22.661</td><td class="mono dim">1.108</td></tr><tr class="clk" onclick="window.location='/municipio/2806107'"><td class="l mono dim2">28</td><td class="l"><a href="/municipio/2806107">Rosário do Catete</a></td><td class="mono">9.516</td><td class="mono">R$ 391,9 mi</td><td class="mono dim">R$ 41.181</td><td class="mono dim">2.179</td></tr><tr class="clk" onclick="window.location='/municipio/2805505'"><td class="l mono dim2">29</td><td class="l"><a href="/municipio/2805505">Poço Verde</a></td><td class="mono">22.221</td><td class="mono">R$ 388,8 mi</td><td class="mono dim">R$ 17.498</td><td class="mono dim">2.891</td></tr><tr class="clk" onclick="window.location='/municipio/2804409'"><td class="l mono dim2">30</td><td class="l"><a href="/municipio/2804409">Neópolis</a></td><td class="mono">16.394</td><td class="mono">R$ 382,7 mi</td><td class="mono dim">R$ 23.344</td><td class="mono dim">3.224</td></tr><tr class="clk" onclick="window.location='/municipio/2806008'"><td class="l mono dim2">31</td><td class="l"><a href="/municipio/2806008">Ribeirópolis</a></td><td class="mono">17.368</td><td class="mono">R$ 372,1 mi</td><td class="mono dim">R$ 21.423</td><td class="mono dim">2.588</td></tr><tr class="clk" onclick="window.location='/municipio/2800209'"><td class="l mono dim2">32</td><td class="l"><a href="/municipio/2800209">Aquidabã</a></td><td class="mono">20.570</td><td class="mono">R$ 362,3 mi</td><td class="mono dim">R$ 17.613</td><td class="mono dim">2.437</td></tr><tr class="clk" onclick="window.location='/municipio/2801009'"><td class="l mono dim2">33</td><td class="l"><a href="/municipio/2801009">Campo do Brito</a></td><td class="mono">18.788</td><td class="mono">R$ 354,4 mi</td><td class="mono dim">R$ 18.862</td><td class="mono dim">2.634</td></tr><tr class="clk" onclick="window.location='/municipio/2800506'"><td class="l mono dim2">34</td><td class="l"><a href="/municipio/2800506">Areia Branca</a></td><td class="mono">18.687</td><td class="mono">R$ 353,8 mi</td><td class="mono dim">R$ 18.935</td><td class="mono dim">1.655</td></tr><tr class="clk" onclick="window.location='/municipio/2804201'"><td class="l mono dim2">35</td><td class="l"><a href="/municipio/2804201">Monte Alegre de Sergipe</a></td><td class="mono">14.829</td><td class="mono">R$ 337,2 mi</td><td class="mono dim">R$ 22.739</td><td class="mono dim">1.474</td></tr><tr class="clk" onclick="window.location='/municipio/2802809'"><td class="l mono dim2">36</td><td class="l"><a href="/municipio/2802809">Indiaroba</a></td><td class="mono">17.030</td><td class="mono">R$ 322,9 mi</td><td class="mono dim">R$ 18.960</td><td class="mono dim">1.304</td></tr><tr class="clk" onclick="window.location='/municipio/2804003'"><td class="l mono dim2">37</td><td class="l"><a href="/municipio/2804003">Maruim</a></td><td class="mono">15.938</td><td class="mono">R$ 321,0 mi</td><td class="mono dim">R$ 20.138</td><td class="mono dim">2.224</td></tr><tr class="clk" onclick="window.location='/municipio/2806206'"><td class="l mono dim2">38</td><td class="l"><a href="/municipio/2806206">Salgado</a></td><td class="mono">20.874</td><td class="mono">R$ 320,9 mi</td><td class="mono dim">R$ 15.375</td><td class="mono dim">1.838</td></tr><tr class="clk" onclick="window.location='/municipio/2803401'"><td class="l mono dim2">39</td><td class="l"><a href="/municipio/2803401">Japoatã</a></td><td class="mono">13.737</td><td class="mono">R$ 298,6 mi</td><td class="mono dim">R$ 21.738</td><td class="mono dim">1.909</td></tr><tr class="clk" onclick="window.location='/municipio/2804102'"><td class="l mono dim2">40</td><td class="l"><a href="/municipio/2804102">Moita Bonita</a></td><td class="mono">11.305</td><td class="mono">R$ 280,1 mi</td><td class="mono dim">R$ 24.780</td><td class="mono dim">931</td></tr><tr class="clk" onclick="window.location='/municipio/2802007'"><td class="l mono dim2">41</td><td class="l"><a href="/municipio/2802007">Divina Pastora</a></td><td class="mono">4.439</td><td class="mono">R$ 240,8 mi</td><td class="mono dim">R$ 54.246</td><td class="mono dim">617</td></tr><tr class="clk" onclick="window.location='/municipio/2805901'"><td class="l mono dim2">42</td><td class="l"><a href="/municipio/2805901">Riachuelo</a></td><td class="mono">8.832</td><td class="mono">R$ 240,6 mi</td><td class="mono dim">R$ 27.238</td><td class="mono dim">1.490</td></tr><tr class="clk" onclick="window.location='/municipio/2806305'"><td class="l mono dim2">43</td><td class="l"><a href="/municipio/2806305">Santa Luzia do Itanhy</a></td><td class="mono">14.038</td><td class="mono">R$ 238,3 mi</td><td class="mono dim">R$ 16.974</td><td class="mono dim">1.683</td></tr><tr class="clk" onclick="window.location='/municipio/2806602'"><td class="l mono dim2">44</td><td class="l"><a href="/municipio/2806602">Santo Amaro das Brotas</a></td><td class="mono">11.281</td><td class="mono">R$ 227,9 mi</td><td class="mono dim">R$ 20.206</td><td class="mono dim">1.157</td></tr><tr class="clk" onclick="window.location='/municipio/2803906'"><td class="l mono dim2">45</td><td class="l"><a href="/municipio/2803906">Malhador</a></td><td class="mono">11.697</td><td class="mono">R$ 224,5 mi</td><td class="mono dim">R$ 19.190</td><td class="mono dim">1.148</td></tr><tr class="clk" onclick="window.location='/municipio/2804904'"><td class="l mono dim2">46</td><td class="l"><a href="/municipio/2804904">Pacatuba</a></td><td class="mono">12.671</td><td class="mono">R$ 219,4 mi</td><td class="mono dim">R$ 17.318</td><td class="mono dim">1.770</td></tr><tr class="clk" onclick="window.location='/municipio/2802403'"><td class="l mono dim2">47</td><td class="l"><a href="/municipio/2802403">Gararu</a></td><td class="mono">11.288</td><td class="mono">R$ 217,6 mi</td><td class="mono dim">R$ 19.274</td><td class="mono dim">858</td></tr><tr class="clk" onclick="window.location='/municipio/2804458'"><td class="l mono dim2">48</td><td class="l"><a href="/municipio/2804458">Nossa Senhora Aparecida</a></td><td class="mono">9.570</td><td class="mono">R$ 209,6 mi</td><td class="mono dim">R$ 21.902</td><td class="mono dim">666</td></tr><tr class="clk" onclick="window.location='/municipio/2807501'"><td class="l mono dim2">49</td><td class="l"><a href="/municipio/2807501">Tomar do Geru</a></td><td class="mono">12.047</td><td class="mono">R$ 208,8 mi</td><td class="mono dim">R$ 17.335</td><td class="mono dim">945</td></tr><tr class="clk" onclick="window.location='/municipio/2800407'"><td class="l mono dim2">50</td><td class="l"><a href="/municipio/2800407">Arauá</a></td><td class="mono">10.445</td><td class="mono">R$ 203,8 mi</td><td class="mono dim">R$ 19.510</td><td class="mono dim">1.104</td></tr><tr class="clk" onclick="window.location='/municipio/2807204'"><td class="l mono dim2">51</td><td class="l"><a href="/municipio/2807204">Siriri</a></td><td class="mono">7.978</td><td class="mono">R$ 202,0 mi</td><td class="mono dim">R$ 25.317</td><td class="mono dim">703</td></tr><tr class="clk" onclick="window.location='/municipio/2802205'"><td class="l mono dim2">52</td><td class="l"><a href="/municipio/2802205">Feira Nova</a></td><td class="mono">6.389</td><td class="mono">R$ 169,4 mi</td><td class="mono dim">R$ 26.508</td><td class="mono dim">571</td></tr><tr class="clk" onclick="window.location='/municipio/2806800'"><td class="l mono dim2">53</td><td class="l"><a href="/municipio/2806800">São Domingos</a></td><td class="mono">10.567</td><td class="mono">R$ 161,3 mi</td><td class="mono dim">R$ 15.269</td><td class="mono dim">1.039</td></tr><tr class="clk" onclick="window.location='/municipio/2806404'"><td class="l mono dim2">54</td><td class="l"><a href="/municipio/2806404">Santana do São Francisco</a></td><td class="mono">7.566</td><td class="mono">R$ 160,6 mi</td><td class="mono dim">R$ 21.229</td><td class="mono dim">1.163</td></tr><tr class="clk" onclick="window.location='/municipio/2805307'"><td class="l mono dim2">55</td><td class="l"><a href="/municipio/2805307">Pirambu</a></td><td class="mono">8.006</td><td class="mono">R$ 155,3 mi</td><td class="mono dim">R$ 19.402</td><td class="mono dim">1.414</td></tr><tr class="clk" onclick="window.location='/municipio/2805208'"><td class="l mono dim2">56</td><td class="l"><a href="/municipio/2805208">Pinhão</a></td><td class="mono">5.750</td><td class="mono">R$ 141,4 mi</td><td class="mono dim">R$ 24.594</td><td class="mono dim">580</td></tr><tr class="clk" onclick="window.location='/municipio/2802601'"><td class="l mono dim2">57</td><td class="l"><a href="/municipio/2802601">Graccho Cardoso</a></td><td class="mono">5.921</td><td class="mono">R$ 139,8 mi</td><td class="mono dim">R$ 23.611</td><td class="mono dim">552</td></tr><tr class="clk" onclick="window.location='/municipio/2803708'"><td class="l mono dim2">58</td><td class="l"><a href="/municipio/2803708">Macambira</a></td><td class="mono">7.070</td><td class="mono">R$ 136,3 mi</td><td class="mono dim">R$ 19.281</td><td class="mono dim">757</td></tr><tr class="clk" onclick="window.location='/municipio/2805109'"><td class="l mono dim2">59</td><td class="l"><a href="/municipio/2805109">Pedrinhas</a></td><td class="mono">7.298</td><td class="mono">R$ 128,6 mi</td><td class="mono dim">R$ 17.617</td><td class="mono dim">736</td></tr><tr class="clk" onclick="window.location='/municipio/2800704'"><td class="l mono dim2">60</td><td class="l"><a href="/municipio/2800704">Brejo Grande</a></td><td class="mono">8.034</td><td class="mono">R$ 122,9 mi</td><td class="mono dim">R$ 15.301</td><td class="mono dim">1.167</td></tr><tr class="clk" onclick="window.location='/municipio/2802700'"><td class="l mono dim2">61</td><td class="l"><a href="/municipio/2802700">Ilha das Flores</a></td><td class="mono">8.502</td><td class="mono">R$ 118,4 mi</td><td class="mono dim">R$ 13.925</td><td class="mono dim">905</td></tr><tr class="clk" onclick="window.location='/municipio/2804706'"><td class="l mono dim2">62</td><td class="l"><a href="/municipio/2804706">Nossa Senhora de Lourdes</a></td><td class="mono">6.413</td><td class="mono">R$ 115,9 mi</td><td class="mono dim">R$ 18.074</td><td class="mono dim">561</td></tr><tr class="clk" onclick="window.location='/municipio/2804300'"><td class="l mono dim2">63</td><td class="l"><a href="/municipio/2804300">Muribeca</a></td><td class="mono">8.084</td><td class="mono">R$ 112,5 mi</td><td class="mono dim">R$ 13.922</td><td class="mono dim">1.187</td></tr><tr class="clk" onclick="window.location='/municipio/2803104'"><td class="l mono dim2">64</td><td class="l"><a href="/municipio/2803104">Itabi</a></td><td class="mono">4.809</td><td class="mono">R$ 101,1 mi</td><td class="mono dim">R$ 21.031</td><td class="mono dim">638</td></tr><tr class="clk" onclick="window.location='/municipio/2801108'"><td class="l mono dim2">65</td><td class="l"><a href="/municipio/2801108">Canhoba</a></td><td class="mono">3.845</td><td class="mono">R$ 95,1 mi</td><td class="mono dim">R$ 24.743</td><td class="mono dim">522</td></tr><tr class="clk" onclick="window.location='/municipio/2801603'"><td class="l mono dim2">66</td><td class="l"><a href="/municipio/2801603">Cedro de São João</a></td><td class="mono">5.467</td><td class="mono">R$ 84,9 mi</td><td class="mono dim">R$ 15.539</td><td class="mono dim">815</td></tr><tr class="clk" onclick="window.location='/municipio/2801900'"><td class="l mono dim2">67</td><td class="l"><a href="/municipio/2801900">Cumbe</a></td><td class="mono">3.875</td><td class="mono">R$ 82,7 mi</td><td class="mono dim">R$ 21.334</td><td class="mono dim">392</td></tr><tr class="clk" onclick="window.location='/municipio/2807006'"><td class="l mono dim2">68</td><td class="l"><a href="/municipio/2807006">São Miguel do Aleixo</a></td><td class="mono">3.462</td><td class="mono">R$ 79,1 mi</td><td class="mono dim">R$ 22.855</td><td class="mono dim">441</td></tr><tr class="clk" onclick="window.location='/municipio/2805000'"><td class="l mono dim2">69</td><td class="l"><a href="/municipio/2805000">Pedra Mole</a></td><td class="mono">2.804</td><td class="mono">R$ 74,5 mi</td><td class="mono dim">R$ 26.573</td><td class="mono dim">293</td></tr><tr class="clk" onclick="window.location='/municipio/2803807'"><td class="l mono dim2">70</td><td class="l"><a href="/municipio/2803807">Malhada dos Bois</a></td><td class="mono">3.681</td><td class="mono">R$ 67,2 mi</td><td class="mono dim">R$ 18.268</td><td class="mono dim">779</td></tr><tr class="clk" onclick="window.location='/municipio/2806909'"><td class="l mono dim2">71</td><td class="l"><a href="/municipio/2806909">São Francisco</a></td><td class="mono">3.337</td><td class="mono">R$ 61,5 mi</td><td class="mono dim">R$ 18.433</td><td class="mono dim">612</td></tr><tr class="clk" onclick="window.location='/municipio/2806503'"><td class="l mono dim2">72</td><td class="l"><a href="/municipio/2806503">Santa Rosa de Lima</a></td><td class="mono">4.059</td><td class="mono">R$ 59,2 mi</td><td class="mono dim">R$ 14.581</td><td class="mono dim">499</td></tr><tr class="clk" onclick="window.location='/municipio/2807303'"><td class="l mono dim2">73</td><td class="l"><a href="/municipio/2807303">Telha</a></td><td class="mono">3.405</td><td class="mono">R$ 53,5 mi</td><td class="mono dim">R$ 15.702</td><td class="mono dim">498</td></tr><tr class="clk" onclick="window.location='/municipio/2802502'"><td class="l mono dim2">74</td><td class="l"><a href="/municipio/2802502">General Maynard</a></td><td class="mono">3.124</td><td class="mono">R$ 50,4 mi</td><td class="mono dim">R$ 16.132</td><td class="mono dim">331</td></tr><tr class="clk" onclick="window.location='/municipio/2800100'"><td class="l mono dim2">75</td><td class="l"><a href="/municipio/2800100">Amparo do São Francisco</a></td><td class="mono">2.199</td><td class="mono">R$ 49,4 mi</td><td class="mono dim">R$ 22.470</td><td class="mono dim">398</td></tr>
+</tbody></table></div></article>
+
+<div class="note"><b>Fonte.</b> IBGE: PIB dos Municípios (SIDRA t/5938), estimativas de população (t/6579) e Censo 2022 (t/4709), Cadastro Central de Empresas (t/9528) e PAM/PPM (t/5457, t/74), como publicados; "Mil Reais" convertido para R$. PIB per capita e participações são cálculo da página. Não é recomendação de nada.</div>
+<div class="dl" style="font-size:11px;margin-top:8px"><b class="dim">Dados:</b> <a href="/dados/municipios_ibge">municipios_ibge</a> <a href="/dados/cempre_municipios">cempre_municipios</a> <a href="/dados/agro_municipios">agro_municipios</a></div>
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Municípios — Sergipe. https://atlasmercados.com.br/municipios/uf/SE. Dados: IBGE — PIB dos Municípios (t/5938), população (t/6579), CEMPRE (t/9528). Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    
+    Permalink: <a href="https://atlasmercados.com.br/municipios/uf/SE">https://atlasmercados.com.br/municipios/uf/SE</a>
+    
+    
+    
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

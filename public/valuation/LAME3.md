@@ -1,0 +1,72 @@
+---
+title: LOJAS AMERICANAS SA (LAME3) — estrutura de valuation | Atlas Mercados
+description: Estrutura de valuation de LOJAS AMERICANAS SA (LAME3): Receita = lojas × receita por loja (ou vendas mesmas lojas). Driver físico, razão derivada e ponte até o lucro, com a série reportada pela própria companhia.
+url: https://atlasmercados.com.br/valuation/LAME3
+---
+<!-- https://atlasmercados.com.br/valuation/LAME3 — versão Markdown da página -->
+
+[AGRO3](https://atlasmercados.com.br/valuation/AGRO3?p=tri) [BLAU3](https://atlasmercados.com.br/valuation/BLAU3?p=tri) [BRST3](https://atlasmercados.com.br/valuation/BRST3?p=tri) [EZTC3](https://atlasmercados.com.br/valuation/EZTC3?p=tri) [JHSF3](https://atlasmercados.com.br/valuation/JHSF3?p=tri) [MDNE3](https://atlasmercados.com.br/valuation/MDNE3?p=tri) [PRIO3](https://atlasmercados.com.br/valuation/PRIO3?p=tri) [PRNR3](https://atlasmercados.com.br/valuation/PRNR3?p=tri) [SIMH3](https://atlasmercados.com.br/valuation/SIMH3?p=tri) [SLCE3](https://atlasmercados.com.br/valuation/SLCE3?p=tri) [SUZB3](https://atlasmercados.com.br/valuation/SUZB3?p=tri) [TTEN3](https://atlasmercados.com.br/valuation/TTEN3?p=tri) [AURA33](https://atlasmercados.com.br/valuation/AURA33?p=tri) [INBR32](https://atlasmercados.com.br/valuation/INBR32?p=tri) [MELI34](https://atlasmercados.com.br/valuation/MELI34?p=tri) [ROXO34](https://atlasmercados.com.br/valuation/ROXO34?p=tri) [S2EA34](https://atlasmercados.com.br/valuation/S2EA34?p=tri) [AMZN](https://atlasmercados.com.br/valuation/AMZN?p=tri) [CRESY](https://atlasmercados.com.br/valuation/CRESY?p=tri) [META](https://atlasmercados.com.br/valuation/META?p=tri) [MU](https://atlasmercados.com.br/valuation/MU?p=tri) [PAM](https://atlasmercados.com.br/valuation/PAM?p=tri)
+
+LA
+
+LOJAS AMERICANAS SA Comércio (Atacado e Varejo) B3 · CVM
+
+LAME3 · 16 linhas × 44 períodos · BRL · CVM
+
+[Projetar →](https://atlasmercados.com.br/projecao/LAME3) [Trimestral](https://atlasmercados.com.br/valuation/LAME3?p=tri) [Anual](https://atlasmercados.com.br/valuation/LAME3?p=anual) [Tudo](https://atlasmercados.com.br/valuation/LAME3?p=tudo)
+
+Modelo genérico do setor. Esta companhia está no universo, não na carteira: a estrutura abaixo é a típica de Comércio (Atacado e Varejo), não uma análise dela. Serve para enquadrar os números — a tese específica e o driver físico exigem a planilha de RI da companhia, ainda não mapeada.
+
+Receita = lojas × receita por loja (ou vendas mesmas lojas)
+
+Atenção: Vendas mesmas lojas separam crescimento orgânico de abertura de loja — sem isso a receita cresce escondendo maturação fraca.
+
+## Grade de dados — série reportada pela companhia, agrupada pelo papel no modelo
+
+| Linha | 4T2010 | 1T2011 | 2T2011 | 3T2011 | 4T2011 | 1T2012 | 2T2012 | 3T2012 | 4T2012 | 1T2013 | 2T2013 | 3T2013 | 4T2013 | 1T2014 | 2T2014 | 3T2014 | 4T2014 | 1T2015 | 2T2015 | 3T2015 | 4T2015 | 1T2016 | 2T2016 | 3T2016 | 4T2016 | 1T2017 | 2T2017 | 3T2017 | 4T2017 | 1T2018 | 2T2018 | 3T2018 | 4T2018 | 1T2019 | 2T2019 | 3T2019 | 4T2019 | 1T2020 | 2T2020 | 3T2020 | 4T2020 | 1T2021 | 2T2021 | 3T2021 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ReceitaTotal e composição |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Receita líquidaBRL | — | R$ 2,3 bi | R$ 2,4 bi | R$ 2,4 bi | R$ 3,1 bi | R$ 2,4 bi | R$ 2,6 bi | R$ 2,7 bi | R$ 3,7 bi | R$ 3,1 bi | R$ 2,6 bi | R$ 3,1 bi | R$ 4,6 bi | R$ 3,4 bi | R$ 3,6 bi | R$ 3,7 bi | R$ 5,5 bi | R$ 4,1 bi | R$ 4,0 bi | R$ 4,0 bi | R$ 5,8 bi | R$ 3,9 bi | R$ 3,9 bi | R$ 4,0 bi | R$ 6,3 bi | R$ 3,6 bi | R$ 4,1 bi | R$ 3,8 bi | R$ 5,5 bi | R$ 4,0 bi | R$ 3,8 bi | R$ 3,9 bi | R$ 5,9 bi | R$ 3,6 bi | R$ 4,4 bi | R$ 4,2 bi | R$ 6,8 bi | R$ 4,1 bi | R$ 4,7 bi | R$ 5,1 bi | R$ 7,4 bi | R$ 5,2 bi | R$ 7,0 bi | R$ 6,3 bi |
+| ResultadoDa receita ao lucro |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Custo dos produtos/serviços vendidosBRL | — | -R$ 1,5 bi | -R$ 1,7 bi | -R$ 1,7 bi | -R$ 2,1 bi | -R$ 1,7 bi | -R$ 1,8 bi | -R$ 1,9 bi | -R$ 2,5 bi | -R$ 2,3 bi | -R$ 1,8 bi | -R$ 2,1 bi | -R$ 3,1 bi | -R$ 2,4 bi | -R$ 2,6 bi | -R$ 2,6 bi | -R$ 3,7 bi | -R$ 3,0 bi | -R$ 2,9 bi | -R$ 2,9 bi | -R$ 4,1 bi | -R$ 2,8 bi | -R$ 2,7 bi | -R$ 2,8 bi | -R$ 4,4 bi | -R$ 2,5 bi | -R$ 2,8 bi | -R$ 2,6 bi | -R$ 3,6 bi | -R$ 2,7 bi | -R$ 2,5 bi | -R$ 2,6 bi | -R$ 3,9 bi | -R$ 2,3 bi | -R$ 2,9 bi | -R$ 2,7 bi | -R$ 4,2 bi | -R$ 2,7 bi | -R$ 3,1 bi | -R$ 3,4 bi | -R$ 4,9 bi | -R$ 3,6 bi | -R$ 4,6 bi | -R$ 4,3 bi |
+| Lucro brutoBRL | — | R$ 707,8 mi | R$ 726,2 mi | R$ 701,0 mi | R$ 1,0 bi | R$ 729,6 mi | R$ 769,5 mi | R$ 776,8 mi | R$ 1,1 bi | R$ 883,1 mi | R$ 797,8 mi | R$ 930,1 mi | R$ 1,5 bi | R$ 993,9 mi | R$ 1,0 bi | R$ 1,1 bi | R$ 1,7 bi | R$ 1,1 bi | R$ 1,1 bi | R$ 1,2 bi | R$ 1,8 bi | R$ 1,1 bi | R$ 1,2 bi | R$ 1,2 bi | R$ 1,9 bi | R$ 1,0 bi | R$ 1,3 bi | R$ 1,2 bi | R$ 1,9 bi | R$ 1,3 bi | R$ 1,3 bi | R$ 1,4 bi | R$ 2,0 bi | R$ 1,2 bi | R$ 1,6 bi | R$ 1,5 bi | R$ 2,6 bi | R$ 1,4 bi | R$ 1,5 bi | R$ 1,7 bi | R$ 2,5 bi | R$ 1,6 bi | R$ 2,4 bi | R$ 2,0 bi |
+| Despesas operacionaisBRL | — | -R$ 489,3 mi | -R$ 503,4 mi | -R$ 470,6 mi | -R$ 567,6 mi | -R$ 509,0 mi | -R$ 541,1 mi | -R$ 500,5 mi | -R$ 599,9 mi | -R$ 609,6 mi | -R$ 579,6 mi | -R$ 611,3 mi | -R$ 823,4 mi | -R$ 701,1 mi | -R$ 723,0 mi | -R$ 717,5 mi | -R$ 1,0 bi | -R$ 804,3 mi | -R$ 718,3 mi | -R$ 814,8 mi | -R$ 854,3 mi | -R$ 746,6 mi | -R$ 800,2 mi | -R$ 771,7 mi | -R$ 1,0 bi | -R$ 787,6 mi | -R$ 835,4 mi | -R$ 789,9 mi | -R$ 1,1 bi | -R$ 1,0 bi | -R$ 976,1 mi | -R$ 1,0 bi | -R$ 1,3 bi | -R$ 1,0 bi | -R$ 1,1 bi | -R$ 1,2 bi | -R$ 1,5 bi | -R$ 1,2 bi | -R$ 1,3 bi | -R$ 1,4 bi | -R$ 1,8 bi | -R$ 1,7 bi | -R$ 2,2 bi | -R$ 1,7 bi |
+| Depreciação e amortizaçãoBRL | R$ 146,0 mi | R$ 43,1 mi | R$ 43,1 mi | R$ 47,2 mi | R$ 43,7 mi | R$ 51,9 mi | R$ 54,1 mi | R$ 58,1 mi | R$ 62,8 mi | R$ 66,3 mi | R$ 69,1 mi | R$ 72,3 mi | R$ 82,2 mi | R$ 87,8 mi | R$ 94,8 mi | R$ 99,7 mi | R$ 106,0 mi | R$ 114,0 mi | R$ 134,3 mi | R$ 143,3 mi | R$ 149,9 mi | R$ 151,6 mi | R$ 154,1 mi | R$ 168,5 mi | R$ 162,6 mi | R$ 180,8 mi | R$ 194,6 mi | R$ 199,7 mi | R$ 194,6 mi | R$ 212,0 mi | R$ 233,6 mi | R$ 242,6 mi | R$ 247,2 mi | R$ 223,7 mi | R$ 236,4 mi | R$ 246,6 mi | R$ 248,0 mi | R$ 248,3 mi | R$ 258,6 mi | R$ 268,5 mi | R$ 269,1 mi | R$ 304,5 mi | R$ 613,0 mi | R$ 433,8 mi |
+| EBITBRL | — | R$ 218,5 mi | R$ 222,7 mi | R$ 230,4 mi | R$ 468,9 mi | R$ 220,5 mi | R$ 228,4 mi | R$ 276,3 mi | R$ 518,6 mi | R$ 273,5 mi | R$ 218,2 mi | R$ 318,8 mi | R$ 640,4 mi | R$ 292,8 mi | R$ 309,8 mi | R$ 368,4 mi | R$ 710,3 mi | R$ 339,1 mi | R$ 348,8 mi | R$ 346,8 mi | R$ 900,1 mi | R$ 344,3 mi | R$ 434,4 mi | R$ 414,4 mi | R$ 845,1 mi | R$ 256,3 mi | R$ 463,3 mi | R$ 412,7 mi | R$ 780,3 mi | R$ 292,5 mi | R$ 318,4 mi | R$ 362,8 mi | R$ 745,3 mi | R$ 226,9 mi | R$ 471,3 mi | R$ 384,2 mi | R$ 1,0 bi | R$ 185,7 mi | R$ 255,1 mi | R$ 318,1 mi | R$ 677,0 mi | -R$ 27,1 mi | R$ 184,3 mi | R$ 292,6 mi |
+| Resultado financeiro líquidoBRL | — | -R$ 136,4 mi | -R$ 171,6 mi | -R$ 174,7 mi | -R$ 233,9 mi | -R$ 190,3 mi | -R$ 190,6 mi | -R$ 189,7 mi | -R$ 216,0 mi | -R$ 227,9 mi | -R$ 197,8 mi | -R$ 206,9 mi | -R$ 248,5 mi | -R$ 290,1 mi | -R$ 305,5 mi | -R$ 327,0 mi | -R$ 326,4 mi | -R$ 340,9 mi | -R$ 384,4 mi | -R$ 429,3 mi | -R$ 505,3 mi | -R$ 478,1 mi | -R$ 438,3 mi | -R$ 583,6 mi | -R$ 653,7 mi | -R$ 594,4 mi | -R$ 430,0 mi | -R$ 423,5 mi | -R$ 428,6 mi | -R$ 320,2 mi | -R$ 341,0 mi | -R$ 340,9 mi | -R$ 411,4 mi | -R$ 385,1 mi | -R$ 372,5 mi | -R$ 369,3 mi | -R$ 248,7 mi | -R$ 315,6 mi | -R$ 299,7 mi | -R$ 267,2 mi | -R$ 245,6 mi | -R$ 297,7 mi | R$ 165,6 mi | -R$ 284,0 mi |
+| Resultado antes dos impostos (LAIR)BRL | — | R$ 82,1 mi | R$ 51,2 mi | R$ 55,6 mi | R$ 235,0 mi | R$ 30,2 mi | R$ 37,8 mi | R$ 86,6 mi | R$ 302,5 mi | R$ 45,7 mi | R$ 20,4 mi | R$ 111,9 mi | R$ 391,8 mi | R$ 2,7 mi | R$ 4,3 mi | R$ 41,4 mi | R$ 383,9 mi | -R$ 1,8 mi | -R$ 35,6 mi | -R$ 82,6 mi | R$ 394,8 mi | -R$ 133,8 mi | -R$ 3,9 mi | -R$ 169,2 mi | R$ 191,4 mi | -R$ 338,0 mi | R$ 33,2 mi | -R$ 10,8 mi | R$ 351,6 mi | -R$ 27,7 mi | -R$ 22,6 mi | R$ 22,0 mi | R$ 333,9 mi | -R$ 158,2 mi | R$ 98,8 mi | R$ 14,8 mi | R$ 774,0 mi | -R$ 129,9 mi | -R$ 44,6 mi | R$ 50,9 mi | R$ 431,4 mi | -R$ 324,8 mi | R$ 349,8 mi | R$ 8,6 mi |
+| IR e CSLLBRL | — | -R$ 20,4 mi | -R$ 16,3 mi | -R$ 16,8 mi | -R$ 66,7 mi | -R$ 6,8 mi | -R$ 16,2 mi | -R$ 20,0 mi | -R$ 102,2 mi | -R$ 12,8 mi | -R$ 3,6 mi | -R$ 29,5 mi | -R$ 123,1 mi | R$ 1,5 mi | R$ 3,6 mi | -R$ 4,3 mi | -R$ 77,8 mi | R$ 1,7 mi | R$ 16,4 mi | R$ 33,6 mi | -R$ 262,0 mi | R$ 51,0 mi | R$ 7,4 mi | R$ 59,8 mi | R$ 25,0 mi | R$ 138,2 mi | -R$ 12,9 mi | R$ 127 mil | -R$ 80,3 mi | R$ 3,9 mi | R$ 7,5 mi | -R$ 2,3 mi | -R$ 87,1 mi | R$ 51,1 mi | -R$ 35,2 mi | -R$ 6,9 mi | -R$ 157,2 mi | R$ 39,1 mi | R$ 8,5 mi | -R$ 15,1 mi | -R$ 25,2 mi | R$ 100,4 mi | -R$ 124,6 mi | R$ 233,5 mi |
+| Lucro líquidoBRL | — | R$ 61,7 mi | R$ 34,8 mi | R$ 38,9 mi | R$ 168,3 mi | R$ 23,5 mi | R$ 21,6 mi | R$ 66,0 mi | R$ 235,5 mi | R$ 34,7 mi | R$ 16,8 mi | R$ 82,4 mi | R$ 268,8 mi | R$ 4,2 mi | R$ 7,9 mi | R$ 37,2 mi | R$ 306,0 mi | -R$ 198 mil | -R$ 19,2 mi | -R$ 49,0 mi | R$ 132,8 mi | -R$ 82,8 mi | R$ 3,5 mi | -R$ 109,4 mi | R$ 216,4 mi | -R$ 199,8 mi | R$ 20,3 mi | -R$ 10,7 mi | R$ 271,4 mi | -R$ 23,9 mi | -R$ 15,1 mi | R$ 19,7 mi | R$ 246,8 mi | -R$ 107,1 mi | R$ 63,6 mi | R$ 8,0 mi | R$ 616,8 mi | -R$ 90,8 mi | -R$ 36,2 mi | R$ 35,8 mi | R$ 406,2 mi | -R$ 224,4 mi | R$ 225,2 mi | R$ 242,1 mi |
+| CapexBRL | -R$ 526,4 mi | -R$ 147,6 mi | -R$ 186,8 mi | -R$ 164,7 mi | -R$ 230,6 mi | -R$ 154,7 mi | -R$ 320,8 mi | -R$ 184,3 mi | -R$ 299,9 mi | -R$ 179,6 mi | -R$ 293,7 mi | -R$ 405,0 mi | -R$ 456,4 mi | -R$ 302,5 mi | -R$ 385,3 mi | -R$ 403,0 mi | -R$ 392,7 mi | -R$ 268,2 mi | -R$ 389,6 mi | -R$ 345,8 mi | -R$ 529,2 mi | -R$ 257,6 mi | -R$ 202,2 mi | -R$ 296,5 mi | -R$ 287,9 mi | -R$ 299,6 mi | -R$ 261,5 mi | -R$ 312,5 mi | -R$ 446,3 mi | -R$ 282,8 mi | -R$ 292,1 mi | -R$ 366,7 mi | -R$ 387,8 mi | -R$ 318,2 mi | -R$ 350,6 mi | -R$ 386,1 mi | -R$ 534,3 mi | -R$ 376,4 mi | -R$ 361,9 mi | -R$ 380,1 mi | -R$ 660,4 mi | -R$ 398,1 mi | -R$ 412,4 mi | -R$ 416,2 mi |
+| Fluxo de caixa operacionalBRL | R$ 527,1 mi | -R$ 519,7 mi | R$ 706,2 mi | R$ 242,1 mi | R$ 314,6 mi | -R$ 187,8 mi | R$ 96,3 mi | R$ 148,7 mi | R$ 258,6 mi | -R$ 292,6 mi | R$ 45,1 mi | R$ 170,3 mi | R$ 1,5 bi | -R$ 449,4 mi | -R$ 215,1 mi | R$ 97,9 mi | R$ 400,2 mi | -R$ 850,9 mi | R$ 297,8 mi | -R$ 83,2 mi | R$ 1,3 bi | -R$ 963,4 mi | -R$ 880,8 mi | -R$ 448,9 mi | R$ 1,1 bi | -R$ 1,3 bi | -R$ 16,7 mi | R$ 74,3 mi | R$ 1,7 bi | -R$ 147,8 mi | -R$ 381,3 mi | R$ 464,1 mi | R$ 1,6 bi | -R$ 221,4 mi | -R$ 147,2 mi | R$ 810,7 mi | R$ 1,9 bi | R$ 210,2 mi | R$ 75,5 mi | -R$ 270,4 mi | R$ 1,6 bi | -R$ 605,2 mi | -R$ 1,9 bi | -R$ 1,3 bi |
+| Patrimônio e estrutura |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CaixaBRL | R$ 162,4 mi | R$ 135,2 mi | R$ 170,7 mi | R$ 68,1 mi | R$ 131,5 mi | R$ 170,4 mi | R$ 134,7 mi | R$ 99,0 mi | R$ 183,5 mi | R$ 259,8 mi | R$ 437,2 mi | R$ 326,0 mi | R$ 424,0 mi | R$ 703,6 mi | R$ 790,5 mi | R$ 807,2 mi | R$ 951,8 mi | R$ 928,0 mi | R$ 699,4 mi | R$ 815,2 mi | R$ 1,3 bi | R$ 991,7 mi | R$ 1,0 bi | R$ 654,3 mi | R$ 523,4 mi | R$ 1,2 bi | R$ 3,2 bi | R$ 2,8 bi | R$ 3,6 bi | R$ 4,8 bi | R$ 5,2 bi | R$ 6,0 bi | R$ 6,8 bi | R$ 7,7 bi | R$ 6,6 bi | R$ 6,8 bi | R$ 6,3 bi | R$ 7,0 bi | R$ 8,4 bi | R$ 10,4 bi | R$ 14,0 bi | R$ 11,2 bi | R$ 7,4 bi | R$ 4,4 bi |
+| Ativo totalBRL | R$ 8,0 bi | R$ 8,0 bi | R$ 8,8 bi | R$ 8,1 bi | R$ 9,6 bi | R$ 9,3 bi | R$ 9,5 bi | R$ 9,5 bi | R$ 11,1 bi | R$ 10,6 bi | R$ 11,7 bi | R$ 12,7 bi | R$ 14,1 bi | R$ 14,2 bi | R$ 14,4 bi | R$ 14,5 bi | R$ 16,9 bi | R$ 16,8 bi | R$ 16,5 bi | R$ 17,5 bi | R$ 20,5 bi | R$ 18,7 bi | R$ 18,7 bi | R$ 19,0 bi | R$ 20,8 bi | R$ 21,6 bi | R$ 24,4 bi | R$ 25,1 bi | R$ 27,5 bi | R$ 26,7 bi | R$ 26,0 bi | R$ 26,9 bi | R$ 28,3 bi | R$ 32,6 bi | R$ 30,5 bi | R$ 32,1 bi | R$ 33,3 bi | R$ 33,9 bi | R$ 35,1 bi | R$ 40,2 bi | R$ 47,7 bi | R$ 44,1 bi | R$ 43,4 bi | R$ 43,7 bi |
+| Dívida bruta (empréstimos e financiamentos)BRL | R$ 4,1 bi | R$ 4,5 bi | R$ 5,1 bi | R$ 4,5 bi | R$ 5,0 bi | R$ 5,3 bi | R$ 5,5 bi | R$ 5,1 bi | R$ 6,3 bi | R$ 6,2 bi | R$ 7,5 bi | R$ 7,8 bi | R$ 7,7 bi | R$ 8,0 bi | R$ 8,7 bi | R$ 7,5 bi | R$ 8,0 bi | R$ 8,4 bi | R$ 8,8 bi | R$ 9,5 bi | R$ 10,8 bi | R$ 10,7 bi | R$ 11,0 bi | R$ 11,0 bi | R$ 11,6 bi | R$ 12,0 bi | R$ 15,6 bi | R$ 15,4 bi | R$ 15,6 bi | R$ 16,0 bi | R$ 16,1 bi | R$ 16,0 bi | R$ 15,7 bi | R$ 20,8 bi | R$ 19,8 bi | R$ 19,5 bi | R$ 17,8 bi | R$ 18,9 bi | R$ 20,7 bi | R$ 16,0 bi | R$ 22,0 bi | R$ 19,1 bi | R$ 18,0 bi | R$ 16,5 bi |
+| Patrimônio líquidoBRL | R$ 550,7 mi | R$ 611,1 mi | R$ 1,0 bi | R$ 1,1 bi | R$ 1,2 bi | R$ 1,2 bi | R$ 1,2 bi | R$ 1,2 bi | R$ 1,2 bi | R$ 1,2 bi | R$ 1,2 bi | R$ 1,3 bi | R$ 1,5 bi | R$ 1,5 bi | R$ 1,9 bi | R$ 2,9 bi | R$ 3,0 bi | R$ 3,0 bi | R$ 3,0 bi | R$ 2,9 bi | R$ 2,9 bi | R$ 2,9 bi | R$ 2,9 bi | R$ 2,8 bi | R$ 3,2 bi | R$ 5,3 bi | R$ 5,8 bi | R$ 5,9 bi | R$ 6,1 bi | R$ 6,1 bi | R$ 6,1 bi | R$ 6,2 bi | R$ 6,3 bi | R$ 6,0 bi | R$ 6,0 bi | R$ 7,0 bi | R$ 7,4 bi | R$ 7,6 bi | R$ 7,6 bi | R$ 16,1 bi | R$ 15,9 bi | R$ 15,9 bi | R$ 16,1 bi | R$ 16,1 bi |
+
+## Ponte até o lucro — estrutura do modelo
+
+|  |  |  |
+|---|---|---|
+|  | Receita | ponto de partida |
+| − | Custo dos produtos/serviços vendidos |  |
+| = | Lucro bruto |  |
+| − | Despesas com vendas, gerais e administrativas |  |
+| = | Resultado operacional |  |
+| + | Depreciação e amortização | → EBITDA |
+| + | Resultado financeiro |  |
+| − | IR e CSLL |  |
+| = | Lucro líquido |  |
+
+## Insumos externos — o que falta ingerir
+
+Nenhum. O modelo fecha com o que a própria companhia publica.
+
+## Proveniência
+
+|  |  |  |
+|---|---|---|
+| CVM Dados Abertos | CD_CVM 8087 · DFP/ITR | — |
+
+Esta tela mostra o modelo; a série crua e o contraponto auditado da CVM estão em [/analise/LAME3](https://atlasmercados.com.br/analise/LAME3). As linhas marcadas como razão derivada não são publicadas pela companhia — são calculadas aqui a partir de duas linhas que ela publica, e a fórmula está no rótulo.

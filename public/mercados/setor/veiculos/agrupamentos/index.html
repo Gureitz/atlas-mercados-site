@@ -6,6 +6,7 @@
 <title>Mercados do varejo por segmento e UF — Atlas Mercados</title>
 <meta name="description" content="Em 2024, o veículos e motocicletas do Brasil teve receita bruta de revenda de R$ 807,1 bilhões, segundo a Pesquisa Anual de Comércio do IBGE (tabela 10653, soma das UFs).">
 <link rel="canonical" href="https://atlasmercados.com.br/mercados/setor/veiculos/agrupamentos">
+<link rel="alternate" type="text/markdown" href="/mercados/setor/veiculos/agrupamentos.md">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Atlas Mercados">
 <meta property="og:title" content="Mercados do varejo por segmento e UF — Atlas Mercados">
@@ -62,6 +63,10 @@
     
     <a href="/comercio-exterior" class="" title="Comércio ext.">
       <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/trabalho" class="" title="Trabalho">
+      <span class="i">⚒</span><span class="l">Trabalho</span>
     </a>
     
     <a href="/mapa" class="" title="Mapa">
@@ -893,6 +898,7 @@
 </article>
 
 
+
 <div class="note">
   <b>Metodologia &amp; fonte.</b> Tudo vem do IBGE pela API do SIDRA, como publicado, uma linha por célula, com os
   códigos de categoria e o texto original de cada célula preservados; a única conversão é "Mil Reais" × 1.000 → R$.
@@ -1005,6 +1011,28 @@
     </tr>
     
     <tr class="">
+      <td class="l"><span class="mono">cempre_municipios</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/9528" rel="nofollow" class="mono acc">t/9528</a></td>
+      <td class="l" style="font-size:11px">CEMPRE — unidades locais, pessoal ocupado e salários por município × seção e divisão CNAE, 2024</td>
+      <td class="l mono dim">2024–2024</td>
+      <td class="mono">1.030.022</td>
+      <td class="l dim2" style="font-size:10.5px">Unidades; Pessoas; Mil Reais · Mil Reais × 1.000 → R$; células &#39;-&#39; (zero) não guardadas</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:18</td>
+      <td class="l dl"><a href="/dados/cempre_municipios.parquet">parquet</a><a href="/dados/cempre_municipios.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">cempre_uf</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/9528" rel="nofollow" class="mono acc">t/9528</a></td>
+      <td class="l" style="font-size:11px">CEMPRE — unidades locais, pessoal ocupado, assalariados e salários por UF × seção e divisão CNAE</td>
+      <td class="l mono dim">2022–2024</td>
+      <td class="mono">36.624</td>
+      <td class="l dim2" style="font-size:10.5px">Unidades; Pessoas; Mil Reais · Mil Reais × 1.000 → R$</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:19</td>
+      <td class="l dl"><a href="/dados/cempre_uf.parquet">parquet</a><a href="/dados/cempre_uf.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
       <td class="l"><span class="mono">cnt</span></td>
       <td class="l"><a href="https://sidra.ibge.gov.br/tabela/1846" rel="nofollow" class="mono acc">t/1846</a></td>
       <td class="l" style="font-size:11px">Contas Nacionais Trimestrais — valores a preços correntes, por setor</td>
@@ -1057,6 +1085,39 @@
       <td class="l dim2" style="font-size:10.5px">Hectares; Toneladas; Quilogramas por Hectare · nenhuma</td>
       <td class="l mono dim2" style="font-size:10.5px">2026-10-18T20:42</td>
       <td class="l dl"><a href="/dados/safra_lspa.parquet">parquet</a><a href="/dados/safra_lspa.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">municipios</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/4709" rel="nofollow" class="mono acc">t/4709</a></td>
+      <td class="l" style="font-size:11px">Censo 2022 — população por município</td>
+      <td class="l mono dim">2022–2022</td>
+      <td class="mono">5.570</td>
+      <td class="l dim2" style="font-size:10.5px">Pessoas · nenhuma</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:09</td>
+      <td class="l dl"><a href="/dados/municipios_ibge.parquet">parquet</a><a href="/dados/municipios_ibge.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">municipios</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/5938" rel="nofollow" class="mono acc">t/5938</a></td>
+      <td class="l" style="font-size:11px">PIB dos Municípios</td>
+      <td class="l mono dim">2023–2023</td>
+      <td class="mono">38.990</td>
+      <td class="l dim2" style="font-size:10.5px">; R$ · Mil Reais × 1.000 → R$</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:09</td>
+      <td class="l dl"><a href="/dados/municipios_ibge.parquet">parquet</a><a href="/dados/municipios_ibge.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">municipios</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/6579" rel="nofollow" class="mono acc">t/6579</a></td>
+      <td class="l" style="font-size:11px">População estimada por município</td>
+      <td class="l mono dim">2025–2026</td>
+      <td class="mono">11.142</td>
+      <td class="l dim2" style="font-size:10.5px">Pessoas · nenhuma</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:09</td>
+      <td class="l dl"><a href="/dados/municipios_ibge.parquet">parquet</a><a href="/dados/municipios_ibge.csv">csv</a></td>
     </tr>
     
     <tr class="">
@@ -1121,7 +1182,7 @@
       <td class="l mono dim">2024–2024</td>
       <td class="mono">198</td>
       <td class="l dim2" style="font-size:10.5px">Mil Reais; Pessoas; Unidades · Mil Reais × 1.000 e Milhões de Reais × 1.000.000 → R$</td>
-      <td class="l mono dim2" style="font-size:10.5px">2026-10-16T19:39</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:10</td>
       <td class="l dl"><a href="/dados/economia_construcao_paic.parquet">parquet</a><a href="/dados/economia_construcao_paic.csv">csv</a></td>
     </tr>
     
@@ -1132,7 +1193,18 @@
       <td class="l mono dim">2024–2024</td>
       <td class="mono">416</td>
       <td class="l dim2" style="font-size:10.5px">Mil Reais; Pessoas; Unidades · Mil Reais × 1.000 e Milhões de Reais × 1.000.000 → R$</td>
-      <td class="l mono dim2" style="font-size:10.5px">2026-10-16T19:39</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:10</td>
+      <td class="l dl"><a href="/dados/economia_construcao_paic.parquet">parquet</a><a href="/dados/economia_construcao_paic.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">paic</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/1741" rel="nofollow" class="mono acc">t/1741</a></td>
+      <td class="l" style="font-size:11px">PAIC — empresas de construção por faixa de pessoal e CNAE, série antiga 2007–2023</td>
+      <td class="l mono dim">2007–2023</td>
+      <td class="mono">6.188</td>
+      <td class="l dim2" style="font-size:10.5px">Mil Reais; Pessoas; Unidades · Mil Reais × 1.000 e Milhões de Reais × 1.000.000 → R$</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:10</td>
       <td class="l dl"><a href="/dados/economia_construcao_paic.parquet">parquet</a><a href="/dados/economia_construcao_paic.csv">csv</a></td>
     </tr>
     
@@ -1143,7 +1215,7 @@
       <td class="l mono dim">2024–2024</td>
       <td class="mono">308</td>
       <td class="l dim2" style="font-size:10.5px">Mil Reais; Pessoas; Unidades · Mil Reais × 1.000 e Milhões de Reais × 1.000.000 → R$</td>
-      <td class="l mono dim2" style="font-size:10.5px">2026-10-16T19:43</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:10</td>
       <td class="l dl"><a href="/dados/economia_servicos_pas.parquet">parquet</a><a href="/dados/economia_servicos_pas.csv">csv</a></td>
     </tr>
     
@@ -1154,7 +1226,18 @@
       <td class="l mono dim">2024–2024</td>
       <td class="mono">2.112</td>
       <td class="l dim2" style="font-size:10.5px">Mil Reais; Pessoas; Unidades · Mil Reais × 1.000 e Milhões de Reais × 1.000.000 → R$</td>
-      <td class="l mono dim2" style="font-size:10.5px">2026-10-16T19:43</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:10</td>
+      <td class="l dl"><a href="/dados/economia_servicos_pas.parquet">parquet</a><a href="/dados/economia_servicos_pas.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pas</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/2581" rel="nofollow" class="mono acc">t/2581</a></td>
+      <td class="l" style="font-size:11px">PAS — resultados dos serviços empresariais não financeiros, 7 grandes grupos, série antiga 2007–2023</td>
+      <td class="l mono dim">2007–2023</td>
+      <td class="mono">816</td>
+      <td class="l dim2" style="font-size:10.5px">Mil Reais; Pessoas; Unidades · Mil Reais × 1.000 e Milhões de Reais × 1.000.000 → R$</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:10</td>
       <td class="l dl"><a href="/dados/economia_servicos_pas.parquet">parquet</a><a href="/dados/economia_servicos_pas.csv">csv</a></td>
     </tr>
     
@@ -1244,6 +1327,50 @@
       <td class="l dim2" style="font-size:10.5px">Número-índice (média 2022 = 100); % · nenhuma; índice &#39;-&#39; antes do início da série → nd</td>
       <td class="l mono dim2" style="font-size:10.5px">2026-10-15T20:33</td>
       <td class="l dl"><a href="/dados/mercados_pmc.parquet">parquet</a><a href="/dados/mercados_pmc.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pnad</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/4093" rel="nofollow" class="mono acc">t/4093</a></td>
+      <td class="l" style="font-size:11px">PNAD Contínua — força de trabalho, ocupados, desocupados e informalidade</td>
+      <td class="l mono dim">2012-01–2026-06</td>
+      <td class="mono">6.496</td>
+      <td class="l dim2" style="font-size:10.5px">; %; Pessoas · Mil pessoas × 1.000 → pessoas</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:14</td>
+      <td class="l dl"><a href="/dados/pnad_trabalho.parquet">parquet</a><a href="/dados/pnad_trabalho.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pnad</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/4099" rel="nofollow" class="mono acc">t/4099</a></td>
+      <td class="l" style="font-size:11px">PNAD Contínua — taxas de desocupação e de subutilização</td>
+      <td class="l mono dim">2012-01–2026-06</td>
+      <td class="mono">3.248</td>
+      <td class="l dim2" style="font-size:10.5px">% · Mil pessoas × 1.000 → pessoas</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:13</td>
+      <td class="l dl"><a href="/dados/pnad_trabalho.parquet">parquet</a><a href="/dados/pnad_trabalho.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pnad</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/5434" rel="nofollow" class="mono acc">t/5434</a></td>
+      <td class="l" style="font-size:11px">PNAD Contínua — ocupados por grupamento de atividade</td>
+      <td class="l mono dim">2012-01–2026-06</td>
+      <td class="mono">21.112</td>
+      <td class="l dim2" style="font-size:10.5px">Pessoas · Mil pessoas × 1.000 → pessoas</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:14</td>
+      <td class="l dl"><a href="/dados/pnad_trabalho.parquet">parquet</a><a href="/dados/pnad_trabalho.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">pnad</span></td>
+      <td class="l"><a href="https://sidra.ibge.gov.br/tabela/5436" rel="nofollow" class="mono acc">t/5436</a></td>
+      <td class="l" style="font-size:11px">PNAD Contínua — rendimento médio mensal real habitual de todos os trabalhos</td>
+      <td class="l mono dim">2012-01–2026-06</td>
+      <td class="mono">1.400</td>
+      <td class="l dim2" style="font-size:10.5px">Reais · Mil pessoas × 1.000 → pessoas</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-20T15:14</td>
+      <td class="l dl"><a href="/dados/pnad_trabalho.parquet">parquet</a><a href="/dados/pnad_trabalho.csv">csv</a></td>
     </tr>
     
     <tr class="">
@@ -1350,7 +1477,7 @@
   </div>
   
   <div class="api" style="margin-top:10px">
-    <div class="dim" style="margin-bottom:4px"><b>Arquivos inteiros:</b> <a href="/dados/mercados_pac.parquet" class="acc mono">mercados_pac.parquet</a> · <a href="/dados/mercados_pac.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_pmc.parquet" class="acc mono">mercados_pmc.parquet</a> · <a href="/dados/mercados_pmc.csv" class="acc mono">.csv</a> · <a href="/dados/uf_vab.parquet" class="acc mono">uf_vab.parquet</a> · <a href="/dados/uf_vab.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_varejo.parquet" class="acc mono">cempre_varejo.parquet</a> · <a href="/dados/cempre_varejo.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_derivados.parquet" class="acc mono">mercados_derivados.parquet</a> · <a href="/dados/mercados_derivados.csv" class="acc mono">.csv</a> · <a href="/dados/catalogo_fontes.parquet" class="acc mono">catalogo_fontes.parquet</a> · <a href="/dados/catalogo_fontes.csv" class="acc mono">.csv</a> · <a href="/dados/macro_bcb.parquet" class="acc mono">macro_bcb.parquet</a> · <a href="/dados/macro_bcb.csv" class="acc mono">.csv</a> · <a href="/dados/economia_servicos_pas.parquet" class="acc mono">economia_servicos_pas.parquet</a> · <a href="/dados/economia_servicos_pas.csv" class="acc mono">.csv</a> · <a href="/dados/economia_industria_pia.parquet" class="acc mono">economia_industria_pia.parquet</a> · <a href="/dados/economia_industria_pia.csv" class="acc mono">.csv</a> · <a href="/dados/economia_construcao_paic.parquet" class="acc mono">economia_construcao_paic.parquet</a> · <a href="/dados/economia_construcao_paic.csv" class="acc mono">.csv</a> · <a href="/dados/economia_agro_pam_ppm.parquet" class="acc mono">economia_agro_pam_ppm.parquet</a> · <a href="/dados/economia_agro_pam_ppm.csv" class="acc mono">.csv</a> · <a href="/dados/pib_trimestral_cnt.parquet" class="acc mono">pib_trimestral_cnt.parquet</a> · <a href="/dados/pib_trimestral_cnt.csv" class="acc mono">.csv</a> · <a href="/dados/populacao_ibge.parquet" class="acc mono">populacao_ibge.parquet</a> · <a href="/dados/populacao_ibge.csv" class="acc mono">.csv</a> · <a href="/dados/focus_expectativas.parquet" class="acc mono">focus_expectativas.parquet</a> · <a href="/dados/focus_expectativas.csv" class="acc mono">.csv</a> · <a href="/dados/credito_bcb.parquet" class="acc mono">credito_bcb.parquet</a> · <a href="/dados/credito_bcb.csv" class="acc mono">.csv</a> · <a href="/dados/comex_mdic.parquet" class="acc mono">comex_mdic.parquet</a> · <a href="/dados/comex_mdic.csv" class="acc mono">.csv</a> · <a href="/dados/pulso_industria_servicos.parquet" class="acc mono">pulso_industria_servicos.parquet</a> · <a href="/dados/pulso_industria_servicos.csv" class="acc mono">.csv</a> · <a href="/dados/safra_lspa.parquet" class="acc mono">safra_lspa.parquet</a> · <a href="/dados/safra_lspa.csv" class="acc mono">.csv</a> · <a href="/dados/agro_municipios.parquet" class="acc mono">agro_municipios.parquet</a> · <a href="/dados/agro_municipios.csv" class="acc mono">.csv</a></div>
+    <div class="dim" style="margin-bottom:4px"><b>Arquivos inteiros:</b> <a href="/dados/mercados_pac.parquet" class="acc mono">mercados_pac.parquet</a> · <a href="/dados/mercados_pac.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_pmc.parquet" class="acc mono">mercados_pmc.parquet</a> · <a href="/dados/mercados_pmc.csv" class="acc mono">.csv</a> · <a href="/dados/uf_vab.parquet" class="acc mono">uf_vab.parquet</a> · <a href="/dados/uf_vab.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_varejo.parquet" class="acc mono">cempre_varejo.parquet</a> · <a href="/dados/cempre_varejo.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_derivados.parquet" class="acc mono">mercados_derivados.parquet</a> · <a href="/dados/mercados_derivados.csv" class="acc mono">.csv</a> · <a href="/dados/catalogo_fontes.parquet" class="acc mono">catalogo_fontes.parquet</a> · <a href="/dados/catalogo_fontes.csv" class="acc mono">.csv</a> · <a href="/dados/macro_bcb.parquet" class="acc mono">macro_bcb.parquet</a> · <a href="/dados/macro_bcb.csv" class="acc mono">.csv</a> · <a href="/dados/economia_servicos_pas.parquet" class="acc mono">economia_servicos_pas.parquet</a> · <a href="/dados/economia_servicos_pas.csv" class="acc mono">.csv</a> · <a href="/dados/economia_industria_pia.parquet" class="acc mono">economia_industria_pia.parquet</a> · <a href="/dados/economia_industria_pia.csv" class="acc mono">.csv</a> · <a href="/dados/economia_construcao_paic.parquet" class="acc mono">economia_construcao_paic.parquet</a> · <a href="/dados/economia_construcao_paic.csv" class="acc mono">.csv</a> · <a href="/dados/economia_agro_pam_ppm.parquet" class="acc mono">economia_agro_pam_ppm.parquet</a> · <a href="/dados/economia_agro_pam_ppm.csv" class="acc mono">.csv</a> · <a href="/dados/pib_trimestral_cnt.parquet" class="acc mono">pib_trimestral_cnt.parquet</a> · <a href="/dados/pib_trimestral_cnt.csv" class="acc mono">.csv</a> · <a href="/dados/populacao_ibge.parquet" class="acc mono">populacao_ibge.parquet</a> · <a href="/dados/populacao_ibge.csv" class="acc mono">.csv</a> · <a href="/dados/focus_expectativas.parquet" class="acc mono">focus_expectativas.parquet</a> · <a href="/dados/focus_expectativas.csv" class="acc mono">.csv</a> · <a href="/dados/credito_bcb.parquet" class="acc mono">credito_bcb.parquet</a> · <a href="/dados/credito_bcb.csv" class="acc mono">.csv</a> · <a href="/dados/comex_mdic.parquet" class="acc mono">comex_mdic.parquet</a> · <a href="/dados/comex_mdic.csv" class="acc mono">.csv</a> · <a href="/dados/pulso_industria_servicos.parquet" class="acc mono">pulso_industria_servicos.parquet</a> · <a href="/dados/pulso_industria_servicos.csv" class="acc mono">.csv</a> · <a href="/dados/safra_lspa.parquet" class="acc mono">safra_lspa.parquet</a> · <a href="/dados/safra_lspa.csv" class="acc mono">.csv</a> · <a href="/dados/agro_municipios.parquet" class="acc mono">agro_municipios.parquet</a> · <a href="/dados/agro_municipios.csv" class="acc mono">.csv</a> · <a href="/dados/pnad_trabalho.parquet" class="acc mono">pnad_trabalho.parquet</a> · <a href="/dados/pnad_trabalho.csv" class="acc mono">.csv</a> · <a href="/dados/municipios_ibge.parquet" class="acc mono">municipios_ibge.parquet</a> · <a href="/dados/municipios_ibge.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_municipios.parquet" class="acc mono">cempre_municipios.parquet</a> · <a href="/dados/cempre_municipios.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_uf.parquet" class="acc mono">cempre_uf.parquet</a> · <a href="/dados/cempre_uf.csv" class="acc mono">.csv</a></div>
     <div class="dim"><b>Fatias por API</b> (JSON; <code>&amp;formato=csv</code> para CSV; filtros <code>tabela, uf, ano, desde, categoria, variavel, atividade, situacao</code>):
       <code>/api/mercados/pac?tabela=10653&amp;uf=SP&amp;variavel=866</code> ·
       <code>/api/mercados/pac?categoria=47.7</code> ·
