@@ -1,6 +1,6 @@
 ---
 title: ENEVA S.A. (ENEV3) — análise financeira | Atlas Mercados
-description: ENEVA S.A. (ENEV3) teve receita líquida de R$ 18,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 35,3% sobre a receita. O valor de mercado era de R$ 61,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,0 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 6,3 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
+description: ENEVA S.A. (ENEV3) teve receita líquida de R$ 18,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 35,3% sobre a receita. O valor de mercado era de R$ 61,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,0 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 6,3 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site. Pela participação nos contratos dos campos, produziu em média 41,0 mil de barris de óleo equivalente por dia de 09/2025 a 08/2026 (0,3 mil de barris de petróleo e 6,48 milhões de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 url: https://atlasmercados.com.br/empresa/ENEV3
 ---
 <!-- https://atlasmercados.com.br/empresa/ENEV3 — versão Markdown da página -->
@@ -13,7 +13,7 @@ ENEV3 · CD_CVM 21237 · Energia Elétrica · RJ · DFP 16a · ITR 16a · últim
 
 [Consolidado](https://atlasmercados.com.br/empresa/ENEV3?base=con) [Individual](https://atlasmercados.com.br/empresa/ENEV3?base=ind)
 
-> ENEVA S.A. (ENEV3) teve receita líquida de R$ 18,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 35,3% sobre a receita. O valor de mercado era de R$ 61,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,0 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 6,3 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
+> ENEVA S.A. (ENEV3) teve receita líquida de R$ 18,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 35,3% sobre a receita. O valor de mercado era de R$ 61,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,0 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 6,3 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site. Pela participação nos contratos dos campos, produziu em média 41,0 mil de barris de óleo equivalente por dia de 09/2025 a 08/2026 (0,3 mil de barris de petróleo e 6,48 milhões de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 
 - Receita líq. · R$ 18,4 bi · 2025
 
@@ -70,6 +70,27 @@ ENEV3 · CD_CVM 21237 · Energia Elétrica · RJ · DFP 16a · ITR 16a · últim
 15 de 47 usinas de 1 MW ou mais com participação do grupo.
 
 Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
+
+## Produção de petróleo e gás — ANP · produção por poço × participação nos contratos (calc.) · 09/2025 a 08/2026
+
+- Produção · 41 mil boe/d · média diária
+
+- Petróleo e condensado · 0 mil bbl/d · média diária
+
+- Gás natural · 6.476 mil m³/d · média diária
+
+| Maiores campos | Participação no contrato | Produção da companhia |
+|---|---|---|
+| GAVIAO PRETO | 100,0% | 10 mil boe/d |
+| GAVIAO BRANCO | 100,0% | 9 mil boe/d |
+| GAVIAO CABOCLO | 100,0% | 7 mil boe/d |
+| GAVIAO REAL | 100,0% | 5 mil boe/d |
+| AZULAO | 100,0% | 5 mil boe/d |
+| GAVIAO TESOURA | 100,0% | 3 mil boe/d |
+| GAVIAO VERMELHO | 100,0% | 2 mil boe/d |
+| GAVIAO AZUL | 100,0% | 1 mil boe/d |
+
+Produção total do poço (o gás inclui o reinjetado e o consumido na operação), acima da produção "comercial" que a companhia divulga. [Petróleo e gás no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 

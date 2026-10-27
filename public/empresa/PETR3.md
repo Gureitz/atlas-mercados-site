@@ -1,6 +1,6 @@
 ---
 title: PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) — análise financeira | Atlas Mercados
-description: PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) teve receita líquida de R$ 497,5 bilhões e lucro líquido de R$ 110,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 230,0 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 805,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 1,93 sobre o último exercício. Em 2025, distribuiu R$ 42,3 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 5,4 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
+description: PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) teve receita líquida de R$ 497,5 bilhões e lucro líquido de R$ 110,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 230,0 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 805,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 1,93 sobre o último exercício. Em 2025, distribuiu R$ 42,3 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 5,4 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site. Pela participação nos contratos dos campos, produziu em média 3,40 milhões de barris de óleo equivalente por dia de 09/2025 a 08/2026 (2,62 milhões de barris de petróleo e 124,08 milhões de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 url: https://atlasmercados.com.br/empresa/PETR3
 ---
 <!-- https://atlasmercados.com.br/empresa/PETR3 — versão Markdown da página -->
@@ -13,7 +13,7 @@ PETR3, PETR4 · CD_CVM 9512 · Petróleo e Gás · RJ · DFP 16a · ITR 16a · �
 
 [Consolidado](https://atlasmercados.com.br/empresa/PETR3?base=con) [Individual](https://atlasmercados.com.br/empresa/PETR3?base=ind)
 
-> PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) teve receita líquida de R$ 497,5 bilhões e lucro líquido de R$ 110,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 230,0 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 805,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 1,93 sobre o último exercício. Em 2025, distribuiu R$ 42,3 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 5,4 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
+> PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) teve receita líquida de R$ 497,5 bilhões e lucro líquido de R$ 110,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 230,0 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 805,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 1,93 sobre o último exercício. Em 2025, distribuiu R$ 42,3 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 5,4 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site. Pela participação nos contratos dos campos, produziu em média 3,40 milhões de barris de óleo equivalente por dia de 09/2025 a 08/2026 (2,62 milhões de barris de petróleo e 124,08 milhões de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 
 - Receita líq. · R$ 497,5 bi · 2025
 
@@ -70,6 +70,27 @@ PETR3, PETR4 · CD_CVM 9512 · Petróleo e Gás · RJ · DFP 16a · ITR 16a · �
 15 de 55 usinas de 1 MW ou mais com participação do grupo.
 
 Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
+
+## Produção de petróleo e gás — ANP · produção por poço × participação nos contratos (calc.) · 09/2025 a 08/2026
+
+- Produção · 3.396 mil boe/d · média diária
+
+- Petróleo e condensado · 2.615 mil bbl/d · média diária
+
+- Gás natural · 124.084 mil m³/d · média diária
+
+| Maiores campos | Participação no contrato | Produção da companhia |
+|---|---|---|
+| BUZIOS_ECO | 85,0% | 722 mil boe/d |
+| TUPI | 65,0% | 679 mil boe/d |
+| MERO | 40,0% | 378 mil boe/d |
+| BUZIOS | 100,0% | 300 mil boe/d |
+| JUBARTE | 100,0% | 215 mil boe/d |
+| ITAPU | 100,0% | 86 mil boe/d |
+| MARLIM | 100,0% | 83 mil boe/d |
+| ITAPU_ECO | 100,0% | 80 mil boe/d |
+
+Produção total do poço (o gás inclui o reinjetado e o consumido na operação), acima da produção "comercial" que a companhia divulga. [Petróleo e gás no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 

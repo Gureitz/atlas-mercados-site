@@ -7,7 +7,7 @@ url: https://atlasmercados.com.br/dados/aneel_samp
 
 # Mercado das distribuidoras de energia — consumidores, energia e receitas por mês (ANEEL, SAMP)
 
-IBGE · dado oficial como publicado · aneel_samp
+ANEEL · dado oficial como publicado · aneel_samp
 
 > Mercado das distribuidoras de energia — consumidores, energia e receitas por mês (ANEEL, SAMP): 1.079.868 linhas, de 2024-01-01 a 2026-09-01, em Parquet e CSV (dado oficial como publicado), coletado em 26/10/2026.
 
@@ -21,7 +21,7 @@ IBGE · dado oficial como publicado · aneel_samp
 
 - CSV · gzip · baixar (comprimido)
 
-- Licença · CC BY 4.0 · termos e fontes
+- Licença · ODbL 1.0 (portal de dados abertos da ANEEL) · termos e fontes
 
 ## O que é
 
@@ -56,6 +56,6 @@ import pandas as pd df = pd.read_csv("https://atlasmercados.com.br/dados/aneel_s
 
 Como citar
 
-Atlas Mercados. Mercado das distribuidoras de energia — consumidores, energia e receitas por mês (ANEEL, SAMP). https://atlasmercados.com.br/dados/aneel_samp. Dados: IBGE. Acesso em [data de acesso].
+Atlas Mercados. Mercado das distribuidoras de energia — consumidores, energia e receitas por mês (ANEEL, SAMP). https://atlasmercados.com.br/dados/aneel_samp. Dados: ANEEL. Acesso em [data de acesso].
 
 Identificador da série: atlas-mercados:aneel_samp · Permalink: [https://atlasmercados.com.br/dados/aneel_samp](https://atlasmercados.com.br/dados/aneel_samp) · [CSV](https://atlasmercados.com.br/dados/aneel_samp.csv) · [Parquet](https://atlasmercados.com.br/dados/aneel_samp.parquet) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)

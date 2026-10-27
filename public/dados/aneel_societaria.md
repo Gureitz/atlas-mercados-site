@@ -1,27 +1,27 @@
 ---
 title: Composição societária dos agentes do setor elétrico — participações diretas (ANEEL) — dados em Parquet e CSV — Atlas Mercados
-description: Composição societária dos agentes do setor elétrico — participações diretas (ANEEL): 7.520 linhas, de 2020-09-30 a 2026-09-30, em Parquet e CSV (dado oficial como publicado), coletado em 27/10/2026.
+description: Composição societária dos agentes do setor elétrico — participações diretas (ANEEL): 7.520 linhas, de 2020-09-30 a 2026-09-30, em Parquet e CSV (dado oficial como publicado), coletado em 26/10/2026.
 url: https://atlasmercados.com.br/dados/aneel_societaria
 ---
 <!-- https://atlasmercados.com.br/dados/aneel_societaria — versão Markdown da página -->
 
 # Composição societária dos agentes do setor elétrico — participações diretas (ANEEL)
 
-IBGE · dado oficial como publicado · aneel_societaria
+ANEEL · dado oficial como publicado · aneel_societaria
 
-> Composição societária dos agentes do setor elétrico — participações diretas (ANEEL): 7.520 linhas, de 2020-09-30 a 2026-09-30, em Parquet e CSV (dado oficial como publicado), coletado em 27/10/2026.
+> Composição societária dos agentes do setor elétrico — participações diretas (ANEEL): 7.520 linhas, de 2020-09-30 a 2026-09-30, em Parquet e CSV (dado oficial como publicado), coletado em 26/10/2026.
 
 - Linhas · 7.520 · 6 colunas
 
 - Período · 2020-09-30 – 2026-09-30 · cobertura temporal
 
-- Coletado em · 2026-10-27 · última ingestão
+- Coletado em · 2026-10-26 · última ingestão
 
 - Parquet · 0,3 MB · baixar
 
 - CSV · texto · baixar
 
-- Licença · CC BY 4.0 · termos e fontes
+- Licença · ODbL 1.0 (portal de dados abertos da ANEEL) · termos e fontes
 
 ## O que é
 
@@ -52,6 +52,6 @@ import pandas as pd df = pd.read_csv("https://atlasmercados.com.br/dados/aneel_s
 
 Como citar
 
-Atlas Mercados. Composição societária dos agentes do setor elétrico — participações diretas (ANEEL). https://atlasmercados.com.br/dados/aneel_societaria. Dados: IBGE. Acesso em [data de acesso].
+Atlas Mercados. Composição societária dos agentes do setor elétrico — participações diretas (ANEEL). https://atlasmercados.com.br/dados/aneel_societaria. Dados: ANEEL. Acesso em [data de acesso].
 
 Identificador da série: atlas-mercados:aneel_societaria · Permalink: [https://atlasmercados.com.br/dados/aneel_societaria](https://atlasmercados.com.br/dados/aneel_societaria) · [CSV](https://atlasmercados.com.br/dados/aneel_societaria.csv) · [Parquet](https://atlasmercados.com.br/dados/aneel_societaria.parquet) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)

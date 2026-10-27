@@ -1,6 +1,6 @@
 ---
 title: PETRORECÔNCAVO S.A. (RECV3) — análise financeira | Atlas Mercados
-description: PETRORECÔNCAVO S.A. (RECV3) teve receita líquida de R$ 3,2 bilhões e lucro líquido de R$ 638,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,4 bilhão, margem EBITDA de 45,7% sobre a receita. O valor de mercado era de R$ 3,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,9 e P/VPA de 0,87 sobre o último exercício. Em 2025, distribuiu R$ 563,4 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2025.
+description: PETRORECÔNCAVO S.A. (RECV3) teve receita líquida de R$ 3,2 bilhões e lucro líquido de R$ 638,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,4 bilhão, margem EBITDA de 45,7% sobre a receita. O valor de mercado era de R$ 3,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,9 e P/VPA de 0,87 sobre o último exercício. Em 2025, distribuiu R$ 563,4 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2025. Pela participação nos contratos dos campos, produziu em média 24,7 mil de barris de óleo equivalente por dia de 09/2025 a 08/2026 (14,1 mil de barris de petróleo e 1,67 milhão de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 url: https://atlasmercados.com.br/empresa/RECV3
 ---
 <!-- https://atlasmercados.com.br/empresa/RECV3 — versão Markdown da página -->
@@ -13,7 +13,7 @@ RECV3 · CD_CVM 25780 · Emp. Adm. Part. - Petróleo e Gás · BA · DFP 6a · I
 
 [Consolidado](https://atlasmercados.com.br/empresa/RECV3?base=con) [Individual](https://atlasmercados.com.br/empresa/RECV3?base=ind)
 
-> PETRORECÔNCAVO S.A. (RECV3) teve receita líquida de R$ 3,2 bilhões e lucro líquido de R$ 638,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,4 bilhão, margem EBITDA de 45,7% sobre a receita. O valor de mercado era de R$ 3,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,9 e P/VPA de 0,87 sobre o último exercício. Em 2025, distribuiu R$ 563,4 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2025.
+> PETRORECÔNCAVO S.A. (RECV3) teve receita líquida de R$ 3,2 bilhões e lucro líquido de R$ 638,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,4 bilhão, margem EBITDA de 45,7% sobre a receita. O valor de mercado era de R$ 3,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,9 e P/VPA de 0,87 sobre o último exercício. Em 2025, distribuiu R$ 563,4 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2025. Pela participação nos contratos dos campos, produziu em média 24,7 mil de barris de óleo equivalente por dia de 09/2025 a 08/2026 (14,1 mil de barris de petróleo e 1,67 milhão de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 
 - Receita líq. · R$ 3,2 bi · 2025
 
@@ -36,6 +36,27 @@ RECV3 · CD_CVM 25780 · Emp. Adm. Part. - Petróleo e Gás · BA · DFP 6a · I
 ## Lucro líquido — por exercício (DFP, R$)
 
 202020212022202320242025
+
+## Produção de petróleo e gás — ANP · produção por poço × participação nos contratos (calc.) · 09/2025 a 08/2026
+
+- Produção · 25 mil boe/d · média diária
+
+- Petróleo e condensado · 14 mil bbl/d · média diária
+
+- Gás natural · 1.674 mil m³/d · média diária
+
+| Maiores campos | Participação no contrato | Produção da companhia |
+|---|---|---|
+| MIRANGA | 100,0% | 5 mil boe/d |
+| TIE | 100,0% | 3 mil boe/d |
+| LORENA | 100,0% | 2 mil boe/d |
+| LIVRAMENTO | 100,0% | 2 mil boe/d |
+| RIACHO DA FORQUILHA | 100,0% | 1 mil boe/d |
+| BREJINHO RN | 100,0% | 1 mil boe/d |
+| SABIA BICO-DE-OSSO | 70,0% | 1 mil boe/d |
+| CACHOEIRINHA | 100,0% | 1 mil boe/d |
+
+Produção total do poço (o gás inclui o reinjetado e o consumido na operação), acima da produção "comercial" que a companhia divulga. [Petróleo e gás no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 

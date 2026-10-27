@@ -7,7 +7,7 @@
 - [Visão geral](https://atlasmercados.com.br/): agregados, ranking por valor de mercado, macro do BCB
 - [Municípios](https://atlasmercados.com.br/municipios/uf/SP): /municipio/{código IBGE} — população, PIB, empresas e emprego por setor (CEMPRE), produção agro
 - [Mercado de trabalho](https://atlasmercados.com.br/trabalho): desocupação, informalidade e renda por UF (PNAD Contínua), /trabalho/uf/{sigla}
-- [Setor elétrico](https://atlasmercados.com.br/energia): capacidade de geração por fonte e UF, consumidores e energia de cada distribuidora e usinas/distribuidoras de cada grupo listado (ANEEL: SIGA, SAMP, composição societária; JSON em /energia.json)
+- [Energia](https://atlasmercados.com.br/energia): capacidade de geração por fonte e UF, consumidores e energia de cada distribuidora, usinas/distribuidoras de cada grupo listado (ANEEL) e produção de petróleo e gás por campo e por empresa listada (ANP); JSON em /energia.json
 - [Comércio exterior](https://atlasmercados.com.br/comercio-exterior): exportações e importações por UF, produto (SH4) e país (Comex Stat/MDIC)
 - [Economia por setor](https://atlasmercados.com.br/economia): PIB trimestral, serviços, indústria, construção e agropecuária por segmento e UF, PIB per capita por UF
 - [Mercados do varejo](https://atlasmercados.com.br/mercados): tamanho por segmento (classes CNAE) e por UF, PMC mensal, VAB
@@ -149,6 +149,8 @@
 - [Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA)](https://atlasmercados.com.br/dados/aneel_siga) — 25.624 linhas, 2026-10-01–2026-10-01, bruto
 - [Mercado das distribuidoras de energia — consumidores, energia e receitas por mês (ANEEL, SAMP)](https://atlasmercados.com.br/dados/aneel_samp) — 1.079.868 linhas, 2024-01-01–2026-09-01, bruto
 - [Composição societária dos agentes do setor elétrico — participações diretas (ANEEL)](https://atlasmercados.com.br/dados/aneel_societaria) — 7.520 linhas, 2020-09-30–2026-09-30, bruto
+- [Produção de petróleo e gás natural por campo e mês (ANP)](https://atlasmercados.com.br/dados/anp_producao) — 5.075 linhas, 2025-01-01–2026-08-01, bruto
+- [Campos de petróleo e gás e seus concessionários — participação e operador (ANP)](https://atlasmercados.com.br/dados/anp_campos) — 536 linhas, 2026-10-27–2026-10-27, bruto
 - [Banco Central do Brasil — séries macroeconômicas do SGS](https://atlasmercados.com.br/dados/macro_bcb) — 8.081 linhas, 2015-01-01–2026-10-16, bruto
 - [Catálogo de proveniência dos dados de mercado](https://atlasmercados.com.br/dados/catalogo_fontes) — 55 linhas, –, bruto
 
@@ -179,6 +181,8 @@
 - [aneel_samp](https://atlasmercados.com.br/dados/aneel_samp.parquet) · [CSV](https://atlasmercados.com.br/dados/aneel_samp.csv) — ANEEL — SAMP, mercado das distribuidoras (2024-01-01–2026-09-01, bruto)
 - [aneel_siga](https://atlasmercados.com.br/dados/aneel_siga.parquet) · [CSV](https://atlasmercados.com.br/dados/aneel_siga.csv) — ANEEL — SIGA, empreendimentos de geração e proprietários (2026-10-01–2026-10-01, bruto)
 - [aneel_societaria](https://atlasmercados.com.br/dados/aneel_societaria.parquet) · [CSV](https://atlasmercados.com.br/dados/aneel_societaria.csv) — ANEEL — composição societária dos agentes (Polímero), participações diretas (2020-09-30–2026-09-30, bruto)
+- [anp_campos](https://atlasmercados.com.br/dados/anp_campos.parquet) · [CSV](https://atlasmercados.com.br/dados/anp_campos.csv) — ANP — campos de produção e concessionários (participação e operador) (2026-10-27–2026-10-27, bruto)
+- [anp_producao](https://atlasmercados.com.br/dados/anp_producao.parquet) · [CSV](https://atlasmercados.com.br/dados/anp_producao.csv) — ANP — produção de petróleo e gás por campo e mês (2025-01-01–2026-08-01, bruto)
 - [cempre](https://atlasmercados.com.br/dados/cempre_varejo.parquet) · [CSV](https://atlasmercados.com.br/dados/cempre_varejo.csv) — CEMPRE — unidades locais, pessoal e salários do varejo (divisão 47) por UF (2022–2024, bruto)
 - [cempre_municipios](https://atlasmercados.com.br/dados/cempre_municipios.parquet) · [CSV](https://atlasmercados.com.br/dados/cempre_municipios.csv) — CEMPRE — unidades locais, pessoal ocupado e salários por município × seção e divisão CNAE, 2024 (2024–2024, bruto)
 - [cempre_uf](https://atlasmercados.com.br/dados/cempre_uf.parquet) · [CSV](https://atlasmercados.com.br/dados/cempre_uf.csv) — CEMPRE — unidades locais, pessoal ocupado, assalariados e salários por UF × seção e divisão CNAE (2022–2024, bruto)

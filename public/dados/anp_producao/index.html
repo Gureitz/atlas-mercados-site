@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Produção de petróleo e gás natural por campo e mês (ANP) — dados em Parquet e CSV — Atlas Mercados</title>
+<meta name="description" content="Produção de petróleo e gás natural por campo e mês (ANP): 5.075 linhas, de 2025-01-01 a 2026-08-01, em Parquet e CSV (dado oficial como publicado), coletado em 26/10/2026.">
+<link rel="canonical" href="https://atlasmercados.com.br/dados/anp_producao">
+<link rel="alternate" type="text/markdown" href="/dados/anp_producao.md">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Atlas Mercados">
+<meta property="og:title" content="Produção de petróleo e gás natural por campo e mês (ANP) — dados em Parquet e CSV — Atlas Mercados">
+<meta property="og:description" content="Produção de petróleo e gás natural por campo e mês (ANP): 5.075 linhas, de 2025-01-01 a 2026-08-01, em Parquet e CSV (dado oficial como publicado), coletado em 26/10/2026.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css">
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "@id": "https://atlasmercados.com.br/dados/anp_producao", "url": "https://atlasmercados.com.br/dados/anp_producao", "identifier": "atlas-mercados:anp_producao", "name": "Produção de petróleo e gás natural por campo e mês (ANP)", "description": "Produção por poço publicada pela ANP (mar, arquivo anual; terra, trimestral), somada por campo e mês: óleo, condensado, gás associado e não associado, água e barris de óleo equivalente pela regra da ANP, com UF, bacia e ambiente. O arquivo do 2º trimestre de 2026 em terra não traz abril de 2026.", "keywords": ["petróleo", "gás natural", "produção", "pré-sal", "campos", "barris", "boe", "offshore", "ANP"], "inLanguage": "pt-BR", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/deed.pt-br", "creator": {"@type": "GovernmentOrganization", "name": "ANP"}, "publisher": {"@type": "Organization", "name": "Atlas Mercados", "url": "https://atlasmercados.com.br"}, "includedInDataCatalog": {"@type": "DataCatalog", "name": "Atlas Mercados — dados", "url": "https://atlasmercados.com.br/dados"}, "spatialCoverage": {"@type": "Place", "name": "Brasil", "address": {"@type": "PostalAddress", "addressCountry": "BR"}}, "distribution": [{"@type": "DataDownload", "encodingFormat": "application/vnd.apache.parquet", "contentUrl": "https://atlasmercados.com.br/dados/anp_producao.parquet"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://atlasmercados.com.br/dados/anp_producao.csv"}], "variableMeasured": ["mes", "estado", "bacia", "campo", "ambiente", "oleo_m3", "condensado_m3", "gas_associado_mil_m3", "gas_nao_associado_mil_m3", "agua_m3", "boe"], "creditText": "ANP; compilação Atlas Mercados", "temporalCoverage": "2025-01-01/2026-08-01", "dateModified": "2026-10-26", "version": "2026-10-26", "isBasedOn": [{"@type": "Dataset", "name": "ANP — produção de petróleo e gás por campo e mês", "url": "https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/fase-de-desenvolvimento-e-producao"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://atlasmercados.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Dados", "item": "https://atlasmercados.com.br/dados"}, {"@type": "ListItem", "position": 3, "name": "Produção de petróleo e gás natural por campo e mês (ANP)", "item": "https://atlasmercados.com.br/dados/anp_producao"}]}</script>
+</head>
+<body>
+<div class="app">
+
+  <nav class="rail">
+    <a href="/" class="logo" aria-label="Atlas Mercados"><i></i><b></b></a>
+    
+    <a href="/" class="on" title="Visão">
+      <span class="i">▦</span><span class="l">Visão</span>
+    </a>
+    
+    <a href="/indicadores" class="" title="Indicadores">
+      <span class="i">∿</span><span class="l">Indicadores</span>
+    </a>
+    
+    <a href="/economia" class="" title="Economia">
+      <span class="i">◩</span><span class="l">Economia</span>
+    </a>
+    
+    <a href="/comercio-exterior" class="" title="Comércio ext.">
+      <span class="i">⇄</span><span class="l">Comércio ext.</span>
+    </a>
+    
+    <a href="/trabalho" class="" title="Trabalho">
+      <span class="i">⚒</span><span class="l">Trabalho</span>
+    </a>
+    
+    <a href="/energia" class="" title="Energia">
+      <span class="i">ϟ</span><span class="l">Energia</span>
+    </a>
+    
+    <a href="/mapa" class="" title="Mapa">
+      <span class="i">◍</span><span class="l">Mapa</span>
+    </a>
+    
+    <a href="/mercados" class="" title="Mercados">
+      <span class="i">◫</span><span class="l">Mercados</span>
+    </a>
+    
+    <a href="/empresa" class="" title="Perfil">
+      <span class="i">▤</span><span class="l">Perfil</span>
+    </a>
+    
+    <a href="/screener" class="" title="Triagem">
+      <span class="i">≡</span><span class="l">Triagem</span>
+    </a>
+    
+    <a href="/analise" class="" title="Carteira">
+      <span class="i">◆</span><span class="l">Carteira</span>
+    </a>
+    
+    <a href="/valuation" class="" title="Valuation">
+      <span class="i">∑</span><span class="l">Valuation</span>
+    </a>
+    
+    <div class="brand mono">ATLAS</div>
+  </nav>
+
+  <div class="col">
+    <header class="top">
+      <a href="/" class="brand" style="display:flex;align-items:baseline">
+        <b>Atlas Mercados</b><span class="mono">Dados oficiais · economia e mercados do Brasil</span>
+      </a>
+      <div class="search">
+        <span class="mag">⌕</span>
+        <input id="q" type="text" autocomplete="off" placeholder="Buscar companhia (ticker ou nome)…" aria-label="Buscar companhia">
+        <div class="box scrim" id="results"></div>
+      </div>
+      <div class="status mono">
+        <span class="dot"></span> CVM · BCB · IBGE · B3 · fonte oficial
+        <span id="clock" style="margin-left:10px;border-left:1px solid var(--bd);padding-left:10px"></span>
+      </div>
+    </header>
+
+    <div class="tape">
+      <span class="lab mono">Macro · BCB</span>
+      <div class="run mono">
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+        <span class="it"><b>Selic (efetiva)</b>13,65% a.a.</span>
+        
+        <span class="it"><b>IPCA 12 meses</b>4,58%</span>
+        
+        <span class="it"><b>IPCA-15 no mês</b>0,70%</span>
+        
+        <span class="it"><b>IGP-M no mês</b>1,57%</span>
+        
+        <span class="it"><b>Câmbio USD/BRL</b>R$ 5,08</span>
+        
+        <span class="it"><b>Câmbio EUR/BRL</b>R$ 5,71</span>
+        
+        <span class="it"><b>Desemprego (PNADC)</b>5,30%</span>
+        
+        <span class="it"><b>Dívida bruta</b>82,9% do PIB</span>
+        
+        <span class="it"><b>Reservas internacionais</b>US$ 363 bi</span>
+        
+        <span class="it"><b>IBC-Br (atividade)</b>110,4</span>
+        
+      </div>
+    </div>
+
+    <main class="scrim">
+      
+<h1 class="page">Produção de petróleo e gás natural por campo e mês (ANP)</h1>
+<p class="sub"><b>ANP</b> · dado oficial como publicado · <span class="mono">anp_producao</span></p>
+<p class="resposta" data-resposta>Produção de petróleo e gás natural por campo e mês (ANP): 5.075 linhas, de 2025-01-01 a 2026-08-01, em Parquet e CSV (dado oficial como publicado), coletado em 26/10/2026.</p>
+
+<section class="kpis" aria-label="Resumo do conjunto">
+  <div class="kpi"><div class="t">Linhas</div><div class="v mono acc" style="font-size:18px">5.075</div><div class="d">11 colunas</div></div>
+  <div class="kpi"><div class="t">Período</div><div class="v mono" style="font-size:16px">2025-01-01 – 2026-08-01</div><div class="d">cobertura temporal</div></div>
+  <div class="kpi"><div class="t">Coletado em</div><div class="v mono" style="font-size:16px">2026-10-26</div><div class="d">última ingestão</div></div>
+  <div class="kpi"><div class="t">Parquet</div><div class="v mono" style="font-size:16px">0,2 MB</div><div class="d"><a href="/dados/anp_producao.parquet" class="acc">baixar</a></div></div>
+  <div class="kpi"><div class="t">CSV</div><div class="v mono" style="font-size:16px">texto</div><div class="d"><a href="/dados/anp_producao.csv" class="acc">baixar</a></div></div>
+  <div class="kpi"><div class="t">Licença</div><div class="v" style="font-size:12.5px;line-height:1.35"><a href="https://creativecommons.org/licenses/by/4.0/deed.pt-br" rel="license nofollow">CC BY 4.0</a></div><div class="d"><a href="/licenca">termos e fontes</a></div></div>
+</section>
+
+<article class="panel">
+  <h2>O que é</h2>
+  <p style="margin:0;max-width:90ch">Produção por poço publicada pela ANP (mar, arquivo anual; terra, trimestral), somada por campo e mês: óleo, condensado, gás associado e não associado, água e barris de óleo equivalente pela regra da ANP, com UF, bacia e ambiente. O arquivo do 2º trimestre de 2026 em terra não traz abril de 2026.</p>
+</article>
+
+<div class="row1" style="margin-top:16px">
+  <article class="panel">
+    <h2>Colunas <span class="h">11 · tipo no Parquet</span></h2>
+    <table>
+      <thead><tr><th class="l">Coluna</th><th class="l">Tipo</th><th class="l">O que é</th></tr></thead>
+      <tbody>
+      <tr><td class="l mono acc">mes</td><td class="l mono dim2" style="font-size:10.5px">timestamp[us]</td><td class="l dim" style="font-size:11.5px">Mês (só no recorte mensal).</td></tr><tr><td class="l mono acc">estado</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">UF do campo, como a ANP grafa.</td></tr><tr><td class="l mono acc">bacia</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Bacia sedimentar.</td></tr><tr><td class="l mono acc">campo</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">Nome do campo de produção.</td></tr><tr><td class="l mono acc">ambiente</td><td class="l mono dim2" style="font-size:10.5px">large_string</td><td class="l dim" style="font-size:11.5px">MAR ou TERRA.</td></tr><tr><td class="l mono acc">oleo_m3</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Produção de óleo, m³.</td></tr><tr><td class="l mono acc">condensado_m3</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Produção de condensado, m³.</td></tr><tr><td class="l mono acc">gas_associado_mil_m3</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Gás associado, mil m³ (&#39;Mm³&#39; na fonte).</td></tr><tr><td class="l mono acc">gas_nao_associado_mil_m3</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Gás não associado, mil m³.</td></tr><tr><td class="l mono acc">agua_m3</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Água produzida, m³.</td></tr><tr><td class="l mono acc">boe</td><td class="l mono dim2" style="font-size:10.5px">double</td><td class="l dim" style="font-size:11.5px">Barris de óleo equivalente no mês: (óleo + condensado + gás em mil m³) × 6,2898 (regra da ANP).</td></tr>
+      </tbody>
+    </table>
+  </article>
+  <article class="panel">
+    <h2>Como carregar</h2>
+    <pre class="mono" style="font-size:11.5px;white-space:pre-wrap;margin:0">import pandas as pd
+df = pd.read_csv("https://atlasmercados.com.br/dados/anp_producao.csv")
+
+# ou, direto no Parquet, com DuckDB:
+import duckdb
+duckdb.sql("SELECT * FROM 'https://atlasmercados.com.br/dados/anp_producao.parquet' LIMIT 10")</pre>
+    
+    <h2 style="margin-top:16px">Tabelas de origem <span class="h">1</span></h2>
+    <table>
+      <thead><tr><th class="l">Fonte</th><th class="l">Período</th><th>Linhas</th></tr></thead>
+      <tbody>
+      
+      <tr>
+        <td class="l" style="font-size:11.5px"><a href="https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/fase-de-desenvolvimento-e-producao" rel="nofollow" class="acc mono">t/producao_poco</a> ANP — produção de petróleo e gás por campo e mês</td>
+        <td class="l mono dim">2025-01-01–2026-08-01</td>
+        <td class="mono dim">5.075</td>
+      </tr>
+      
+      </tbody>
+    </table>
+    
+  </article>
+</div>
+
+
+<aside class="citar" aria-label="Como citar">
+  <div class="t">Como citar</div>
+  <p class="mono">Atlas Mercados. Produção de petróleo e gás natural por campo e mês (ANP). https://atlasmercados.com.br/dados/anp_producao. Dados: ANP. Acesso em <span data-hoje>[data de acesso]</span>.</p>
+  <div class="dim2">
+    Identificador da série: <code>atlas-mercados:anp_producao</code> · 
+    Permalink: <a href="https://atlasmercados.com.br/dados/anp_producao">https://atlasmercados.com.br/dados/anp_producao</a>
+    
+     · <a href="/dados/anp_producao.csv">CSV</a>
+     · <a href="/dados/anp_producao.parquet">Parquet</a>
+    · <a href="/licenca">licença CC BY 4.0</a>
+  </div>
+</aside>
+
+
+
+      <footer class="ft">
+        Fonte: <a href="https://dados.cvm.gov.br/" rel="nofollow">CVM Dados Abertos</a>
+        (DFP/ITR) · valores normalizados em R$ · 1229 companhias ·
+        2010–2026. Metodologia explícita; não é recomendação de investimento.
+        <br>Compilação sob <a href="/licenca">CC BY 4.0</a> — copie, redistribua, treine modelos; cite a fonte.
+        <a href="/dados">Dados</a> · <a href="/indicadores">Indicadores</a> · <a href="/companhias">Companhias por setor</a> · <a href="/sobre">Sobre</a> ·
+        <a href="/metodologia">Metodologia</a> · <a href="/glossario">Glossário</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a> ·
+        <a href="mailto:contato@atlasmercados.com.br">contato@atlasmercados.com.br</a>
+      </footer>
+    </main>
+  </div>
+</div>
+<script src="/static/app.js"></script>
+</body>
+</html>

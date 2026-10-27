@@ -1,0 +1,93 @@
+---
+title: HERCULES S/A - FABRICA DE TALHERES (HETA4) — análise financeira | Atlas Mercados
+description: HERCULES S/A - FABRICA DE TALHERES (HETA4) teve receita líquida de R$ 4,7 milhões e lucro líquido de R$ 943.000 no exercício de 2025 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+url: https://atlasmercados.com.br/empresa/HETA3
+---
+<!-- https://atlasmercados.com.br/empresa/HETA3 — versão Markdown da página -->
+
+HE
+
+HERCULES S/A - FABRICA DE TALHERES
+
+HETA4, HETA3 · CD_CVM 6629 · Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a · último pregão 05/10/2026
+
+[Consolidado](https://atlasmercados.com.br/empresa/HETA3?base=con) [Individual](https://atlasmercados.com.br/empresa/HETA3?base=ind)
+
+> HERCULES S/A - FABRICA DE TALHERES (HETA4) teve receita líquida de R$ 4,7 milhões e lucro líquido de R$ 943.000 no exercício de 2025 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+
+- Receita líq. · R$ 4,7 mi · 2025
+
+- Lucro líq. · R$ 943 mil · 2025
+
+- Margem líq. · 20,0% · LL / receita
+
+- EBIT · R$ 4,1 mi · result. oper.
+
+- Ativo total · R$ 12,6 mi · 2025
+
+- Patrim. líq. · -R$ 349,9 mi · 2025
+
+- ROE · -0,3% · LL / PL
+
+## Receita líquida — por exercício (DFP, R$)
+
+201420152016201720182019202020212022202320242025
+
+## Lucro líquido — por exercício (DFP, R$)
+
+201420152016201720182019202020212022202320242025
+
+Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
+
+## Demonstração crua — linha a linha, fonte CVM
+
+[DFP](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP) [ITR](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=ITR)
+
+[BPA](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=BPA&ano=2025) [BPP](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=BPP&ano=2025) [DFC_MI](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DFC_MI&ano=2025) [DMPL](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DMPL&ano=2025) [DRA](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRA&ano=2025) [DRE](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRE&ano=2025) [DVA](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DVA&ano=2025)
+
+[2025](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRE&ano=2025) [2024](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRE&ano=2024) [2023](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRE&ano=2023) [2022](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRE&ano=2022) [2021](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRE&ano=2021) [2020](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRE&ano=2020) [2019](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRE&ano=2019) [2018](https://atlasmercados.com.br/empresa/HETA3?base=ind&doc=DFP&demo=DRE&ano=2018)
+
+| Conta | Descrição | Valor (R$) |
+|---|---|---|
+| 3.01 | Receita de Venda de Bens e/ou Serviços | 4.722.000 |
+| 3.02 | Custo dos Bens e/ou Serviços Vendidos | 0 |
+| 3.03 | Resultado Bruto | 4.722.000 |
+| 3.04 | Despesas/Receitas Operacionais | -584.000 |
+| 3.04.01 | Despesas com Vendas | 0 |
+| 3.04.02 | Despesas Gerais e Administrativas | -458.000 |
+| 3.04.03 | Perdas pela Não Recuperabilidade de Ativos | 0 |
+| 3.04.03.01 | Despesas Extraordinárias | 0 |
+| 3.04.04 | Outras Receitas Operacionais | 0 |
+| 3.04.05 | Outras Despesas Operacionais | -126.000 |
+| 3.04.06 | Resultado de Equivalência Patrimonial | 0 |
+| 3.05 | Resultado Antes do Resultado Financeiro e dos Tributos | 4.138.000 |
+| 3.06 | Resultado Financeiro | -2.864.000 |
+| 3.06.01 | Receitas Financeiras | 357.000 |
+| 3.06.01.01 | Outras receitas Financeiras | 357.000 |
+| 3.06.02 | Despesas Financeiras | -3.221.000 |
+| 3.07 | Resultado Antes dos Tributos sobre o Lucro | 1.274.000 |
+| 3.08 | Imposto de Renda e Contribuição Social sobre o Lucro | -331.000 |
+| 3.08.01 | Corrente | -311.000 |
+| 3.08.02 | Diferido | -20.000 |
+| 3.09 | Resultado Líquido das Operações Continuadas | 943.000 |
+| 3.10 | Resultado Líquido de Operações Descontinuadas | 0 |
+| 3.10.01 | Lucro/Prejuízo Líquido das Operações Descontinuadas | 0 |
+| 3.10.02 | Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas | 0 |
+| 3.11 | Lucro/Prejuízo do Período | 943.000 |
+| 3.99 | Lucro por Ação - (Reais / Ação) | 0 |
+| 3.99.01 | Lucro Básico por Ação | 0 |
+| 3.99.01.01 | ON | 1.849 |
+| 3.99.01.02 | PN | 1.849 |
+| 3.99.02 | Lucro Diluído por Ação | 0 |
+| 3.99.02.01 | ON | 1.849 |
+| 3.99.02.02 | PN | 1.849 |
+
+DRE · DFP · individual · 2025 · 32 linhas · R$
+
+## Como citar
+
+Como citar
+
+Atlas Mercados. HERCULES S/A - FABRICA DE TALHERES — demonstrações financeiras. https://atlasmercados.com.br/empresa/HETA3. Dados: CVM Dados Abertos — DFP/ITR de HERCULES S/A - FABRICA DE TALHERES (CD_CVM 6629). Acesso em [data de acesso].
+
+Identificador da série: cvm:6629 · Permalink: [https://atlasmercados.com.br/empresa/HETA3](https://atlasmercados.com.br/empresa/HETA3) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)

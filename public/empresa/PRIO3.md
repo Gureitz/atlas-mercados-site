@@ -1,6 +1,6 @@
 ---
 title: PRIO S.A. (PRIO3) — análise financeira | Atlas Mercados
-description: PRIO S.A. (PRIO3) teve receita líquida de R$ 15,6 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 64,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,6 e P/VPA de 2,50 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: PRIO S.A. (PRIO3) teve receita líquida de R$ 15,6 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 64,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,6 e P/VPA de 2,50 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pela participação nos contratos dos campos, produziu em média 156,0 mil de barris de óleo equivalente por dia de 09/2025 a 08/2026 (146,5 mil de barris de petróleo e 1,51 milhão de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 url: https://atlasmercados.com.br/empresa/PRIO3
 ---
 <!-- https://atlasmercados.com.br/empresa/PRIO3 — versão Markdown da página -->
@@ -13,7 +13,7 @@ PRIO3 · CD_CVM 22187 · Petróleo e Gás · RJ · DFP 16a · ITR 16a · último
 
 [Consolidado](https://atlasmercados.com.br/empresa/PRIO3?base=con) [Individual](https://atlasmercados.com.br/empresa/PRIO3?base=ind)
 
-> PRIO S.A. (PRIO3) teve receita líquida de R$ 15,6 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 64,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,6 e P/VPA de 2,50 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> PRIO S.A. (PRIO3) teve receita líquida de R$ 15,6 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 64,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,6 e P/VPA de 2,50 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pela participação nos contratos dos campos, produziu em média 156,0 mil de barris de óleo equivalente por dia de 09/2025 a 08/2026 (146,5 mil de barris de petróleo e 1,51 milhão de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 
 - Receita líq. · R$ 15,6 bi · 2025
 
@@ -36,6 +36,26 @@ PRIO3 · CD_CVM 22187 · Petróleo e Gás · RJ · DFP 16a · ITR 16a · último
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Produção de petróleo e gás — ANP · produção por poço × participação nos contratos (calc.) · 09/2025 a 08/2026
+
+- Produção · 156 mil boe/d · média diária
+
+- Petróleo e condensado · 147 mil bbl/d · média diária
+
+- Gás natural · 1.511 mil m³/d · média diária
+
+| Maiores campos | Participação no contrato | Produção da companhia |
+|---|---|---|
+| PEREGRINO | 80,0% | 67 mil boe/d |
+| FRADE | 100,0% | 31 mil boe/d |
+| ALBACORA LESTE | 90,0% | 29 mil boe/d |
+| WAHOO | 64,3% | 11 mil boe/d |
+| TUBARAO MARTELO | 100,0% | 8 mil boe/d |
+| POLVO | 100,0% | 7 mil boe/d |
+| PITANGOLA | 80,0% | 3 mil boe/d |
+
+Produção total do poço (o gás inclui o reinjetado e o consumido na operação), acima da produção "comercial" que a companhia divulga. [Petróleo e gás no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 

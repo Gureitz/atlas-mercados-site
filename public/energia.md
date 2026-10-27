@@ -1,15 +1,15 @@
 ---
-title: Setor elétrico — capacidade por fonte e UF, distribuidoras e grupos listados (ANEEL) — Atlas Mercados
-description: O Brasil tinha 220,7 GW de capacidade de geração em operação em 01/10/2026, segundo o SIGA da ANEEL (potência fiscalizada): hídrica 50,0%, eólica 15,8%, fóssil 14,4% e solar 10,7% (participações são cálculo do site). As 103 distribuidoras atendiam 96,6 milhões de consumidores em 08/2026 e faturaram 459 TWh na tarifa de uso da rede em 12 meses — 43,7% dessa energia foi de consumidores livres (cálculo do site) —, segundo o SAMP da ANEEL.
+title: Energia no Brasil — geração por fonte e UF, distribuidoras e produção de petróleo e gás (ANEEL, ANP) — Atlas Mercados
+description: O Brasil tinha 220,7 GW de capacidade de geração em operação em 01/10/2026, segundo o SIGA da ANEEL (potência fiscalizada): hídrica 50,0%, eólica 15,8%, fóssil 14,4% e solar 10,7% (participações são cálculo do site). As 103 distribuidoras atendiam 96,6 milhões de consumidores em 08/2026 e faturaram 459 TWh na tarifa de uso da rede em 12 meses — 43,7% dessa energia foi de consumidores livres (cálculo do site) —, segundo o SAMP da ANEEL. O Brasil produziu em média 5,45 milhões de barris de óleo equivalente por dia de 09/2025 a 08/2026 (4,18 milhões de barris de petróleo e condensado e 202 milhões de m³ de gás por dia), 95,6% no mar, segundo a produção por poço publicada pela ANP; pela participação nos contratos, as listadas produziram PETR3 3,40 milhões, PRIO3 156,0 mil, BRAV3 80,6 mil, ENEV3 41,0 mil boe/d (cálculo do site).
 url: https://atlasmercados.com.br/energia
 ---
 <!-- https://atlasmercados.com.br/energia — versão Markdown da página -->
 
-# Setor elétrico
+# Energia
 
 ANEEL — SIGA (usinas, 01/10/2026) · SAMP (mercado das distribuidoras, 08/2026) · composição societária dos agentes · [JSON](https://atlasmercados.com.br/energia.json)
 
-> O Brasil tinha 220,7 GW de capacidade de geração em operação em 01/10/2026, segundo o SIGA da ANEEL (potência fiscalizada): hídrica 50,0%, eólica 15,8%, fóssil 14,4% e solar 10,7% (participações são cálculo do site). As 103 distribuidoras atendiam 96,6 milhões de consumidores em 08/2026 e faturaram 459 TWh na tarifa de uso da rede em 12 meses — 43,7% dessa energia foi de consumidores livres (cálculo do site) —, segundo o SAMP da ANEEL.
+> O Brasil tinha 220,7 GW de capacidade de geração em operação em 01/10/2026, segundo o SIGA da ANEEL (potência fiscalizada): hídrica 50,0%, eólica 15,8%, fóssil 14,4% e solar 10,7% (participações são cálculo do site). As 103 distribuidoras atendiam 96,6 milhões de consumidores em 08/2026 e faturaram 459 TWh na tarifa de uso da rede em 12 meses — 43,7% dessa energia foi de consumidores livres (cálculo do site) —, segundo o SAMP da ANEEL. O Brasil produziu em média 5,45 milhões de barris de óleo equivalente por dia de 09/2025 a 08/2026 (4,18 milhões de barris de petróleo e condensado e 202 milhões de m³ de gás por dia), 95,6% no mar, segundo a produção por poço publicada pela ANP; pela participação nos contratos, as listadas produziram PETR3 3,40 milhões, PRIO3 156,0 mil, BRAV3 80,6 mil, ENEV3 41,0 mil boe/d (cálculo do site).
 
 - Capacidade em operação · 220,7 GW · potência fiscalizada · 4.372 usinas de 1 MW ou mais
 
@@ -237,14 +237,58 @@ Controlada = participação efetiva de 50% ou mais, contada a 100% (a régua das
 | 102 | CODESAM COOPERATIVA DE DISTRIBUIÇÃO DE ENERGIA E | 1.379 | 0,1 TWh | 74,7% | 08/2026 |  |
 | 103 | CERAL-DIS COOPERATIVA DE DISTRIBUICAO DE ENERGIA E | 1.157 | 0,0 TWh | n/d | 09/2026 |  |
 
-Fonte e método. ANEEL, dados abertos: SIGA (empreendimentos de geração — potência fiscalizada das usinas em operação, fonte, UF e proprietários com participação), SAMP (mercado declarado pelas distribuidoras — número de consumidores e energia faturada na TUSD) e composição societária dos agentes (Polímero). Consumidores = mercado regular, sistemas isolados e sistema de compensação da geração distribuída, em que quem gera a própria energia é faturado à parte; parte desses consumidores aparece nos dois registros, então a soma pode passar um pouco do real (87,7 milhões sem a GD). Energia = TUSD de cativos e livres em 12 meses, sem a energia compensada. A ligação de cada usina e distribuidora a um grupo listado é cálculo do site: a fatia direta de cada sócio sai das declarações à ANEEL e a participação efetiva é o produto pelos caminhos da cadeia. Não é recomendação de nada.
+## Petróleo e gás
 
-Dados: [aneel_siga](https://atlasmercados.com.br/dados/aneel_siga) [aneel_samp](https://atlasmercados.com.br/dados/aneel_samp) [aneel_societaria](https://atlasmercados.com.br/dados/aneel_societaria) [energia.json](https://atlasmercados.com.br/energia.json)
+ANP — produção por poço (mar, mensal até 08/2026; terra, 9 meses com dado na janela) · campos × concessionários
+
+- Produção total · 5,45 mi boe/d · média 09/2025 a 08/2026
+
+- Petróleo e condensado · 4,18 mi bbl/d · média diária
+
+- Gás natural · 202 mi m³/d · associado + não associado
+
+- No mar · 95,6% · da produção em boe (calc.)
+
+## Empresas listadas — pela participação nos contratos dos campos (calc.)
+
+| Companhia | Produção | Petróleo | Gás |
+|---|---|---|---|
+| PETR3 PETROLEO BRASILEIRO S.A. PET | 3.396 mil boe/d | 2.615 mil bbl/d | 124.084 mil m³/d |
+| PRIO3 PRIO S.A. | 156 mil boe/d | 147 mil bbl/d | 1.511 mil m³/d |
+| BRAV3 BRAVA ENERGIA S.A. | 81 mil boe/d | 64 mil bbl/d | 2.668 mil m³/d |
+| ENEV3 ENEVA S.A | 41 mil boe/d | 0 mil bbl/d | 6.476 mil m³/d |
+| RECV3 PETRORECÔNCAVO S.A. | 25 mil boe/d | 14 mil bbl/d | 1.674 mil m³/d |
+
+Produção do campo × participação do grupo no contrato (working interest). Produção total do poço: o gás inclui o reinjetado e o consumido na operação, então sai acima da produção "comercial" que as companhias divulgam.
+
+## Maiores campos — média diária · operador
+
+| Campo | UF | Produção | Operador |
+|---|---|---|---|
+| TUPI mar | Rio de Janeiro | 1.045 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| MERO mar | Rio de Janeiro | 944 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| BÚZIOS_ECO mar | Rio de Janeiro | 850 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| BÚZIOS mar | Rio de Janeiro | 300 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| JUBARTE mar | Espírito Santo | 215 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| SAPINHOÁ mar | São Paulo | 142 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| BERBIGÃO mar | Rio de Janeiro | 128 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| SÉPIA_ECO mar | Rio de Janeiro | 111 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| ITAPU mar | Rio de Janeiro | 86 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| MARLIM mar | Rio de Janeiro | 83 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| PEREGRINO mar | Rio de Janeiro | 83 mil boe/d | PRIO TIGRIS S.A |
+| ATAPU_ECO mar | Rio de Janeiro | 83 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| RONCADOR mar | Rio de Janeiro | 83 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| ITAPU_ECO mar | Rio de Janeiro | 80 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+| MARLIM SUL mar | Rio de Janeiro | 75 mil boe/d | PETRÓLEO BRASILEIRO S.A. - PETRO |
+
+Fonte e método. ANEEL, dados abertos: SIGA (empreendimentos de geração — potência fiscalizada das usinas em operação, fonte, UF e proprietários com participação), SAMP (mercado declarado pelas distribuidoras — número de consumidores e energia faturada na TUSD) e composição societária dos agentes (Polímero). Consumidores = mercado regular, sistemas isolados e sistema de compensação da geração distribuída, em que quem gera a própria energia é faturado à parte; parte desses consumidores aparece nos dois registros, então a soma pode passar um pouco do real (87,7 milhões sem a GD). Energia = TUSD de cativos e livres em 12 meses, sem a energia compensada. A ligação de cada usina e distribuidora a um grupo listado é cálculo do site: a fatia direta de cada sócio sai das declarações à ANEEL e a participação efetiva é o produto pelos caminhos da cadeia. ANP, dados abertos: produção por poço (mar e terra) somada por campo, atribuída a cada empresa pela participação dos concessionários do grupo no contrato do campo (relação campo × concessionários e grupo econômico, da ANP); barril equivalente pela regra da ANP (1.000 m³ de gás = 1 m³ de óleo = 6,2898 barris); média diária por ambiente sobre os meses com dado (o arquivo do 2º trimestre de 2026 em terra não traz abril). Não é recomendação de nada.
+
+Dados: [aneel_siga](https://atlasmercados.com.br/dados/aneel_siga) [aneel_samp](https://atlasmercados.com.br/dados/aneel_samp) [aneel_societaria](https://atlasmercados.com.br/dados/aneel_societaria) [anp_producao](https://atlasmercados.com.br/dados/anp_producao) [anp_campos](https://atlasmercados.com.br/dados/anp_campos) [energia.json](https://atlasmercados.com.br/energia.json)
 
 ## Como citar
 
 Como citar
 
-Atlas Mercados. Setor elétrico — capacidade, distribuidoras e grupos listados. https://atlasmercados.com.br/energia. Dados: ANEEL — SIGA (empreendimentos de geração), SAMP (mercado das distribuidoras) e composição societária dos agentes (dados abertos). Acesso em [data de acesso].
+Atlas Mercados. Energia — setor elétrico e produção de petróleo e gás. https://atlasmercados.com.br/energia. Dados: ANEEL — SIGA (empreendimentos de geração), SAMP (mercado das distribuidoras) e composição societária dos agentes; ANP — produção por poço e campos × concessionários (dados abertos). Acesso em [data de acesso].
 
 Permalink: [https://atlasmercados.com.br/energia](https://atlasmercados.com.br/energia) · [JSON](https://atlasmercados.com.br/energia.json) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)

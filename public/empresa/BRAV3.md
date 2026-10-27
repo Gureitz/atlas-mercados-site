@@ -1,6 +1,6 @@
 ---
 title: BRAVA ENERGIA S.A. (BRAV3) — análise financeira | Atlas Mercados
-description: BRAVA ENERGIA S.A. (BRAV3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 40,0% sobre a receita. O valor de mercado era de R$ 10,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,1 e P/VPA de 0,86 sobre o último exercício. Em 2025, distribuiu R$ 57,4 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: BRAVA ENERGIA S.A. (BRAV3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 40,0% sobre a receita. O valor de mercado era de R$ 10,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,1 e P/VPA de 0,86 sobre o último exercício. Em 2025, distribuiu R$ 57,4 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025. Pela participação nos contratos dos campos, produziu em média 80,6 mil de barris de óleo equivalente por dia de 09/2025 a 08/2026 (63,8 mil de barris de petróleo e 2,67 milhões de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 url: https://atlasmercados.com.br/empresa/BRAV3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRAV3 — versão Markdown da página -->
@@ -13,7 +13,7 @@ BRAV3, RRRP3 · CD_CVM 25291 · Petróleo e Gás · RJ · DFP 7a · ITR 7a · ú
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRAV3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRAV3?base=ind)
 
-> BRAVA ENERGIA S.A. (BRAV3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 40,0% sobre a receita. O valor de mercado era de R$ 10,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,1 e P/VPA de 0,86 sobre o último exercício. Em 2025, distribuiu R$ 57,4 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+> BRAVA ENERGIA S.A. (BRAV3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 40,0% sobre a receita. O valor de mercado era de R$ 10,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,1 e P/VPA de 0,86 sobre o último exercício. Em 2025, distribuiu R$ 57,4 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025. Pela participação nos contratos dos campos, produziu em média 80,6 mil de barris de óleo equivalente por dia de 09/2025 a 08/2026 (63,8 mil de barris de petróleo e 2,67 milhões de m³ de gás por dia), segundo a produção por poço e a relação de concessionários da ANP — produção total do poço, cálculo do site.
 
 - Receita líq. · R$ 11,6 bi · 2025
 
@@ -36,6 +36,27 @@ BRAV3, RRRP3 · CD_CVM 25291 · Petróleo e Gás · RJ · DFP 7a · ITR 7a · ú
 ## Lucro líquido — por exercício (DFP, R$)
 
 2019202020212022202320242025
+
+## Produção de petróleo e gás — ANP · produção por poço × participação nos contratos (calc.) · 09/2025 a 08/2026
+
+- Produção · 81 mil boe/d · média diária
+
+- Petróleo e condensado · 64 mil bbl/d · média diária
+
+- Gás natural · 2.668 mil m³/d · média diária
+
+| Maiores campos | Participação no contrato | Produção da companhia |
+|---|---|---|
+| ATLANTA | 80,0% | 25 mil boe/d |
+| PAPA-TERRA | 62,5% | 12 mil boe/d |
+| CANTO DO AMARO | 100,0% | 6 mil boe/d |
+| MANATI | 45,0% | 5 mil boe/d |
+| ARGONAUTA | 23,0% | 5 mil boe/d |
+| ESTREITO | 100,0% | 4 mil boe/d |
+| AGUA GRANDE | 100,0% | 3 mil boe/d |
+| MACAU | 100,0% | 3 mil boe/d |
+
+Produção total do poço (o gás inclui o reinjetado e o consumido na operação), acima da produção "comercial" que a companhia divulga. [Petróleo e gás no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 

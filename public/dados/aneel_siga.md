@@ -1,27 +1,27 @@
 ---
 title: Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA) — dados em Parquet e CSV — Atlas Mercados
-description: Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA): 25.624 linhas, referência 2026-10-01, em Parquet e CSV (dado oficial como publicado), coletado em 27/10/2026.
+description: Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA): 25.624 linhas, referência 2026-10-01, em Parquet e CSV (dado oficial como publicado), coletado em 26/10/2026.
 url: https://atlasmercados.com.br/dados/aneel_siga
 ---
 <!-- https://atlasmercados.com.br/dados/aneel_siga — versão Markdown da página -->
 
 # Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA)
 
-IBGE · dado oficial como publicado · aneel_siga
+ANEEL · dado oficial como publicado · aneel_siga
 
-> Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA): 25.624 linhas, referência 2026-10-01, em Parquet e CSV (dado oficial como publicado), coletado em 27/10/2026.
+> Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA): 25.624 linhas, referência 2026-10-01, em Parquet e CSV (dado oficial como publicado), coletado em 26/10/2026.
 
 - Linhas · 25.624 · 17 colunas
 
 - Período · 2026-10-01 – 2026-10-01 · cobertura temporal
 
-- Coletado em · 2026-10-27 · última ingestão
+- Coletado em · 2026-10-26 · última ingestão
 
 - Parquet · 1,0 MB · baixar
 
 - CSV · texto · baixar
 
-- Licença · CC BY 4.0 · termos e fontes
+- Licença · ODbL 1.0 (portal de dados abertos da ANEEL) · termos e fontes
 
 ## O que é
 
@@ -63,6 +63,6 @@ import pandas as pd df = pd.read_csv("https://atlasmercados.com.br/dados/aneel_s
 
 Como citar
 
-Atlas Mercados. Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA). https://atlasmercados.com.br/dados/aneel_siga. Dados: IBGE. Acesso em [data de acesso].
+Atlas Mercados. Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA). https://atlasmercados.com.br/dados/aneel_siga. Dados: ANEEL. Acesso em [data de acesso].
 
 Identificador da série: atlas-mercados:aneel_siga · Permalink: [https://atlasmercados.com.br/dados/aneel_siga](https://atlasmercados.com.br/dados/aneel_siga) · [CSV](https://atlasmercados.com.br/dados/aneel_siga.csv) · [Parquet](https://atlasmercados.com.br/dados/aneel_siga.parquet) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)
