@@ -1,19 +1,19 @@
 ---
 title: TEC TOY S/A (TOYB3) — análise financeira | Atlas Mercados
-description: TEC TOY S/A (TOYB3) teve receita líquida de R$ 16,4 milhões e prejuízo líquido de R$ 2,2 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,8 milhão, margem EBITDA de -10,8% sobre a receita. A série anual disponível vai de 2010 a 2018.
+description: TEC TOY S/A (TOYB3) teve receita líquida de R$ 16,4 milhões e prejuízo líquido de R$ 2,2 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,8 milhão, margem EBITDA de -10,8% sobre a receita. A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/TOYB3
 ---
 <!-- https://atlasmercados.com.br/empresa/TOYB3 — versão Markdown da página -->
 
 TE
 
-TEC TOY S/A
+TEC TOY S/A registro cancelada na CVM sem pregão em 90 dias
 
 TOYB3, TOYB4 · CD_CVM 14133 · Máquinas, Equipamentos, Veículos e Peças · AM · DFP 9a · ITR 9a
 
 [Consolidado](https://atlasmercados.com.br/empresa/TOYB3?base=con) [Individual](https://atlasmercados.com.br/empresa/TOYB3?base=ind)
 
-> TEC TOY S/A (TOYB3) teve receita líquida de R$ 16,4 milhões e prejuízo líquido de R$ 2,2 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,8 milhão, margem EBITDA de -10,8% sobre a receita. A série anual disponível vai de 2010 a 2018.
+> TEC TOY S/A (TOYB3) teve receita líquida de R$ 16,4 milhões e prejuízo líquido de R$ 2,2 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,8 milhão, margem EBITDA de -10,8% sobre a receita. A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 16,4 mi · 2018
 

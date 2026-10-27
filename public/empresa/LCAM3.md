@@ -1,19 +1,19 @@
 ---
 title: COMPANHIA DE LOCAÇÃO DAS AMERICAS (LCAM3) — análise financeira | Atlas Mercados
-description: COMPANHIA DE LOCAÇÃO DAS AMERICAS (LCAM3) teve receita líquida de R$ 8,5 bilhões e lucro líquido de R$ 834,8 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,5 bilhões, margem EBITDA de 29,8% sobre a receita. Em 2024, distribuiu R$ 1,1 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2024.
+description: COMPANHIA DE LOCAÇÃO DAS AMERICAS (LCAM3) teve receita líquida de R$ 8,5 bilhões e lucro líquido de R$ 834,8 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,5 bilhões, margem EBITDA de 29,8% sobre a receita. Em 2024, distribuiu R$ 1,1 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/LCAM3
 ---
 <!-- https://atlasmercados.com.br/empresa/LCAM3 — versão Markdown da página -->
 
 CO
 
-COMPANHIA DE LOCAÇÃO DAS AMERICAS
+COMPANHIA DE LOCAÇÃO DAS AMERICAS registro cancelada na CVM sem pregão em 90 dias
 
 LCAM3 · CD_CVM 22691 · Serviços Transporte e Logística · MG · DFP 15a · ITR 15a
 
 [Consolidado](https://atlasmercados.com.br/empresa/LCAM3?base=con) [Individual](https://atlasmercados.com.br/empresa/LCAM3?base=ind)
 
-> COMPANHIA DE LOCAÇÃO DAS AMERICAS (LCAM3) teve receita líquida de R$ 8,5 bilhões e lucro líquido de R$ 834,8 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,5 bilhões, margem EBITDA de 29,8% sobre a receita. Em 2024, distribuiu R$ 1,1 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2024.
+> COMPANHIA DE LOCAÇÃO DAS AMERICAS (LCAM3) teve receita líquida de R$ 8,5 bilhões e lucro líquido de R$ 834,8 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,5 bilhões, margem EBITDA de 29,8% sobre a receita. Em 2024, distribuiu R$ 1,1 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 8,5 bi · 2024
 

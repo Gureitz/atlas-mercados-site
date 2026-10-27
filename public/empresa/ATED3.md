@@ -9,7 +9,7 @@ AT
 
 ATOM EDUCAÇÃO E EDITORA S.A.
 
-ATED3 · CD_CVM 27677 · Educação · SP · DFP 2a · ITR 3a
+ATED3 · CD_CVM 27677 · Educação · SP · DFP 2a · ITR 3a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ATED3?base=con) [Individual](https://atlasmercados.com.br/empresa/ATED3?base=ind)
 

@@ -1,6 +1,6 @@
 ---
 title: AZUL S.A. (AZUL3) — análise financeira | Atlas Mercados
-description: AZUL S.A. (AZUL3) teve receita líquida de R$ 21,6 bilhões e lucro líquido de R$ 124,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,3 bilhões, margem EBITDA de 33,9% sobre a receita. O valor de mercado era de R$ 6,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 54,6 sobre o último exercício. A série anual disponível vai de 2016 a 2025.
+description: AZUL S.A. (AZUL3) teve receita líquida de R$ 21,6 bilhões e lucro líquido de R$ 124,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,3 bilhões, margem EBITDA de 33,9% sobre a receita. O valor de mercado era de R$ 5,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 44,5 sobre o último exercício. A série anual disponível vai de 2016 a 2025.
 url: https://atlasmercados.com.br/empresa/AZUL3
 ---
 <!-- https://atlasmercados.com.br/empresa/AZUL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AZ
 
 AZUL S.A.
 
-AZUL3, AZUL4 · CD_CVM 24112 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 10a · ITR 10a
+AZUL3, AZUL4 · CD_CVM 24112 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 10a · ITR 10a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/AZUL3?base=con) [Individual](https://atlasmercados.com.br/empresa/AZUL3?base=ind)
 
-> AZUL S.A. (AZUL3) teve receita líquida de R$ 21,6 bilhões e lucro líquido de R$ 124,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,3 bilhões, margem EBITDA de 33,9% sobre a receita. O valor de mercado era de R$ 6,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 54,6 sobre o último exercício. A série anual disponível vai de 2016 a 2025.
+> AZUL S.A. (AZUL3) teve receita líquida de R$ 21,6 bilhões e lucro líquido de R$ 124,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,3 bilhões, margem EBITDA de 33,9% sobre a receita. O valor de mercado era de R$ 5,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 44,5 sobre o último exercício. A série anual disponível vai de 2016 a 2025.
 
 - Receita líq. · R$ 21,6 bi · 2025
 
@@ -92,7 +92,7 @@ DRE · DFP · consolidado · 2025 · 38 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 1,4× mediana 13,5× faixa 1,4× – 131,8× abaixo da mediana
+P/L atual 3,4× mediana 12,0× faixa 1,5× – 131,8× abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

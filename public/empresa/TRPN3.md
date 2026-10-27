@@ -1,19 +1,19 @@
 ---
 title: TARPON INVESTIMENTOS S/A (TRPN3) — análise financeira | Atlas Mercados
-description: TARPON INVESTIMENTOS S/A (TRPN3) teve receitas da intermediação financeira de R$ 126,5 milhões e lucro líquido de R$ 56,2 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2018, distribuiu R$ 52,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018.
+description: TARPON INVESTIMENTOS S/A (TRPN3) teve receitas da intermediação financeira de R$ 126,5 milhões e lucro líquido de R$ 56,2 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2018, distribuiu R$ 52,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/TRPN3
 ---
 <!-- https://atlasmercados.com.br/empresa/TRPN3 — versão Markdown da página -->
 
 TA
 
-TARPON INVESTIMENTOS S/A
+TARPON INVESTIMENTOS S/A registro cancelada na CVM sem pregão em 90 dias
 
 TRPN3 · CD_CVM 21717 · Emp. Adm. Part. - Intermediação Financeira · SP · DFP 9a · ITR 9a
 
 [Consolidado](https://atlasmercados.com.br/empresa/TRPN3?base=con) [Individual](https://atlasmercados.com.br/empresa/TRPN3?base=ind)
 
-> TARPON INVESTIMENTOS S/A (TRPN3) teve receitas da intermediação financeira de R$ 126,5 milhões e lucro líquido de R$ 56,2 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2018, distribuiu R$ 52,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018.
+> TARPON INVESTIMENTOS S/A (TRPN3) teve receitas da intermediação financeira de R$ 126,5 milhões e lucro líquido de R$ 56,2 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2018, distribuiu R$ 52,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 126,5 mi · 2018
 

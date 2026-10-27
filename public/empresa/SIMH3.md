@@ -1,6 +1,6 @@
 ---
 title: SIMPAR S.A. (SIMH3) — análise financeira | Atlas Mercados
-description: SIMPAR S.A. (SIMH3) teve receita líquida de R$ 43,5 bilhões e lucro líquido de R$ 215,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,1 bilhões, margem EBITDA de 30,0% sobre a receita. O valor de mercado era de R$ 6,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 29,3 e P/VPA de 0,85 sobre o último exercício. Em 2025, distribuiu R$ 69,4 milhões em proventos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: SIMPAR S.A. (SIMH3) teve receita líquida de R$ 43,5 bilhões e lucro líquido de R$ 215,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,1 bilhões, margem EBITDA de 30,0% sobre a receita. O valor de mercado era de R$ 9,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 45,2 e P/VPA de 1,31 sobre o último exercício. Em 2025, distribuiu R$ 69,4 milhões em proventos (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/SIMH3
 ---
 <!-- https://atlasmercados.com.br/empresa/SIMH3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ SI
 
 SIMPAR S.A.
 
-SIMH3 · CD_CVM 25003 · Serviços Transporte e Logística · SP · DFP 7a · ITR 7a
+SIMH3 · CD_CVM 25003 · Serviços Transporte e Logística · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SIMH3?base=con) [Individual](https://atlasmercados.com.br/empresa/SIMH3?base=ind)
 
-> SIMPAR S.A. (SIMH3) teve receita líquida de R$ 43,5 bilhões e lucro líquido de R$ 215,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,1 bilhões, margem EBITDA de 30,0% sobre a receita. O valor de mercado era de R$ 6,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 29,3 e P/VPA de 0,85 sobre o último exercício. Em 2025, distribuiu R$ 69,4 milhões em proventos (DMPL). A série anual disponível vai de 2019 a 2025.
+> SIMPAR S.A. (SIMH3) teve receita líquida de R$ 43,5 bilhões e lucro líquido de R$ 215,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,1 bilhões, margem EBITDA de 30,0% sobre a receita. O valor de mercado era de R$ 9,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 45,2 e P/VPA de 1,31 sobre o último exercício. Em 2025, distribuiu R$ 69,4 milhões em proventos (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 43,5 bi · 2025
 
@@ -97,11 +97,11 @@ DRE · DFP · consolidado · 2025 · 43 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 164,4× mediana 11,7× faixa 4,3× – 290,5× acima da mediana
+P/L atual 190,0× mediana 11,7× faixa 4,3× – 290,5× acima da mediana
 
-P/VPA atual 0,7× mediana 1,0× faixa 0,4× – 14,1× abaixo da mediana
+P/VPA atual 1,0× mediana 1,0× faixa 0,4× – 14,1× acima da mediana
 
-Dividend Yield atual 1,4% mediana 2,3% faixa 0,1% – 9,5% abaixo da mediana
+Dividend Yield atual 0,7% mediana 2,3% faixa 0,1% – 9,5% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

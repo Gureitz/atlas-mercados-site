@@ -1,19 +1,19 @@
 ---
 title: SUZANO HOLDING S.A. (NEMO3) — análise financeira | Atlas Mercados
-description: SUZANO HOLDING S.A. (NEMO3) teve receita líquida de R$ 50,1 bilhões e lucro líquido de R$ 13,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 21,9 bilhões, margem EBITDA de 43,8% sobre a receita. Em 2025, distribuiu R$ 1,8 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: SUZANO HOLDING S.A. (NEMO3) teve receita líquida de R$ 50,1 bilhões e lucro líquido de R$ 13,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 21,9 bilhões, margem EBITDA de 43,8% sobre a receita. Em 2025, distribuiu R$ 1,8 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/NEMO3
 ---
 <!-- https://atlasmercados.com.br/empresa/NEMO3 — versão Markdown da página -->
 
 SU
 
-SUZANO HOLDING S.A.
+SUZANO HOLDING S.A. sem pregão em 90 dias
 
 NEMO3, NEMO5, NEMO6 · CD_CVM 9067 · Emp. Adm. Part. - Papel e Celulose · SP · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/NEMO3?base=con) [Individual](https://atlasmercados.com.br/empresa/NEMO3?base=ind)
 
-> SUZANO HOLDING S.A. (NEMO3) teve receita líquida de R$ 50,1 bilhões e lucro líquido de R$ 13,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 21,9 bilhões, margem EBITDA de 43,8% sobre a receita. Em 2025, distribuiu R$ 1,8 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> SUZANO HOLDING S.A. (NEMO3) teve receita líquida de R$ 50,1 bilhões e lucro líquido de R$ 13,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 21,9 bilhões, margem EBITDA de 43,8% sobre a receita. Em 2025, distribuiu R$ 1,8 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 50,1 bi · 2025
 

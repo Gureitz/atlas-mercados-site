@@ -1,6 +1,6 @@
 ---
 title: VIVER INCORPORADORA E CONSTRUTORA S.A (VIVR3) — análise financeira | Atlas Mercados
-description: VIVER INCORPORADORA E CONSTRUTORA S.A (VIVR3) teve receita líquida de R$ 28,8 milhões e prejuízo líquido de R$ 17,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 8,9 milhões, margem EBITDA de -31,0% sobre a receita. O valor de mercado era de R$ 7,5 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
+description: VIVER INCORPORADORA E CONSTRUTORA S.A (VIVR3) teve receita líquida de R$ 28,8 milhões e prejuízo líquido de R$ 17,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 8,9 milhões, margem EBITDA de -31,0% sobre a receita. O valor de mercado era de R$ 15,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/VIVR3
 ---
 <!-- https://atlasmercados.com.br/empresa/VIVR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ VI
 
 VIVER INCORPORADORA E CONSTRUTORA S.A
 
-VIVR3, INPR3, VIVR11 · CD_CVM 20702 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+VIVR3, INPR3, VIVR11 · CD_CVM 20702 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/VIVR3?base=con) [Individual](https://atlasmercados.com.br/empresa/VIVR3?base=ind)
 
-> VIVER INCORPORADORA E CONSTRUTORA S.A (VIVR3) teve receita líquida de R$ 28,8 milhões e prejuízo líquido de R$ 17,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 8,9 milhões, margem EBITDA de -31,0% sobre a receita. O valor de mercado era de R$ 7,5 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
+> VIVER INCORPORADORA E CONSTRUTORA S.A (VIVR3) teve receita líquida de R$ 28,8 milhões e prejuízo líquido de R$ 17,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 8,9 milhões, margem EBITDA de -31,0% sobre a receita. O valor de mercado era de R$ 15,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 28,8 mi · 2025
 
@@ -84,7 +84,7 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/VPA atual 0,1× mediana 0,5× faixa 0,1× – 15,3× abaixo da mediana
+P/VPA atual 0,4× mediana 0,4× faixa 0,1× – 15,3× abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

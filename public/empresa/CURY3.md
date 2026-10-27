@@ -1,6 +1,6 @@
 ---
 title: CURY CONSTRUTORA E INCORPORADORA S.A. (CURY3) — análise financeira | Atlas Mercados
-description: CURY CONSTRUTORA E INCORPORADORA S.A. (CURY3) teve receita líquida de R$ 5,4 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 5,21 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: CURY CONSTRUTORA E INCORPORADORA S.A. (CURY3) teve receita líquida de R$ 5,4 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 24,1% sobre a receita. O valor de mercado era de R$ 10,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,3 e P/VPA de 6,02 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/CURY3
 ---
 <!-- https://atlasmercados.com.br/empresa/CURY3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CU
 
 CURY CONSTRUTORA E INCORPORADORA S.A.
 
-CURY3 · CD_CVM 25100 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 7a · ITR 7a
+CURY3 · CD_CVM 25100 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CURY3?base=con) [Individual](https://atlasmercados.com.br/empresa/CURY3?base=ind)
 
-> CURY CONSTRUTORA E INCORPORADORA S.A. (CURY3) teve receita líquida de R$ 5,4 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 5,21 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+> CURY CONSTRUTORA E INCORPORADORA S.A. (CURY3) teve receita líquida de R$ 5,4 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 24,1% sobre a receita. O valor de mercado era de R$ 10,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,3 e P/VPA de 6,02 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 5,4 bi · 2025
 
@@ -86,11 +86,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,1× mediana 10,8× faixa 5,7× – 15,7× abaixo da mediana
+P/L atual 8,1× mediana 10,8× faixa 5,7× – 15,7× abaixo da mediana
 
-P/VPA atual 4,5× mediana 4,9× faixa 2,4× – 7,4× abaixo da mediana
+P/VPA atual 4,9× mediana 4,9× faixa 2,4× – 7,4× acima da mediana
 
-Dividend Yield atual 15,3% mediana 5,2% faixa 1,3% – 15,3% acima da mediana
+Dividend Yield atual 13,0% mediana 5,2% faixa 1,3% – 15,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

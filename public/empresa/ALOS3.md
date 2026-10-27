@@ -1,6 +1,6 @@
 ---
 title: ALLOS S.A. (ALOS3) — análise financeira | Atlas Mercados
-description: ALLOS S.A. (ALOS3) teve receita líquida de R$ 2,9 bilhões e lucro líquido de R$ 945,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 76,0% sobre a receita. O valor de mercado era de R$ 15,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,3 e P/VPA de 1,11 sobre o último exercício. Em 2025, distribuiu R$ 932,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: ALLOS S.A. (ALOS3) teve receita líquida de R$ 2,9 bilhões e lucro líquido de R$ 945,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 76,0% sobre a receita. O valor de mercado era de R$ 17,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,7 e P/VPA de 1,27 sobre o último exercício. Em 2025, distribuiu R$ 932,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/ALOS3
 ---
 <!-- https://atlasmercados.com.br/empresa/ALOS3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AL
 
 ALLOS S.A.
 
-ALOS3, ALSO3, SSBR3 · CD_CVM 22357 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · RJ · DFP 16a · ITR 16a
+ALOS3, ALSO3, SSBR3 · CD_CVM 22357 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ALOS3?base=con) [Individual](https://atlasmercados.com.br/empresa/ALOS3?base=ind)
 
-> ALLOS S.A. (ALOS3) teve receita líquida de R$ 2,9 bilhões e lucro líquido de R$ 945,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 76,0% sobre a receita. O valor de mercado era de R$ 15,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,3 e P/VPA de 1,11 sobre o último exercício. Em 2025, distribuiu R$ 932,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> ALLOS S.A. (ALOS3) teve receita líquida de R$ 2,9 bilhões e lucro líquido de R$ 945,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 76,0% sobre a receita. O valor de mercado era de R$ 17,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,7 e P/VPA de 1,27 sobre o último exercício. Em 2025, distribuiu R$ 932,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 2,9 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 15,3× mediana 16,2× faixa 3,2× – 133,8× abaixo da mediana
+P/L atual 17,1× mediana 16,5× faixa 3,2× – 133,8× acima da mediana
 
-P/VPA atual 1,1× mediana 0,8× faixa 0,5× – 1,8× acima da mediana
+P/VPA atual 1,4× mediana 0,8× faixa 0,5× – 1,8× acima da mediana
 
-Dividend Yield atual 6,5% mediana 0,6% faixa 0,1% – 9,5% acima da mediana
+Dividend Yield atual 5,3% mediana 0,6% faixa 0,1% – 9,5% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

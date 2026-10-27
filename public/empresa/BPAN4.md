@@ -1,19 +1,19 @@
 ---
 title: BANCO PAN SA (BPAN4) — análise financeira | Atlas Mercados
-description: BANCO PAN SA (BPAN4) teve receitas da intermediação financeira de R$ 13,1 bilhões e lucro líquido de R$ 528,2 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 16,2 bilhões em 23/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 30,6 e P/VPA de 2,16 sobre o último exercício. Em 2024, distribuiu R$ 302,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2024.
+description: BANCO PAN SA (BPAN4) teve receitas da intermediação financeira de R$ 13,1 bilhões e lucro líquido de R$ 528,2 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 16,2 bilhões em 23/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 30,6 e P/VPA de 2,16 sobre o último exercício. Em 2024, distribuiu R$ 302,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 23/01/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/BPAN4
 ---
 <!-- https://atlasmercados.com.br/empresa/BPAN4 — versão Markdown da página -->
 
 BA
 
-BANCO PAN SA
+BANCO PAN SA registro cancelada na CVM sem pregão em 90 dias
 
-BPAN4 · CD_CVM 21199 · Bancos · SP · DFP 15a · ITR 15a
+BPAN4 · CD_CVM 21199 · Bancos · SP · DFP 15a · ITR 15a · último pregão 23/01/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BPAN4?base=con) [Individual](https://atlasmercados.com.br/empresa/BPAN4?base=ind)
 
-> BANCO PAN SA (BPAN4) teve receitas da intermediação financeira de R$ 13,1 bilhões e lucro líquido de R$ 528,2 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 16,2 bilhões em 23/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 30,6 e P/VPA de 2,16 sobre o último exercício. Em 2024, distribuiu R$ 302,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2024.
+> BANCO PAN SA (BPAN4) teve receitas da intermediação financeira de R$ 13,1 bilhões e lucro líquido de R$ 528,2 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 16,2 bilhões em 23/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 30,6 e P/VPA de 2,16 sobre o último exercício. Em 2024, distribuiu R$ 302,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 23/01/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 13,1 bi · 2024
 

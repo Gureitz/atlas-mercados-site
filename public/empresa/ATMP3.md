@@ -1,19 +1,19 @@
 ---
 title: CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (ATMP3) — análise financeira | Atlas Mercados
-description: CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (ATMP3) teve receita líquida de R$ 447,1 milhões e prejuízo líquido de R$ 34,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 58,8 milhões, margem EBITDA de 13,1% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (ATMP3) teve receita líquida de R$ 447,1 milhões e prejuízo líquido de R$ 34,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 58,8 milhões, margem EBITDA de 13,1% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/ATMP3
 ---
 <!-- https://atlasmercados.com.br/empresa/ATMP3 — versão Markdown da página -->
 
 CO
 
-CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL
+CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
 ATMP3, LIQO3 · CD_CVM 19100 · Emp. Adm. Part. - Comunicação e Informática · RJ · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/ATMP3?base=con) [Individual](https://atlasmercados.com.br/empresa/ATMP3?base=ind)
 
-> CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (ATMP3) teve receita líquida de R$ 447,1 milhões e prejuízo líquido de R$ 34,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 58,8 milhões, margem EBITDA de 13,1% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (ATMP3) teve receita líquida de R$ 447,1 milhões e prejuízo líquido de R$ 34,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 58,8 milhões, margem EBITDA de 13,1% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 447,1 mi · 2025
 

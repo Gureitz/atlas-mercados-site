@@ -1,19 +1,19 @@
 ---
 title: COSAN LOGÍSTICA S.A. (RLOG3) — análise financeira | Atlas Mercados
-description: COSAN LOGÍSTICA S.A. (RLOG3) teve receita líquida de R$ 7,1 bilhões e lucro líquido de R$ 778,2 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,8 bilhões, margem EBITDA de 53,9% sobre a receita. Em 2019, distribuiu R$ 27.000 em dividendos (DMPL). A série anual disponível vai de 2013 a 2019.
+description: COSAN LOGÍSTICA S.A. (RLOG3) teve receita líquida de R$ 7,1 bilhões e lucro líquido de R$ 778,2 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,8 bilhões, margem EBITDA de 53,9% sobre a receita. Em 2019, distribuiu R$ 27.000 em dividendos (DMPL). A série anual disponível vai de 2013 a 2019. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/RLOG3
 ---
 <!-- https://atlasmercados.com.br/empresa/RLOG3 — versão Markdown da página -->
 
 CO
 
-COSAN LOGÍSTICA S.A.
+COSAN LOGÍSTICA S.A. registro cancelada na CVM sem pregão em 90 dias
 
 RLOG3 · CD_CVM 23485 · Serviços Transporte e Logística · SP · DFP 7a · ITR 7a
 
 [Consolidado](https://atlasmercados.com.br/empresa/RLOG3?base=con) [Individual](https://atlasmercados.com.br/empresa/RLOG3?base=ind)
 
-> COSAN LOGÍSTICA S.A. (RLOG3) teve receita líquida de R$ 7,1 bilhões e lucro líquido de R$ 778,2 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,8 bilhões, margem EBITDA de 53,9% sobre a receita. Em 2019, distribuiu R$ 27.000 em dividendos (DMPL). A série anual disponível vai de 2013 a 2019.
+> COSAN LOGÍSTICA S.A. (RLOG3) teve receita líquida de R$ 7,1 bilhões e lucro líquido de R$ 778,2 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,8 bilhões, margem EBITDA de 53,9% sobre a receita. Em 2019, distribuiu R$ 27.000 em dividendos (DMPL). A série anual disponível vai de 2013 a 2019. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 7,1 bi · 2019
 

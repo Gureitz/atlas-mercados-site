@@ -1,6 +1,6 @@
 ---
 title: IRB - BRASIL RESSEGUROS S.A. (IRBR3) — análise financeira | Atlas Mercados
-description: IRB - BRASIL RESSEGUROS S.A. (IRBR3) teve receitas operacionais de R$ 5,2 bilhões e lucro líquido de R$ 390,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 5,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,3 e P/VPA de 0,98 sobre o último exercício. Em 2025, distribuiu R$ 48,6 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2025.
+description: IRB - BRASIL RESSEGUROS S.A. (IRBR3) teve receitas operacionais de R$ 5,2 bilhões e lucro líquido de R$ 390,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 5,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,2 e P/VPA de 1,05 sobre o último exercício. Em 2025, distribuiu R$ 48,6 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2025.
 url: https://atlasmercados.com.br/empresa/IRBR3
 ---
 <!-- https://atlasmercados.com.br/empresa/IRBR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ IR
 
 IRB - BRASIL RESSEGUROS S.A.
 
-IRBR3 · CD_CVM 24180 · Seguradoras e Corretoras · RJ · DFP 10a · ITR 10a
+IRBR3 · CD_CVM 24180 · Seguradoras e Corretoras · RJ · DFP 10a · ITR 10a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/IRBR3?base=con) [Individual](https://atlasmercados.com.br/empresa/IRBR3?base=ind)
 
-> IRB - BRASIL RESSEGUROS S.A. (IRBR3) teve receitas operacionais de R$ 5,2 bilhões e lucro líquido de R$ 390,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 5,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,3 e P/VPA de 0,98 sobre o último exercício. Em 2025, distribuiu R$ 48,6 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2025.
+> IRB - BRASIL RESSEGUROS S.A. (IRBR3) teve receitas operacionais de R$ 5,2 bilhões e lucro líquido de R$ 390,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 5,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,2 e P/VPA de 1,05 sobre o último exercício. Em 2025, distribuiu R$ 48,6 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2025.
 
 - Receita líq. · R$ 5,2 bi · 2025
 
@@ -110,11 +110,11 @@ DRE · DFP · consolidado · 2025 · 56 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 14,1× mediana 8,4× faixa 4,6× – 28,8× acima da mediana
+P/L atual 22,8× mediana 8,4× faixa 4,6× – 28,8× acima da mediana
 
-P/VPA atual 0,9× mediana 0,8× faixa 0,0× – 3,6× acima da mediana
+P/VPA atual 1,0× mediana 0,8× faixa 0,0× – 3,6× acima da mediana
 
-Dividend Yield atual 1,0% mediana 0,1% faixa 0,0% – 13,9% acima da mediana
+Dividend Yield atual 0,9% mediana 0,1% faixa 0,0% – 13,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

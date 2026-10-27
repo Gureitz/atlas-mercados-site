@@ -1,19 +1,19 @@
 ---
 title: METALFRIO SOLUTIONS S/A (FRIO3) — análise financeira | Atlas Mercados
-description: METALFRIO SOLUTIONS S/A (FRIO3) teve receita líquida de R$ 2,4 bilhões e lucro líquido de R$ 21,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 274,7 milhões, margem EBITDA de 11,4% sobre a receita. O valor de mercado era de R$ 1,3 bilhão em 29/05/2026 (cotação da B3 × ações informadas à CVM), com P/L de 59,6 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: METALFRIO SOLUTIONS S/A (FRIO3) teve receita líquida de R$ 2,4 bilhões e lucro líquido de R$ 21,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 274,7 milhões, margem EBITDA de 11,4% sobre a receita. O valor de mercado era de R$ 1,3 bilhão em 29/05/2026 (cotação da B3 × ações informadas à CVM), com P/L de 59,6 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 29/05/2026, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/FRIO3
 ---
 <!-- https://atlasmercados.com.br/empresa/FRIO3 — versão Markdown da página -->
 
 ME
 
-METALFRIO SOLUTIONS S/A
+METALFRIO SOLUTIONS S/A sem pregão em 90 dias
 
-FRIO3 · CD_CVM 20613 · Máquinas, Equipamentos, Veículos e Peças · SP · DFP 16a · ITR 16a
+FRIO3 · CD_CVM 20613 · Máquinas, Equipamentos, Veículos e Peças · SP · DFP 16a · ITR 16a · último pregão 29/05/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/FRIO3?base=con) [Individual](https://atlasmercados.com.br/empresa/FRIO3?base=ind)
 
-> METALFRIO SOLUTIONS S/A (FRIO3) teve receita líquida de R$ 2,4 bilhões e lucro líquido de R$ 21,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 274,7 milhões, margem EBITDA de 11,4% sobre a receita. O valor de mercado era de R$ 1,3 bilhão em 29/05/2026 (cotação da B3 × ações informadas à CVM), com P/L de 59,6 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> METALFRIO SOLUTIONS S/A (FRIO3) teve receita líquida de R$ 2,4 bilhões e lucro líquido de R$ 21,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 274,7 milhões, margem EBITDA de 11,4% sobre a receita. O valor de mercado era de R$ 1,3 bilhão em 29/05/2026 (cotação da B3 × ações informadas à CVM), com P/L de 59,6 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 29/05/2026, segundo o COTAHIST).
 
 - Receita líq. · R$ 2,4 bi · 2025
 

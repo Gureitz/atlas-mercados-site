@@ -1,19 +1,19 @@
 ---
-title: GRUPO TOKY S.A. (TOKY3) — análise financeira | Atlas Mercados
-description: GRUPO TOKY S.A. (TOKY3) teve receita líquida de R$ 1,4 bilhão e prejuízo líquido de R$ 146,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 9,2 milhões em 12/05/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,04 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
+title: GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL (TOKY3) — análise financeira | Atlas Mercados
+description: GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL (TOKY3) teve receita líquida de R$ 1,4 bilhão e prejuízo líquido de R$ 146,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 206,5 milhões, margem EBITDA de 14,3% sobre a receita. O valor de mercado era de R$ 9,2 milhões em 12/05/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,04 sobre o último exercício. A série anual disponível vai de 2019 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 12/05/2026, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/TOKY3
 ---
 <!-- https://atlasmercados.com.br/empresa/TOKY3 — versão Markdown da página -->
 
 GR
 
-GRUPO TOKY S.A.
+GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
-TOKY3, MBLY12, MBLY3, TOKY12 · CD_CVM 25461 · Comércio (Atacado e Varejo) · SP · DFP 7a · ITR 7a
+TOKY3, MBLY12, MBLY3, TOKY12 · CD_CVM 25461 · Comércio (Atacado e Varejo) · SP · DFP 7a · ITR 7a · último pregão 12/05/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/TOKY3?base=con) [Individual](https://atlasmercados.com.br/empresa/TOKY3?base=ind)
 
-> GRUPO TOKY S.A. (TOKY3) teve receita líquida de R$ 1,4 bilhão e prejuízo líquido de R$ 146,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 9,2 milhões em 12/05/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,04 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
+> GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL (TOKY3) teve receita líquida de R$ 1,4 bilhão e prejuízo líquido de R$ 146,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 206,5 milhões, margem EBITDA de 14,3% sobre a receita. O valor de mercado era de R$ 9,2 milhões em 12/05/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,04 sobre o último exercício. A série anual disponível vai de 2019 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 12/05/2026, segundo o COTAHIST).
 
 - Receita líq. · R$ 1,4 bi · 2025
 
@@ -84,7 +84,7 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/VPA atual 0,2× mediana 0,6× faixa 0,2× – 2,1× abaixo da mediana
+P/VPA atual 0,2× mediana 0,6× faixa 0,2× – 3,3× abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 
@@ -92,6 +92,6 @@ Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a
 
 Como citar
 
-Atlas Mercados. GRUPO TOKY S.A. — demonstrações financeiras. https://atlasmercados.com.br/empresa/TOKY3. Dados: CVM Dados Abertos — DFP/ITR de GRUPO TOKY S.A. (CD_CVM 25461). Acesso em [data de acesso].
+Atlas Mercados. GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL — demonstrações financeiras. https://atlasmercados.com.br/empresa/TOKY3. Dados: CVM Dados Abertos — DFP/ITR de GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL (CD_CVM 25461). Acesso em [data de acesso].
 
 Identificador da série: cvm:25461 · Permalink: [https://atlasmercados.com.br/empresa/TOKY3](https://atlasmercados.com.br/empresa/TOKY3) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)

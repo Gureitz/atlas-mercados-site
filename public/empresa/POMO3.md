@@ -1,6 +1,6 @@
 ---
 title: MARCOPOLO SA (POMO3) — análise financeira | Atlas Mercados
-description: MARCOPOLO SA (POMO3) teve receita líquida de R$ 9,1 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,5 bilhão, margem EBITDA de 16,6% sobre a receita. O valor de mercado era de R$ 5,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,3 e P/VPA de 1,36 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: MARCOPOLO SA (POMO3) teve receita líquida de R$ 9,1 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,5 bilhão, margem EBITDA de 16,6% sobre a receita. O valor de mercado era de R$ 5,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,7 e P/VPA de 1,49 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/POMO3
 ---
 <!-- https://atlasmercados.com.br/empresa/POMO3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MA
 
 MARCOPOLO SA
 
-POMO3, POMO4 · CD_CVM 8451 · Máquinas, Equipamentos, Veículos e Peças · RS · DFP 16a · ITR 16a
+POMO3, POMO4 · CD_CVM 8451 · Máquinas, Equipamentos, Veículos e Peças · RS · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/POMO3?base=con) [Individual](https://atlasmercados.com.br/empresa/POMO3?base=ind)
 
-> MARCOPOLO SA (POMO3) teve receita líquida de R$ 9,1 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,5 bilhão, margem EBITDA de 16,6% sobre a receita. O valor de mercado era de R$ 5,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,3 e P/VPA de 1,36 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> MARCOPOLO SA (POMO3) teve receita líquida de R$ 9,1 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,5 bilhão, margem EBITDA de 16,6% sobre a receita. O valor de mercado era de R$ 5,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,7 e P/VPA de 1,49 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 9,1 bi · 2025
 
@@ -88,11 +88,11 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 4,1× mediana 8,5× faixa 4,1× – 103,7× abaixo da mediana
+P/L atual 4,8× mediana 8,5× faixa 4,1× – 103,7× abaixo da mediana
 
-P/VPA atual 1,2× mediana 1,3× faixa 0,7× – 2,4× abaixo da mediana
+P/VPA atual 1,3× mediana 1,3× faixa 0,7× – 2,4× acima da mediana
 
-Dividend Yield atual 27,6% mediana 3,8% faixa 1,5% – 27,6% acima da mediana
+Dividend Yield atual 24,5% mediana 3,8% faixa 1,5% – 27,8% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

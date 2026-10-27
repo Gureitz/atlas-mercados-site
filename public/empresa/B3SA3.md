@@ -1,6 +1,6 @@
 ---
 title: B3 S.A. - BRASIL, BOLSA, BALCÃO (B3SA3) — análise financeira | Atlas Mercados
-description: B3 S.A. - BRASIL, BOLSA, BALCÃO (B3SA3) teve receita líquida de R$ 11,1 bilhões e lucro líquido de R$ 4,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,0 bilhões, margem EBITDA de 63,2% sobre a receita. O valor de mercado era de R$ 95,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 20,9 e P/VPA de 5,49 sobre o último exercício. Em 2025, distribuiu R$ 3,0 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: B3 S.A. - BRASIL, BOLSA, BALCÃO (B3SA3) teve receita líquida de R$ 11,1 bilhões e lucro líquido de R$ 4,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,0 bilhões, margem EBITDA de 63,2% sobre a receita. O valor de mercado era de R$ 119,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 26,0 e P/VPA de 6,83 sobre o último exercício. Em 2025, distribuiu R$ 3,0 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/B3SA3
 ---
 <!-- https://atlasmercados.com.br/empresa/B3SA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ B3
 
 B3 S.A. - BRASIL, BOLSA, BALCÃO
 
-B3SA3, BVMF11, BVMF3 · CD_CVM 21610 · Bolsas de Valores/Mercadorias e Futuros · SP · DFP 16a · ITR 16a
+B3SA3, BVMF11, BVMF3 · CD_CVM 21610 · Bolsas de Valores/Mercadorias e Futuros · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/B3SA3?base=con) [Individual](https://atlasmercados.com.br/empresa/B3SA3?base=ind)
 
-> B3 S.A. - BRASIL, BOLSA, BALCÃO (B3SA3) teve receita líquida de R$ 11,1 bilhões e lucro líquido de R$ 4,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,0 bilhões, margem EBITDA de 63,2% sobre a receita. O valor de mercado era de R$ 95,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 20,9 e P/VPA de 5,49 sobre o último exercício. Em 2025, distribuiu R$ 3,0 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> B3 S.A. - BRASIL, BOLSA, BALCÃO (B3SA3) teve receita líquida de R$ 11,1 bilhões e lucro líquido de R$ 4,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,0 bilhões, margem EBITDA de 63,2% sobre a receita. O valor de mercado era de R$ 119,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 26,0 e P/VPA de 6,83 sobre o último exercício. Em 2025, distribuiu R$ 3,0 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 11,1 bi · 2025
 
@@ -99,11 +99,11 @@ DRE · DFP · consolidado · 2025 · 45 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 17,8× mediana 16,7× faixa 8,6× – 41,5× acima da mediana
+P/L atual 22,2× mediana 16,8× faixa 8,6× – 41,5× acima da mediana
 
-P/VPA atual 4,8× mediana 3,6× faixa 1,5× – 5,2× acima da mediana
+P/VPA atual 6,3× mediana 3,6× faixa 1,5× – 6,3× acima da mediana
 
-Dividend Yield atual 3,4% mediana 4,0% faixa 1,8% – 12,2% abaixo da mediana
+Dividend Yield atual 2,6% mediana 3,9% faixa 1,8% – 12,2% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

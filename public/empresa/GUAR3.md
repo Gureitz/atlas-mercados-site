@@ -1,6 +1,6 @@
 ---
 title: GUARARAPES CONFECÇÕES SA (GUAR3) — análise financeira | Atlas Mercados
-description: GUARARAPES CONFECÇÕES SA (GUAR3) teve receita líquida de R$ 10,5 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,9 bilhões, margem EBITDA de 27,3% sobre a receita. O valor de mercado era de R$ 5,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,5 e P/VPA de 0,95 sobre o último exercício. Em 2025, distribuiu R$ 1,5 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: GUARARAPES CONFECÇÕES SA (GUAR3) teve receita líquida de R$ 10,5 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,1 bilhões, margem EBITDA de 29,9% sobre a receita. O valor de mercado era de R$ 5,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,5 e P/VPA de 0,95 sobre o último exercício. Em 2025, distribuiu R$ 1,5 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/GUAR3
 ---
 <!-- https://atlasmercados.com.br/empresa/GUAR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ GU
 
 GUARARAPES CONFECÇÕES SA
 
-GUAR3, RIAA3, GUAR4 · CD_CVM 4669 · Têxtil e Vestuário · RN · DFP 16a · ITR 16a
+GUAR3, RIAA3, GUAR4 · CD_CVM 4669 · Têxtil e Vestuário · RN · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/GUAR3?base=con) [Individual](https://atlasmercados.com.br/empresa/GUAR3?base=ind)
 
-> GUARARAPES CONFECÇÕES SA (GUAR3) teve receita líquida de R$ 10,5 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,9 bilhões, margem EBITDA de 27,3% sobre a receita. O valor de mercado era de R$ 5,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,5 e P/VPA de 0,95 sobre o último exercício. Em 2025, distribuiu R$ 1,5 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> GUARARAPES CONFECÇÕES SA (GUAR3) teve receita líquida de R$ 10,5 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,1 bilhões, margem EBITDA de 29,9% sobre a receita. O valor de mercado era de R$ 5,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,5 e P/VPA de 0,95 sobre o último exercício. Em 2025, distribuiu R$ 1,5 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 10,5 bi · 2025
 
@@ -87,11 +87,11 @@ DRE · DFP · consolidado · 2025 · 33 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 2,3× mediana 13,5× faixa 2,3× – 177,1× abaixo da mediana
+P/L atual 3,8× mediana 12,9× faixa 2,3× – 177,1× abaixo da mediana
 
-P/VPA atual 0,7× mediana 0,8× faixa 0,4× – 2,1× abaixo da mediana
+P/VPA atual 1,1× mediana 0,8× faixa 0,4× – 2,1× acima da mediana
 
-Dividend Yield atual 44,7% mediana 3,3% faixa 1,1% – 44,7% acima da mediana
+Dividend Yield atual 26,7% mediana 3,3% faixa 1,1% – 43,8% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

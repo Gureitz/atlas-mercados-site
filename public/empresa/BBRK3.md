@@ -1,19 +1,19 @@
 ---
 title: NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (BBRK3) — análise financeira | Atlas Mercados
-description: NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (BBRK3) teve receita líquida de R$ 659.000 e lucro líquido de R$ 107,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+description: NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (BBRK3) teve receita líquida de R$ 659.000 e lucro líquido de R$ 107,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 119,2 milhões, margem EBITDA de 18083,3% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/BBRK3
 ---
 <!-- https://atlasmercados.com.br/empresa/BBRK3 — versão Markdown da página -->
 
 NE
 
-NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL
+NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
 BBRK3, NEXP3 · CD_CVM 21180 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · SP · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BBRK3?base=con) [Individual](https://atlasmercados.com.br/empresa/BBRK3?base=ind)
 
-> NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (BBRK3) teve receita líquida de R$ 659.000 e lucro líquido de R$ 107,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+> NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (BBRK3) teve receita líquida de R$ 659.000 e lucro líquido de R$ 107,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 119,2 milhões, margem EBITDA de 18083,3% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 659 mil · 2025
 

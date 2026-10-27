@@ -1,19 +1,19 @@
 ---
 title: MAGNESITA REFRATARIOS S.A. (MAGG3) — análise financeira | Atlas Mercados
-description: MAGNESITA REFRATARIOS S.A. (MAGG3) teve receita líquida de R$ 3,7 bilhões e prejuízo líquido de R$ 183,1 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2017, distribuiu R$ 49,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2017.
+description: MAGNESITA REFRATARIOS S.A. (MAGG3) teve receita líquida de R$ 3,7 bilhões e prejuízo líquido de R$ 183,1 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 217,8 milhões, margem EBITDA de 5,9% sobre a receita. Em 2017, distribuiu R$ 49,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2017. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/MAGG3
 ---
 <!-- https://atlasmercados.com.br/empresa/MAGG3 — versão Markdown da página -->
 
 MA
 
-MAGNESITA REFRATARIOS S.A.
+MAGNESITA REFRATARIOS S.A. registro cancelada na CVM sem pregão em 90 dias
 
 MAGG3 · CD_CVM 20842 · Emp. Adm. Part. - Extração Mineral · MG · DFP 8a · ITR 8a
 
 [Consolidado](https://atlasmercados.com.br/empresa/MAGG3?base=con) [Individual](https://atlasmercados.com.br/empresa/MAGG3?base=ind)
 
-> MAGNESITA REFRATARIOS S.A. (MAGG3) teve receita líquida de R$ 3,7 bilhões e prejuízo líquido de R$ 183,1 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2017, distribuiu R$ 49,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2017.
+> MAGNESITA REFRATARIOS S.A. (MAGG3) teve receita líquida de R$ 3,7 bilhões e prejuízo líquido de R$ 183,1 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 217,8 milhões, margem EBITDA de 5,9% sobre a receita. Em 2017, distribuiu R$ 49,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2017. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 3,7 bi · 2017
 

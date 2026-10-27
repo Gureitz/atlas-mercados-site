@@ -1,19 +1,19 @@
 ---
 title: MONTEIRO ARANHA SA (MOAR3) — análise financeira | Atlas Mercados
-description: MONTEIRO ARANHA SA (MOAR3) teve receita líquida de R$ 0 e lucro líquido de R$ 72,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 749,9 milhões em 29/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,3 e P/VPA de 0,55 sobre o último exercício. Em 2024, distribuiu R$ 235,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2024.
+description: MONTEIRO ARANHA SA (MOAR3) teve receita líquida de R$ 0 e lucro líquido de R$ 72,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 749,9 milhões em 29/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,3 e P/VPA de 0,55 sobre o último exercício. Em 2024, distribuiu R$ 235,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 29/01/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/MOAR3
 ---
 <!-- https://atlasmercados.com.br/empresa/MOAR3 — versão Markdown da página -->
 
 MO
 
-MONTEIRO ARANHA SA
+MONTEIRO ARANHA SA registro cancelada na CVM sem pregão em 90 dias
 
-MOAR3 · CD_CVM 8893 · Emp. Adm. Part. - Sem Setor Principal · RJ · DFP 15a · ITR 15a
+MOAR3 · CD_CVM 8893 · Emp. Adm. Part. - Sem Setor Principal · RJ · DFP 15a · ITR 15a · último pregão 29/01/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MOAR3?base=con) [Individual](https://atlasmercados.com.br/empresa/MOAR3?base=ind)
 
-> MONTEIRO ARANHA SA (MOAR3) teve receita líquida de R$ 0 e lucro líquido de R$ 72,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 749,9 milhões em 29/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,3 e P/VPA de 0,55 sobre o último exercício. Em 2024, distribuiu R$ 235,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2024.
+> MONTEIRO ARANHA SA (MOAR3) teve receita líquida de R$ 0 e lucro líquido de R$ 72,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 749,9 milhões em 29/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,3 e P/VPA de 0,55 sobre o último exercício. Em 2024, distribuiu R$ 235,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 29/01/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 0 · 2024
 

@@ -1,6 +1,6 @@
 ---
 title: BANCO DO BRASIL S.A. (BBAS3) — análise financeira | Atlas Mercados
-description: BANCO DO BRASIL S.A. (BBAS3) teve receitas da intermediação financeira de R$ 319,5 bilhões e lucro líquido de R$ 16,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 135,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 0,70 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: BANCO DO BRASIL S.A. (BBAS3) teve receitas da intermediação financeira de R$ 319,5 bilhões e lucro líquido de R$ 16,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 141,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,4 e P/VPA de 0,73 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/BBAS3
 ---
 <!-- https://atlasmercados.com.br/empresa/BBAS3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BA
 
 BANCO DO BRASIL S.A.
 
-BBAS3 · CD_CVM 1023 · Bancos · DF · DFP 16a · ITR 16a
+BBAS3 · CD_CVM 1023 · Bancos · DF · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BBAS3?base=con) [Individual](https://atlasmercados.com.br/empresa/BBAS3?base=ind)
 
-> BANCO DO BRASIL S.A. (BBAS3) teve receitas da intermediação financeira de R$ 319,5 bilhões e lucro líquido de R$ 16,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 135,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 0,70 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> BANCO DO BRASIL S.A. (BBAS3) teve receitas da intermediação financeira de R$ 319,5 bilhões e lucro líquido de R$ 16,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 141,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,4 e P/VPA de 0,73 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 319,5 bi · 2025
 
@@ -89,9 +89,9 @@ DRE · DFP · consolidado · 2025 · 35 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,8× mediana 4,9× faixa 2,3× – 9,7× acima da mediana
+P/L atual 9,2× mediana 4,9× faixa 2,3× – 9,7× acima da mediana
 
-P/VPA atual 23,5× mediana 27,3× faixa 0,6× – 35,8× abaixo da mediana
+P/VPA atual 30,1× mediana 27,4× faixa 0,6× – 35,8× acima da mediana
 
 Dividend Yield atual 8,5% mediana 7,8% faixa 6,3% – 8,7% acima da mediana
 

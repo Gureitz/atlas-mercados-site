@@ -11,7 +11,7 @@ AA
 
 ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A. Projeção
 
-Realizado até 3T2025 · projeção de 40 trimestres (10 anos), de 4T2025 a 3T2035
+Realizado até 4T2025 · projeção de 40 trimestres (10 anos), de 1T2026 a 4T2035
 
 [← Estrutura](https://atlasmercados.com.br/valuation/AALR3)
 

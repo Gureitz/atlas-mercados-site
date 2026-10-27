@@ -1,6 +1,6 @@
 ---
 title: LIGHT S.A. - EM RECUPERAÇÃO JUDICIAL (LIGT3) — análise financeira | Atlas Mercados
-description: LIGHT S.A. - EM RECUPERAÇÃO JUDICIAL (LIGT3) teve receita líquida de R$ 15,0 bilhões e lucro líquido de R$ 213,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 14,6% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,6 e P/VPA de 0,26 sobre o último exercício. Em 2024, distribuiu R$ 1,2 milhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: LIGHT S.A. - EM RECUPERAÇÃO JUDICIAL (LIGT3) teve receita líquida de R$ 15,0 bilhões e lucro líquido de R$ 213,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 14,6% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,4 e P/VPA de 0,25 sobre o último exercício. Em 2024, distribuiu R$ 1,2 milhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 872 MW de potência fiscalizada (SIGA, 01/10/2026) e a distribuidora controlada atendia 4,1 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/LIGT3
 ---
 <!-- https://atlasmercados.com.br/empresa/LIGT3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ LI
 
 LIGHT S.A. - EM RECUPERAÇÃO JUDICIAL
 
-LIGT3 · CD_CVM 19879 · Emp. Adm. Part. - Energia Elétrica · RJ · DFP 16a · ITR 16a
+LIGT3 · CD_CVM 19879 · Emp. Adm. Part. - Energia Elétrica · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/LIGT3?base=con) [Individual](https://atlasmercados.com.br/empresa/LIGT3?base=ind)
 
-> LIGHT S.A. - EM RECUPERAÇÃO JUDICIAL (LIGT3) teve receita líquida de R$ 15,0 bilhões e lucro líquido de R$ 213,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 14,6% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,6 e P/VPA de 0,26 sobre o último exercício. Em 2024, distribuiu R$ 1,2 milhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> LIGHT S.A. - EM RECUPERAÇÃO JUDICIAL (LIGT3) teve receita líquida de R$ 15,0 bilhões e lucro líquido de R$ 213,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 14,6% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,4 e P/VPA de 0,25 sobre o último exercício. Em 2024, distribuiu R$ 1,2 milhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 872 MW de potência fiscalizada (SIGA, 01/10/2026) e a distribuidora controlada atendia 4,1 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 15,0 bi · 2025
 
@@ -36,6 +36,34 @@ LIGT3 · CD_CVM 19879 · Emp. Adm. Part. - Energia Elétrica · RJ · DFP 16a ·
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 872 MW · 6 usinas ≥ 1 MW
+
+- Capacidade proporcional · 1.152 MW · inclui coligadas
+
+- Garantia física · 594 MWm · controladas
+
+- Consumidores · 4.103.251 · distribuidoras controladas
+
+- Energia faturada 12m · 22.317 GWh · TUSD · controladas
+
+| Distribuidora | Participação efetiva | Consumidores | Energia 12m | Mês |
+|---|---|---|---|---|
+| LIGHT SESA LIGHT SERVICOS DE ELETRICIDADE S A | 100,0% | 4.103.251 | 22.317 GWh | 08/2026 |
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Nilo Peçanha | Hídrica | RJ | 380 MW | 100,0% | 380 |
+| Belo Monte coligada | Hídrica | PA | 11.233 MW | 2,5% | 280 |
+| Ilha dos Pombos | Hídrica | RJ | 187 MW | 100,0% | 187 |
+| Fontes Nova | Hídrica | RJ | 132 MW | 100,0% | 132 |
+| Pereira Passos | Hídrica | RJ | 100 MW | 100,0% | 100 |
+| Santa Branca | Hídrica | SP | 56 MW | 100,0% | 56 |
+| Lajes (Fontes Velha) | Hídrica | RJ | 17 MW | 100,0% | 17 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -84,9 +112,9 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 0,5× mediana 6,0× faixa 0,5× – 11,2× abaixo da mediana
+P/L atual 0,6× mediana 6,0× faixa 0,5× – 11,2× abaixo da mediana
 
-P/VPA atual 0,2× mediana 0,5× faixa 0,1× – 1,1× abaixo da mediana
+P/VPA atual 0,1× mediana 0,5× faixa 0,1× – 1,1× abaixo da mediana
 
 Dividend Yield atual 0,1% mediana 4,5% faixa 0,1% – 10,4% abaixo da mediana
 

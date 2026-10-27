@@ -1,6 +1,6 @@
 ---
 title: ENERGISA SA (ENGI11) — análise financeira | Atlas Mercados
-description: ENERGISA SA (ENGI11) teve receita líquida de R$ 35,4 bilhões e lucro líquido de R$ 3,1 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 29,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,2 e P/VPA de 1,37 sobre o último exercício. Em 2025, distribuiu R$ 841,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: ENERGISA SA (ENGI11) teve receita líquida de R$ 35,4 bilhões e lucro líquido de R$ 3,1 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 8,9 bilhões, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 33,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,7 e P/VPA de 1,59 sobre o último exercício. Em 2025, distribuiu R$ 841,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 129 MW de potência fiscalizada (SIGA, 01/10/2026) e as 9 distribuidoras controladas atendiam 9,1 milhões de consumidores no último mês completo de cada uma (SAMP, 08/2026 a 09/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/ENGI11
 ---
 <!-- https://atlasmercados.com.br/empresa/ENGI11 — versão Markdown da página -->
@@ -9,11 +9,11 @@ EN
 
 ENERGISA SA
 
-ENGI11, ENGI3, ENGI4 · CD_CVM 15253 · Emp. Adm. Part. - Energia Elétrica · MG · DFP 16a · ITR 16a
+ENGI11, ENGI3, ENGI4 · CD_CVM 15253 · Emp. Adm. Part. - Energia Elétrica · MG · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ENGI11?base=con) [Individual](https://atlasmercados.com.br/empresa/ENGI11?base=ind)
 
-> ENERGISA SA (ENGI11) teve receita líquida de R$ 35,4 bilhões e lucro líquido de R$ 3,1 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 29,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,2 e P/VPA de 1,37 sobre o último exercício. Em 2025, distribuiu R$ 841,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> ENERGISA SA (ENGI11) teve receita líquida de R$ 35,4 bilhões e lucro líquido de R$ 3,1 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 8,9 bilhões, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 33,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,7 e P/VPA de 1,59 sobre o último exercício. Em 2025, distribuiu R$ 841,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 129 MW de potência fiscalizada (SIGA, 01/10/2026) e as 9 distribuidoras controladas atendiam 9,1 milhões de consumidores no último mês completo de cada uma (SAMP, 08/2026 a 09/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 35,4 bi · 2025
 
@@ -36,6 +36,42 @@ ENGI11, ENGI3, ENGI4 · CD_CVM 15253 · Emp. Adm. Part. - Energia Elétrica · M
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 129 MW · 7 usinas ≥ 1 MW
+
+- Capacidade proporcional · 127 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · 9.108.776 · distribuidoras controladas
+
+- Energia faturada 12m · 37.080 GWh · TUSD · controladas
+
+| Distribuidora | Participação efetiva | Consumidores | Energia 12m | Mês |
+|---|---|---|---|---|
+| EPB ENERGISA PARAIBA - DISTRIBUIDORA DE ENER | 76,4% | 1.949.879 | 5.872 GWh | 08/2026 |
+| EMT ENERGISA MATO GROSSO - DISTRIBUIDORA DE | 65,5% | 1.744.457 | 9.295 GWh | 09/2026 |
+| EMS ENERGISA MATO GROSSO DO SUL - DISTRIBUID | 67,0% | 1.180.475 | 5.135 GWh | 08/2026 |
+| ESE ENERGISA SERGIPE - DISTRIBUIDORA DE ENER | 100,0% | 932.196 | 3.187 GWh | 08/2026 |
+| ESS ENERGISA SUL-SUDESTE - DISTRIBUIDORA DE | 66,5% | 908.310 | 4.394 GWh | 08/2026 |
+| ERO ENERGISA RONDONIA - DISTRIBUIDORA DE ENE | 99,5% | 743.002 | 3.512 GWh | 09/2026 |
+| ETO ENERGISA TOCANTINS DISTRIBUIDORA DE ENER | 51,4% | 711.236 | 2.733 GWh | 08/2026 |
+| EMR ENERGISA MINAS RIO - DISTRIBUIDORA DE EN | 100,0% | 624.138 | 1.777 GWh | 08/2026 |
+| EAC ENERGISA ACRE - DISTRIBUIDORA DE ENERGIA | 99,8% | 315.083 | 1.174 GWh | 09/2026 |
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Rio do Peixe I | Solar | PB | 34 MW | 100,0% | 34 |
+| Rio do Peixe II | Solar | PB | 34 MW | 100,0% | 34 |
+| Vilhena | Fóssil | RO | 24 MW | 99,5% | 24 |
+| Pimenta Bueno | Fóssil | RO | 13 MW | 99,5% | 13 |
+| Colorado do Oeste | Fóssil | RO | 11 MW | 99,5% | 11 |
+| Nova Mamoré | Fóssil | RO | 3 MW | 99,5% | 3 |
+| Rio Vermelho | Hídrica | RO | 3 MW | 100,0% | 3 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -85,11 +121,11 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 10,0× mediana 8,2× faixa 4,8× – 35,2× acima da mediana
+P/L atual 15,6× mediana 8,2× faixa 4,8× – 35,2× acima da mediana
 
-P/VPA atual 1,2× mediana 1,6× faixa 0,9× – 3,2× abaixo da mediana
+P/VPA atual 1,5× mediana 1,6× faixa 0,9× – 3,2× abaixo da mediana
 
-Dividend Yield atual 3,1% mediana 3,3% faixa 0,7% – 6,1% abaixo da mediana
+Dividend Yield atual 2,5% mediana 3,3% faixa 0,7% – 6,1% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

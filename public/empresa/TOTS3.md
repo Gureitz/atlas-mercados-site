@@ -1,6 +1,6 @@
 ---
 title: TOTVS S.A (TOTS3) — análise financeira | Atlas Mercados
-description: TOTVS S.A (TOTS3) teve receita líquida de R$ 5,8 bilhões e lucro líquido de R$ 920,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,5 bilhão, margem EBITDA de 25,4% sobre a receita. O valor de mercado era de R$ 21,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 23,0 e P/VPA de 3,89 sobre o último exercício. Em 2025, distribuiu R$ 358,2 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: TOTVS S.A (TOTS3) teve receita líquida de R$ 5,8 bilhões e lucro líquido de R$ 920,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,5 bilhão, margem EBITDA de 25,4% sobre a receita. O valor de mercado era de R$ 26,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,9 e P/VPA de 4,88 sobre o último exercício. Em 2025, distribuiu R$ 358,2 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/TOTS3
 ---
 <!-- https://atlasmercados.com.br/empresa/TOTS3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ TO
 
 TOTVS S.A
 
-TOTS3 · CD_CVM 19992 · Comunicação e Informática · SP · DFP 16a · ITR 16a
+TOTS3 · CD_CVM 19992 · Comunicação e Informática · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/TOTS3?base=con) [Individual](https://atlasmercados.com.br/empresa/TOTS3?base=ind)
 
-> TOTVS S.A (TOTS3) teve receita líquida de R$ 5,8 bilhões e lucro líquido de R$ 920,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,5 bilhão, margem EBITDA de 25,4% sobre a receita. O valor de mercado era de R$ 21,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 23,0 e P/VPA de 3,89 sobre o último exercício. Em 2025, distribuiu R$ 358,2 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> TOTVS S.A (TOTS3) teve receita líquida de R$ 5,8 bilhões e lucro líquido de R$ 920,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,5 bilhão, margem EBITDA de 25,4% sobre a receita. O valor de mercado era de R$ 26,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,9 e P/VPA de 4,88 sobre o último exercício. Em 2025, distribuiu R$ 358,2 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 5,8 bi · 2025
 
@@ -93,11 +93,11 @@ DRE · DFP · consolidado · 2025 · 39 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 20,5× mediana 33,6× faixa 17,9× – 77,2× abaixo da mediana
+P/L atual 17,6× mediana 33,5× faixa 17,6× – 77,2× abaixo da mediana
 
-P/VPA atual 3,7× mediana 4,0× faixa 1,5× – 8,3× abaixo da mediana
+P/VPA atual 4,7× mediana 4,0× faixa 1,5× – 8,3× acima da mediana
 
-Dividend Yield atual 1,8% mediana 1,1% faixa 0,4% – 2,2% acima da mediana
+Dividend Yield atual 1,4% mediana 1,1% faixa 0,4% – 2,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,6 +1,6 @@
 ---
 title: COMPANHIA BRASILEIRA DE ALUMINIO (CBAV3) — análise financeira | Atlas Mercados
-description: COMPANHIA BRASILEIRA DE ALUMINIO (CBAV3) teve receita líquida de R$ 8,8 bilhões e lucro líquido de R$ 229,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 15,2% sobre a receita. O valor de mercado era de R$ 7,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 31,8 e P/VPA de 1,62 sobre o último exercício. Em 2025, distribuiu R$ 28,7 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+description: COMPANHIA BRASILEIRA DE ALUMINIO (CBAV3) teve receita líquida de R$ 8,8 bilhões e lucro líquido de R$ 229,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 15,2% sobre a receita. O valor de mercado era de R$ 7,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 31,8 e P/VPA de 1,62 sobre o último exercício. Em 2025, distribuiu R$ 28,7 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,2 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/CBAV3
 ---
 <!-- https://atlasmercados.com.br/empresa/CBAV3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CO
 
 COMPANHIA BRASILEIRA DE ALUMINIO
 
-CBAV3 · CD_CVM 25984 · Extração Mineral · SP · DFP 6a · ITR 6a
+CBAV3 · CD_CVM 25984 · Extração Mineral · SP · DFP 6a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CBAV3?base=con) [Individual](https://atlasmercados.com.br/empresa/CBAV3?base=ind)
 
-> COMPANHIA BRASILEIRA DE ALUMINIO (CBAV3) teve receita líquida de R$ 8,8 bilhões e lucro líquido de R$ 229,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 15,2% sobre a receita. O valor de mercado era de R$ 7,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 31,8 e P/VPA de 1,62 sobre o último exercício. Em 2025, distribuiu R$ 28,7 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+> COMPANHIA BRASILEIRA DE ALUMINIO (CBAV3) teve receita líquida de R$ 8,8 bilhões e lucro líquido de R$ 229,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 15,2% sobre a receita. O valor de mercado era de R$ 7,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 31,8 e P/VPA de 1,62 sobre o último exercício. Em 2025, distribuiu R$ 28,7 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,2 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 8,8 bi · 2025
 
@@ -36,6 +36,40 @@ CBAV3 · CD_CVM 25984 · Extração Mineral · SP · DFP 6a · ITR 6a
 ## Lucro líquido — por exercício (DFP, R$)
 
 202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 1.158 MW · 19 usinas ≥ 1 MW
+
+- Capacidade proporcional · 1.319 MW · inclui coligadas
+
+- Garantia física · 421 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Machadinho | Hídrica | SC | 1.140 MW | 29,2% | 333 |
+| Salto Pilão | Hídrica | SC | 192 MW | 60,0% | 115 |
+| Salto do Rio Verdinho | Hídrica | GO | 93 MW | 100,0% | 93 |
+| Campos Novos coligada | Hídrica | SC | 880 MW | 8,5% | 75 |
+| Alecrim | Hídrica | SP | 72 MW | 100,0% | 72 |
+| Pirajú | Hídrica | SP | 70 MW | 100,0% | 70 |
+| Sobragi | Hídrica | MG | 60 MW | 100,0% | 60 |
+| Itupararanga | Hídrica | SP | 55 MW | 100,0% | 55 |
+| Ourinhos | Hídrica | SP | 44 MW | 100,0% | 44 |
+| Canoas I | Hídrica | SP | 82 MW | 50,3% | 41 |
+| Barra | Hídrica | SP | 40 MW | 100,0% | 40 |
+| Salto do Iporanga | Hídrica | SP | 37 MW | 100,0% | 37 |
+| Fumaça | Hídrica | SP | 36 MW | 100,0% | 36 |
+| Canoas II | Hídrica | SP | 72 MW | 50,3% | 36 |
+| CNT | Fóssil | GO | 36 MW | 100,0% | 36 |
+
+15 de 25 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -89,11 +123,11 @@ DRE · DFP · consolidado · 2025 · 35 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 30,7× mediana 8,0× faixa 2,5× – 30,9× acima da mediana
+P/L atual 10,2× mediana 8,1× faixa 2,5× – 30,9× acima da mediana
 
-P/VPA atual 1,5× mediana 0,8× faixa 0,4× – 2,2× acima da mediana
+P/VPA atual 1,4× mediana 0,8× faixa 0,4× – 2,2× acima da mediana
 
-Dividend Yield atual 0,4% mediana 3,7% faixa 0,4% – 7,6% abaixo da mediana
+Dividend Yield atual 0,4% mediana 2,5% faixa 0,4% – 7,6% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

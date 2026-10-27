@@ -1,6 +1,6 @@
 ---
 title: BRASKEM S.A. (BRKM3) — análise financeira | Atlas Mercados
-description: BRASKEM S.A. (BRKM3) teve receita líquida de R$ 70,7 bilhões e prejuízo líquido de R$ 11,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,9 bilhões, margem EBITDA de 4,1% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 24/08/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
+description: BRASKEM S.A. (BRKM3) teve receita líquida de R$ 70,7 bilhões e prejuízo líquido de R$ 11,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,9 bilhões, margem EBITDA de 4,1% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 24/08/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 235 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/BRKM3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRKM3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BR
 
 BRASKEM S.A.
 
-BRKM3, BRKM5, BRKM6 · CD_CVM 4820 · Petroquímicos e Borracha · BA · DFP 16a · ITR 16a
+BRKM3, BRKM5, BRKM6 · CD_CVM 4820 · Petroquímicos e Borracha · BA · DFP 16a · ITR 16a · último pregão 24/08/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRKM3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRKM3?base=ind)
 
-> BRASKEM S.A. (BRKM3) teve receita líquida de R$ 70,7 bilhões e prejuízo líquido de R$ 11,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,9 bilhões, margem EBITDA de 4,1% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 24/08/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
+> BRASKEM S.A. (BRKM3) teve receita líquida de R$ 70,7 bilhões e prejuízo líquido de R$ 11,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,9 bilhões, margem EBITDA de 4,1% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 24/08/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 235 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 70,7 bi · 2025
 
@@ -36,6 +36,40 @@ BRKM3, BRKM5, BRKM6 · CD_CVM 4820 · Petroquímicos e Borracha · BA · DFP 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 235 MW · 5 usinas ≥ 1 MW
+
+- Capacidade proporcional · 576 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Camaçari | Fóssil | BA | 131 MW | 100,0% | 131 |
+| Copesul | Fóssil | RS | 74 MW | 100,0% | 74 |
+| Ventos de Santa Martina 09 coligada | Eólica | RN | 63 MW | 40,6% | 26 |
+| Ventos de Santa Martina 01 coligada | Eólica | RN | 63 MW | 39,7% | 25 |
+| Ventos de São Januário 23 coligada | Eólica | RN | 59 MW | 41,4% | 24 |
+| Ventos de Santa Luzia 12 coligada | Eólica | RN | 54 MW | 41,2% | 22 |
+| Serra das Almas II coligada | Eólica | BA | 45 MW | 49,0% | 22 |
+| Serra das Almas VI coligada | Eólica | BA | 45 MW | 49,0% | 22 |
+| Serra das Almas IV coligada | Eólica | BA | 45 MW | 49,0% | 22 |
+| Serra das Almas V coligada | Eólica | BA | 45 MW | 49,0% | 22 |
+| Ventos de São Januário 13 coligada | Eólica | BA | 42 MW | 49,9% | 21 |
+| Ventos de São Januário 14 coligada | Eólica | BA | 42 MW | 49,9% | 21 |
+| Serra das Almas I coligada | Eólica | BA | 40 MW | 49,0% | 20 |
+| Serra das Almas III coligada | Eólica | BA | 40 MW | 49,0% | 20 |
+| Capuava | Fóssil | SP | 18 MW | 100,0% | 18 |
+
+15 de 23 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 

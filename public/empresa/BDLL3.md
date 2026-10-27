@@ -1,19 +1,19 @@
 ---
 title: BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL (BDLL3) — análise financeira | Atlas Mercados
-description: BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL (BDLL3) teve receita líquida de R$ 48,1 milhões e prejuízo líquido de R$ 20,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 26,5 milhões, margem EBITDA de -55,0% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL (BDLL3) teve receita líquida de R$ 48,1 milhões e prejuízo líquido de R$ 20,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 26,5 milhões, margem EBITDA de -55,0% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/BDLL3
 ---
 <!-- https://atlasmercados.com.br/empresa/BDLL3 — versão Markdown da página -->
 
 BA
 
-BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL
+BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
 BDLL3, BDLL4 · CD_CVM 1520 · Máquinas, Equipamentos, Veículos e Peças · SP · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BDLL3?base=con) [Individual](https://atlasmercados.com.br/empresa/BDLL3?base=ind)
 
-> BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL (BDLL3) teve receita líquida de R$ 48,1 milhões e prejuízo líquido de R$ 20,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 26,5 milhões, margem EBITDA de -55,0% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL (BDLL3) teve receita líquida de R$ 48,1 milhões e prejuízo líquido de R$ 20,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 26,5 milhões, margem EBITDA de -55,0% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 48,1 mi · 2025
 

@@ -1,6 +1,6 @@
 ---
 title: COMPANHIA PARANAENSE DE ENERGIA COPEL (CPLE3) — análise financeira | Atlas Mercados
-description: COMPANHIA PARANAENSE DE ENERGIA COPEL (CPLE3) teve receita líquida de R$ 26,1 bilhões e lucro líquido de R$ 2,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 49,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,4 e P/VPA de 2,15 sobre o último exercício. Em 2025, distribuiu R$ 3,7 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: COMPANHIA PARANAENSE DE ENERGIA COPEL (CPLE3) teve receita líquida de R$ 26,1 bilhões e lucro líquido de R$ 2,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 51,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,2 e P/VPA de 2,24 sobre o último exercício. Em 2025, distribuiu R$ 3,7 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 6,1 GW de potência fiscalizada (SIGA, 01/10/2026) e a distribuidora controlada atendia 5,4 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/CPLE3
 ---
 <!-- https://atlasmercados.com.br/empresa/CPLE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CO
 
 COMPANHIA PARANAENSE DE ENERGIA COPEL
 
-CPLE3, CPLE5, CPLE6 · CD_CVM 14311 · Energia Elétrica · PR · DFP 16a · ITR 16a
+CPLE3, CPLE5, CPLE6 · CD_CVM 14311 · Energia Elétrica · PR · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CPLE3?base=con) [Individual](https://atlasmercados.com.br/empresa/CPLE3?base=ind)
 
-> COMPANHIA PARANAENSE DE ENERGIA COPEL (CPLE3) teve receita líquida de R$ 26,1 bilhões e lucro líquido de R$ 2,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 49,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,4 e P/VPA de 2,15 sobre o último exercício. Em 2025, distribuiu R$ 3,7 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> COMPANHIA PARANAENSE DE ENERGIA COPEL (CPLE3) teve receita líquida de R$ 26,1 bilhões e lucro líquido de R$ 2,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 51,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,2 e P/VPA de 2,24 sobre o último exercício. Em 2025, distribuiu R$ 3,7 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 6,1 GW de potência fiscalizada (SIGA, 01/10/2026) e a distribuidora controlada atendia 5,4 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 26,1 bi · 2025
 
@@ -36,6 +36,44 @@ CPLE3, CPLE5, CPLE6 · CD_CVM 14311 · Energia Elétrica · PR · DFP 16a · ITR
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 6.068 MW · 50 usinas ≥ 1 MW
+
+- Capacidade proporcional · 6.156 MW · inclui coligadas
+
+- Garantia física · 2.614 MWm · controladas
+
+- Consumidores · 5.379.521 · distribuidoras controladas
+
+- Energia faturada 12m · 30.700 GWh · TUSD · controladas
+
+| Distribuidora | Participação efetiva | Consumidores | Energia 12m | Mês |
+|---|---|---|---|---|
+| COPEL-DIS COPEL DISTRIBUIÇÃO S.A. | 100,0% | 5.379.521 | 30.700 GWh | 08/2026 |
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Governador Bento Munhoz da Rocha Netto (Foz do Areia) | Hídrica | PR | 1.676 MW | 100,0% | 1.676 |
+| Governador Ney Aminthas de Barros Braga (Segredo) | Hídrica | PR | 1.260 MW | 100,0% | 1.260 |
+| Governador José Richa (Salto Caxias) | Hídrica | PR | 1.240 MW | 100,0% | 1.240 |
+| Governador Jayme Canet Junior (Antiga MAUÁ) | Hídrica | PR | 363 MW | 100,0% | 363 |
+| Governador Pedro Viriato Parigot de Souza (Capivari/Cachoeira) | Hídrica | PR | 260 MW | 100,0% | 260 |
+| Baixo Iguaçu | Hídrica | PR | 350 MW | 30,0% | 105 |
+| Ventos de Vila Mato Grosso I (Antiga Vila Alagoas III) | Eólica | RN | 59 MW | 100,0% | 59 |
+| Santa Rosa e Mundo Novo I | Eólica | RN | 34 MW | 100,0% | 34 |
+| Santa Rosa e Mundo Novo III | Eólica | RN | 34 MW | 100,0% | 34 |
+| Santa Rosa e Mundo Novo IV | Eólica | RN | 34 MW | 100,0% | 34 |
+| Vila Ceará I | Eólica | RN | 32 MW | 100,0% | 32 |
+| Vila Maranhão I | Eólica | RN | 32 MW | 100,0% | 32 |
+| Vila Maranhão II | Eólica | RN | 32 MW | 100,0% | 32 |
+| Vila Maranhão III | Eólica | RN | 32 MW | 100,0% | 32 |
+| Dreen São Bento do Norte | Eólica | RN | 30 MW | 100,0% | 30 |
+
+15 de 56 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -88,11 +126,11 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 17,1× mediana 15,6× faixa 4,1× – 59,7× acima da mediana
+P/L atual 16,1× mediana 15,6× faixa 4,1× – 59,7× acima da mediana
 
-P/VPA atual 2,0× mediana 1,9× faixa 0,8× – 10,1× acima da mediana
+P/VPA atual 2,1× mediana 1,9× faixa 0,8× – 10,1× acima da mediana
 
-Dividend Yield atual 7,9% mediana 3,7% faixa 0,3% – 8,6% acima da mediana
+Dividend Yield atual 7,2% mediana 3,8% faixa 0,3% – 8,6% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

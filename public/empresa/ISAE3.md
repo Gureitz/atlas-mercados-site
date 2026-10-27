@@ -1,6 +1,6 @@
 ---
 title: ISA ENERGIA BRASIL S.A. (ISAE3) — análise financeira | Atlas Mercados
-description: ISA ENERGIA BRASIL S.A. (ISAE3) teve receita líquida de R$ 9,4 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,2 bilhões, margem EBITDA de 44,3% sobre a receita. O valor de mercado era de R$ 19,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,9 e P/VPA de 0,93 sobre o último exercício. Em 2025, distribuiu R$ 940,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: ISA ENERGIA BRASIL S.A. (ISAE3) teve receita líquida de R$ 9,4 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,2 bilhões, margem EBITDA de 44,3% sobre a receita. O valor de mercado era de R$ 20,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,3 e P/VPA de 0,97 sobre o último exercício. Em 2025, distribuiu R$ 940,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/ISAE3
 ---
 <!-- https://atlasmercados.com.br/empresa/ISAE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ IS
 
 ISA ENERGIA BRASIL S.A.
 
-ISAE3, ISAE4, TRPL3, TRPL4 · CD_CVM 18376 · Energia Elétrica · SP · DFP 16a · ITR 16a
+ISAE3, ISAE4, TRPL3, TRPL4 · CD_CVM 18376 · Energia Elétrica · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ISAE3?base=con) [Individual](https://atlasmercados.com.br/empresa/ISAE3?base=ind)
 
-> ISA ENERGIA BRASIL S.A. (ISAE3) teve receita líquida de R$ 9,4 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,2 bilhões, margem EBITDA de 44,3% sobre a receita. O valor de mercado era de R$ 19,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,9 e P/VPA de 0,93 sobre o último exercício. Em 2025, distribuiu R$ 940,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> ISA ENERGIA BRASIL S.A. (ISAE3) teve receita líquida de R$ 9,4 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,2 bilhões, margem EBITDA de 44,3% sobre a receita. O valor de mercado era de R$ 20,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,3 e P/VPA de 0,97 sobre o último exercício. Em 2025, distribuiu R$ 940,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 9,4 bi · 2025
 
@@ -97,11 +97,11 @@ DRE · DFP · consolidado · 2025 · 43 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,0× mediana 6,5× faixa 4,6× – 8,7× acima da mediana
+P/L atual 7,2× mediana 6,5× faixa 4,6× – 8,7× acima da mediana
 
 P/VPA atual 0,9× mediana 1,0× faixa 0,8× – 1,4× abaixo da mediana
 
-Dividend Yield atual 4,9% mediana 6,7% faixa 3,5% – 15,4% abaixo da mediana
+Dividend Yield atual 4,5% mediana 6,6% faixa 3,5% – 15,4% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

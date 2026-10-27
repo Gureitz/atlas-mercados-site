@@ -1,19 +1,19 @@
 ---
 title: CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO (CIEL3) — análise financeira | Atlas Mercados
-description: CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO (CIEL3) teve receitas da intermediação financeira de R$ 10,9 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2024, distribuiu R$ 4,2 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO (CIEL3) teve receitas da intermediação financeira de R$ 10,9 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2024, distribuiu R$ 4,2 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/CIEL3
 ---
 <!-- https://atlasmercados.com.br/empresa/CIEL3 — versão Markdown da página -->
 
 CI
 
-CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO
+CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO sem pregão em 90 dias
 
 CIEL3 · CD_CVM 21733 · Intermediação Financeira · SP · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CIEL3?base=con) [Individual](https://atlasmercados.com.br/empresa/CIEL3?base=ind)
 
-> CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO (CIEL3) teve receitas da intermediação financeira de R$ 10,9 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2024, distribuiu R$ 4,2 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO (CIEL3) teve receitas da intermediação financeira de R$ 10,9 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2024, distribuiu R$ 4,2 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 10,9 bi · 2025
 

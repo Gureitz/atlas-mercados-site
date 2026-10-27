@@ -1,6 +1,6 @@
 ---
 title: BANCO SANTANDER (BRASIL) S.A. (SANB11) — análise financeira | Atlas Mercados
-description: BANCO SANTANDER (BRASIL) S.A. (SANB11) teve receitas da intermediação financeira de R$ 162,5 bilhões e lucro líquido de R$ 13,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 105,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 0,83 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: BANCO SANTANDER (BRASIL) S.A. (SANB11) teve receitas da intermediação financeira de R$ 162,5 bilhões e lucro líquido de R$ 13,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 103,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 0,82 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 12 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/SANB11
 ---
 <!-- https://atlasmercados.com.br/empresa/SANB11 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BA
 
 BANCO SANTANDER (BRASIL) S.A.
 
-SANB11, SANB3, SANB4 · CD_CVM 20532 · Bancos · SP · DFP 16a · ITR 16a
+SANB11, SANB3, SANB4 · CD_CVM 20532 · Bancos · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SANB11?base=con) [Individual](https://atlasmercados.com.br/empresa/SANB11?base=ind)
 
-> BANCO SANTANDER (BRASIL) S.A. (SANB11) teve receitas da intermediação financeira de R$ 162,5 bilhões e lucro líquido de R$ 13,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 105,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 0,83 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> BANCO SANTANDER (BRASIL) S.A. (SANB11) teve receitas da intermediação financeira de R$ 162,5 bilhões e lucro líquido de R$ 13,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 103,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 0,82 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 12 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 162,5 bi · 2025
 
@@ -36,6 +36,25 @@ SANB11, SANB3, SANB4 · CD_CVM 20532 · Bancos · SP · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 12 MW · 2 usinas ≥ 1 MW
+
+- Capacidade proporcional · 12 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Torre Santander | Fóssil | SP | 9 MW | 100,0% | 9 |
+| Banco Santander Brasil | Fóssil | SP | 2 MW | 100,0% | 2 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -94,9 +113,9 @@ DRE · DFP · consolidado · 2025 · 40 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,4× mediana 8,3× faixa 5,5× – 12,3× acima da mediana
+P/L atual 7,1× mediana 8,2× faixa 5,5× – 12,3× abaixo da mediana
 
-P/VPA atual 0,9× mediana 1,0× faixa 0,8× – 1,7× abaixo da mediana
+P/VPA atual 0,8× mediana 1,0× faixa 0,8× – 1,7× abaixo da mediana
 
 Dividend Yield atual 13,4% mediana 10,3% faixa 2,5% – 13,8% acima da mediana
 

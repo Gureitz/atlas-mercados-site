@@ -1,15 +1,15 @@
 ---
 title: Dados para download — Parquet e CSV com proveniência — Atlas Mercados
-description: 23 conjuntos de dados oficiais da economia e dos mercados do Brasil, com 3.390.531 linhas no total, em Parquet e CSV: PIB trimestral, pesquisas anuais de comércio, serviços, indústria e construção, produção agrícola e pecuária, Pesquisa Mensal de Comércio, CEMPRE, Contas Regionais e população do IBGE, séries e expectativas de mercado (Focus) do Banco Central e o catálogo de proveniência.
+description: 26 conjuntos de dados oficiais da economia e dos mercados do Brasil, com 4.503.548 linhas no total, em Parquet e CSV: PIB trimestral, pesquisas anuais de comércio, serviços, indústria e construção, produção agrícola e pecuária, Pesquisa Mensal de Comércio, CEMPRE, Contas Regionais e população do IBGE, séries e expectativas de mercado (Focus) do Banco Central e o catálogo de proveniência.
 url: https://atlasmercados.com.br/dados
 ---
 <!-- https://atlasmercados.com.br/dados — versão Markdown da página -->
 
 # Dados para download
 
-23 conjuntos · Parquet e CSV · IBGE e Banco Central · licença [CC BY 4.0](https://atlasmercados.com.br/licenca) na compilação
+26 conjuntos · Parquet e CSV · IBGE e Banco Central · licença [CC BY 4.0](https://atlasmercados.com.br/licenca) na compilação
 
-> 23 conjuntos de dados oficiais da economia e dos mercados do Brasil, com 3.390.531 linhas no total, em Parquet e CSV: PIB trimestral, pesquisas anuais de comércio, serviços, indústria e construção, produção agrícola e pecuária, Pesquisa Mensal de Comércio, CEMPRE, Contas Regionais e população do IBGE, séries e expectativas de mercado (Focus) do Banco Central e o catálogo de proveniência.
+> 26 conjuntos de dados oficiais da economia e dos mercados do Brasil, com 4.503.548 linhas no total, em Parquet e CSV: PIB trimestral, pesquisas anuais de comércio, serviços, indústria e construção, produção agrícola e pecuária, Pesquisa Mensal de Comércio, CEMPRE, Contas Regionais e população do IBGE, séries e expectativas de mercado (Focus) do Banco Central e o catálogo de proveniência.
 
 | Conjunto | Fonte | Período | Linhas | Tipo | Coletado em | Arquivos |
 |---|---|---|---|---|---|---|
@@ -34,8 +34,11 @@ url: https://atlasmercados.com.br/dados
 | Empresas e emprego por município × seção e divisão CNAE (CEMPRE)cempre_municipios | IBGE | 2024–2024 | 1.030.022 | bruto | 2026-10-20 | parquet · csv.gz |
 | Emprego formal por UF × seção e divisão CNAE (CEMPRE)cempre_uf | IBGE | 2022–2024 | 36.624 | bruto | 2026-10-20 | parquet · csv |
 | Comércio exterior do Brasil — exportações e importações por UF, produto (SH4), país e mêscomex_mdic | MDIC/SECEX | 2015–2026-09 | 350.607 | bruto | 2026-10-18 | parquet · csv.gz |
+| Usinas de geração de energia elétrica e seus proprietários (ANEEL, SIGA)aneel_siga | IBGE | 2026-10-01–2026-10-01 | 25.624 | bruto | 2026-10-27 | parquet · csv |
+| Mercado das distribuidoras de energia — consumidores, energia e receitas por mês (ANEEL, SAMP)aneel_samp | IBGE | 2024-01-01–2026-09-01 | 1.079.868 | bruto | 2026-10-26 | parquet · csv.gz |
+| Composição societária dos agentes do setor elétrico — participações diretas (ANEEL)aneel_societaria | IBGE | 2020-09-30–2026-09-30 | 7.520 | bruto | 2026-10-27 | parquet · csv |
 | Banco Central do Brasil — séries macroeconômicas do SGSmacro_bcb | Banco Central do Brasil | 2015-01-01–2026-10-16 | 8.081 | bruto | 2026-10-19 | parquet · csv |
-| Catálogo de proveniência dos dados de mercadocatalogo_fontes | IBGE |  | 50 | bruto | — | parquet · csv |
+| Catálogo de proveniência dos dados de mercadocatalogo_fontes | IBGE |  | 55 | bruto | — | parquet · csv |
 
 Bruto e derivado. "Bruto" é o que a fonte oficial publica, como publica — códigos de categoria, texto original de cada célula e unidade original preservados; a única conversão é "Mil Reais" × 1.000 → R$. "Derivado" é estimativa do site, em arquivo próprio, com método e insumos em cada linha. Cada conjunto tem uma página com a descrição das colunas, as tabelas de origem e o modo de carregar. Para séries individuais, veja os [indicadores](https://atlasmercados.com.br/indicadores).
 

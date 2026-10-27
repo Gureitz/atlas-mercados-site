@@ -1,6 +1,6 @@
 ---
 title: ITAÚ UNIBANCO HOLDING S.A. (ITUB3) — análise financeira | Atlas Mercados
-description: ITAÚ UNIBANCO HOLDING S.A. (ITUB3) teve receitas da intermediação financeira de R$ 387,1 bilhões e lucro líquido de R$ 45,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 517,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,3 e P/VPA de 2,41 sobre o último exercício. Em 2025, distribuiu R$ 49,2 bilhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: ITAÚ UNIBANCO HOLDING S.A. (ITUB3) teve receitas da intermediação financeira de R$ 387,1 bilhões e lucro líquido de R$ 45,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 559,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 12,2 e P/VPA de 2,60 sobre o último exercício. Em 2025, distribuiu R$ 49,2 bilhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 46 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/ITUB3
 ---
 <!-- https://atlasmercados.com.br/empresa/ITUB3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ IT
 
 ITAÚ UNIBANCO HOLDING S.A.
 
-ITUB3, ITUB4 · CD_CVM 19348 · Bancos · SP · DFP 16a · ITR 16a
+ITUB3, ITUB4 · CD_CVM 19348 · Bancos · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ITUB3?base=con) [Individual](https://atlasmercados.com.br/empresa/ITUB3?base=ind)
 
-> ITAÚ UNIBANCO HOLDING S.A. (ITUB3) teve receitas da intermediação financeira de R$ 387,1 bilhões e lucro líquido de R$ 45,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 517,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,3 e P/VPA de 2,41 sobre o último exercício. Em 2025, distribuiu R$ 49,2 bilhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+> ITAÚ UNIBANCO HOLDING S.A. (ITUB3) teve receitas da intermediação financeira de R$ 387,1 bilhões e lucro líquido de R$ 45,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 559,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 12,2 e P/VPA de 2,60 sobre o último exercício. Em 2025, distribuiu R$ 49,2 bilhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 46 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 387,1 bi · 2025
 
@@ -36,6 +36,28 @@ ITUB3, ITUB4 · CD_CVM 19348 · Bancos · SP · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 46 MW · 5 usinas ≥ 1 MW
+
+- Capacidade proporcional · 46 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Itaú Mooca | Fóssil | SP | 15 MW | 100,0% | 15 |
+| Itaú Centro Empresarial Torre E6 | Fóssil | SP | 10 MW | 100,0% | 10 |
+| Itau - Torre Jabaquara | Fóssil | SP | 10 MW | 100,0% | 10 |
+| Itaú Unibanco - Tatuapé | Fóssil | SP | 8 MW | 100,0% | 8 |
+| Centro Alternativo Campinas | Fóssil | SP | 4 MW | 100,0% | 4 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -94,11 +116,11 @@ DRE · DFP · consolidado · 2025 · 40 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 10,3× mediana 8,7× faixa 6,9× – 18,4× acima da mediana
+P/L atual 11,7× mediana 8,7× faixa 6,9× – 18,4× acima da mediana
 
-P/VPA atual 2,2× mediana 1,6× faixa 1,3× – 2,2× acima da mediana
+P/VPA atual 2,5× mediana 1,6× faixa 1,3× – 2,5× acima da mediana
 
-Dividend Yield atual 10,2% mediana 5,0% faixa 2,6% – 12,7% acima da mediana
+Dividend Yield atual 8,8% mediana 5,0% faixa 2,6% – 12,7% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -15,4 +15,4 @@ Realizado até 2T2026 · projeção de 40 trimestres (10 anos), de 3T2026 a 2T20
 
 [← Estrutura](https://atlasmercados.com.br/valuation/BNBR3)
 
-## Projeção trimestral — 10 premissas · 1 linhas derivadas · realizado em cinza, projetado em azul
+## Projeção trimestral — 11 premissas · 1 linhas derivadas · realizado em cinza, projetado em azul

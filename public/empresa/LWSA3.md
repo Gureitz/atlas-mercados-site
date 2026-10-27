@@ -1,6 +1,6 @@
 ---
 title: LWSA S/A (LWSA3) — análise financeira | Atlas Mercados
-description: LWSA S/A (LWSA3) teve receita líquida de R$ 1,5 bilhão e prejuízo líquido de R$ 225,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 134,7 milhões, margem EBITDA de -9,0% sobre a receita. O valor de mercado era de R$ 2,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,92 sobre o último exercício. Em 2025, distribuiu R$ 28,6 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
+description: LWSA S/A (LWSA3) teve receita líquida de R$ 1,5 bilhão e prejuízo líquido de R$ 225,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 134,7 milhões, margem EBITDA de -9,0% sobre a receita. O valor de mercado era de R$ 3,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,23 sobre o último exercício. Em 2025, distribuiu R$ 28,6 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
 url: https://atlasmercados.com.br/empresa/LWSA3
 ---
 <!-- https://atlasmercados.com.br/empresa/LWSA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ LW
 
 LWSA S/A
 
-LWSA3 · CD_CVM 24910 · Comunicação e Informática · SP · DFP 8a · ITR 8a
+LWSA3 · CD_CVM 24910 · Comunicação e Informática · SP · DFP 8a · ITR 8a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/LWSA3?base=con) [Individual](https://atlasmercados.com.br/empresa/LWSA3?base=ind)
 
-> LWSA S/A (LWSA3) teve receita líquida de R$ 1,5 bilhão e prejuízo líquido de R$ 225,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 134,7 milhões, margem EBITDA de -9,0% sobre a receita. O valor de mercado era de R$ 2,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,92 sobre o último exercício. Em 2025, distribuiu R$ 28,6 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
+> LWSA S/A (LWSA3) teve receita líquida de R$ 1,5 bilhão e prejuízo líquido de R$ 225,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 134,7 milhões, margem EBITDA de -9,0% sobre a receita. O valor de mercado era de R$ 3,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,23 sobre o último exercício. Em 2025, distribuiu R$ 28,6 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
 
 - Receita líq. · R$ 1,5 bi · 2025
 
@@ -87,9 +87,9 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 P/L atual 78,1× mediana 541,4× faixa 47,0× – 14.061,0× abaixo da mediana
 
-P/VPA atual 0,9× mediana 1,2× faixa 0,5× – 37,1× abaixo da mediana
+P/VPA atual 1,2× mediana 1,2× faixa 0,5× – 37,1× acima da mediana
 
-Dividend Yield atual 1,3% mediana 0,3% faixa 0,0% – 2,0% acima da mediana
+Dividend Yield atual 1,0% mediana 0,3% faixa 0,0% – 2,0% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

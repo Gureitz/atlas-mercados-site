@@ -1,6 +1,6 @@
 ---
 title: COSAN S.A. (CSAN3) — análise financeira | Atlas Mercados
-description: COSAN S.A. (CSAN3) teve receita líquida de R$ 40,4 bilhões e prejuízo líquido de R$ 10,2 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,7 bilhões, margem EBITDA de 9,1% sobre a receita. O valor de mercado era de R$ 16,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,53 sobre o último exercício. Em 2024, distribuiu R$ 567,1 milhões em dividendos (DMPL). A série anual disponível vai de 2011 a 2025.
+description: COSAN S.A. (CSAN3) teve receita líquida de R$ 40,4 bilhões e prejuízo líquido de R$ 10,2 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,7 bilhões, margem EBITDA de 9,1% sobre a receita. O valor de mercado era de R$ 20,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,67 sobre o último exercício. Em 2024, distribuiu R$ 567,1 milhões em dividendos (DMPL). A série anual disponível vai de 2011 a 2025.
 url: https://atlasmercados.com.br/empresa/CSAN3
 ---
 <!-- https://atlasmercados.com.br/empresa/CSAN3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CO
 
 COSAN S.A.
 
-CSAN3 · CD_CVM 19836 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 15a · ITR 16a
+CSAN3 · CD_CVM 19836 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 15a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CSAN3?base=con) [Individual](https://atlasmercados.com.br/empresa/CSAN3?base=ind)
 
-> COSAN S.A. (CSAN3) teve receita líquida de R$ 40,4 bilhões e prejuízo líquido de R$ 10,2 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,7 bilhões, margem EBITDA de 9,1% sobre a receita. O valor de mercado era de R$ 16,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,53 sobre o último exercício. Em 2024, distribuiu R$ 567,1 milhões em dividendos (DMPL). A série anual disponível vai de 2011 a 2025.
+> COSAN S.A. (CSAN3) teve receita líquida de R$ 40,4 bilhões e prejuízo líquido de R$ 10,2 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,7 bilhões, margem EBITDA de 9,1% sobre a receita. O valor de mercado era de R$ 20,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,67 sobre o último exercício. Em 2024, distribuiu R$ 567,1 milhões em dividendos (DMPL). A série anual disponível vai de 2011 a 2025.
 
 - Receita líq. · R$ 40,4 bi · 2025
 
@@ -36,6 +36,40 @@ CSAN3 · CD_CVM 19836 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 15a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 0 MW · 0 usinas ≥ 1 MW
+
+- Capacidade proporcional · 463 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Barra Bioenergia coligada | Biomassa | SP | 136 MW | 33,5% | 46 |
+| Caarapó coligada | Biomassa | MS | 114 MW | 33,5% | 38 |
+| Bonfim coligada | Biomassa | SP | 111 MW | 33,5% | 37 |
+| Jataí coligada | Biomassa | GO | 105 MW | 33,5% | 35 |
+| Vale do Rosário coligada | Biomassa | SP | 97 MW | 33,5% | 33 |
+| LDC Bioenergia Lagoa da Prata (Antiga Louis Dreyfus Lagoa da Prata) coligada | Biomassa | MG | 85 MW | 33,5% | 29 |
+| Gasa coligada | Biomassa | SP | 78 MW | 33,5% | 26 |
+| Ipaussu Bioenergia coligada | Biomassa | SP | 76 MW | 33,5% | 25 |
+| Costa Pinto coligada | Biomassa | SP | 75 MW | 33,5% | 25 |
+| Univalem Bioenergia coligada | Biomassa | SP | 75 MW | 33,5% | 25 |
+| Santa Elisa - Unidade I coligada | Biomassa | SP | 58 MW | 33,5% | 19 |
+| Santa Cândida II coligada | Biomassa | SP | 55 MW | 33,5% | 18 |
+| Rafard coligada | Biomassa | SP | 50 MW | 33,5% | 17 |
+| Maracaí coligada | Biomassa | SP | 47 MW | 33,5% | 16 |
+| Tarumã (Antiga Nova América) coligada | Biomassa | SP | 28 MW | 33,5% | 9 |
+
+15 de 33 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -95,9 +129,9 @@ DRE · DFP · consolidado · 2025 · 39 linhas · R$
 
 P/L atual 3,2× mediana 11,6× faixa 3,0× – 49,0× abaixo da mediana
 
-P/VPA atual 0,5× mediana 0,8× faixa 0,3× – 3,9× abaixo da mediana
+P/VPA atual 0,6× mediana 0,8× faixa 0,3× – 3,9× abaixo da mediana
 
-Dividend Yield atual 3,8% mediana 2,7% faixa 0,4% – 6,7% acima da mediana
+Dividend Yield atual 2,8% mediana 2,7% faixa 0,4% – 6,7% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

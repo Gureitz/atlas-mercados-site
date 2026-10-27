@@ -1,19 +1,19 @@
 ---
 title: IGUATEMI EMPRESA DE SHOPPING CENTERS S/A (IGTA3) — análise financeira | Atlas Mercados
-description: IGUATEMI EMPRESA DE SHOPPING CENTERS S/A (IGTA3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 569,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 979,5 milhões, margem EBITDA de 82,4% sobre a receita. Em 2025, distribuiu R$ 135,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: IGUATEMI EMPRESA DE SHOPPING CENTERS S/A (IGTA3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 569,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 979,5 milhões, margem EBITDA de 82,4% sobre a receita. Em 2025, distribuiu R$ 135,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/IGTA3
 ---
 <!-- https://atlasmercados.com.br/empresa/IGTA3 — versão Markdown da página -->
 
 IG
 
-IGUATEMI EMPRESA DE SHOPPING CENTERS S/A
+IGUATEMI EMPRESA DE SHOPPING CENTERS S/A sem pregão em 90 dias
 
 IGTA3 · CD_CVM 20494 · Comércio (Atacado e Varejo) · SP · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/IGTA3?base=con) [Individual](https://atlasmercados.com.br/empresa/IGTA3?base=ind)
 
-> IGUATEMI EMPRESA DE SHOPPING CENTERS S/A (IGTA3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 569,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 979,5 milhões, margem EBITDA de 82,4% sobre a receita. Em 2025, distribuiu R$ 135,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> IGUATEMI EMPRESA DE SHOPPING CENTERS S/A (IGTA3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 569,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 979,5 milhões, margem EBITDA de 82,4% sobre a receita. Em 2025, distribuiu R$ 135,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 1,2 bi · 2025
 

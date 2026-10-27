@@ -9,7 +9,7 @@ RE
 
 RECRUSUL SA
 
-RCSL3, RCSL4 · CD_CVM 12572 · Máquinas, Equipamentos, Veículos e Peças · RS · DFP 16a · ITR 16a
+RCSL3, RCSL4 · CD_CVM 12572 · Máquinas, Equipamentos, Veículos e Peças · RS · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/RCSL3?base=con) [Individual](https://atlasmercados.com.br/empresa/RCSL3?base=ind)
 

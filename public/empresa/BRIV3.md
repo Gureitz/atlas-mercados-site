@@ -1,19 +1,19 @@
 ---
 title: BANCO ALFA DE INVESTIMENTO S.A. (BRIV3) — análise financeira | Atlas Mercados
-description: BANCO ALFA DE INVESTIMENTO S.A. (BRIV3) teve receitas da intermediação financeira de R$ 3,3 bilhões e lucro líquido de R$ 7,2 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2023.
+description: BANCO ALFA DE INVESTIMENTO S.A. (BRIV3) teve receitas da intermediação financeira de R$ 3,3 bilhões e lucro líquido de R$ 7,2 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/BRIV3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRIV3 — versão Markdown da página -->
 
 BA
 
-BANCO ALFA DE INVESTIMENTO S.A.
+BANCO ALFA DE INVESTIMENTO S.A. registro cancelada na CVM sem pregão em 90 dias
 
 BRIV3, BRIV4 · CD_CVM 1384 · Bancos · SP · DFP 14a · ITR 13a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRIV3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRIV3?base=ind)
 
-> BANCO ALFA DE INVESTIMENTO S.A. (BRIV3) teve receitas da intermediação financeira de R$ 3,3 bilhões e lucro líquido de R$ 7,2 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2023.
+> BANCO ALFA DE INVESTIMENTO S.A. (BRIV3) teve receitas da intermediação financeira de R$ 3,3 bilhões e lucro líquido de R$ 7,2 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 3,3 bi · 2023
 

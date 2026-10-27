@@ -1,6 +1,6 @@
 ---
 title: CAMIL ALIMENTOS S/A (CAML3) — análise financeira | Atlas Mercados
-description: CAMIL ALIMENTOS S/A (CAML3) teve receita líquida de R$ 11,1 bilhões e lucro líquido de R$ 148,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 2,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,2 e P/VPA de 0,65 sobre o último exercício. Em 2026, distribuiu R$ 568,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2026.
+description: CAMIL ALIMENTOS S/A (CAML3) teve receita líquida de R$ 11,1 bilhões e lucro líquido de R$ 148,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 2,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,7 e P/VPA de 0,77 sobre o último exercício. Em 2026, distribuiu R$ 568,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2026. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 14 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/CAML3
 ---
 <!-- https://atlasmercados.com.br/empresa/CAML3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CA
 
 CAMIL ALIMENTOS S/A
 
-CAML3 · CD_CVM 24228 · Alimentos · SP · DFP 10a · ITR 10a
+CAML3 · CD_CVM 24228 · Alimentos · SP · DFP 10a · ITR 10a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CAML3?base=con) [Individual](https://atlasmercados.com.br/empresa/CAML3?base=ind)
 
-> CAMIL ALIMENTOS S/A (CAML3) teve receita líquida de R$ 11,1 bilhões e lucro líquido de R$ 148,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 2,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,2 e P/VPA de 0,65 sobre o último exercício. Em 2026, distribuiu R$ 568,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2026.
+> CAMIL ALIMENTOS S/A (CAML3) teve receita líquida de R$ 11,1 bilhões e lucro líquido de R$ 148,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 2,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,7 e P/VPA de 0,77 sobre o último exercício. Em 2026, distribuiu R$ 568,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2026. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 14 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 11,1 bi · 2026
 
@@ -36,6 +36,26 @@ CAML3 · CD_CVM 24228 · Alimentos · SP · DFP 10a · ITR 10a
 ## Lucro líquido — por exercício (DFP, R$)
 
 2017201820192020202120222023202420252026
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 14 MW · 3 usinas ≥ 1 MW
+
+- Capacidade proporcional · 14 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| PCT SLC Alimentos | Biomassa | RS | 6 MW | 100,0% | 6 |
+| Itaqui | Biomassa | RS | 4 MW | 100,0% | 4 |
+| Camil Alimentos - Camaquã | Biomassa | RS | 4 MW | 100,0% | 4 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -84,11 +104,11 @@ DRE · DFP · consolidado · 2026 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 11,7× mediana 8,1× faixa 2,7× – 19,7× acima da mediana
+P/L atual 20,5× mediana 8,2× faixa 2,7× – 20,5× acima da mediana
 
-P/VPA atual 0,6× mediana 1,0× faixa 0,4× – 2,1× abaixo da mediana
+P/VPA atual 0,8× mediana 1,0× faixa 0,4× – 2,1× abaixo da mediana
 
-Dividend Yield atual 5,7% mediana 4,4% faixa 1,3% – 10,7% acima da mediana
+Dividend Yield atual 4,4% mediana 4,4% faixa 1,3% – 10,7% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

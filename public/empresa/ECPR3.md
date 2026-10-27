@@ -1,19 +1,19 @@
 ---
 title: EMP.NAC. DE COMÉRCIO, RÉDITO E PART. S.A. - ENCORPAR (ECPR3) — análise financeira | Atlas Mercados
-description: EMP.NAC. DE COMÉRCIO, RÉDITO E PART. S.A. - ENCORPAR (ECPR3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 17,4 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2021.
+description: EMP.NAC. DE COMÉRCIO, RÉDITO E PART. S.A. - ENCORPAR (ECPR3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 17,4 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/ECPR3
 ---
 <!-- https://atlasmercados.com.br/empresa/ECPR3 — versão Markdown da página -->
 
 EM
 
-EMP.NAC. DE COMÉRCIO, RÉDITO E PART. S.A. - ENCORPAR
+EMP.NAC. DE COMÉRCIO, RÉDITO E PART. S.A. - ENCORPAR registro cancelada na CVM sem pregão em 90 dias
 
 ECPR3, ECPR4 · CD_CVM 16497 · Emp. Adm. Part. - Têxtil e Vestuário · MG · DFP 12a · ITR 11a
 
 [Consolidado](https://atlasmercados.com.br/empresa/ECPR3?base=con) [Individual](https://atlasmercados.com.br/empresa/ECPR3?base=ind)
 
-> EMP.NAC. DE COMÉRCIO, RÉDITO E PART. S.A. - ENCORPAR (ECPR3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 17,4 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2021.
+> EMP.NAC. DE COMÉRCIO, RÉDITO E PART. S.A. - ENCORPAR (ECPR3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 17,4 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 0 · 2021
 

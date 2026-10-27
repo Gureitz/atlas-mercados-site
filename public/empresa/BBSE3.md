@@ -1,6 +1,6 @@
 ---
 title: BB SEGURIDADE PARTICIPAÇÕES S.A. (BBSE3) — análise financeira | Atlas Mercados
-description: BB SEGURIDADE PARTICIPAÇÕES S.A. (BBSE3) teve receitas operacionais de R$ 0 e lucro líquido de R$ 9,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 78,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,7 e P/VPA de 7,56 sobre o último exercício. Em 2025, distribuiu R$ 8,7 bilhões em dividendos (DMPL). A série anual disponível vai de 2012 a 2025.
+description: BB SEGURIDADE PARTICIPAÇÕES S.A. (BBSE3) teve receitas operacionais de R$ 0 e lucro líquido de R$ 9,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 84,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,4 e P/VPA de 8,17 sobre o último exercício. Em 2025, distribuiu R$ 8,7 bilhões em dividendos (DMPL). A série anual disponível vai de 2012 a 2025.
 url: https://atlasmercados.com.br/empresa/BBSE3
 ---
 <!-- https://atlasmercados.com.br/empresa/BBSE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BB
 
 BB SEGURIDADE PARTICIPAÇÕES S.A.
 
-BBSE3 · CD_CVM 23159 · Emp. Adm. Part. - Seguradoras e Corretoras · DF · DFP 14a · ITR 14a
+BBSE3 · CD_CVM 23159 · Emp. Adm. Part. - Seguradoras e Corretoras · DF · DFP 14a · ITR 14a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BBSE3?base=con) [Individual](https://atlasmercados.com.br/empresa/BBSE3?base=ind)
 
-> BB SEGURIDADE PARTICIPAÇÕES S.A. (BBSE3) teve receitas operacionais de R$ 0 e lucro líquido de R$ 9,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 78,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,7 e P/VPA de 7,56 sobre o último exercício. Em 2025, distribuiu R$ 8,7 bilhões em dividendos (DMPL). A série anual disponível vai de 2012 a 2025.
+> BB SEGURIDADE PARTICIPAÇÕES S.A. (BBSE3) teve receitas operacionais de R$ 0 e lucro líquido de R$ 9,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 84,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,4 e P/VPA de 8,17 sobre o último exercício. Em 2025, distribuiu R$ 8,7 bilhões em dividendos (DMPL). A série anual disponível vai de 2012 a 2025.
 
 - Receita líq. · R$ 0 · 2025
 
@@ -116,11 +116,11 @@ DRE · DFP · consolidado · 2025 · 62 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,1× mediana 8,8× faixa 7,2× – 14,1× abaixo da mediana
+P/L atual 9,2× mediana 8,8× faixa 7,2× – 14,1× acima da mediana
 
-P/VPA atual 5,9× mediana 6,6× faixa 4,7× – 11,1× abaixo da mediana
+P/VPA atual 7,8× mediana 6,6× faixa 4,7× – 11,1× acima da mediana
 
-Dividend Yield atual 11,7% mediana 8,9% faixa 3,8% – 13,3% acima da mediana
+Dividend Yield atual 10,3% mediana 8,9% faixa 3,8% – 13,3% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

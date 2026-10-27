@@ -9,7 +9,7 @@ PB
 
 PBG S/A
 
-PTBL3 · CD_CVM 13773 · Construção Civil, Mat. Constr. e Decoração · SC · DFP 16a · ITR 16a
+PTBL3 · CD_CVM 13773 · Construção Civil, Mat. Constr. e Decoração · SC · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PTBL3?base=con) [Individual](https://atlasmercados.com.br/empresa/PTBL3?base=ind)
 

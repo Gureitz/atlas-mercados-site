@@ -1,19 +1,19 @@
 ---
 title: IGB ELETRÔNICA S.A. - EM RECUPERAÇÃO JUDICIAL (IGBR3) — análise financeira | Atlas Mercados
-description: IGB ELETRÔNICA S.A. - EM RECUPERAÇÃO JUDICIAL (IGBR3) teve receita líquida de R$ 5,5 milhões e prejuízo líquido de R$ 54,2 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2021.
+description: IGB ELETRÔNICA S.A. - EM RECUPERAÇÃO JUDICIAL (IGBR3) teve receita líquida de R$ 5,5 milhões e prejuízo líquido de R$ 54,2 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/IGBR3
 ---
 <!-- https://atlasmercados.com.br/empresa/IGBR3 — versão Markdown da página -->
 
 IG
 
-IGB ELETRÔNICA S.A. - EM RECUPERAÇÃO JUDICIAL
+IGB ELETRÔNICA S.A. - EM RECUPERAÇÃO JUDICIAL registro cancelada na CVM sem pregão em 90 dias
 
 IGBR3 · CD_CVM 6815 · Máquinas, Equipamentos, Veículos e Peças · AM · DFP 12a · ITR 12a
 
 [Consolidado](https://atlasmercados.com.br/empresa/IGBR3?base=con) [Individual](https://atlasmercados.com.br/empresa/IGBR3?base=ind)
 
-> IGB ELETRÔNICA S.A. - EM RECUPERAÇÃO JUDICIAL (IGBR3) teve receita líquida de R$ 5,5 milhões e prejuízo líquido de R$ 54,2 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2021.
+> IGB ELETRÔNICA S.A. - EM RECUPERAÇÃO JUDICIAL (IGBR3) teve receita líquida de R$ 5,5 milhões e prejuízo líquido de R$ 54,2 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 5,5 mi · 2021
 

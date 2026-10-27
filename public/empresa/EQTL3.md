@@ -1,6 +1,6 @@
 ---
 title: EQUATORIAL S.A. (EQTL3) — análise financeira | Atlas Mercados
-description: EQUATORIAL S.A. (EQTL3) teve receita líquida de R$ 52,1 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 52,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,1 e P/VPA de 1,86 sobre o último exercício. Em 2025, distribuiu R$ 304,5 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: EQUATORIAL S.A. (EQTL3) teve receita líquida de R$ 52,1 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 11,3 bilhões, margem EBITDA de 21,7% sobre a receita. O valor de mercado era de R$ 61,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 24,6 e P/VPA de 2,17 sobre o último exercício. Em 2025, distribuiu R$ 304,5 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,7 GW de potência fiscalizada (SIGA, 01/10/2026) e as 7 distribuidoras controladas atendiam 15,0 milhões de consumidores no último mês completo de cada uma (SAMP, 08/2026 a 09/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/EQTL3
 ---
 <!-- https://atlasmercados.com.br/empresa/EQTL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ EQ
 
 EQUATORIAL S.A.
 
-EQTL3 · CD_CVM 20010 · Energia Elétrica · MA · DFP 16a · ITR 16a
+EQTL3 · CD_CVM 20010 · Energia Elétrica · MA · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/EQTL3?base=con) [Individual](https://atlasmercados.com.br/empresa/EQTL3?base=ind)
 
-> EQUATORIAL S.A. (EQTL3) teve receita líquida de R$ 52,1 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 52,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,1 e P/VPA de 1,86 sobre o último exercício. Em 2025, distribuiu R$ 304,5 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+> EQUATORIAL S.A. (EQTL3) teve receita líquida de R$ 52,1 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 11,3 bilhões, margem EBITDA de 21,7% sobre a receita. O valor de mercado era de R$ 61,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 24,6 e P/VPA de 2,17 sobre o último exercício. Em 2025, distribuiu R$ 304,5 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,7 GW de potência fiscalizada (SIGA, 01/10/2026) e as 7 distribuidoras controladas atendiam 15,0 milhões de consumidores no último mês completo de cada uma (SAMP, 08/2026 a 09/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 52,1 bi · 2025
 
@@ -36,6 +36,50 @@ EQTL3 · CD_CVM 20010 · Energia Elétrica · MA · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 1.700 MW · 55 usinas ≥ 1 MW
+
+- Capacidade proporcional · 1.874 MW · inclui coligadas
+
+- Garantia física · 642 MWm · controladas
+
+- Consumidores · 14.988.067 · distribuidoras controladas
+
+- Energia faturada 12m · 50.990 GWh · TUSD · controladas
+
+| Distribuidora | Participação efetiva | Consumidores | Energia 12m | Mês |
+|---|---|---|---|---|
+| EQUATORIAL GO EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGI | 100,0% | 3.645.532 | 15.457 GWh | 08/2026 |
+| EQUATORIAL PA EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA | 92,2% | 3.105.340 | 10.131 GWh | 08/2026 |
+| EQUATORIAL MA EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENE | 62,2% | 2.886.486 | 7.908 GWh | 08/2026 |
+| CEEE-D COMPANHIA ESTADUAL DE DISTRIBUICAO DE EN | 95,1% | 2.035.454 | 8.275 GWh | 08/2026 |
+| EQUATORIAL PI EQUATORIAL PIAUI DISTRIBUIDORA DE ENERGI | 94,5% | 1.597.333 | 3.792 GWh | 08/2026 |
+| EQUATORIAL AL EQUATORIAL ALAGOAS DISTRIBUIDORA DE ENER | 89,9% | 1.440.909 | 4.162 GWh | 09/2026 |
+| CEA COMPANHIA DE ELETRICIDADE DO AMAPA CEA | 99,9% | 277.013 | 1.265 GWh | 08/2026 |
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Henry Borden coligada | Hídrica | SP | 889 MW | 11,9% | 106 |
+| Sertão Solar Barreiras XVI | Solar | BA | 50 MW | 100,0% | 50 |
+| Sertão Solar Barreiras XVII | Solar | BA | 50 MW | 100,0% | 50 |
+| Sertão Solar Barreiras XVIII | Solar | BA | 50 MW | 100,0% | 50 |
+| Vila Piauí III | Eólica | RN | 42 MW | 100,0% | 42 |
+| Ribeiro Gonçalves II | Solar | PI | 41 MW | 100,0% | 41 |
+| Ribeiro Gonçalves III | Solar | PI | 41 MW | 100,0% | 41 |
+| Vila Piauí II | Eólica | RN | 38 MW | 100,0% | 38 |
+| Vila Piauí I | Eólica | RN | 38 MW | 100,0% | 38 |
+| Vila Rio Grande do Norte II | Eólica | RN | 38 MW | 100,0% | 38 |
+| Vila Sergipe I | Eólica | RN | 38 MW | 100,0% | 38 |
+| Vila Sergipe II | Eólica | RN | 38 MW | 100,0% | 38 |
+| Vila Espírito Santo II (Antiga Potiguar B22) | Eólica | RN | 38 MW | 100,0% | 38 |
+| Vila Espírito Santo III (Antiga Potiguar B23) | Eólica | RN | 38 MW | 100,0% | 38 |
+| Vila Espírito Santo IV (Antiga Potiguar B24) | Eólica | RN | 38 MW | 100,0% | 38 |
+
+15 de 69 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -93,11 +137,11 @@ DRE · DFP · consolidado · 2025 · 39 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 20,4× mediana 11,0× faixa 5,3× – 24,7× acima da mediana
+P/L atual 34,7× mediana 11,0× faixa 5,3× – 34,7× acima da mediana
 
-P/VPA atual 1,7× mediana 1,7× faixa 1,3× – 2,5× acima da mediana
+P/VPA atual 2,1× mediana 1,7× faixa 1,3× – 2,5× acima da mediana
 
-Dividend Yield atual 0,6% mediana 1,4% faixa 0,6% – 3,5% abaixo da mediana
+Dividend Yield atual 0,5% mediana 1,4% faixa 0,5% – 3,5% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

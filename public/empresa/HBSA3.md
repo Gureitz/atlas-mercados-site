@@ -1,6 +1,6 @@
 ---
 title: HIDROVIAS DO BRASIL S.A. (HBSA3) — análise financeira | Atlas Mercados
-description: HIDROVIAS DO BRASIL S.A. (HBSA3) teve receita líquida de R$ 2,2 bilhões e prejuízo líquido de R$ 140,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 892,3 milhões, margem EBITDA de 39,8% sobre a receita. O valor de mercado era de R$ 4,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,19 sobre o último exercício. A série anual disponível vai de 2011 a 2025.
+description: HIDROVIAS DO BRASIL S.A. (HBSA3) teve receita líquida de R$ 2,2 bilhões e prejuízo líquido de R$ 140,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 942,3 milhões, margem EBITDA de 42,0% sobre a receita. O valor de mercado era de R$ 5,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,60 sobre o último exercício. A série anual disponível vai de 2011 a 2025.
 url: https://atlasmercados.com.br/empresa/HBSA3
 ---
 <!-- https://atlasmercados.com.br/empresa/HBSA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ HI
 
 HIDROVIAS DO BRASIL S.A.
 
-HBSA3 · CD_CVM 22675 · Serviços Transporte e Logística · SP · DFP 16a · ITR 16a
+HBSA3 · CD_CVM 22675 · Serviços Transporte e Logística · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/HBSA3?base=con) [Individual](https://atlasmercados.com.br/empresa/HBSA3?base=ind)
 
-> HIDROVIAS DO BRASIL S.A. (HBSA3) teve receita líquida de R$ 2,2 bilhões e prejuízo líquido de R$ 140,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 892,3 milhões, margem EBITDA de 39,8% sobre a receita. O valor de mercado era de R$ 4,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,19 sobre o último exercício. A série anual disponível vai de 2011 a 2025.
+> HIDROVIAS DO BRASIL S.A. (HBSA3) teve receita líquida de R$ 2,2 bilhões e prejuízo líquido de R$ 140,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 942,3 milhões, margem EBITDA de 42,0% sobre a receita. O valor de mercado era de R$ 5,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,60 sobre o último exercício. A série anual disponível vai de 2011 a 2025.
 
 - Receita líq. · R$ 2,2 bi · 2025
 
@@ -91,7 +91,7 @@ DRE · DFP · consolidado · 2025 · 35 linhas · R$
 
 P/L atual 160,3× mediana 55,0× faixa 37,2× – 189,7× acima da mediana
 
-P/VPA atual 2,3× mediana 2,0× faixa 1,0× – 5,2× acima da mediana
+P/VPA atual 2,7× mediana 2,0× faixa 1,0× – 5,2× acima da mediana
 
 Dividend Yield atual 6,0% mediana 2,8% faixa 2,4% – 6,0% acima da mediana
 

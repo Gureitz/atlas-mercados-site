@@ -17,7 +17,7 @@ SALT3 · B3 · CD_CVM 27820
 
 - Lucro líquido · R$ 4,9 mi · 2T2026 · -95.2%
 
-## Série reportada — 15 métricas × 9 períodos · fonte: CVM · reporte em BRL
+## Série reportada — 16 métricas × 9 períodos · fonte: CVM · reporte em BRL
 
 | Métrica | 2024 | 4T2024 | 2025 | 1T2025 | 2T2025 | 3T2025 | 4T2025 | 1T2026 | 2T2026 |
 |---|---|---|---|---|---|---|---|---|---|
@@ -25,6 +25,7 @@ SALT3 · B3 · CD_CVM 27820
 | Custo dos produtos/serviços vendidos · Custo dos Bens e/ou Serviços Vendidos · último trimestre derivado (DFP − ITRs) | -R$ 1,1 bi | — | -R$ 1,4 bi | -R$ 349,7 mi | -R$ 374,3 mi | -R$ 352,9 mi | -R$ 360,6 mi | -R$ 432,2 mi | -R$ 428,6 mi |
 | Lucro bruto · Resultado Bruto · último trimestre derivado (DFP − ITRs) | R$ 1,1 bi | — | R$ 1,4 bi | R$ 444,5 mi | R$ 331,2 mi | R$ 331,1 mi | R$ 247,3 mi | R$ 532,2 mi | R$ 354,4 mi |
 | Despesas operacionais · Despesas/Receitas Operacionais · último trimestre derivado (DFP − ITRs) | -R$ 741,3 mi | — | -R$ 884,2 mi | -R$ 201,5 mi | -R$ 218,2 mi | -R$ 225,6 mi | -R$ 239,1 mi | -R$ 270,6 mi | -R$ 243,8 mi |
+| Depreciação e amortização · Amortização de ativo intangível · trimestre por diferença de acumulados | R$ 227,6 mi | R$ 227,6 mi | R$ 268,4 mi | R$ 65,2 mi | R$ 66,7 mi | R$ 65,1 mi | R$ 71,4 mi | R$ 67,3 mi | R$ 75,5 mi |
 | EBIT · Resultado Antes do Resultado Financeiro e dos Tributos · último trimestre derivado (DFP − ITRs) | R$ 335,9 mi | — | R$ 469,9 mi | R$ 243,0 mi | R$ 113,1 mi | R$ 105,6 mi | R$ 8,3 mi | R$ 261,6 mi | R$ 110,6 mi |
 | Resultado financeiro líquido · Resultado Financeiro · último trimestre derivado (DFP − ITRs) | -R$ 264,9 mi | — | -R$ 309,0 mi | -R$ 75,7 mi | -R$ 82,2 mi | -R$ 85,5 mi | -R$ 65,5 mi | -R$ 101,8 mi | -R$ 97,7 mi |
 | Resultado antes dos impostos (LAIR) · Resultado Antes dos Tributos sobre o Lucro · último trimestre derivado (DFP − ITRs) | R$ 71,0 mi | — | R$ 160,9 mi | R$ 167,3 mi | R$ 30,9 mi | R$ 20,0 mi | -R$ 57,2 mi | R$ 159,8 mi | R$ 12,9 mi |

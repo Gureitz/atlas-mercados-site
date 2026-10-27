@@ -1,6 +1,6 @@
 ---
 title: SEQUOIA LOGÍSTICA E TRANSPORTES S.A. (SEQL3) — análise financeira | Atlas Mercados
-description: SEQUOIA LOGÍSTICA E TRANSPORTES S.A. (SEQL3) teve receita líquida de R$ 592,9 milhões e prejuízo líquido de R$ 195,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 76,0 milhões, margem EBITDA de 12,8% sobre a receita. O valor de mercado era de R$ 445,9 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
+description: SEQUOIA LOGÍSTICA E TRANSPORTES S.A. (SEQL3) teve receita líquida de R$ 592,9 milhões e prejuízo líquido de R$ 195,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 76,0 milhões, margem EBITDA de 12,8% sobre a receita. O valor de mercado era de R$ 382,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/SEQL3
 ---
 <!-- https://atlasmercados.com.br/empresa/SEQL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ SE
 
 SEQUOIA LOGÍSTICA E TRANSPORTES S.A.
 
-SEQL3 · CD_CVM 25160 · Serviços Transporte e Logística · SP · DFP 7a · ITR 7a
+SEQL3 · CD_CVM 25160 · Serviços Transporte e Logística · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SEQL3?base=con) [Individual](https://atlasmercados.com.br/empresa/SEQL3?base=ind)
 
-> SEQUOIA LOGÍSTICA E TRANSPORTES S.A. (SEQL3) teve receita líquida de R$ 592,9 milhões e prejuízo líquido de R$ 195,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 76,0 milhões, margem EBITDA de 12,8% sobre a receita. O valor de mercado era de R$ 445,9 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
+> SEQUOIA LOGÍSTICA E TRANSPORTES S.A. (SEQL3) teve receita líquida de R$ 592,9 milhões e prejuízo líquido de R$ 195,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 76,0 milhões, margem EBITDA de 12,8% sobre a receita. O valor de mercado era de R$ 382,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 592,9 mi · 2025
 

@@ -1,6 +1,6 @@
 ---
 title: DIMED SA DISTRIBUIDORA DE MEDICAMENTOS (PNVL3) — análise financeira | Atlas Mercados
-description: DIMED SA DISTRIBUIDORA DE MEDICAMENTOS (PNVL3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 124,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 487,2 milhões, margem EBITDA de 8,8% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,8 e P/VPA de 1,54 sobre o último exercício. Em 2025, distribuiu R$ 54,5 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: DIMED SA DISTRIBUIDORA DE MEDICAMENTOS (PNVL3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 124,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 487,2 milhões, margem EBITDA de 8,8% sobre a receita. O valor de mercado era de R$ 2,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,9 e P/VPA de 1,83 sobre o último exercício. Em 2025, distribuiu R$ 54,5 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/PNVL3
 ---
 <!-- https://atlasmercados.com.br/empresa/PNVL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ DI
 
 DIMED SA DISTRIBUIDORA DE MEDICAMENTOS
 
-PNVL3, PNVL4 · CD_CVM 9342 · Comércio (Atacado e Varejo) · RS · DFP 16a · ITR 16a
+PNVL3, PNVL4 · CD_CVM 9342 · Comércio (Atacado e Varejo) · RS · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PNVL3?base=con) [Individual](https://atlasmercados.com.br/empresa/PNVL3?base=ind)
 
-> DIMED SA DISTRIBUIDORA DE MEDICAMENTOS (PNVL3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 124,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 487,2 milhões, margem EBITDA de 8,8% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,8 e P/VPA de 1,54 sobre o último exercício. Em 2025, distribuiu R$ 54,5 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> DIMED SA DISTRIBUIDORA DE MEDICAMENTOS (PNVL3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 124,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 487,2 milhões, margem EBITDA de 8,8% sobre a receita. O valor de mercado era de R$ 2,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,9 e P/VPA de 1,83 sobre o último exercício. Em 2025, distribuiu R$ 54,5 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 5,5 bi · 2025
 
@@ -93,11 +93,11 @@ DRE · DFP · consolidado · 2025 · 39 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 13,8× mediana 20,5× faixa 11,8× – 57,7× abaixo da mediana
+P/L atual 17,0× mediana 20,5× faixa 11,8× – 57,7× abaixo da mediana
 
-P/VPA atual 1,4× mediana 1,6× faixa 1,0× – 7,5× abaixo da mediana
+P/VPA atual 1,8× mediana 1,6× faixa 1,0× – 7,5× acima da mediana
 
-Dividend Yield atual 3,0% mediana 1,6% faixa 0,4% – 3,6% acima da mediana
+Dividend Yield atual 2,3% mediana 1,6% faixa 0,4% – 3,6% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

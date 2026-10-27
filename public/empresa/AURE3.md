@@ -1,6 +1,6 @@
 ---
 title: AUREN ENERGIA S.A (AURE3) — análise financeira | Atlas Mercados
-description: AUREN ENERGIA S.A (AURE3) teve receita líquida de R$ 13,2 bilhões e prejuízo líquido de R$ 557,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,9 bilhões, margem EBITDA de 29,3% sobre a receita. O valor de mercado era de R$ 14,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,05 sobre o último exercício. Em 2024, distribuiu R$ 459,6 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+description: AUREN ENERGIA S.A (AURE3) teve receita líquida de R$ 13,2 bilhões e prejuízo líquido de R$ 557,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,2 bilhões, margem EBITDA de 32,2% sobre a receita. O valor de mercado era de R$ 16,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,16 sobre o último exercício. Em 2024, distribuiu R$ 459,6 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 8,1 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/AURE3
 ---
 <!-- https://atlasmercados.com.br/empresa/AURE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AU
 
 AUREN ENERGIA S.A
 
-AURE3 · CD_CVM 26620 · Energia Elétrica · SP · DFP 5a · ITR 6a
+AURE3 · CD_CVM 26620 · Energia Elétrica · SP · DFP 5a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/AURE3?base=con) [Individual](https://atlasmercados.com.br/empresa/AURE3?base=ind)
 
-> AUREN ENERGIA S.A (AURE3) teve receita líquida de R$ 13,2 bilhões e prejuízo líquido de R$ 557,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,9 bilhões, margem EBITDA de 29,3% sobre a receita. O valor de mercado era de R$ 14,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,05 sobre o último exercício. Em 2024, distribuiu R$ 459,6 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+> AUREN ENERGIA S.A (AURE3) teve receita líquida de R$ 13,2 bilhões e prejuízo líquido de R$ 557,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,2 bilhões, margem EBITDA de 32,2% sobre a receita. O valor de mercado era de R$ 16,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,16 sobre o último exercício. Em 2024, distribuiu R$ 459,6 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 8,1 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 13,2 bi · 2025
 
@@ -36,6 +36,40 @@ AURE3 · CD_CVM 26620 · Energia Elétrica · SP · DFP 5a · ITR 6a
 ## Lucro líquido — por exercício (DFP, R$)
 
 20212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 8.130 MW · 135 usinas ≥ 1 MW
+
+- Capacidade proporcional · 7.890 MW · inclui coligadas
+
+- Garantia física · 3.752 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Porto Primavera (Eng° Sérgio Motta) | Hídrica | SP | 1.540 MW | 100,0% | 1.540 |
+| Água Vermelha (Antiga José Ermírio de Moraes) | Hídrica | MG | 1.396 MW | 100,0% | 1.396 |
+| Nova Avanhandava (Rui Barbosa) | Hídrica | SP | 347 MW | 100,0% | 347 |
+| Campos Novos coligada | Hídrica | SC | 880 MW | 31,9% | 281 |
+| Promissão (Mário Lopes Leão) | Hídrica | SP | 264 MW | 100,0% | 264 |
+| Bariri (Álvaro de Souza Lima) | Hídrica | SP | 143 MW | 100,0% | 143 |
+| Barra Bonita | Hídrica | SP | 141 MW | 100,0% | 141 |
+| Ibitinga | Hídrica | SP | 131 MW | 100,0% | 131 |
+| Euclides da Cunha | Hídrica | SP | 109 MW | 100,0% | 109 |
+| Paraibuna | Hídrica | SP | 87 MW | 100,0% | 87 |
+| Caconde | Hídrica | SP | 80 MW | 100,0% | 80 |
+| Barra Grande coligada | Hídrica | RS | 690 MW | 10,0% | 69 |
+| Cajuína B11 (Antiga Ventos de Santa Tereza 07) | Eólica | RN | 68 MW | 100,0% | 68 |
+| Miassaba 3 | Eólica | RN | 68 MW | 76,6% | 52 |
+| Sol do Piauí | Solar | PI | 48 MW | 100,0% | 48 |
+
+15 de 144 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -92,9 +126,9 @@ DRE · DFP · consolidado · 2025 · 36 linhas · R$
 
 P/L atual 148,5× mediana 38,0× faixa 4,3× – 157,1× acima da mediana
 
-P/VPA atual 1,0× mediana 0,9× faixa 0,6× – 1,6× acima da mediana
+P/VPA atual 1,2× mediana 0,9× faixa 0,6× – 1,6× acima da mediana
 
-Dividend Yield atual 3,5% mediana 4,4% faixa 1,9% – 30,4% abaixo da mediana
+Dividend Yield atual 2,9% mediana 4,3% faixa 1,9% – 30,4% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

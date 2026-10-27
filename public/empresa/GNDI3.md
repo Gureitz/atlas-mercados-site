@@ -1,19 +1,19 @@
 ---
 title: NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. (GNDI3) — análise financeira | Atlas Mercados
-description: NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. (GNDI3) teve receita líquida de R$ 10,7 bilhões e lucro líquido de R$ 735,7 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 16,2% sobre a receita. Em 2020, distribuiu R$ 174,8 milhões em dividendos (DMPL). A série anual disponível vai de 2017 a 2020.
+description: NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. (GNDI3) teve receita líquida de R$ 10,7 bilhões e lucro líquido de R$ 735,7 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 18,9% sobre a receita. Em 2020, distribuiu R$ 174,8 milhões em dividendos (DMPL). A série anual disponível vai de 2017 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/GNDI3
 ---
 <!-- https://atlasmercados.com.br/empresa/GNDI3 — versão Markdown da página -->
 
 NO
 
-NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A.
+NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. registro cancelada na CVM sem pregão em 90 dias
 
 GNDI3 · CD_CVM 24384 · Emp. Adm. Part. - Serviços médicos · SP · DFP 4a · ITR 4a
 
 [Consolidado](https://atlasmercados.com.br/empresa/GNDI3?base=con) [Individual](https://atlasmercados.com.br/empresa/GNDI3?base=ind)
 
-> NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. (GNDI3) teve receita líquida de R$ 10,7 bilhões e lucro líquido de R$ 735,7 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 16,2% sobre a receita. Em 2020, distribuiu R$ 174,8 milhões em dividendos (DMPL). A série anual disponível vai de 2017 a 2020.
+> NOTRE DAME INTERMÉDICA PARTICIPAÇÕES S.A. (GNDI3) teve receita líquida de R$ 10,7 bilhões e lucro líquido de R$ 735,7 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 18,9% sobre a receita. Em 2020, distribuiu R$ 174,8 milhões em dividendos (DMPL). A série anual disponível vai de 2017 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 10,7 bi · 2020
 

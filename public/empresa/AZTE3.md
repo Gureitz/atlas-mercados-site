@@ -1,6 +1,6 @@
 ---
 title: AZEVEDO & TRAVASSOS ENERGIA S.A. (AZTE3) — análise financeira | Atlas Mercados
-description: AZEVEDO & TRAVASSOS ENERGIA S.A. (AZTE3) teve receita líquida de R$ 2,9 milhões e prejuízo líquido de R$ 9,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 49,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,20 sobre o último exercício. A série anual disponível vai de 2024 a 2025.
+description: AZEVEDO & TRAVASSOS ENERGIA S.A. (AZTE3) teve receita líquida de R$ 2,9 milhões e prejuízo líquido de R$ 9,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 48,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,20 sobre o último exercício. A série anual disponível vai de 2024 a 2025.
 url: https://atlasmercados.com.br/empresa/AZTE3
 ---
 <!-- https://atlasmercados.com.br/empresa/AZTE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AZ
 
 AZEVEDO & TRAVASSOS ENERGIA S.A.
 
-AZTE3 · CD_CVM 27626 · Petróleo e Gás · SP · DFP 3a · ITR 3a
+AZTE3 · CD_CVM 27626 · Petróleo e Gás · SP · DFP 3a · ITR 3a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/AZTE3?base=con) [Individual](https://atlasmercados.com.br/empresa/AZTE3?base=ind)
 
-> AZEVEDO & TRAVASSOS ENERGIA S.A. (AZTE3) teve receita líquida de R$ 2,9 milhões e prejuízo líquido de R$ 9,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 49,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,20 sobre o último exercício. A série anual disponível vai de 2024 a 2025.
+> AZEVEDO & TRAVASSOS ENERGIA S.A. (AZTE3) teve receita líquida de R$ 2,9 milhões e prejuízo líquido de R$ 9,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 48,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,20 sobre o último exercício. A série anual disponível vai de 2024 a 2025.
 
 - Receita líq. · R$ 2,9 mi · 2025
 

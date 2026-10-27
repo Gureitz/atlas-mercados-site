@@ -1,6 +1,6 @@
 ---
 title: TRÊS TENTOS AGROINDUSTRIAL S.A. (TTEN3) — análise financeira | Atlas Mercados
-description: TRÊS TENTOS AGROINDUSTRIAL S.A. (TTEN3) teve receita líquida de R$ 16,4 bilhões e lucro líquido de R$ 808,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 5,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,7 e P/VPA de 1,15 sobre o último exercício. Em 2025, distribuiu R$ 159,9 milhões em dividendos (DMPL). A série anual disponível vai de 2022 a 2025.
+description: TRÊS TENTOS AGROINDUSTRIAL S.A. (TTEN3) teve receita líquida de R$ 16,4 bilhões e lucro líquido de R$ 808,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 7,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,8 e P/VPA de 1,51 sobre o último exercício. Em 2025, distribuiu R$ 159,9 milhões em dividendos (DMPL). A série anual disponível vai de 2022 a 2025.
 url: https://atlasmercados.com.br/empresa/TTEN3
 ---
 <!-- https://atlasmercados.com.br/empresa/TTEN3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ TR
 
 TRÊS TENTOS AGROINDUSTRIAL S.A.
 
-TTEN3 · CD_CVM 25950 · Agricultura (Açúcar, Álcool e Cana) · RS · DFP 6a · ITR 6a
+TTEN3 · CD_CVM 25950 · Agricultura (Açúcar, Álcool e Cana) · RS · DFP 6a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/TTEN3?base=con) [Individual](https://atlasmercados.com.br/empresa/TTEN3?base=ind)
 
-> TRÊS TENTOS AGROINDUSTRIAL S.A. (TTEN3) teve receita líquida de R$ 16,4 bilhões e lucro líquido de R$ 808,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 5,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,7 e P/VPA de 1,15 sobre o último exercício. Em 2025, distribuiu R$ 159,9 milhões em dividendos (DMPL). A série anual disponível vai de 2022 a 2025.
+> TRÊS TENTOS AGROINDUSTRIAL S.A. (TTEN3) teve receita líquida de R$ 16,4 bilhões e lucro líquido de R$ 808,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 7,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,8 e P/VPA de 1,51 sobre o último exercício. Em 2025, distribuiu R$ 159,9 milhões em dividendos (DMPL). A série anual disponível vai de 2022 a 2025.
 
 - Receita líq. · R$ 16,4 bi · 2025
 
@@ -90,11 +90,11 @@ DRE · DFP · consolidado · 2025 · 36 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,2× mediana 9,6× faixa 7,2× – 14,2× abaixo da mediana
+P/L atual 12,3× mediana 9,6× faixa 7,3× – 14,2× acima da mediana
 
-P/VPA atual 1,1× mediana 1,8× faixa 1,1× – 2,6× abaixo da mediana
+P/VPA atual 1,4× mediana 1,8× faixa 1,1× – 2,6× abaixo da mediana
 
-Dividend Yield atual 3,2% mediana 0,7% faixa 0,2% – 3,2% acima da mediana
+Dividend Yield atual 2,3% mediana 0,8% faixa 0,2% – 3,1% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

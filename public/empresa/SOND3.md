@@ -1,6 +1,6 @@
 ---
 title: SONDOTECNICA ENGENHARIA SOLOS S.A. (SOND3) — análise financeira | Atlas Mercados
-description: SONDOTECNICA ENGENHARIA SOLOS S.A. (SOND3) teve receita líquida de R$ 226,4 milhões e lucro líquido de R$ 35,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 56,1 milhões, margem EBITDA de 24,8% sobre a receita. O valor de mercado era de R$ 176,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,9 e P/VPA de 2,61 sobre o último exercício. Em 2025, distribuiu R$ 33,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: SONDOTECNICA ENGENHARIA SOLOS S.A. (SOND3) teve receita líquida de R$ 226,4 milhões e lucro líquido de R$ 35,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 56,1 milhões, margem EBITDA de 24,8% sobre a receita. O valor de mercado era de R$ 164,5 milhões em 13/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,6 e P/VPA de 2,43 sobre o último exercício. Em 2025, distribuiu R$ 33,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/SOND3
 ---
 <!-- https://atlasmercados.com.br/empresa/SOND3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ SO
 
 SONDOTECNICA ENGENHARIA SOLOS S.A.
 
-SOND3, SOND5, SOND6 · CD_CVM 10880 · Construção Civil, Mat. Constr. e Decoração · RJ · DFP 16a · ITR 16a
+SOND3, SOND5, SOND6 · CD_CVM 10880 · Construção Civil, Mat. Constr. e Decoração · RJ · DFP 16a · ITR 16a · último pregão 13/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SOND3?base=con) [Individual](https://atlasmercados.com.br/empresa/SOND3?base=ind)
 
-> SONDOTECNICA ENGENHARIA SOLOS S.A. (SOND3) teve receita líquida de R$ 226,4 milhões e lucro líquido de R$ 35,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 56,1 milhões, margem EBITDA de 24,8% sobre a receita. O valor de mercado era de R$ 176,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,9 e P/VPA de 2,61 sobre o último exercício. Em 2025, distribuiu R$ 33,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> SONDOTECNICA ENGENHARIA SOLOS S.A. (SOND3) teve receita líquida de R$ 226,4 milhões e lucro líquido de R$ 35,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 56,1 milhões, margem EBITDA de 24,8% sobre a receita. O valor de mercado era de R$ 164,5 milhões em 13/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,6 e P/VPA de 2,43 sobre o último exercício. Em 2025, distribuiu R$ 33,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 226,4 mi · 2025
 
@@ -88,11 +88,11 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 6,0× mediana 7,0× faixa 4,3× – 27,0× abaixo da mediana
+P/L atual 4,6× mediana 6,9× faixa 4,3× – 27,0× abaixo da mediana
 
-P/VPA atual 2,8× mediana 1,7× faixa 1,2× – 2,9× acima da mediana
+P/VPA atual 2,9× mediana 1,7× faixa 1,2× – 2,9× acima da mediana
 
-Dividend Yield atual 16,3% mediana 12,8% faixa 4,4% – 24,2% acima da mediana
+Dividend Yield atual 16,7% mediana 12,9% faixa 4,4% – 24,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,6 +1,6 @@
 ---
 title: COMPANHIIA HABITASUL DE PARTICIPAÇÕES (HBTS5) — análise financeira | Atlas Mercados
-description: COMPANHIIA HABITASUL DE PARTICIPAÇÕES (HBTS5) teve receita líquida de R$ 67,2 milhões e lucro líquido de R$ 74,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 78,7 milhões, margem EBITDA de 117,2% sobre a receita. O valor de mercado era de R$ 315,1 milhões em 14/09/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,2 e P/VPA de 0,49 sobre o último exercício. Em 2025, distribuiu R$ 71,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: COMPANHIIA HABITASUL DE PARTICIPAÇÕES (HBTS5) teve receita líquida de R$ 67,2 milhões e lucro líquido de R$ 74,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 78,7 milhões, margem EBITDA de 117,2% sobre a receita. O valor de mercado era de R$ 324,2 milhões em 13/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,3 e P/VPA de 0,51 sobre o último exercício. Em 2025, distribuiu R$ 71,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/HBTS5
 ---
 <!-- https://atlasmercados.com.br/empresa/HBTS5 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CO
 
 COMPANHIIA HABITASUL DE PARTICIPAÇÕES
 
-HBTS5 · CD_CVM 3298 · Emp. Adm. Part. - Crédito Imobiliário · RS · DFP 16a · ITR 16a
+HBTS5 · CD_CVM 3298 · Emp. Adm. Part. - Crédito Imobiliário · RS · DFP 16a · ITR 16a · último pregão 13/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/HBTS5?base=con) [Individual](https://atlasmercados.com.br/empresa/HBTS5?base=ind)
 
-> COMPANHIIA HABITASUL DE PARTICIPAÇÕES (HBTS5) teve receita líquida de R$ 67,2 milhões e lucro líquido de R$ 74,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 78,7 milhões, margem EBITDA de 117,2% sobre a receita. O valor de mercado era de R$ 315,1 milhões em 14/09/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,2 e P/VPA de 0,49 sobre o último exercício. Em 2025, distribuiu R$ 71,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> COMPANHIIA HABITASUL DE PARTICIPAÇÕES (HBTS5) teve receita líquida de R$ 67,2 milhões e lucro líquido de R$ 74,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 78,7 milhões, margem EBITDA de 117,2% sobre a receita. O valor de mercado era de R$ 324,2 milhões em 13/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,3 e P/VPA de 0,51 sobre o último exercício. Em 2025, distribuiu R$ 71,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 67,2 mi · 2025
 
@@ -87,11 +87,11 @@ DRE · DFP · consolidado · 2025 · 33 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 3,7× mediana 4,0× faixa 1,2× – 408,4× abaixo da mediana
+P/L atual 4,8× mediana 4,0× faixa 1,2× – 408,4× acima da mediana
 
 P/VPA atual 0,5× mediana 0,6× faixa 0,4× – 1,9× abaixo da mediana
 
-Dividend Yield atual 22,7% mediana 9,7% faixa 0,2% – 26,1% acima da mediana
+Dividend Yield atual 22,1% mediana 9,9% faixa 0,2% – 26,1% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

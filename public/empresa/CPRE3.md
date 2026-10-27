@@ -1,19 +1,19 @@
 ---
 title: CPFL ENERGIAS RENOVÁVEIS S.A. (CPRE3) — análise financeira | Atlas Mercados
-description: CPFL ENERGIAS RENOVÁVEIS S.A. (CPRE3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 67,2% sobre a receita. Em 2025, distribuiu R$ 1,6 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: CPFL ENERGIAS RENOVÁVEIS S.A. (CPRE3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 67,2% sobre a receita. Em 2025, distribuiu R$ 1,6 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/CPRE3
 ---
 <!-- https://atlasmercados.com.br/empresa/CPRE3 — versão Markdown da página -->
 
 CP
 
-CPFL ENERGIAS RENOVÁVEIS S.A.
+CPFL ENERGIAS RENOVÁVEIS S.A. sem pregão em 90 dias
 
 CPRE3 · CD_CVM 20540 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CPRE3?base=con) [Individual](https://atlasmercados.com.br/empresa/CPRE3?base=ind)
 
-> CPFL ENERGIAS RENOVÁVEIS S.A. (CPRE3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 67,2% sobre a receita. Em 2025, distribuiu R$ 1,6 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> CPFL ENERGIAS RENOVÁVEIS S.A. (CPRE3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 67,2% sobre a receita. Em 2025, distribuiu R$ 1,6 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 3,6 bi · 2025
 

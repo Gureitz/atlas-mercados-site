@@ -1,19 +1,19 @@
 ---
 title: GOL LINHAS AEREAS INTELIGENTES SA (GOLL54) — análise financeira | Atlas Mercados
-description: GOL LINHAS AEREAS INTELIGENTES SA (GOLL54) teve receita líquida de R$ 22,1 bilhões e prejuízo líquido de R$ 1,3 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,9 bilhões, margem EBITDA de 22,1% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: GOL LINHAS AEREAS INTELIGENTES SA (GOLL54) teve receita líquida de R$ 22,1 bilhões e prejuízo líquido de R$ 1,3 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,9 bilhões, margem EBITDA de 22,1% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 27/03/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/GOLL54
 ---
 <!-- https://atlasmercados.com.br/empresa/GOLL54 — versão Markdown da página -->
 
 GO
 
-GOL LINHAS AEREAS INTELIGENTES SA
+GOL LINHAS AEREAS INTELIGENTES SA registro cancelada na CVM sem pregão em 90 dias
 
-GOLL54, GOLL4, GOLL80 · CD_CVM 19569 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 16a · ITR 15a
+GOLL54, GOLL4, GOLL80 · CD_CVM 19569 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 16a · ITR 15a · último pregão 27/03/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/GOLL54?base=con) [Individual](https://atlasmercados.com.br/empresa/GOLL54?base=ind)
 
-> GOL LINHAS AEREAS INTELIGENTES SA (GOLL54) teve receita líquida de R$ 22,1 bilhões e prejuízo líquido de R$ 1,3 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,9 bilhões, margem EBITDA de 22,1% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> GOL LINHAS AEREAS INTELIGENTES SA (GOLL54) teve receita líquida de R$ 22,1 bilhões e prejuízo líquido de R$ 1,3 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,9 bilhões, margem EBITDA de 22,1% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 27/03/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 22,1 bi · 2025
 

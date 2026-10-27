@@ -1,19 +1,19 @@
 ---
 title: QUALITY SOFTWARE S.A. (QUSW3) — análise financeira | Atlas Mercados
-description: QUALITY SOFTWARE S.A. (QUSW3) teve receita líquida de R$ 65,7 milhões e lucro líquido de R$ 25,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 44,7 milhões, margem EBITDA de 68,1% sobre a receita. Em 2025, distribuiu R$ 6,1 milhões em dividendos (DMPL). A série anual disponível vai de 2015 a 2025.
+description: QUALITY SOFTWARE S.A. (QUSW3) teve receita líquida de R$ 65,7 milhões e lucro líquido de R$ 25,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 44,7 milhões, margem EBITDA de 68,1% sobre a receita. Em 2025, distribuiu R$ 6,1 milhões em dividendos (DMPL). A série anual disponível vai de 2015 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/QUSW3
 ---
 <!-- https://atlasmercados.com.br/empresa/QUSW3 — versão Markdown da página -->
 
 QU
 
-QUALITY SOFTWARE S.A.
+QUALITY SOFTWARE S.A. sem pregão em 90 dias
 
 QUSW3 · CD_CVM 23302 · Emp. Adm. Part. - Comunicação e Informática · RJ · DFP 14a · ITR 14a
 
 [Consolidado](https://atlasmercados.com.br/empresa/QUSW3?base=con) [Individual](https://atlasmercados.com.br/empresa/QUSW3?base=ind)
 
-> QUALITY SOFTWARE S.A. (QUSW3) teve receita líquida de R$ 65,7 milhões e lucro líquido de R$ 25,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 44,7 milhões, margem EBITDA de 68,1% sobre a receita. Em 2025, distribuiu R$ 6,1 milhões em dividendos (DMPL). A série anual disponível vai de 2015 a 2025.
+> QUALITY SOFTWARE S.A. (QUSW3) teve receita líquida de R$ 65,7 milhões e lucro líquido de R$ 25,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 44,7 milhões, margem EBITDA de 68,1% sobre a receita. Em 2025, distribuiu R$ 6,1 milhões em dividendos (DMPL). A série anual disponível vai de 2015 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 65,7 mi · 2025
 

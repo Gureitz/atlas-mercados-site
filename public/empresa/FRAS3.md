@@ -1,6 +1,6 @@
 ---
 title: FRASLE MOBILITY S.A. (FRAS3) — análise financeira | Atlas Mercados
-description: FRASLE MOBILITY S.A. (FRAS3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 283,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 925,8 milhões, margem EBITDA de 16,9% sobre a receita. O valor de mercado era de R$ 6,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 23,0 e P/VPA de 2,62 sobre o último exercício. Em 2025, distribuiu R$ 193,3 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: FRASLE MOBILITY S.A. (FRAS3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 283,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 991,5 milhões, margem EBITDA de 18,1% sobre a receita. O valor de mercado era de R$ 8,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 29,2 e P/VPA de 3,33 sobre o último exercício. Em 2025, distribuiu R$ 193,3 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/FRAS3
 ---
 <!-- https://atlasmercados.com.br/empresa/FRAS3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ FR
 
 FRASLE MOBILITY S.A.
 
-FRAS3 · CD_CVM 6211 · Máquinas, Equipamentos, Veículos e Peças · RS · DFP 16a · ITR 16a
+FRAS3 · CD_CVM 6211 · Máquinas, Equipamentos, Veículos e Peças · RS · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/FRAS3?base=con) [Individual](https://atlasmercados.com.br/empresa/FRAS3?base=ind)
 
-> FRASLE MOBILITY S.A. (FRAS3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 283,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 925,8 milhões, margem EBITDA de 16,9% sobre a receita. O valor de mercado era de R$ 6,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 23,0 e P/VPA de 2,62 sobre o último exercício. Em 2025, distribuiu R$ 193,3 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> FRASLE MOBILITY S.A. (FRAS3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 283,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 991,5 milhões, margem EBITDA de 18,1% sobre a receita. O valor de mercado era de R$ 8,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 29,2 e P/VPA de 3,33 sobre o último exercício. Em 2025, distribuiu R$ 193,3 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 5,5 bi · 2025
 
@@ -87,11 +87,11 @@ DRE · DFP · consolidado · 2025 · 33 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 24,6× mediana 16,3× faixa 8,5× – 112,9× acima da mediana
+P/L atual 28,0× mediana 16,5× faixa 8,5× – 112,9× acima da mediana
 
-P/VPA atual 2,6× mediana 2,6× faixa 1,1× – 3,4× acima da mediana
+P/VPA atual 3,3× mediana 2,6× faixa 1,1× – 3,4× acima da mediana
 
-Dividend Yield atual 3,1% mediana 2,4% faixa 1,5% – 7,4% acima da mediana
+Dividend Yield atual 2,3% mediana 2,4% faixa 1,5% – 7,4% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

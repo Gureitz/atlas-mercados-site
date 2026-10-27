@@ -1,19 +1,19 @@
 ---
 title: TIM PARTICIPAÇÕES SA (TIMP3) — análise financeira | Atlas Mercados
-description: TIM PARTICIPAÇÕES SA (TIMP3) teve receita líquida de R$ 17,4 bilhões e lucro líquido de R$ 3,6 bilhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,6 bilhões, margem EBITDA de 55,5% sobre a receita. Em 2019, distribuiu R$ 1,0 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2019.
+description: TIM PARTICIPAÇÕES SA (TIMP3) teve receita líquida de R$ 17,4 bilhões e lucro líquido de R$ 3,6 bilhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,6 bilhões, margem EBITDA de 55,5% sobre a receita. Em 2019, distribuiu R$ 1,0 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2019. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/TIMP3
 ---
 <!-- https://atlasmercados.com.br/empresa/TIMP3 — versão Markdown da página -->
 
 TI
 
-TIM PARTICIPAÇÕES SA
+TIM PARTICIPAÇÕES SA registro cancelada na CVM sem pregão em 90 dias
 
 TIMP3 · CD_CVM 17639 · Emp. Adm. Part. - Telecomunicações · RJ · DFP 10a · ITR 10a
 
 [Consolidado](https://atlasmercados.com.br/empresa/TIMP3?base=con) [Individual](https://atlasmercados.com.br/empresa/TIMP3?base=ind)
 
-> TIM PARTICIPAÇÕES SA (TIMP3) teve receita líquida de R$ 17,4 bilhões e lucro líquido de R$ 3,6 bilhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,6 bilhões, margem EBITDA de 55,5% sobre a receita. Em 2019, distribuiu R$ 1,0 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2019.
+> TIM PARTICIPAÇÕES SA (TIMP3) teve receita líquida de R$ 17,4 bilhões e lucro líquido de R$ 3,6 bilhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,6 bilhões, margem EBITDA de 55,5% sobre a receita. Em 2019, distribuiu R$ 1,0 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2019. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 17,4 bi · 2019
 

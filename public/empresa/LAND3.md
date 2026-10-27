@@ -1,6 +1,6 @@
 ---
 title: TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A. (LAND3) — análise financeira | Atlas Mercados
-description: TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A. (LAND3) teve receita líquida de R$ 96,6 milhões e lucro líquido de R$ 4,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 milhões, margem EBITDA de 2,1% sobre a receita. O valor de mercado era de R$ 947,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 199,8 e P/VPA de 1,44 sobre o último exercício. Em 2025, distribuiu R$ 5,2 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+description: TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A. (LAND3) teve receita líquida de R$ 96,6 milhões e lucro líquido de R$ 4,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 milhões, margem EBITDA de 2,3% sobre a receita. O valor de mercado era de R$ 1,0 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 215,0 e P/VPA de 1,55 sobre o último exercício. Em 2025, distribuiu R$ 5,2 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
 url: https://atlasmercados.com.br/empresa/LAND3
 ---
 <!-- https://atlasmercados.com.br/empresa/LAND3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ TE
 
 TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A.
 
-LAND3 · CD_CVM 26000 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 5a · ITR 6a
+LAND3 · CD_CVM 26000 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 5a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/LAND3?base=con) [Individual](https://atlasmercados.com.br/empresa/LAND3?base=ind)
 
-> TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A. (LAND3) teve receita líquida de R$ 96,6 milhões e lucro líquido de R$ 4,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 milhões, margem EBITDA de 2,1% sobre a receita. O valor de mercado era de R$ 947,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 199,8 e P/VPA de 1,44 sobre o último exercício. Em 2025, distribuiu R$ 5,2 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+> TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A. (LAND3) teve receita líquida de R$ 96,6 milhões e lucro líquido de R$ 4,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 milhões, margem EBITDA de 2,3% sobre a receita. O valor de mercado era de R$ 1,0 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 215,0 e P/VPA de 1,55 sobre o último exercício. Em 2025, distribuiu R$ 5,2 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
 
 - Receita líq. · R$ 96,6 mi · 2025
 
@@ -85,11 +85,11 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 270,6× mediana 53,7× faixa 10,2× – 270,6× acima da mediana
+P/L atual 268,9× mediana 53,7× faixa 10,2× – 268,9× acima da mediana
 
-P/VPA atual 1,3× mediana 2,0× faixa 1,0× – 4,2× abaixo da mediana
+P/VPA atual 1,6× mediana 2,0× faixa 1,0× – 4,2× abaixo da mediana
 
-Dividend Yield atual 0,6% mediana 1,1% faixa 0,2% – 10,1% abaixo da mediana
+Dividend Yield atual 0,5% mediana 1,1% faixa 0,2% – 10,1% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

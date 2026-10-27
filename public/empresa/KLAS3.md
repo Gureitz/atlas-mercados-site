@@ -1,19 +1,19 @@
 ---
 title: KALLAS INCORPORAÇÕES E CONSTRUÇÕES S.A. (KLAS3) — análise financeira | Atlas Mercados
-description: KALLAS INCORPORAÇÕES E CONSTRUÇÕES S.A. (KLAS3) teve receita líquida de R$ 923,1 milhões e prejuízo líquido de R$ 155,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2024, distribuiu R$ 89,6 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+description: KALLAS INCORPORAÇÕES E CONSTRUÇÕES S.A. (KLAS3) teve receita líquida de R$ 923,1 milhões e prejuízo líquido de R$ 155,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 112,7 milhões, margem EBITDA de -12,2% sobre a receita. Em 2024, distribuiu R$ 89,6 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/KLAS3
 ---
 <!-- https://atlasmercados.com.br/empresa/KLAS3 — versão Markdown da página -->
 
 KA
 
-KALLAS INCORPORAÇÕES E CONSTRUÇÕES S.A.
+KALLAS INCORPORAÇÕES E CONSTRUÇÕES S.A. sem pregão em 90 dias
 
 KLAS3 · CD_CVM 25798 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 6a · ITR 7a
 
 [Consolidado](https://atlasmercados.com.br/empresa/KLAS3?base=con) [Individual](https://atlasmercados.com.br/empresa/KLAS3?base=ind)
 
-> KALLAS INCORPORAÇÕES E CONSTRUÇÕES S.A. (KLAS3) teve receita líquida de R$ 923,1 milhões e prejuízo líquido de R$ 155,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2024, distribuiu R$ 89,6 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+> KALLAS INCORPORAÇÕES E CONSTRUÇÕES S.A. (KLAS3) teve receita líquida de R$ 923,1 milhões e prejuízo líquido de R$ 155,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 112,7 milhões, margem EBITDA de -12,2% sobre a receita. Em 2024, distribuiu R$ 89,6 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 923,1 mi · 2025
 

@@ -1,6 +1,6 @@
 ---
 title: WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A. (WIZC3) — análise financeira | Atlas Mercados
-description: WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A. (WIZC3) teve receitas operacionais de R$ 1,4 bilhão e lucro líquido de R$ 367,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,3 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,6 e P/VPA de 1,01 sobre o último exercício. Em 2025, distribuiu R$ 50,3 milhões em dividendos (DMPL). A série anual disponível vai de 2014 a 2025.
+description: WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A. (WIZC3) teve receitas operacionais de R$ 1,4 bilhão e lucro líquido de R$ 367,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,1 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,1 e P/VPA de 0,87 sobre o último exercício. Em 2025, distribuiu R$ 50,3 milhões em dividendos (DMPL). A série anual disponível vai de 2014 a 2025.
 url: https://atlasmercados.com.br/empresa/WIZC3
 ---
 <!-- https://atlasmercados.com.br/empresa/WIZC3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ WI
 
 WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.
 
-WIZC3, WIZS3 · CD_CVM 23590 · Seguradoras e Corretoras · DF · DFP 12a · ITR 12a
+WIZC3, WIZS3 · CD_CVM 23590 · Seguradoras e Corretoras · DF · DFP 12a · ITR 12a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/WIZC3?base=con) [Individual](https://atlasmercados.com.br/empresa/WIZC3?base=ind)
 
-> WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A. (WIZC3) teve receitas operacionais de R$ 1,4 bilhão e lucro líquido de R$ 367,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,3 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,6 e P/VPA de 1,01 sobre o último exercício. Em 2025, distribuiu R$ 50,3 milhões em dividendos (DMPL). A série anual disponível vai de 2014 a 2025.
+> WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A. (WIZC3) teve receitas operacionais de R$ 1,4 bilhão e lucro líquido de R$ 367,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,1 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,1 e P/VPA de 0,87 sobre o último exercício. Em 2025, distribuiu R$ 50,3 milhões em dividendos (DMPL). A série anual disponível vai de 2014 a 2025.
 
 - Receita líq. · R$ 1,4 bi · 2025
 
@@ -85,11 +85,11 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 3,5× mediana 5,0× faixa 3,0× – 14,2× abaixo da mediana
+P/L atual 3,3× mediana 5,0× faixa 3,0× – 14,2× abaixo da mediana
 
-P/VPA atual 1,0× mediana 1,1× faixa 0,7× – 9,5× abaixo da mediana
+P/VPA atual 0,8× mediana 1,1× faixa 0,7× – 9,5× abaixo da mediana
 
-Dividend Yield atual 4,1% mediana 6,9% faixa 2,8% – 19,6% abaixo da mediana
+Dividend Yield atual 4,4% mediana 6,8% faixa 2,8% – 19,6% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

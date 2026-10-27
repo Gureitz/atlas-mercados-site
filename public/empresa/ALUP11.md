@@ -1,6 +1,6 @@
 ---
 title: ALUPAR INVESTIMENTO S/A (ALUP11) — análise financeira | Atlas Mercados
-description: ALUPAR INVESTIMENTO S/A (ALUP11) teve receita líquida de R$ 4,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,3 bilhões, margem EBITDA de 75,0% sobre a receita. O valor de mercado era de R$ 33,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,1 e P/VPA de 2,63 sobre o último exercício. Em 2025, distribuiu R$ 361,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: ALUPAR INVESTIMENTO S/A (ALUP11) teve receita líquida de R$ 4,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,3 bilhões, margem EBITDA de 75,0% sobre a receita. O valor de mercado era de R$ 13,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,6 e P/VPA de 1,05 sobre o último exercício. Em 2025, distribuiu R$ 361,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 670 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/ALUP11
 ---
 <!-- https://atlasmercados.com.br/empresa/ALUP11 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AL
 
 ALUPAR INVESTIMENTO S/A
 
-ALUP11 · CD_CVM 21490 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 16a · ITR 16a
+ALUP11, ALUP3, ALUP4 · CD_CVM 21490 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ALUP11?base=con) [Individual](https://atlasmercados.com.br/empresa/ALUP11?base=ind)
 
-> ALUPAR INVESTIMENTO S/A (ALUP11) teve receita líquida de R$ 4,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,3 bilhões, margem EBITDA de 75,0% sobre a receita. O valor de mercado era de R$ 33,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,1 e P/VPA de 2,63 sobre o último exercício. Em 2025, distribuiu R$ 361,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> ALUPAR INVESTIMENTO S/A (ALUP11) teve receita líquida de R$ 4,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,3 bilhões, margem EBITDA de 75,0% sobre a receita. O valor de mercado era de R$ 13,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,6 e P/VPA de 1,05 sobre o último exercício. Em 2025, distribuiu R$ 361,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 670 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 4,4 bi · 2025
 
@@ -36,6 +36,37 @@ ALUP11 · CD_CVM 21490 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 16a �
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 670 MW · 14 usinas ≥ 1 MW
+
+- Capacidade proporcional · 631 MW · inclui coligadas
+
+- Garantia física · 340 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Ferreira Gomes | Hídrica | AP | 252 MW | 100,0% | 252 |
+| Engenheiro José Luiz Muller de Godoy Pereira (Antiga Foz do Rio Claro) | Hídrica | GO | 68 MW | 100,0% | 68 |
+| São José | Hídrica | RS | 51 MW | 100,0% | 51 |
+| Pitombeira | Solar | CE | 47 MW | 100,0% | 47 |
+| Pitombeira | Eólica | CE | 27 MW | 100,0% | 27 |
+| Verde 8 | Hídrica | GO | 30 MW | 85,0% | 26 |
+| AW São João | Eólica | RN | 25 MW | 100,0% | 25 |
+| AW Santa Régia | Eólica | RN | 38 MW | 62,3% | 24 |
+| Goiabeira | Eólica | CE | 23 MW | 100,0% | 23 |
+| Queluz | Hídrica | SP | 30 MW | 68,8% | 21 |
+| Santa Catarina | Eólica | CE | 19 MW | 100,0% | 19 |
+| Lavrinhas | Hídrica | SP | 30 MW | 61,0% | 18 |
+| Ventos de Horizonte | Eólica | CE | 17 MW | 100,0% | 17 |
+| Ubatuba | Eólica | CE | 13 MW | 100,0% | 13 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -93,11 +124,11 @@ DRE · DFP · consolidado · 2025 · 39 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 19,7× mediana 15,8× faixa 7,4× – 25,9× acima da mediana
+P/L atual 6,6× mediana 5,5× faixa 2,5× – 8,7× acima da mediana
 
-P/VPA atual 2,4× mediana 2,5× faixa 2,1× – 3,0× abaixo da mediana
+P/VPA atual 1,0× mediana 0,8× faixa 0,7× – 1,1× acima da mediana
 
-Dividend Yield atual 1,2% mediana 1,2% faixa 0,7% – 1,8% acima da mediana
+Dividend Yield atual 2,7% mediana 3,4% faixa 2,1% – 5,2% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

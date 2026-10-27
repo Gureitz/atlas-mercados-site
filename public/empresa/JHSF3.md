@@ -1,6 +1,6 @@
 ---
 title: JHSF PARTICIPAÇÕES SA (JHSF3) — análise financeira | Atlas Mercados
-description: JHSF PARTICIPAÇÕES SA (JHSF3) teve receita líquida de R$ 3,5 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,4 e P/VPA de 1,15 sobre o último exercício. Em 2025, distribuiu R$ 534,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: JHSF PARTICIPAÇÕES SA (JHSF3) teve receita líquida de R$ 3,5 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 9,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,1 e P/VPA de 1,33 sobre o último exercício. Em 2025, distribuiu R$ 534,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/JHSF3
 ---
 <!-- https://atlasmercados.com.br/empresa/JHSF3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ JH
 
 JHSF PARTICIPAÇÕES SA
 
-JHSF3 · CD_CVM 20605 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · SP · DFP 16a · ITR 16a
+JHSF3 · CD_CVM 20605 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/JHSF3?base=con) [Individual](https://atlasmercados.com.br/empresa/JHSF3?base=ind)
 
-> JHSF PARTICIPAÇÕES SA (JHSF3) teve receita líquida de R$ 3,5 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,4 e P/VPA de 1,15 sobre o último exercício. Em 2025, distribuiu R$ 534,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> JHSF PARTICIPAÇÕES SA (JHSF3) teve receita líquida de R$ 3,5 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 9,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,1 e P/VPA de 1,33 sobre o último exercício. Em 2025, distribuiu R$ 534,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 3,5 bi · 2025
 
@@ -89,11 +89,11 @@ DRE · DFP · consolidado · 2025 · 35 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 4,0× mediana 5,0× faixa 3,0× – 18,0× abaixo da mediana
+P/L atual 4,4× mediana 5,0× faixa 3,0× – 18,0× abaixo da mediana
 
-P/VPA atual 1,0× mediana 0,8× faixa 0,4× – 1,9× acima da mediana
+P/VPA atual 1,2× mediana 0,8× faixa 0,4× – 1,9× acima da mediana
 
-Dividend Yield atual 7,1% mediana 5,5% faixa 0,0% – 21,0% acima da mediana
+Dividend Yield atual 5,8% mediana 5,6% faixa 0,0% – 21,0% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -9,7 +9,7 @@ PD
 
 PDG REALTY S.A. EMPREEND E PARTICIPACOES
 
-PDGR3 · CD_CVM 20478 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · SP · DFP 16a · ITR 16a
+PDGR3 · CD_CVM 20478 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PDGR3?base=con) [Individual](https://atlasmercados.com.br/empresa/PDGR3?base=ind)
 

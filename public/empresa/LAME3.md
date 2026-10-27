@@ -1,19 +1,19 @@
 ---
 title: LOJAS AMERICANAS SA (LAME3) — análise financeira | Atlas Mercados
-description: LOJAS AMERICANAS SA (LAME3) teve receita líquida de R$ 21,3 bilhões e lucro líquido de R$ 314,9 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,5 bilhões, margem EBITDA de 11,7% sobre a receita. Em 2020, distribuiu R$ 400,8 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2020.
+description: LOJAS AMERICANAS SA (LAME3) teve receita líquida de R$ 21,3 bilhões e lucro líquido de R$ 314,9 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,0 bilhões, margem EBITDA de 14,0% sobre a receita. Em 2020, distribuiu R$ 400,8 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/LAME3
 ---
 <!-- https://atlasmercados.com.br/empresa/LAME3 — versão Markdown da página -->
 
 LO
 
-LOJAS AMERICANAS SA
+LOJAS AMERICANAS SA registro cancelada na CVM sem pregão em 90 dias
 
 LAME3, LAME4 · CD_CVM 8087 · Comércio (Atacado e Varejo) · RJ · DFP 11a · ITR 11a
 
 [Consolidado](https://atlasmercados.com.br/empresa/LAME3?base=con) [Individual](https://atlasmercados.com.br/empresa/LAME3?base=ind)
 
-> LOJAS AMERICANAS SA (LAME3) teve receita líquida de R$ 21,3 bilhões e lucro líquido de R$ 314,9 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,5 bilhões, margem EBITDA de 11,7% sobre a receita. Em 2020, distribuiu R$ 400,8 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2020.
+> LOJAS AMERICANAS SA (LAME3) teve receita líquida de R$ 21,3 bilhões e lucro líquido de R$ 314,9 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,0 bilhões, margem EBITDA de 14,0% sobre a receita. Em 2020, distribuiu R$ 400,8 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 21,3 bi · 2020
 

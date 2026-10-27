@@ -1,19 +1,19 @@
 ---
 title: MASSA FALIDA DE TECNOSOLO ENGENHARIA SA (TCNO3) — análise financeira | Atlas Mercados
-description: MASSA FALIDA DE TECNOSOLO ENGENHARIA SA (TCNO3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 634.000 no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2013 a 2021.
+description: MASSA FALIDA DE TECNOSOLO ENGENHARIA SA (TCNO3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 634.000 no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2013 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/TCNO3
 ---
 <!-- https://atlasmercados.com.br/empresa/TCNO3 — versão Markdown da página -->
 
 MA
 
-MASSA FALIDA DE TECNOSOLO ENGENHARIA SA
+MASSA FALIDA DE TECNOSOLO ENGENHARIA SA registro cancelada na CVM sem pregão em 90 dias
 
 TCNO3, TCNO4 · CD_CVM 11207 · Construção Civil, Mat. Constr. e Decoração · RJ · DFP 12a · ITR 12a
 
 [Consolidado](https://atlasmercados.com.br/empresa/TCNO3?base=con) [Individual](https://atlasmercados.com.br/empresa/TCNO3?base=ind)
 
-> MASSA FALIDA DE TECNOSOLO ENGENHARIA SA (TCNO3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 634.000 no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2013 a 2021.
+> MASSA FALIDA DE TECNOSOLO ENGENHARIA SA (TCNO3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 634.000 no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2013 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 0 · 2021
 

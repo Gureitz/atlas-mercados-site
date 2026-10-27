@@ -1,6 +1,6 @@
 ---
 title: ETERNIT S.A. (ETER3) — análise financeira | Atlas Mercados
-description: ETERNIT S.A. (ETER3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 49,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 123,0 milhões, margem EBITDA de 10,7% sobre a receita. O valor de mercado era de R$ 221,2 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,5 e P/VPA de 0,26 sobre o último exercício. Em 2025, distribuiu R$ 10,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: ETERNIT S.A. (ETER3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 49,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 123,0 milhões, margem EBITDA de 10,7% sobre a receita. O valor de mercado era de R$ 216,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,4 e P/VPA de 0,26 sobre o último exercício. Em 2025, distribuiu R$ 10,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/ETER3
 ---
 <!-- https://atlasmercados.com.br/empresa/ETER3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ ET
 
 ETERNIT S.A.
 
-ETER3 · CD_CVM 5762 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+ETER3 · CD_CVM 5762 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ETER3?base=con) [Individual](https://atlasmercados.com.br/empresa/ETER3?base=ind)
 
-> ETERNIT S.A. (ETER3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 49,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 123,0 milhões, margem EBITDA de 10,7% sobre a receita. O valor de mercado era de R$ 221,2 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,5 e P/VPA de 0,26 sobre o último exercício. Em 2025, distribuiu R$ 10,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> ETERNIT S.A. (ETER3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 49,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 123,0 milhões, margem EBITDA de 10,7% sobre a receita. O valor de mercado era de R$ 216,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,4 e P/VPA de 0,26 sobre o último exercício. Em 2025, distribuiu R$ 10,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,2 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 4,6× mediana 4,9× faixa 2,7× – 9,9× abaixo da mediana
+P/L atual 7,1× mediana 4,9× faixa 2,7× – 9,9× acima da mediana
 
 P/VPA atual 0,3× mediana 0,3× faixa 0,3× – 0,5× abaixo da mediana
 
-Dividend Yield atual 4,8% mediana 4,5% faixa 2,8% – 10,1% acima da mediana
+Dividend Yield atual 4,9% mediana 4,5% faixa 2,8% – 10,1% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

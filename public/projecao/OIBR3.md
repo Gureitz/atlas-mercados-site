@@ -11,7 +11,7 @@ OI
 
 OI S.A. - EM RECUPERAÇÃO JUDICIAL Projeção
 
-Realizado até 2T2025 · projeção de 40 trimestres (10 anos), de 3T2025 a 2T2035
+Realizado até 4T2025 · projeção de 40 trimestres (10 anos), de 1T2026 a 4T2035
 
 [← Estrutura](https://atlasmercados.com.br/valuation/OIBR3)
 

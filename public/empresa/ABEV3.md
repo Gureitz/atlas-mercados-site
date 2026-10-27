@@ -1,6 +1,6 @@
 ---
 title: AMBEV S.A. (ABEV3) — análise financeira | Atlas Mercados
-description: AMBEV S.A. (ABEV3) teve receita líquida de R$ 88,2 bilhões e lucro líquido de R$ 16,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 30,3 bilhões, margem EBITDA de 34,3% sobre a receita. O valor de mercado era de R$ 249,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,6 e P/VPA de 2,81 sobre o último exercício. Em 2025, distribuiu R$ 17,5 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2013 a 2025.
+description: AMBEV S.A. (ABEV3) teve receita líquida de R$ 88,2 bilhões e lucro líquido de R$ 16,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 30,3 bilhões, margem EBITDA de 34,3% sobre a receita. O valor de mercado era de R$ 262,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,4 e P/VPA de 2,96 sobre o último exercício. Em 2025, distribuiu R$ 17,5 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2013 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 29 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/ABEV3
 ---
 <!-- https://atlasmercados.com.br/empresa/ABEV3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AM
 
 AMBEV S.A.
 
-ABEV3 · CD_CVM 23264 · Bebidas e Fumo · SP · DFP 14a · ITR 14a
+ABEV3 · CD_CVM 23264 · Bebidas e Fumo · SP · DFP 14a · ITR 14a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ABEV3?base=con) [Individual](https://atlasmercados.com.br/empresa/ABEV3?base=ind)
 
-> AMBEV S.A. (ABEV3) teve receita líquida de R$ 88,2 bilhões e lucro líquido de R$ 16,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 30,3 bilhões, margem EBITDA de 34,3% sobre a receita. O valor de mercado era de R$ 249,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,6 e P/VPA de 2,81 sobre o último exercício. Em 2025, distribuiu R$ 17,5 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2013 a 2025.
+> AMBEV S.A. (ABEV3) teve receita líquida de R$ 88,2 bilhões e lucro líquido de R$ 16,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 30,3 bilhões, margem EBITDA de 34,3% sobre a receita. O valor de mercado era de R$ 262,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,4 e P/VPA de 2,96 sobre o último exercício. Em 2025, distribuiu R$ 17,5 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2013 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 29 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 88,2 bi · 2025
 
@@ -36,6 +36,33 @@ ABEV3 · CD_CVM 23264 · Bebidas e Fumo · SP · DFP 14a · ITR 14a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 29 MW · 7 usinas ≥ 1 MW
+
+- Capacidade proporcional · 84 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Oitis 3 coligada | Eólica | PI | 50 MW | 37,3% | 18 |
+| Oitis 5 coligada | Eólica | PI | 50 MW | 37,3% | 18 |
+| Oitis 7 coligada | Eólica | PI | 50 MW | 37,3% | 18 |
+| Jacareí | Fóssil | SP | 10 MW | 100,0% | 10 |
+| Jaguariúna | Fóssil | SP | 8 MW | 100,0% | 8 |
+| Piraí | Fóssil | RJ | 4 MW | 100,0% | 4 |
+| AMBEV VIDROS I | Fóssil | RJ | 2 MW | 100,0% | 2 |
+| AMBEV VIDROS II | Fóssil | RJ | 2 MW | 100,0% | 2 |
+| AMBEV VIDROS IV | Fóssil | RJ | 2 MW | 100,0% | 2 |
+| AMBEV VIDROS III | Fóssil | RJ | 2 MW | 100,0% | 2 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -90,11 +117,11 @@ DRE · DFP · consolidado · 2025 · 36 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 14,6× mediana 15,4× faixa 12,0× – 26,6× abaixo da mediana
+P/L atual 15,4× mediana 15,4× faixa 12,0× – 26,6× acima da mediana
 
-P/VPA atual 2,6× mediana 2,6× faixa 1,8× – 3,8× abaixo da mediana
+P/VPA atual 2,9× mediana 2,6× faixa 1,8× – 3,8× acima da mediana
 
-Dividend Yield atual 7,4% mediana 4,5% faixa 2,7% – 7,7% acima da mediana
+Dividend Yield atual 6,8% mediana 4,6% faixa 2,7% – 7,7% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

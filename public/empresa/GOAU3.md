@@ -1,6 +1,6 @@
 ---
 title: METALURGICA GERDAU SA (GOAU3) — análise financeira | Atlas Mercados
-description: METALURGICA GERDAU SA (GOAU3) teve receita líquida de R$ 69,9 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,4 bilhões, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 14,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,6 e P/VPA de 0,28 sobre o último exercício. Em 2025, distribuiu R$ 347,9 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: METALURGICA GERDAU SA (GOAU3) teve receita líquida de R$ 69,9 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,4 bilhões, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 14,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,3 e P/VPA de 0,27 sobre o último exercício. Em 2025, distribuiu R$ 347,9 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/GOAU3
 ---
 <!-- https://atlasmercados.com.br/empresa/GOAU3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ ME
 
 METALURGICA GERDAU SA
 
-GOAU3, GOAU4 · CD_CVM 8656 · Emp. Adm. Part. - Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a
+GOAU3, GOAU4 · CD_CVM 8656 · Emp. Adm. Part. - Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/GOAU3?base=con) [Individual](https://atlasmercados.com.br/empresa/GOAU3?base=ind)
 
-> METALURGICA GERDAU SA (GOAU3) teve receita líquida de R$ 69,9 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,4 bilhões, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 14,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,6 e P/VPA de 0,28 sobre o último exercício. Em 2025, distribuiu R$ 347,9 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+> METALURGICA GERDAU SA (GOAU3) teve receita líquida de R$ 69,9 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,4 bilhões, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 14,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,3 e P/VPA de 0,27 sobre o último exercício. Em 2025, distribuiu R$ 347,9 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 69,9 bi · 2025
 
@@ -101,7 +101,7 @@ DRE · DFP · consolidado · 2025 · 47 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,5× mediana 1,9× faixa 0,7× – 12,7× acima da mediana
+P/L atual 6,4× mediana 1,9× faixa 0,7× – 12,7× acima da mediana
 
 P/VPA atual 0,3× mediana 0,2× faixa 0,1× – 0,5× acima da mediana
 

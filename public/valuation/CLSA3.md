@@ -11,7 +11,7 @@ CL
 
 CLEAR SALE S.A Comunicação e Informática B3 · CVM
 
-CLSA3 · 15 linhas × 18 períodos · BRL · CVM
+CLSA3 · 16 linhas × 18 períodos · BRL · CVM
 
 [Projetar →](https://atlasmercados.com.br/projecao/CLSA3) [Trimestral](https://atlasmercados.com.br/valuation/CLSA3?p=tri) [Anual](https://atlasmercados.com.br/valuation/CLSA3?p=anual) [Tudo](https://atlasmercados.com.br/valuation/CLSA3?p=tudo)
 
@@ -29,6 +29,7 @@ Receita = volume × preço (driver específico não mapeado)
 | Custo dos produtos/serviços vendidosBRL | — | -R$ 57,9 mi | -R$ 66,5 mi | -R$ 70,7 mi | -R$ 91,1 mi | -R$ 91,6 mi | -R$ 87,2 mi | -R$ 74,2 mi | -R$ 80,4 mi | -R$ 87,9 mi | -R$ 82,5 mi | -R$ 91,1 mi | -R$ 79,8 mi | -R$ 73,8 mi | -R$ 76,0 mi | -R$ 81,2 mi | -R$ 81,5 mi | -R$ 78,6 mi |
 | Lucro brutoBRL | — | R$ 40,0 mi | R$ 45,7 mi | R$ 45,6 mi | R$ 39,9 mi | R$ 13,8 mi | R$ 35,9 mi | R$ 56,0 mi | R$ 70,4 mi | R$ 36,8 mi | R$ 44,1 mi | R$ 28,2 mi | R$ 53,8 mi | R$ 37,9 mi | R$ 42,9 mi | R$ 33,2 mi | R$ 48,2 mi | R$ 34,6 mi |
 | Despesas operacionaisBRL | — | -R$ 15,4 mi | -R$ 35,5 mi | -R$ 103,9 mi | -R$ 93,7 mi | -R$ 72,7 mi | -R$ 57,3 mi | -R$ 58,8 mi | -R$ 72,8 mi | -R$ 65,6 mi | -R$ 58,3 mi | -R$ 66,4 mi | -R$ 56,4 mi | -R$ 56,1 mi | -R$ 64,9 mi | -R$ 60,0 mi | -R$ 55,9 mi | -R$ 130,5 mi |
+| Depreciação e amortizaçãoBRL | R$ 10,1 mi | R$ 2,8 mi | R$ 3,8 mi | R$ 4,2 mi | R$ 4,4 mi | R$ 5,8 mi | R$ 7,2 mi | R$ 8,0 mi | R$ 9,8 mi | R$ 10,3 mi | R$ 10,9 mi | R$ 11,7 mi | R$ 11,4 mi | R$ 11,4 mi | R$ 11,7 mi | R$ 11,8 mi | R$ 12,1 mi | R$ 12,5 mi |
 | EBITBRL | — | R$ 24,6 mi | R$ 10,3 mi | -R$ 58,3 mi | -R$ 53,8 mi | -R$ 58,8 mi | -R$ 21,4 mi | -R$ 2,7 mi | -R$ 2,3 mi | -R$ 28,9 mi | -R$ 14,2 mi | -R$ 38,2 mi | -R$ 2,6 mi | -R$ 18,2 mi | -R$ 22,1 mi | -R$ 26,8 mi | -R$ 7,7 mi | -R$ 95,9 mi |
 | Resultado financeiro líquidoBRL | — | -R$ 332 mil | -R$ 4,8 mi | R$ 6,6 mi | R$ 13,1 mi | R$ 10,3 mi | R$ 20,3 mi | R$ 13,0 mi | R$ 12,7 mi | R$ 11,3 mi | R$ 10,8 mi | R$ 12,4 mi | R$ 8,1 mi | R$ 7,6 mi | R$ 8,8 mi | R$ 8,1 mi | R$ 9,5 mi | R$ 9,3 mi |
 | Resultado antes dos impostos (LAIR)BRL | — | R$ 24,3 mi | R$ 5,5 mi | -R$ 51,7 mi | -R$ 40,7 mi | -R$ 48,5 mi | -R$ 1,1 mi | R$ 10,3 mi | R$ 10,4 mi | -R$ 17,6 mi | -R$ 3,4 mi | -R$ 25,8 mi | R$ 5,5 mi | -R$ 10,6 mi | -R$ 13,3 mi | -R$ 18,6 mi | R$ 1,8 mi | -R$ 86,6 mi |

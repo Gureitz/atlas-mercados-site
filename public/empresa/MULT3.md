@@ -1,6 +1,6 @@
 ---
 title: MULTIPLAN - EMPREEND IMOBILIARIOS S.A. (MULT3) — análise financeira | Atlas Mercados
-description: MULTIPLAN - EMPREEND IMOBILIARIOS S.A. (MULT3) teve receita líquida de R$ 2,7 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 73,1% sobre a receita. O valor de mercado era de R$ 16,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,8 e P/VPA de 2,69 sobre o último exercício. Em 2025, distribuiu R$ 500,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: MULTIPLAN - EMPREEND IMOBILIARIOS S.A. (MULT3) teve receita líquida de R$ 2,7 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 73,1% sobre a receita. O valor de mercado era de R$ 19,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 3,06 sobre o último exercício. Em 2025, distribuiu R$ 500,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 11 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/MULT3
 ---
 <!-- https://atlasmercados.com.br/empresa/MULT3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MU
 
 MULTIPLAN - EMPREEND IMOBILIARIOS S.A.
 
-MULT3 · CD_CVM 20982 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · RJ · DFP 16a · ITR 16a
+MULT3 · CD_CVM 20982 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MULT3?base=con) [Individual](https://atlasmercados.com.br/empresa/MULT3?base=ind)
 
-> MULTIPLAN - EMPREEND IMOBILIARIOS S.A. (MULT3) teve receita líquida de R$ 2,7 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 73,1% sobre a receita. O valor de mercado era de R$ 16,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,8 e P/VPA de 2,69 sobre o último exercício. Em 2025, distribuiu R$ 500,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> MULTIPLAN - EMPREEND IMOBILIARIOS S.A. (MULT3) teve receita líquida de R$ 2,7 bilhões e lucro líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 73,1% sobre a receita. O valor de mercado era de R$ 19,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 3,06 sobre o último exercício. Em 2025, distribuiu R$ 500,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 11 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 2,7 bi · 2025
 
@@ -36,6 +36,28 @@ MULT3 · CD_CVM 20982 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoraç�
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 11 MW · 5 usinas ≥ 1 MW
+
+- Capacidade proporcional · 11 MW · inclui coligadas
+
+- Garantia física · 2 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Ita 01 | Solar | MG | 3 MW | 100,0% | 3 |
+| Ita 02 | Solar | MG | 3 MW | 100,0% | 3 |
+| Morumbi Corporate Administração | Fóssil | SP | 2 MW | 100,0% | 2 |
+| Morumbi Corporate Torre Alta | Fóssil | SP | 1 MW | 100,0% | 1 |
+| Morumbi Corporate Torre Baixa | Fóssil | SP | 1 MW | 100,0% | 1 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -92,11 +114,11 @@ DRE · DFP · consolidado · 2025 · 38 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 12,2× mediana 15,1× faixa 9,1× – 37,3× abaixo da mediana
+P/L atual 13,3× mediana 15,1× faixa 9,1× – 37,3× abaixo da mediana
 
-P/VPA atual 2,3× mediana 2,2× faixa 1,4× – 2,9× acima da mediana
+P/VPA atual 2,7× mediana 2,2× faixa 1,4× – 2,9× acima da mediana
 
-Dividend Yield atual 3,4% mediana 2,6% faixa 1,8% – 5,7% acima da mediana
+Dividend Yield atual 2,7% mediana 2,6% faixa 1,8% – 5,7% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

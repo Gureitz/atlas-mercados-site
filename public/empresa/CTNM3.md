@@ -1,19 +1,19 @@
 ---
 title: CIA TECIDOS NORTE DE MINAS - COTEMINAS - EM RECUPERAÇÃO JUDICIAL (CTNM3) — análise financeira | Atlas Mercados
-description: CIA TECIDOS NORTE DE MINAS - COTEMINAS - EM RECUPERAÇÃO JUDICIAL (CTNM3) teve receita líquida de R$ 470,3 milhões e prejuízo líquido de R$ 780,0 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 433,4 milhões, margem EBITDA de -92,2% sobre a receita. A série anual disponível vai de 2010 a 2024.
+description: CIA TECIDOS NORTE DE MINAS - COTEMINAS - EM RECUPERAÇÃO JUDICIAL (CTNM3) teve receita líquida de R$ 470,3 milhões e prejuízo líquido de R$ 780,0 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 433,4 milhões, margem EBITDA de -92,2% sobre a receita. A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/CTNM3
 ---
 <!-- https://atlasmercados.com.br/empresa/CTNM3 — versão Markdown da página -->
 
 CI
 
-CIA TECIDOS NORTE DE MINAS - COTEMINAS - EM RECUPERAÇÃO JUDICIAL
+CIA TECIDOS NORTE DE MINAS - COTEMINAS - EM RECUPERAÇÃO JUDICIAL registro cancelada na CVM sem pregão em 90 dias
 
 CTNM3, CTNM4 · CD_CVM 3158 · Têxtil e Vestuário · MG · DFP 15a · ITR 14a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CTNM3?base=con) [Individual](https://atlasmercados.com.br/empresa/CTNM3?base=ind)
 
-> CIA TECIDOS NORTE DE MINAS - COTEMINAS - EM RECUPERAÇÃO JUDICIAL (CTNM3) teve receita líquida de R$ 470,3 milhões e prejuízo líquido de R$ 780,0 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 433,4 milhões, margem EBITDA de -92,2% sobre a receita. A série anual disponível vai de 2010 a 2024.
+> CIA TECIDOS NORTE DE MINAS - COTEMINAS - EM RECUPERAÇÃO JUDICIAL (CTNM3) teve receita líquida de R$ 470,3 milhões e prejuízo líquido de R$ 780,0 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 433,4 milhões, margem EBITDA de -92,2% sobre a receita. A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 470,3 mi · 2024
 

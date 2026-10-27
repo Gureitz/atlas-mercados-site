@@ -1,6 +1,6 @@
 ---
 title: PANATLANTICA SA (PATI3) — análise financeira | Atlas Mercados
-description: PANATLANTICA SA (PATI3) teve receita líquida de R$ 1,9 bilhão e lucro líquido de R$ 49,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 102,5 milhões, margem EBITDA de 5,3% sobre a receita. O valor de mercado era de R$ 671,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,5 e P/VPA de 0,91 sobre o último exercício. Em 2025, distribuiu R$ 56,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: PANATLANTICA SA (PATI3) teve receita líquida de R$ 1,9 bilhão e lucro líquido de R$ 49,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 102,5 milhões, margem EBITDA de 5,3% sobre a receita. O valor de mercado era de R$ 693,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,9 e P/VPA de 0,93 sobre o último exercício. Em 2025, distribuiu R$ 56,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/PATI3
 ---
 <!-- https://atlasmercados.com.br/empresa/PATI3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ PA
 
 PANATLANTICA SA
 
-PATI3, PATI4 · CD_CVM 94 · Metalurgia e Siderurgia · RS · DFP 16a · ITR 16a
+PATI3, PATI4 · CD_CVM 94 · Metalurgia e Siderurgia · RS · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PATI3?base=con) [Individual](https://atlasmercados.com.br/empresa/PATI3?base=ind)
 
-> PANATLANTICA SA (PATI3) teve receita líquida de R$ 1,9 bilhão e lucro líquido de R$ 49,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 102,5 milhões, margem EBITDA de 5,3% sobre a receita. O valor de mercado era de R$ 671,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,5 e P/VPA de 0,91 sobre o último exercício. Em 2025, distribuiu R$ 56,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> PANATLANTICA SA (PATI3) teve receita líquida de R$ 1,9 bilhão e lucro líquido de R$ 49,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 102,5 milhões, margem EBITDA de 5,3% sobre a receita. O valor de mercado era de R$ 693,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,9 e P/VPA de 0,93 sobre o último exercício. Em 2025, distribuiu R$ 56,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,9 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 13,8× mediana 10,3× faixa 4,0× – 137,6× acima da mediana
+P/L atual 11,3× mediana 10,5× faixa 4,0× – 137,6× acima da mediana
 
 P/VPA atual 0,9× mediana 1,0× faixa 0,6× – 3,2× abaixo da mediana
 
-Dividend Yield atual 8,5% mediana 3,6% faixa 0,2% – 22,2% acima da mediana
+Dividend Yield atual 8,2% mediana 3,7% faixa 0,2% – 22,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

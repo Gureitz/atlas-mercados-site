@@ -1,6 +1,6 @@
 ---
 title: CONSTRUTORA TENDA S/A (TEND3) — análise financeira | Atlas Mercados
-description: CONSTRUTORA TENDA S/A (TEND3) teve receita líquida de R$ 4,2 bilhões e lucro líquido de R$ 484,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 583,2 milhões, margem EBITDA de 14,0% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,1 e P/VPA de 2,86 sobre o último exercício. Em 2025, distribuiu R$ 150,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: CONSTRUTORA TENDA S/A (TEND3) teve receita líquida de R$ 4,2 bilhões e lucro líquido de R$ 484,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 583,2 milhões, margem EBITDA de 14,0% sobre a receita. O valor de mercado era de R$ 3,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,2 e P/VPA de 2,89 sobre o último exercício. Em 2025, distribuiu R$ 150,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/TEND3
 ---
 <!-- https://atlasmercados.com.br/empresa/TEND3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CO
 
 CONSTRUTORA TENDA S/A
 
-TEND3 · CD_CVM 21148 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+TEND3 · CD_CVM 21148 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/TEND3?base=con) [Individual](https://atlasmercados.com.br/empresa/TEND3?base=ind)
 
-> CONSTRUTORA TENDA S/A (TEND3) teve receita líquida de R$ 4,2 bilhões e lucro líquido de R$ 484,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 583,2 milhões, margem EBITDA de 14,0% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,1 e P/VPA de 2,86 sobre o último exercício. Em 2025, distribuiu R$ 150,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> CONSTRUTORA TENDA S/A (TEND3) teve receita líquida de R$ 4,2 bilhões e lucro líquido de R$ 484,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 583,2 milhões, margem EBITDA de 14,0% sobre a receita. O valor de mercado era de R$ 3,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,2 e P/VPA de 2,89 sobre o último exercício. Em 2025, distribuiu R$ 150,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 4,2 bi · 2025
 
@@ -86,11 +86,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 2,8× mediana 10,2× faixa 2,8× – 31,1× abaixo da mediana
+P/L atual 2,9× mediana 9,9× faixa 2,7× – 31,1× abaixo da mediana
 
-P/VPA atual 1,2× mediana 1,7× faixa 0,3× – 3,3× abaixo da mediana
+P/VPA atual 1,1× mediana 1,7× faixa 0,3× – 3,3× abaixo da mediana
 
-Dividend Yield atual 9,2% mediana 2,4% faixa 0,5% – 12,6% acima da mediana
+Dividend Yield atual 9,2% mediana 2,5% faixa 0,5% – 12,6% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

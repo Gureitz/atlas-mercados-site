@@ -1,19 +1,19 @@
 ---
 title: SPRINGS GLOBAL PARTICIPAÇÕES S/A - EM RECUPERAÇÃO JUDICIAL (SGPS3) — análise financeira | Atlas Mercados
-description: SPRINGS GLOBAL PARTICIPAÇÕES S/A - EM RECUPERAÇÃO JUDICIAL (SGPS3) teve receita líquida de R$ 439,4 milhões e prejuízo líquido de R$ 613,4 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 310,2 milhões, margem EBITDA de -70,6% sobre a receita. A série anual disponível vai de 2010 a 2024.
+description: SPRINGS GLOBAL PARTICIPAÇÕES S/A - EM RECUPERAÇÃO JUDICIAL (SGPS3) teve receita líquida de R$ 439,4 milhões e prejuízo líquido de R$ 613,4 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 310,2 milhões, margem EBITDA de -70,6% sobre a receita. A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/SGPS3
 ---
 <!-- https://atlasmercados.com.br/empresa/SGPS3 — versão Markdown da página -->
 
 SP
 
-SPRINGS GLOBAL PARTICIPAÇÕES S/A - EM RECUPERAÇÃO JUDICIAL
+SPRINGS GLOBAL PARTICIPAÇÕES S/A - EM RECUPERAÇÃO JUDICIAL registro cancelada na CVM sem pregão em 90 dias
 
 SGPS3 · CD_CVM 20966 · Emp. Adm. Part. - Têxtil e Vestuário · MG · DFP 15a · ITR 14a
 
 [Consolidado](https://atlasmercados.com.br/empresa/SGPS3?base=con) [Individual](https://atlasmercados.com.br/empresa/SGPS3?base=ind)
 
-> SPRINGS GLOBAL PARTICIPAÇÕES S/A - EM RECUPERAÇÃO JUDICIAL (SGPS3) teve receita líquida de R$ 439,4 milhões e prejuízo líquido de R$ 613,4 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 310,2 milhões, margem EBITDA de -70,6% sobre a receita. A série anual disponível vai de 2010 a 2024.
+> SPRINGS GLOBAL PARTICIPAÇÕES S/A - EM RECUPERAÇÃO JUDICIAL (SGPS3) teve receita líquida de R$ 439,4 milhões e prejuízo líquido de R$ 613,4 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 310,2 milhões, margem EBITDA de -70,6% sobre a receita. A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 439,4 mi · 2024
 

@@ -1,6 +1,6 @@
 ---
 title: MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A. (MTRE3) — análise financeira | Atlas Mercados
-description: MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A. (MTRE3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 78,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 99,5 milhões, margem EBITDA de 9,4% sobre a receita. O valor de mercado era de R$ 371,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,8 e P/VPA de 0,35 sobre o último exercício. Em 2025, distribuiu R$ 48,0 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
+description: MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A. (MTRE3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 78,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 99,5 milhões, margem EBITDA de 9,4% sobre a receita. O valor de mercado era de R$ 442,1 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,7 e P/VPA de 0,42 sobre o último exercício. Em 2025, distribuiu R$ 48,0 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
 url: https://atlasmercados.com.br/empresa/MTRE3
 ---
 <!-- https://atlasmercados.com.br/empresa/MTRE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MI
 
 MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.
 
-MTRE3 · CD_CVM 24902 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 8a · ITR 8a
+MTRE3 · CD_CVM 24902 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 8a · ITR 8a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MTRE3?base=con) [Individual](https://atlasmercados.com.br/empresa/MTRE3?base=ind)
 
-> MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A. (MTRE3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 78,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 99,5 milhões, margem EBITDA de 9,4% sobre a receita. O valor de mercado era de R$ 371,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,8 e P/VPA de 0,35 sobre o último exercício. Em 2025, distribuiu R$ 48,0 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
+> MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A. (MTRE3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 78,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 99,5 milhões, margem EBITDA de 9,4% sobre a receita. O valor de mercado era de R$ 442,1 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,7 e P/VPA de 0,42 sobre o último exercício. Em 2025, distribuiu R$ 48,0 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
 
 - Receita líq. · R$ 1,1 bi · 2025
 
@@ -86,11 +86,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 4,0× mediana 10,3× faixa 3,5× – 125,1× abaixo da mediana
+P/L atual 4,5× mediana 10,3× faixa 3,5× – 125,1× abaixo da mediana
 
-P/VPA atual 0,3× mediana 0,5× faixa 0,3× – 25,6× abaixo da mediana
+P/VPA atual 0,4× mediana 0,5× faixa 0,3× – 25,6× abaixo da mediana
 
-Dividend Yield atual 13,6% mediana 8,7% faixa 0,4% – 26,2% acima da mediana
+Dividend Yield atual 10,9% mediana 8,8% faixa 0,4% – 26,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

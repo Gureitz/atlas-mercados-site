@@ -1,6 +1,6 @@
 ---
 title: ORIZON VALORIZAÇÃO DE RESÍDUOS S.A. (ORVR3) — análise financeira | Atlas Mercados
-description: ORIZON VALORIZAÇÃO DE RESÍDUOS S.A. (ORVR3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 74,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 491,1 milhões, margem EBITDA de 46,8% sobre a receita. O valor de mercado era de R$ 2,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 33,1 e P/VPA de 1,58 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
+description: ORIZON VALORIZAÇÃO DE RESÍDUOS S.A. (ORVR3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 74,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 491,1 milhões, margem EBITDA de 46,8% sobre a receita. O valor de mercado era de R$ 2,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 38,7 e P/VPA de 1,84 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/ORVR3
 ---
 <!-- https://atlasmercados.com.br/empresa/ORVR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ OR
 
 ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.
 
-ORVR3 · CD_CVM 25550 · Saneamento, Serv. Água e Gás · SP · DFP 7a · ITR 7a
+ORVR3 · CD_CVM 25550 · Saneamento, Serv. Água e Gás · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ORVR3?base=con) [Individual](https://atlasmercados.com.br/empresa/ORVR3?base=ind)
 
-> ORIZON VALORIZAÇÃO DE RESÍDUOS S.A. (ORVR3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 74,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 491,1 milhões, margem EBITDA de 46,8% sobre a receita. O valor de mercado era de R$ 2,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 33,1 e P/VPA de 1,58 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
+> ORIZON VALORIZAÇÃO DE RESÍDUOS S.A. (ORVR3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 74,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 491,1 milhões, margem EBITDA de 46,8% sobre a receita. O valor de mercado era de R$ 2,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 38,7 e P/VPA de 1,84 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 1,1 bi · 2025
 
@@ -85,9 +85,9 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 22,2× mediana 67,3× faixa 19,7× – 168,7× abaixo da mediana
+P/L atual 35,9× mediana 65,7× faixa 19,7× – 168,7× abaixo da mediana
 
-P/VPA atual 1,4× mediana 5,0× faixa 1,4× – 25,5× abaixo da mediana
+P/VPA atual 0,5× mediana 5,0× faixa 0,5× – 25,5× abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,6 +1,6 @@
 ---
 title: RENOVA ENERGIA S.A. (RNEW3) — análise financeira | Atlas Mercados
-description: RENOVA ENERGIA S.A. (RNEW3) teve receita líquida de R$ 515,0 milhões e prejuízo líquido de R$ 162,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 109,8 milhões, margem EBITDA de 21,3% sobre a receita. O valor de mercado era de R$ 302,2 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,25 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: RENOVA ENERGIA S.A. (RNEW3) teve receita líquida de R$ 515,0 milhões e prejuízo líquido de R$ 162,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 109,8 milhões, margem EBITDA de 21,3% sobre a receita. O valor de mercado era de R$ 380,6 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,32 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 66 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/RNEW3
 ---
 <!-- https://atlasmercados.com.br/empresa/RNEW3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ RE
 
 RENOVA ENERGIA S.A.
 
-RNEW3, RNEW4, RNEW11 · CD_CVM 21636 · Energia Elétrica · SP · DFP 16a · ITR 16a
+RNEW3, RNEW4, RNEW11 · CD_CVM 21636 · Energia Elétrica · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/RNEW3?base=con) [Individual](https://atlasmercados.com.br/empresa/RNEW3?base=ind)
 
-> RENOVA ENERGIA S.A. (RNEW3) teve receita líquida de R$ 515,0 milhões e prejuízo líquido de R$ 162,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 109,8 milhões, margem EBITDA de 21,3% sobre a receita. O valor de mercado era de R$ 302,2 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,25 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> RENOVA ENERGIA S.A. (RNEW3) teve receita líquida de R$ 515,0 milhões e prejuízo líquido de R$ 162,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 109,8 milhões, margem EBITDA de 21,3% sobre a receita. O valor de mercado era de R$ 380,6 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,32 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 66 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 515,0 mi · 2025
 
@@ -36,6 +36,28 @@ RNEW3, RNEW4, RNEW11 · CD_CVM 21636 · Energia Elétrica · SP · DFP 16a · IT
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 66 MW · 5 usinas ≥ 1 MW
+
+- Capacidade proporcional · 66 MW · inclui coligadas
+
+- Garantia física · 30 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Colino 2 | Hídrica | BA | 16 MW | 100,0% | 16 |
+| Cachoeira da Lixa | Hídrica | BA | 15 MW | 100,0% | 15 |
+| Mulungu | Eólica | BA | 14 MW | 100,0% | 14 |
+| Colino 1 | Hídrica | BA | 11 MW | 100,0% | 11 |
+| Quina | Eólica | BA | 11 MW | 100,0% | 11 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -100,7 +122,7 @@ DRE · DFP · consolidado · 2025 · 46 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/VPA atual 0,3× mediana 0,3× faixa 0,2× – 0,6× abaixo da mediana
+P/VPA atual 0,3× mediana 0,3× faixa 0,2× – 0,6× acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

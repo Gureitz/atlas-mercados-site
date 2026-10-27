@@ -1,19 +1,19 @@
 ---
 title: INSTITUTO HERMES PARDINI S/A (PARD3) — análise financeira | Atlas Mercados
-description: INSTITUTO HERMES PARDINI S/A (PARD3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 173,0 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 458,8 milhões, margem EBITDA de 21,9% sobre a receita. Em 2022, distribuiu R$ 61,7 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2016 a 2022.
+description: INSTITUTO HERMES PARDINI S/A (PARD3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 173,0 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 458,8 milhões, margem EBITDA de 21,9% sobre a receita. Em 2022, distribuiu R$ 61,7 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2016 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/PARD3
 ---
 <!-- https://atlasmercados.com.br/empresa/PARD3 — versão Markdown da página -->
 
 IN
 
-INSTITUTO HERMES PARDINI S/A
+INSTITUTO HERMES PARDINI S/A registro cancelada na CVM sem pregão em 90 dias
 
 PARD3 · CD_CVM 24090 · Serviços Médicos · MG · DFP 7a · ITR 8a
 
 [Consolidado](https://atlasmercados.com.br/empresa/PARD3?base=con) [Individual](https://atlasmercados.com.br/empresa/PARD3?base=ind)
 
-> INSTITUTO HERMES PARDINI S/A (PARD3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 173,0 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 458,8 milhões, margem EBITDA de 21,9% sobre a receita. Em 2022, distribuiu R$ 61,7 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2016 a 2022.
+> INSTITUTO HERMES PARDINI S/A (PARD3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 173,0 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 458,8 milhões, margem EBITDA de 21,9% sobre a receita. Em 2022, distribuiu R$ 61,7 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2016 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 2,1 bi · 2022
 

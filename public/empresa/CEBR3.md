@@ -1,6 +1,6 @@
 ---
 title: COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB (CEBR3) — análise financeira | Atlas Mercados
-description: COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB (CEBR3) teve receita líquida de R$ 510,3 milhões e lucro líquido de R$ 235,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,7 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 1,47 sobre o último exercício. Em 2025, distribuiu R$ 211,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB (CEBR3) teve receita líquida de R$ 510,3 milhões e lucro líquido de R$ 235,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,8 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,7 e P/VPA de 1,56 sobre o último exercício. Em 2025, distribuiu R$ 211,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 30 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/CEBR3
 ---
 <!-- https://atlasmercados.com.br/empresa/CEBR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CO
 
 COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB
 
-CEBR3, CEBR5, CEBR6 · CD_CVM 14451 · Energia Elétrica · DF · DFP 16a · ITR 16a
+CEBR3, CEBR5, CEBR6 · CD_CVM 14451 · Energia Elétrica · DF · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CEBR3?base=con) [Individual](https://atlasmercados.com.br/empresa/CEBR3?base=ind)
 
-> COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB (CEBR3) teve receita líquida de R$ 510,3 milhões e lucro líquido de R$ 235,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,7 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 1,47 sobre o último exercício. Em 2025, distribuiu R$ 211,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB (CEBR3) teve receita líquida de R$ 510,3 milhões e lucro líquido de R$ 235,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,8 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,7 e P/VPA de 1,56 sobre o último exercício. Em 2025, distribuiu R$ 211,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 30 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 510,3 mi · 2025
 
@@ -36,6 +36,40 @@ CEBR3, CEBR5, CEBR6 · CD_CVM 14451 · Energia Elétrica · DF · DFP 16a · ITR
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 30 MW · 1 usinas ≥ 1 MW
+
+- Capacidade proporcional · 94 MW · inclui coligadas
+
+- Garantia física · 12 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Corumbá IV coligada | Hídrica | GO | 129 MW | 32,5% | 42 |
+| Paranoá | Hídrica | DF | 30 MW | 100,0% | 30 |
+| Corumbá III coligada | Hídrica | GO | 96 MW | 15,0% | 14 |
+| Irara coligada | Hídrica | GO | 30 MW | 2,7% | 1 |
+| Santa Fé I coligada | Hídrica | RJ | 30 MW | 2,7% | 1 |
+| Jataí coligada | Hídrica | GO | 30 MW | 2,7% | 1 |
+| São Pedro coligada | Hídrica | ES | 30 MW | 2,7% | 1 |
+| São Simão coligada | Hídrica | ES | 27 MW | 2,7% | 1 |
+| Monte Serrat coligada | Hídrica | RJ | 25 MW | 2,7% | 1 |
+| Funil coligada | Hídrica | MG | 22 MW | 2,7% | 1 |
+| São Joaquim coligada | Hídrica | ES | 21 MW | 2,7% | 1 |
+| Calheiros coligada | Hídrica | RJ | 20 MW | 2,7% | 1 |
+| Bonfante coligada | Hídrica | MG | 19 MW | 2,7% | 1 |
+| Retiro Velho coligada | Hídrica | GO | 18 MW | 2,7% | 0 |
+| Carangola coligada | Hídrica | MG | 15 MW | 2,7% | 0 |
+
+15 de 16 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -93,11 +127,11 @@ DRE · DFP · consolidado · 2025 · 39 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,0× mediana 5,7× faixa 0,1× – 35,3× acima da mediana
+P/L atual 9,0× mediana 5,8× faixa 0,1× – 35,3× acima da mediana
 
-P/VPA atual 1,4× mediana 1,0× faixa 0,1× – 3,5× acima da mediana
+P/VPA atual 1,5× mediana 1,0× faixa 0,1× – 3,5× acima da mediana
 
-Dividend Yield atual 12,5% mediana 9,8% faixa 0,7% – 232,5% acima da mediana
+Dividend Yield atual 11,6% mediana 10,3% faixa 0,7% – 232,5% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

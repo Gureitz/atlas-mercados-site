@@ -1,6 +1,6 @@
 ---
 title: EVEN CONSTRUTORA E INCORPORADORA S/A (EVEN3) — análise financeira | Atlas Mercados
-description: EVEN CONSTRUTORA E INCORPORADORA S/A (EVEN3) teve receita líquida de R$ 1,9 bilhão e lucro líquido de R$ 299,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 256,0 milhões, margem EBITDA de 13,3% sobre a receita. O valor de mercado era de R$ 952,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,2 e P/VPA de 0,43 sobre o último exercício. Em 2025, distribuiu R$ 150,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: EVEN CONSTRUTORA E INCORPORADORA S/A (EVEN3) teve receita líquida de R$ 1,9 bilhão e lucro líquido de R$ 299,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 256,0 milhões, margem EBITDA de 13,3% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 0,56 sobre o último exercício. Em 2025, distribuiu R$ 150,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/EVEN3
 ---
 <!-- https://atlasmercados.com.br/empresa/EVEN3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ EV
 
 EVEN CONSTRUTORA E INCORPORADORA S/A
 
-EVEN3 · CD_CVM 20524 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+EVEN3 · CD_CVM 20524 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/EVEN3?base=con) [Individual](https://atlasmercados.com.br/empresa/EVEN3?base=ind)
 
-> EVEN CONSTRUTORA E INCORPORADORA S/A (EVEN3) teve receita líquida de R$ 1,9 bilhão e lucro líquido de R$ 299,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 256,0 milhões, margem EBITDA de 13,3% sobre a receita. O valor de mercado era de R$ 952,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,2 e P/VPA de 0,43 sobre o último exercício. Em 2025, distribuiu R$ 150,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> EVEN CONSTRUTORA E INCORPORADORA S/A (EVEN3) teve receita líquida de R$ 1,9 bilhão e lucro líquido de R$ 299,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 256,0 milhões, margem EBITDA de 13,3% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 0,56 sobre o último exercício. Em 2025, distribuiu R$ 150,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,9 bi · 2025
 
@@ -90,11 +90,11 @@ DRE · DFP · consolidado · 2025 · 36 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 3,5× mediana 7,2× faixa 2,7× – 68,4× abaixo da mediana
+P/L atual 4,9× mediana 7,2× faixa 2,7× – 68,4× abaixo da mediana
 
-P/VPA atual 0,4× mediana 0,5× faixa 0,3× – 1,6× abaixo da mediana
+P/VPA atual 0,5× mediana 0,5× faixa 0,3× – 1,6× abaixo da mediana
 
-Dividend Yield atual 15,8% mediana 7,9% faixa 0,2% – 18,8% acima da mediana
+Dividend Yield atual 12,4% mediana 7,9% faixa 0,2% – 18,8% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,19 +1,19 @@
 ---
 title: ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A. (ONCO3) — análise financeira | Atlas Mercados
-description: ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A. (ONCO3) teve receita líquida de R$ 5,7 bilhões e prejuízo líquido de R$ 3,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,7 bilhão, margem EBITDA de -29,5% sobre a receita. O valor de mercado era de R$ 1,1 bilhão em 14/07/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,03 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
+description: ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A. (ONCO3) teve receita líquida de R$ 5,7 bilhões e prejuízo líquido de R$ 3,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,7 bilhão, margem EBITDA de -29,5% sobre a receita. O valor de mercado era de R$ 1,1 bilhão em 14/07/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,03 sobre o último exercício. A série anual disponível vai de 2020 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 14/07/2026, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/ONCO3
 ---
 <!-- https://atlasmercados.com.br/empresa/ONCO3 — versão Markdown da página -->
 
 ON
 
-ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A.
+ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A. sem pregão em 90 dias
 
-ONCO3 · CD_CVM 26123 · Serviços Médicos · SP · DFP 6a · ITR 6a
+ONCO3 · CD_CVM 26123 · Serviços Médicos · SP · DFP 6a · ITR 6a · último pregão 14/07/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ONCO3?base=con) [Individual](https://atlasmercados.com.br/empresa/ONCO3?base=ind)
 
-> ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A. (ONCO3) teve receita líquida de R$ 5,7 bilhões e prejuízo líquido de R$ 3,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,7 bilhão, margem EBITDA de -29,5% sobre a receita. O valor de mercado era de R$ 1,1 bilhão em 14/07/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,03 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
+> ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A. (ONCO3) teve receita líquida de R$ 5,7 bilhões e prejuízo líquido de R$ 3,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,7 bilhão, margem EBITDA de -29,5% sobre a receita. O valor de mercado era de R$ 1,1 bilhão em 14/07/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,03 sobre o último exercício. A série anual disponível vai de 2020 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 14/07/2026, segundo o COTAHIST).
 
 - Receita líq. · R$ 5,7 bi · 2025
 

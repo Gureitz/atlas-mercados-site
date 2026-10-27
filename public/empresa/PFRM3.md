@@ -1,6 +1,6 @@
 ---
 title: PROFARMA DISTRIB PROD FARMACEUTICOS S.A. (PFRM3) — análise financeira | Atlas Mercados
-description: PROFARMA DISTRIB PROD FARMACEUTICOS S.A. (PFRM3) teve receita líquida de R$ 11,5 bilhões e lucro líquido de R$ 126,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 424,5 milhões, margem EBITDA de 3,7% sobre a receita. O valor de mercado era de R$ 953,4 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,6 e P/VPA de 0,58 sobre o último exercício. Em 2025, distribuiu R$ 79,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: PROFARMA DISTRIB PROD FARMACEUTICOS S.A. (PFRM3) teve receita líquida de R$ 11,5 bilhões e lucro líquido de R$ 126,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 550,1 milhões, margem EBITDA de 4,8% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,4 e P/VPA de 0,73 sobre o último exercício. Em 2025, distribuiu R$ 79,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/PFRM3
 ---
 <!-- https://atlasmercados.com.br/empresa/PFRM3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ PR
 
 PROFARMA DISTRIB PROD FARMACEUTICOS S.A.
 
-PFRM3 · CD_CVM 20346 · Comércio (Atacado e Varejo) · RJ · DFP 16a · ITR 16a
+PFRM3 · CD_CVM 20346 · Comércio (Atacado e Varejo) · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PFRM3?base=con) [Individual](https://atlasmercados.com.br/empresa/PFRM3?base=ind)
 
-> PROFARMA DISTRIB PROD FARMACEUTICOS S.A. (PFRM3) teve receita líquida de R$ 11,5 bilhões e lucro líquido de R$ 126,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 424,5 milhões, margem EBITDA de 3,7% sobre a receita. O valor de mercado era de R$ 953,4 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,6 e P/VPA de 0,58 sobre o último exercício. Em 2025, distribuiu R$ 79,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> PROFARMA DISTRIB PROD FARMACEUTICOS S.A. (PFRM3) teve receita líquida de R$ 11,5 bilhões e lucro líquido de R$ 126,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 550,1 milhões, margem EBITDA de 4,8% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,4 e P/VPA de 0,73 sobre o último exercício. Em 2025, distribuiu R$ 79,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 11,5 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,8× mediana 8,5× faixa 4,1× – 57,8× abaixo da mediana
+P/L atual 7,3× mediana 8,4× faixa 4,1× – 57,8× abaixo da mediana
 
-P/VPA atual 0,5× mediana 0,5× faixa 0,3× – 0,8× acima da mediana
+P/VPA atual 0,7× mediana 0,5× faixa 0,3× – 0,8× acima da mediana
 
-Dividend Yield atual 9,0% mediana 6,7% faixa 2,8% – 9,5% acima da mediana
+Dividend Yield atual 6,7% mediana 6,7% faixa 2,8% – 9,5% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

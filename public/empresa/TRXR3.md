@@ -1,19 +1,19 @@
 ---
 title: TÊXTIL RENAUXVIEW S/A (TRXR3) — análise financeira | Atlas Mercados
-description: TÊXTIL RENAUXVIEW S/A (TRXR3) teve receita líquida de R$ 115,9 milhões e prejuízo líquido de R$ 57,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+description: TÊXTIL RENAUXVIEW S/A (TRXR3) teve receita líquida de R$ 115,9 milhões e prejuízo líquido de R$ 57,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/TRXR3
 ---
 <!-- https://atlasmercados.com.br/empresa/TRXR3 — versão Markdown da página -->
 
 TÊ
 
-TÊXTIL RENAUXVIEW S/A
+TÊXTIL RENAUXVIEW S/A sem pregão em 90 dias
 
 TRXR3, TXRX4 · CD_CVM 7544 · Têxtil e Vestuário · SC · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/TRXR3?base=con) [Individual](https://atlasmercados.com.br/empresa/TRXR3?base=ind)
 
-> TÊXTIL RENAUXVIEW S/A (TRXR3) teve receita líquida de R$ 115,9 milhões e prejuízo líquido de R$ 57,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+> TÊXTIL RENAUXVIEW S/A (TRXR3) teve receita líquida de R$ 115,9 milhões e prejuízo líquido de R$ 57,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 115,9 mi · 2025
 

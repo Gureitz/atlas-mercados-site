@@ -1,6 +1,6 @@
 ---
 title: PORTO SEGURO SA (PSSA3) — análise financeira | Atlas Mercados
-description: PORTO SEGURO SA (PSSA3) teve receitas operacionais de R$ 40,9 bilhões e lucro líquido de R$ 3,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 32,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,3 e P/VPA de 2,02 sobre o último exercício. Em 2025, distribuiu R$ 1,5 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: PORTO SEGURO SA (PSSA3) teve receitas operacionais de R$ 40,9 bilhões e lucro líquido de R$ 3,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 33,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,7 e P/VPA de 2,10 sobre o último exercício. Em 2025, distribuiu R$ 1,5 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/PSSA3
 ---
 <!-- https://atlasmercados.com.br/empresa/PSSA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ PO
 
 PORTO SEGURO SA
 
-PSSA3 · CD_CVM 16659 · Seguradoras e Corretoras · SP · DFP 16a · ITR 16a
+PSSA3 · CD_CVM 16659 · Seguradoras e Corretoras · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PSSA3?base=con) [Individual](https://atlasmercados.com.br/empresa/PSSA3?base=ind)
 
-> PORTO SEGURO SA (PSSA3) teve receitas operacionais de R$ 40,9 bilhões e lucro líquido de R$ 3,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 32,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,3 e P/VPA de 2,02 sobre o último exercício. Em 2025, distribuiu R$ 1,5 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> PORTO SEGURO SA (PSSA3) teve receitas operacionais de R$ 40,9 bilhões e lucro líquido de R$ 3,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 33,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,7 e P/VPA de 2,10 sobre o último exercício. Em 2025, distribuiu R$ 1,5 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 40,9 bi · 2025
 
@@ -107,11 +107,11 @@ DRE · DFP · consolidado · 2025 · 53 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,1× mediana 9,6× faixa 4,1× – 17,2× abaixo da mediana
+P/L atual 8,9× mediana 9,6× faixa 4,1× – 17,2× abaixo da mediana
 
-P/VPA atual 1,9× mediana 1,8× faixa 0,8× – 2,5× acima da mediana
+P/VPA atual 2,0× mediana 1,8× faixa 0,8× – 2,5× acima da mediana
 
-Dividend Yield atual 5,0% mediana 4,5% faixa 2,9% – 11,5% acima da mediana
+Dividend Yield atual 4,6% mediana 4,5% faixa 2,9% – 11,5% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

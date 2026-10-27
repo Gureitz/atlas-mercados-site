@@ -1,19 +1,19 @@
 ---
 title: YOU INC INCORPORADORA E PARTICIPAÇÃO S.A (YOUC3) — análise financeira | Atlas Mercados
-description: YOU INC INCORPORADORA E PARTICIPAÇÃO S.A (YOUC3) teve receita líquida de R$ 629,9 milhões e prejuízo líquido de R$ 329,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 240,8 milhões, margem EBITDA de -38,2% sobre a receita. A série anual disponível vai de 2014 a 2025.
+description: YOU INC INCORPORADORA E PARTICIPAÇÃO S.A (YOUC3) teve receita líquida de R$ 629,9 milhões e prejuízo líquido de R$ 329,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 240,8 milhões, margem EBITDA de -38,2% sobre a receita. A série anual disponível vai de 2014 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/YOUC3
 ---
 <!-- https://atlasmercados.com.br/empresa/YOUC3 — versão Markdown da página -->
 
 YO
 
-YOU INC INCORPORADORA E PARTICIPAÇÃO S.A
+YOU INC INCORPORADORA E PARTICIPAÇÃO S.A sem pregão em 90 dias
 
 YOUC3 · CD_CVM 23604 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 12a · ITR 12a
 
 [Consolidado](https://atlasmercados.com.br/empresa/YOUC3?base=con) [Individual](https://atlasmercados.com.br/empresa/YOUC3?base=ind)
 
-> YOU INC INCORPORADORA E PARTICIPAÇÃO S.A (YOUC3) teve receita líquida de R$ 629,9 milhões e prejuízo líquido de R$ 329,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 240,8 milhões, margem EBITDA de -38,2% sobre a receita. A série anual disponível vai de 2014 a 2025.
+> YOU INC INCORPORADORA E PARTICIPAÇÃO S.A (YOUC3) teve receita líquida de R$ 629,9 milhões e prejuízo líquido de R$ 329,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 240,8 milhões, margem EBITDA de -38,2% sobre a receita. A série anual disponível vai de 2014 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 629,9 mi · 2025
 

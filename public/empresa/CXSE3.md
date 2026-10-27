@@ -1,6 +1,6 @@
 ---
 title: CAIXA SEGURIDADE PARTICIPAÇÕES S.A. (CXSE3) — análise financeira | Atlas Mercados
-description: CAIXA SEGURIDADE PARTICIPAÇÕES S.A. (CXSE3) teve receitas operacionais de R$ 0 e lucro líquido de R$ 4,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 61,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,3 e P/VPA de 4,52 sobre o último exercício. Em 2025, distribuiu R$ 3,9 bilhões em dividendos (DMPL). A série anual disponível vai de 2015 a 2025.
+description: CAIXA SEGURIDADE PARTICIPAÇÕES S.A. (CXSE3) teve receitas operacionais de R$ 0 e lucro líquido de R$ 4,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 64,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,0 e P/VPA de 4,74 sobre o último exercício. Em 2025, distribuiu R$ 3,9 bilhões em dividendos (DMPL). A série anual disponível vai de 2015 a 2025.
 url: https://atlasmercados.com.br/empresa/CXSE3
 ---
 <!-- https://atlasmercados.com.br/empresa/CXSE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CA
 
 CAIXA SEGURIDADE PARTICIPAÇÕES S.A.
 
-CXSE3 · CD_CVM 23795 · Emp. Adm. Part. - Seguradoras e Corretoras · DF · DFP 11a · ITR 12a
+CXSE3 · CD_CVM 23795 · Emp. Adm. Part. - Seguradoras e Corretoras · DF · DFP 11a · ITR 12a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CXSE3?base=con) [Individual](https://atlasmercados.com.br/empresa/CXSE3?base=ind)
 
-> CAIXA SEGURIDADE PARTICIPAÇÕES S.A. (CXSE3) teve receitas operacionais de R$ 0 e lucro líquido de R$ 4,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 61,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,3 e P/VPA de 4,52 sobre o último exercício. Em 2025, distribuiu R$ 3,9 bilhões em dividendos (DMPL). A série anual disponível vai de 2015 a 2025.
+> CAIXA SEGURIDADE PARTICIPAÇÕES S.A. (CXSE3) teve receitas operacionais de R$ 0 e lucro líquido de R$ 4,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 64,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,0 e P/VPA de 4,74 sobre o último exercício. Em 2025, distribuiu R$ 3,9 bilhões em dividendos (DMPL). A série anual disponível vai de 2015 a 2025.
 
 - Receita líq. · R$ 0 · 2025
 
@@ -90,11 +90,11 @@ DRE · DFP · consolidado · 2025 · 36 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 13,7× mediana 12,4× faixa 9,6× – 22,2× acima da mediana
+P/L atual 14,2× mediana 12,4× faixa 9,6× – 22,2× acima da mediana
 
-P/VPA atual 4,4× mediana 3,1× faixa 2,0× – 4,4× acima da mediana
+P/VPA atual 4,7× mediana 3,2× faixa 2,0× – 4,7× acima da mediana
 
-Dividend Yield atual 6,4% mediana 5,8% faixa 1,9% – 8,2% acima da mediana
+Dividend Yield atual 6,1% mediana 5,8% faixa 1,9% – 8,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

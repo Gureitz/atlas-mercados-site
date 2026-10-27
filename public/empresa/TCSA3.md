@@ -1,6 +1,6 @@
 ---
 title: TECNISA S/A (TCSA3) — análise financeira | Atlas Mercados
-description: TECNISA S/A (TCSA3) teve receita líquida de R$ 214,5 milhões e prejuízo líquido de R$ 100,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 46,4 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,16 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: TECNISA S/A (TCSA3) teve receita líquida de R$ 214,5 milhões e prejuízo líquido de R$ 100,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 10,5 milhões, margem EBITDA de -4,9% sobre a receita. O valor de mercado era de R$ 62,6 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,21 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/TCSA3
 ---
 <!-- https://atlasmercados.com.br/empresa/TCSA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ TE
 
 TECNISA S/A
 
-TCSA3 · CD_CVM 20435 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+TCSA3 · CD_CVM 20435 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/TCSA3?base=con) [Individual](https://atlasmercados.com.br/empresa/TCSA3?base=ind)
 
-> TECNISA S/A (TCSA3) teve receita líquida de R$ 214,5 milhões e prejuízo líquido de R$ 100,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 46,4 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,16 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> TECNISA S/A (TCSA3) teve receita líquida de R$ 214,5 milhões e prejuízo líquido de R$ 100,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 10,5 milhões, margem EBITDA de -4,9% sobre a receita. O valor de mercado era de R$ 62,6 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,21 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 214,5 mi · 2025
 

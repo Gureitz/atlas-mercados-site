@@ -1,6 +1,6 @@
 ---
 title: GRUPO SBF S.A. (SBFG3) — análise financeira | Atlas Mercados
-description: GRUPO SBF S.A. (SBFG3) teve receita líquida de R$ 7,7 bilhões e lucro líquido de R$ 328,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 765,5 milhões, margem EBITDA de 9,9% sobre a receita. O valor de mercado era de R$ 1,9 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,8 e P/VPA de 0,62 sobre o último exercício. Em 2025, distribuiu R$ 77,9 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
+description: GRUPO SBF S.A. (SBFG3) teve receita líquida de R$ 7,7 bilhões e lucro líquido de R$ 328,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 992,2 milhões, margem EBITDA de 12,8% sobre a receita. O valor de mercado era de R$ 2,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 0,86 sobre o último exercício. Em 2025, distribuiu R$ 77,9 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
 url: https://atlasmercados.com.br/empresa/SBFG3
 ---
 <!-- https://atlasmercados.com.br/empresa/SBFG3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ GR
 
 GRUPO SBF S.A.
 
-SBFG3, CNTO3 · CD_CVM 24694 · Comércio (Atacado e Varejo) · SP · DFP 8a · ITR 8a
+SBFG3, CNTO3 · CD_CVM 24694 · Comércio (Atacado e Varejo) · SP · DFP 8a · ITR 8a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SBFG3?base=con) [Individual](https://atlasmercados.com.br/empresa/SBFG3?base=ind)
 
-> GRUPO SBF S.A. (SBFG3) teve receita líquida de R$ 7,7 bilhões e lucro líquido de R$ 328,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 765,5 milhões, margem EBITDA de 9,9% sobre a receita. O valor de mercado era de R$ 1,9 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,8 e P/VPA de 0,62 sobre o último exercício. Em 2025, distribuiu R$ 77,9 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
+> GRUPO SBF S.A. (SBFG3) teve receita líquida de R$ 7,7 bilhões e lucro líquido de R$ 328,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 992,2 milhões, margem EBITDA de 12,8% sobre a receita. O valor de mercado era de R$ 2,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 0,86 sobre o último exercício. Em 2025, distribuiu R$ 77,9 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
 
 - Receita líq. · R$ 7,7 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 5,3× mediana 9,2× faixa 4,4× – 187,5× abaixo da mediana
+P/L atual 6,3× mediana 9,2× faixa 4,4× – 187,5× abaixo da mediana
 
-P/VPA atual 0,6× mediana 1,3× faixa 0,6× – 6,8× abaixo da mediana
+P/VPA atual 0,8× mediana 1,3× faixa 0,6× – 6,8× abaixo da mediana
 
-Dividend Yield atual 4,4% mediana 1,3% faixa 0,5% – 5,5% acima da mediana
+Dividend Yield atual 3,0% mediana 1,3% faixa 0,5% – 5,5% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

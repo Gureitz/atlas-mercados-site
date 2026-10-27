@@ -11,8 +11,8 @@ TE
 
 TEKA TECELAGEM KUEHNRICH SA - EM RECUPERAÇÃO JUDICIAL Projeção
 
-Realizado até 1T2025 · projeção de 40 trimestres (10 anos), de 2T2025 a 1T2035
+Realizado até 4T2025 · projeção de 40 trimestres (10 anos), de 1T2026 a 4T2035
 
 [← Estrutura](https://atlasmercados.com.br/valuation/TEKA3)
 
-## Projeção trimestral — 15 premissas · 1 linhas derivadas · realizado em cinza, projetado em azul
+## Projeção trimestral — 13 premissas · 3 linhas derivadas · realizado em cinza, projetado em azul

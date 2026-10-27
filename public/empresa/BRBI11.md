@@ -1,6 +1,6 @@
 ---
 title: BRBI BR PARTNERS S.A (BRBI11) — análise financeira | Atlas Mercados
-description: BRBI BR PARTNERS S.A (BRBI11) teve receitas da intermediação financeira de R$ 319,8 milhões e lucro líquido de R$ 175,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 4,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 27,2 e P/VPA de 6,09 sobre o último exercício. Em 2025, distribuiu R$ 195,3 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+description: BRBI BR PARTNERS S.A (BRBI11) teve receitas da intermediação financeira de R$ 319,8 milhões e lucro líquido de R$ 175,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 5,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 33,6 e P/VPA de 7,51 sobre o último exercício. Em 2025, distribuiu R$ 195,3 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
 url: https://atlasmercados.com.br/empresa/BRBI11
 ---
 <!-- https://atlasmercados.com.br/empresa/BRBI11 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BR
 
 BRBI BR PARTNERS S.A
 
-BRBI11 · CD_CVM 25860 · Emp. Adm. Part. - Bancos · SP · DFP 6a · ITR 6a
+BRBI11 · CD_CVM 25860 · Emp. Adm. Part. - Bancos · SP · DFP 6a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRBI11?base=con) [Individual](https://atlasmercados.com.br/empresa/BRBI11?base=ind)
 
-> BRBI BR PARTNERS S.A (BRBI11) teve receitas da intermediação financeira de R$ 319,8 milhões e lucro líquido de R$ 175,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 4,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 27,2 e P/VPA de 6,09 sobre o último exercício. Em 2025, distribuiu R$ 195,3 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+> BRBI BR PARTNERS S.A (BRBI11) teve receitas da intermediação financeira de R$ 319,8 milhões e lucro líquido de R$ 175,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 5,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 33,6 e P/VPA de 7,51 sobre o último exercício. Em 2025, distribuiu R$ 195,3 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
 
 - Receita líq. · R$ 319,8 mi · 2025
 
@@ -94,11 +94,11 @@ DRE · DFP · consolidado · 2025 · 40 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 26,9× mediana 28,7× faixa 20,9× – 36,2× abaixo da mediana
+P/L atual 36,9× mediana 28,8× faixa 20,9× – 36,9× acima da mediana
 
-P/VPA atual 5,8× mediana 5,8× faixa 4,0× – 8,1× abaixo da mediana
+P/VPA atual 7,3× mediana 5,8× faixa 4,0× – 8,1× acima da mediana
 
-Dividend Yield atual 4,3% mediana 2,9% faixa 0,7% – 4,6% acima da mediana
+Dividend Yield atual 3,3% mediana 2,9% faixa 0,7% – 4,6% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

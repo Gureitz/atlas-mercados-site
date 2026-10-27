@@ -1,6 +1,6 @@
 ---
 title: GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A. (GSHP3) — análise financeira | Atlas Mercados
-description: GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A. (GSHP3) teve receita líquida de R$ 190,2 milhões e lucro líquido de R$ 22,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 8,8 milhões, margem EBITDA de -4,6% sobre a receita. O valor de mercado era de R$ 5,3 milhões em 30/09/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,2 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A. (GSHP3) teve receita líquida de R$ 190,2 milhões e lucro líquido de R$ 22,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 8,8 milhões, margem EBITDA de -4,6% sobre a receita. O valor de mercado era de R$ 7,3 milhões em 22/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,3 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/GSHP3
 ---
 <!-- https://atlasmercados.com.br/empresa/GSHP3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ GE
 
 GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A.
 
-GSHP3 · CD_CVM 21008 · Comércio (Atacado e Varejo) · SP · DFP 16a · ITR 16a
+GSHP3 · CD_CVM 21008 · Comércio (Atacado e Varejo) · SP · DFP 16a · ITR 16a · último pregão 22/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/GSHP3?base=con) [Individual](https://atlasmercados.com.br/empresa/GSHP3?base=ind)
 
-> GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A. (GSHP3) teve receita líquida de R$ 190,2 milhões e lucro líquido de R$ 22,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 8,8 milhões, margem EBITDA de -4,6% sobre a receita. O valor de mercado era de R$ 5,3 milhões em 30/09/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,2 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A. (GSHP3) teve receita líquida de R$ 190,2 milhões e lucro líquido de R$ 22,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 8,8 milhões, margem EBITDA de -4,6% sobre a receita. O valor de mercado era de R$ 7,3 milhões em 22/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,3 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 190,2 mi · 2025
 

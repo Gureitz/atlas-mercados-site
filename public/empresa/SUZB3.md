@@ -1,6 +1,6 @@
 ---
 title: SUZANO S.A. (SUZB3) — análise financeira | Atlas Mercados
-description: SUZANO S.A. (SUZB3) teve receita líquida de R$ 50,1 bilhões e lucro líquido de R$ 13,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 56,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,2 e P/VPA de 1,28 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: SUZANO S.A. (SUZB3) teve receita líquida de R$ 50,1 bilhões e lucro líquido de R$ 13,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 54,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 1,24 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,9 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/SUZB3
 ---
 <!-- https://atlasmercados.com.br/empresa/SUZB3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ SU
 
 SUZANO S.A.
 
-SUZB3 · CD_CVM 13986 · Papel e Celulose · BA · DFP 16a · ITR 16a
+SUZB3 · CD_CVM 13986 · Papel e Celulose · BA · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SUZB3?base=con) [Individual](https://atlasmercados.com.br/empresa/SUZB3?base=ind)
 
-> SUZANO S.A. (SUZB3) teve receita líquida de R$ 50,1 bilhões e lucro líquido de R$ 13,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 56,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,2 e P/VPA de 1,28 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> SUZANO S.A. (SUZB3) teve receita líquida de R$ 50,1 bilhões e lucro líquido de R$ 13,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 54,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 1,24 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,9 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 50,1 bi · 2025
 
@@ -36,6 +36,34 @@ SUZB3 · CD_CVM 13986 · Papel e Celulose · BA · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 1.863 MW · 10 usinas ≥ 1 MW
+
+- Capacidade proporcional · 1.802 MW · inclui coligadas
+
+- Garantia física · 128 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Central Geradora Suzano RRP1 | Biomassa | MS | 384 MW | 100,0% | 384 |
+| Fibria MS-II | Biomassa | MS | 270 MW | 100,0% | 270 |
+| Suzano Maranhão | Biomassa | MA | 255 MW | 100,0% | 255 |
+| Aracruz | Biomassa | ES | 238 MW | 100,0% | 238 |
+| Suzano Mucuri (Antiga Bahia Sul) | Biomassa | BA | 214 MW | 100,0% | 214 |
+| Fibria - MS (Antiga VCP - MS) | Biomassa | MS | 175 MW | 100,0% | 175 |
+| Jacareí I (Antiga Celpav IV) | Biomassa | SP | 108 MW | 100,0% | 108 |
+| Veracel | Biomassa | BA | 126 MW | 50,0% | 63 |
+| Ripasa | Biomassa | SP | 53 MW | 100,0% | 53 |
+| Suzano | Fóssil | SP | 40 MW | 100,0% | 40 |
+| Ventos de São João Paulo II coligada | Eólica | PI | 32 MW | 6,9% | 2 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -88,11 +116,11 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 4,8× mediana 5,3× faixa 2,2× – 321,6× abaixo da mediana
+P/L atual 6,5× mediana 5,3× faixa 2,2× – 321,6× acima da mediana
 
 P/VPA atual 1,1× mediana 1,9× faixa 0,9× – 57,5× abaixo da mediana
 
-Dividend Yield atual 2,5% mediana 2,1% faixa 0,1% – 6,2% acima da mediana
+Dividend Yield atual 2,6% mediana 2,1% faixa 0,1% – 6,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

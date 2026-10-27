@@ -1,6 +1,6 @@
 ---
 title: COMPASS GÁS E ENERGIA S.A. (PASS3) — análise financeira | Atlas Mercados
-description: COMPASS GÁS E ENERGIA S.A. (PASS3) teve receita líquida de R$ 16,6 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,0 bilhões, margem EBITDA de 30,0% sobre a receita. O valor de mercado era de R$ 17,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,7 e P/VPA de 2,29 sobre o último exercício. Em 2025, distribuiu R$ 642,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: COMPASS GÁS E ENERGIA S.A. (PASS3) teve receita líquida de R$ 16,6 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,0 bilhões, margem EBITDA de 30,0% sobre a receita. O valor de mercado era de R$ 19,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,3 e P/VPA de 2,62 sobre o último exercício. Em 2025, distribuiu R$ 642,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/PASS3
 ---
 <!-- https://atlasmercados.com.br/empresa/PASS3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CO
 
 COMPASS GÁS E ENERGIA S.A.
 
-PASS3, PASS5, PASS6 · CD_CVM 25127 · Emp. Adm. Part. - Saneamento, Serv. Água e Gás · SP · DFP 7a · ITR 7a
+PASS3, PASS5, PASS6 · CD_CVM 25127 · Emp. Adm. Part. - Saneamento, Serv. Água e Gás · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PASS3?base=con) [Individual](https://atlasmercados.com.br/empresa/PASS3?base=ind)
 
-> COMPASS GÁS E ENERGIA S.A. (PASS3) teve receita líquida de R$ 16,6 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,0 bilhões, margem EBITDA de 30,0% sobre a receita. O valor de mercado era de R$ 17,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,7 e P/VPA de 2,29 sobre o último exercício. Em 2025, distribuiu R$ 642,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+> COMPASS GÁS E ENERGIA S.A. (PASS3) teve receita líquida de R$ 16,6 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,0 bilhões, margem EBITDA de 30,0% sobre a receita. O valor de mercado era de R$ 19,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,3 e P/VPA de 2,62 sobre o último exercício. Em 2025, distribuiu R$ 642,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 16,6 bi · 2025
 
@@ -89,6 +89,16 @@ Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimest
 | 3.99.02.02 | PN | 0 |
 
 DRE · DFP · consolidado · 2025 · 38 linhas · R$
+
+## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
+
+P/L atual 14,4× mediana 12,2× faixa 11,5× – 14,4× acima da mediana
+
+P/VPA atual 2,4× mediana 2,3× faixa 2,1× – 2,6× acima da mediana
+
+Dividend Yield atual 3,3% mediana 3,7% faixa 3,3% – 3,9% abaixo da mediana
+
+Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 
 ## Proventos por exercício — dividendos e JCP atribuídos aos controladores · DMPL da CVM
 

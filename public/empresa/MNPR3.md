@@ -1,6 +1,6 @@
 ---
 title: MINUPAR PARTICIPACOES SA (MNPR3) — análise financeira | Atlas Mercados
-description: MINUPAR PARTICIPACOES SA (MNPR3) teve receita líquida de R$ 436,3 milhões e lucro líquido de R$ 516,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 193,7 milhões, margem EBITDA de 44,4% sobre a receita. O valor de mercado era de R$ 262,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,5 e P/VPA de 1,38 sobre o último exercício. Em 2025, distribuiu R$ 9,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: MINUPAR PARTICIPACOES SA (MNPR3) teve receita líquida de R$ 436,3 milhões e lucro líquido de R$ 516,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 193,7 milhões, margem EBITDA de 44,4% sobre a receita. O valor de mercado era de R$ 276,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,5 e P/VPA de 1,46 sobre o último exercício. Em 2025, distribuiu R$ 9,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/MNPR3
 ---
 <!-- https://atlasmercados.com.br/empresa/MNPR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MI
 
 MINUPAR PARTICIPACOES SA
 
-MNPR3 · CD_CVM 13765 · Emp. Adm. Part. - Alimentos · RS · DFP 16a · ITR 16a
+MNPR3 · CD_CVM 13765 · Emp. Adm. Part. - Alimentos · RS · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MNPR3?base=con) [Individual](https://atlasmercados.com.br/empresa/MNPR3?base=ind)
 
-> MINUPAR PARTICIPACOES SA (MNPR3) teve receita líquida de R$ 436,3 milhões e lucro líquido de R$ 516,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 193,7 milhões, margem EBITDA de 44,4% sobre a receita. O valor de mercado era de R$ 262,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,5 e P/VPA de 1,38 sobre o último exercício. Em 2025, distribuiu R$ 9,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> MINUPAR PARTICIPACOES SA (MNPR3) teve receita líquida de R$ 436,3 milhões e lucro líquido de R$ 516,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 193,7 milhões, margem EBITDA de 44,4% sobre a receita. O valor de mercado era de R$ 276,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,5 e P/VPA de 1,46 sobre o último exercício. Em 2025, distribuiu R$ 9,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 436,3 mi · 2025
 
@@ -93,11 +93,11 @@ DRE · DFP · consolidado · 2025 · 39 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 0,5× mediana 0,6× faixa 0,1× – 64,3× abaixo da mediana
+P/L atual 5,7× mediana 0,6× faixa 0,1× – 64,3× acima da mediana
 
-P/VPA atual 1,3× mediana 1,5× faixa 0,2× – 1,7× abaixo da mediana
+P/VPA atual 1,2× mediana 1,5× faixa 0,2× – 1,7× abaixo da mediana
 
-Dividend Yield atual 3,4% mediana 3,3% faixa 3,3% – 3,4% acima da mediana
+Dividend Yield atual 3,3% mediana 3,3% faixa 3,3% – 3,5% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

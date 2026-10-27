@@ -1,19 +1,19 @@
 ---
-title: SUL 116 PARTICIPAÇÕES S.A. (OPTS3) — análise financeira | Atlas Mercados
-description: SUL 116 PARTICIPAÇÕES S.A. (OPTS3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 157.000 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+title: SUL 116 PARTICIPAÇÕES S.A. - EM LIQUIDAÇÃO (OPTS3) — análise financeira | Atlas Mercados
+description: SUL 116 PARTICIPAÇÕES S.A. - EM LIQUIDAÇÃO (OPTS3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 157.000 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/OPTS3
 ---
 <!-- https://atlasmercados.com.br/empresa/OPTS3 — versão Markdown da página -->
 
 SU
 
-SUL 116 PARTICIPAÇÕES S.A.
+SUL 116 PARTICIPAÇÕES S.A. - EM LIQUIDAÇÃO sem pregão em 90 dias
 
 OPTS3 · CD_CVM 16438 · Emp. Adm. Part. - Telecomunicações · RJ · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/OPTS3?base=con) [Individual](https://atlasmercados.com.br/empresa/OPTS3?base=ind)
 
-> SUL 116 PARTICIPAÇÕES S.A. (OPTS3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 157.000 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+> SUL 116 PARTICIPAÇÕES S.A. - EM LIQUIDAÇÃO (OPTS3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 157.000 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 0 · 2025
 
@@ -88,6 +88,6 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 Como citar
 
-Atlas Mercados. SUL 116 PARTICIPAÇÕES S.A. — demonstrações financeiras. https://atlasmercados.com.br/empresa/OPTS3. Dados: CVM Dados Abertos — DFP/ITR de SUL 116 PARTICIPAÇÕES S.A. (CD_CVM 16438). Acesso em [data de acesso].
+Atlas Mercados. SUL 116 PARTICIPAÇÕES S.A. - EM LIQUIDAÇÃO — demonstrações financeiras. https://atlasmercados.com.br/empresa/OPTS3. Dados: CVM Dados Abertos — DFP/ITR de SUL 116 PARTICIPAÇÕES S.A. - EM LIQUIDAÇÃO (CD_CVM 16438). Acesso em [data de acesso].
 
 Identificador da série: cvm:16438 · Permalink: [https://atlasmercados.com.br/empresa/OPTS3](https://atlasmercados.com.br/empresa/OPTS3) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)

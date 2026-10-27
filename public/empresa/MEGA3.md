@@ -1,19 +1,19 @@
 ---
 title: SERENA ENERGIA S.A. (MEGA3) — análise financeira | Atlas Mercados
-description: SERENA ENERGIA S.A. (MEGA3) teve receita líquida de R$ 6,4 bilhões e lucro líquido de R$ 20,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 31,4% sobre a receita. A série anual disponível vai de 2021 a 2025.
+description: SERENA ENERGIA S.A. (MEGA3) teve receita líquida de R$ 6,4 bilhões e lucro líquido de R$ 20,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 31,4% sobre a receita. A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 13/11/2025, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/MEGA3
 ---
 <!-- https://atlasmercados.com.br/empresa/MEGA3 — versão Markdown da página -->
 
 SE
 
-SERENA ENERGIA S.A.
+SERENA ENERGIA S.A. sem pregão em 90 dias
 
-MEGA3, SRNA3 · CD_CVM 26441 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 5a · ITR 6a
+MEGA3, SRNA3 · CD_CVM 26441 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 5a · ITR 6a · último pregão 13/11/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/MEGA3?base=con) [Individual](https://atlasmercados.com.br/empresa/MEGA3?base=ind)
 
-> SERENA ENERGIA S.A. (MEGA3) teve receita líquida de R$ 6,4 bilhões e lucro líquido de R$ 20,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 31,4% sobre a receita. A série anual disponível vai de 2021 a 2025.
+> SERENA ENERGIA S.A. (MEGA3) teve receita líquida de R$ 6,4 bilhões e lucro líquido de R$ 20,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 31,4% sobre a receita. A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 13/11/2025, segundo o COTAHIST).
 
 - Receita líq. · R$ 6,4 bi · 2025
 

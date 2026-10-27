@@ -1,6 +1,6 @@
 ---
 title: JSL S.A. (JSLG3) — análise financeira | Atlas Mercados
-description: JSL S.A. (JSLG3) teve receita líquida de R$ 9,6 bilhões e lucro líquido de R$ 81,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 20,3% sobre a receita. O valor de mercado era de R$ 2,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 29,3 e P/VPA de 1,81 sobre o último exercício. Em 2025, distribuiu R$ 543,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: JSL S.A. (JSLG3) teve receita líquida de R$ 9,6 bilhões e lucro líquido de R$ 81,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 20,3% sobre a receita. O valor de mercado era de R$ 3,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 43,3 e P/VPA de 2,67 sobre o último exercício. Em 2025, distribuiu R$ 543,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/JSLG3
 ---
 <!-- https://atlasmercados.com.br/empresa/JSLG3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ JS
 
 JSL S.A.
 
-JSLG3, JSLG11 · CD_CVM 22020 · Serviços Transporte e Logística · SP · DFP 16a · ITR 16a
+JSLG3, JSLG11 · CD_CVM 22020 · Serviços Transporte e Logística · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/JSLG3?base=con) [Individual](https://atlasmercados.com.br/empresa/JSLG3?base=ind)
 
-> JSL S.A. (JSLG3) teve receita líquida de R$ 9,6 bilhões e lucro líquido de R$ 81,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 20,3% sobre a receita. O valor de mercado era de R$ 2,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 29,3 e P/VPA de 1,81 sobre o último exercício. Em 2025, distribuiu R$ 543,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> JSL S.A. (JSLG3) teve receita líquida de R$ 9,6 bilhões e lucro líquido de R$ 81,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 20,3% sobre a receita. O valor de mercado era de R$ 3,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 43,3 e P/VPA de 2,67 sobre o último exercício. Em 2025, distribuiu R$ 543,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 9,6 bi · 2025
 
@@ -99,9 +99,9 @@ DRE · DFP · consolidado · 2025 · 43 linhas · R$
 
 P/L atual 19,1× mediana 10,3× faixa 5,3× – 38,0× acima da mediana
 
-P/VPA atual 1,6× mediana 1,5× faixa 0,8× – 3,1× acima da mediana
+P/VPA atual 3,0× mediana 1,5× faixa 0,8× – 3,1× acima da mediana
 
-Dividend Yield atual 29,1% mediana 3,7% faixa 0,8% – 34,9% acima da mediana
+Dividend Yield atual 15,4% mediana 3,8% faixa 0,8% – 34,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

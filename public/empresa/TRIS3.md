@@ -1,6 +1,6 @@
 ---
 title: TRISUL S/A (TRIS3) — análise financeira | Atlas Mercados
-description: TRISUL S/A (TRIS3) teve receita líquida de R$ 1,4 bilhão e lucro líquido de R$ 213,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 211,9 milhões, margem EBITDA de 15,4% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,9 e P/VPA de 0,85 sobre o último exercício. Em 2025, distribuiu R$ 213,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: TRISUL S/A (TRIS3) teve receita líquida de R$ 1,4 bilhão e lucro líquido de R$ 213,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 236,6 milhões, margem EBITDA de 17,2% sobre a receita. O valor de mercado era de R$ 1,6 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,7 e P/VPA de 1,11 sobre o último exercício. Em 2025, distribuiu R$ 213,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/TRIS3
 ---
 <!-- https://atlasmercados.com.br/empresa/TRIS3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ TR
 
 TRISUL S/A
 
-TRIS3 · CD_CVM 21130 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · SP · DFP 16a · ITR 16a
+TRIS3 · CD_CVM 21130 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/TRIS3?base=con) [Individual](https://atlasmercados.com.br/empresa/TRIS3?base=ind)
 
-> TRISUL S/A (TRIS3) teve receita líquida de R$ 1,4 bilhão e lucro líquido de R$ 213,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 211,9 milhões, margem EBITDA de 15,4% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,9 e P/VPA de 0,85 sobre o último exercício. Em 2025, distribuiu R$ 213,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> TRISUL S/A (TRIS3) teve receita líquida de R$ 1,4 bilhão e lucro líquido de R$ 213,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 236,6 milhões, margem EBITDA de 17,2% sobre a receita. O valor de mercado era de R$ 1,6 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,7 e P/VPA de 1,11 sobre o último exercício. Em 2025, distribuiu R$ 213,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,4 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 5,7× mediana 7,6× faixa 4,7× – 16,4× abaixo da mediana
+P/L atual 8,5× mediana 7,7× faixa 4,7× – 16,4× acima da mediana
 
-P/VPA atual 0,8× mediana 0,8× faixa 0,4× – 2,3× acima da mediana
+P/VPA atual 1,1× mediana 0,8× faixa 0,4× – 2,3× acima da mediana
 
-Dividend Yield atual 18,8% mediana 3,6% faixa 1,4% – 21,4% acima da mediana
+Dividend Yield atual 13,0% mediana 3,6% faixa 1,4% – 21,4% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

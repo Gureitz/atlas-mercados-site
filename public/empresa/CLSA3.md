@@ -1,19 +1,19 @@
 ---
 title: CLEAR SALE S.A (CLSA3) — análise financeira | Atlas Mercados
-description: CLEAR SALE S.A (CLSA3) teve receita líquida de R$ 474,6 milhões e prejuízo líquido de R$ 28,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2020 a 2024.
+description: CLEAR SALE S.A (CLSA3) teve receita líquida de R$ 474,6 milhões e prejuízo líquido de R$ 28,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 27,8 milhões, margem EBITDA de -5,9% sobre a receita. A série anual disponível vai de 2020 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 01/04/2025, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/CLSA3
 ---
 <!-- https://atlasmercados.com.br/empresa/CLSA3 — versão Markdown da página -->
 
 CL
 
-CLEAR SALE S.A
+CLEAR SALE S.A registro cancelada na CVM sem pregão em 90 dias
 
-CLSA3 · CD_CVM 26093 · Comunicação e Informática · SP · DFP 5a · ITR 5a
+CLSA3 · CD_CVM 26093 · Comunicação e Informática · SP · DFP 5a · ITR 5a · último pregão 01/04/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/CLSA3?base=con) [Individual](https://atlasmercados.com.br/empresa/CLSA3?base=ind)
 
-> CLEAR SALE S.A (CLSA3) teve receita líquida de R$ 474,6 milhões e prejuízo líquido de R$ 28,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2020 a 2024.
+> CLEAR SALE S.A (CLSA3) teve receita líquida de R$ 474,6 milhões e prejuízo líquido de R$ 28,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 27,8 milhões, margem EBITDA de -5,9% sobre a receita. A série anual disponível vai de 2020 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 01/04/2025, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 474,6 mi · 2024
 

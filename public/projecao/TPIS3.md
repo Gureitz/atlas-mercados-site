@@ -15,4 +15,4 @@ Realizado até 1T2026 · projeção de 40 trimestres (10 anos), de 2T2026 a 1T20
 
 [← Estrutura](https://atlasmercados.com.br/valuation/TPIS3)
 
-## Projeção trimestral — 13 premissas · 2 linhas derivadas · realizado em cinza, projetado em azul
+## Projeção trimestral — 14 premissas · 2 linhas derivadas · realizado em cinza, projetado em azul

@@ -1,6 +1,6 @@
 ---
 title: EMBRAER S.A. (EMBJ3) — análise financeira | Atlas Mercados
-description: EMBRAER S.A. (EMBJ3) teve receita líquida de R$ 41,9 bilhões e lucro líquido de R$ 2,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 72,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,5 e P/VPA de 3,47 sobre o último exercício. Em 2025, distribuiu R$ 524,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: EMBRAER S.A. (EMBJ3) teve receita líquida de R$ 41,9 bilhões e lucro líquido de R$ 2,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,8 bilhões, margem EBITDA de 11,4% sobre a receita. O valor de mercado era de R$ 65,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 32,8 e P/VPA de 3,12 sobre o último exercício. Em 2025, distribuiu R$ 524,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/EMBJ3
 ---
 <!-- https://atlasmercados.com.br/empresa/EMBJ3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ EM
 
 EMBRAER S.A.
 
-EMBJ3, EMBR3 · CD_CVM 20087 · Máquinas, Equipamentos, Veículos e Peças · SP · DFP 16a · ITR 16a
+EMBJ3, EMBR3 · CD_CVM 20087 · Máquinas, Equipamentos, Veículos e Peças · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/EMBJ3?base=con) [Individual](https://atlasmercados.com.br/empresa/EMBJ3?base=ind)
 
-> EMBRAER S.A. (EMBJ3) teve receita líquida de R$ 41,9 bilhões e lucro líquido de R$ 2,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 72,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,5 e P/VPA de 3,47 sobre o último exercício. Em 2025, distribuiu R$ 524,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> EMBRAER S.A. (EMBJ3) teve receita líquida de R$ 41,9 bilhões e lucro líquido de R$ 2,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,8 bilhões, margem EBITDA de 11,4% sobre a receita. O valor de mercado era de R$ 65,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 32,8 e P/VPA de 3,12 sobre o último exercício. Em 2025, distribuiu R$ 524,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 41,9 bi · 2025
 
@@ -92,11 +92,11 @@ DRE · DFP · consolidado · 2025 · 38 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 41,7× mediana 28,4× faixa 16,4× – 174,4× acima da mediana
+P/L atual 26,1× mediana 28,0× faixa 16,4× – 174,4× abaixo da mediana
 
-P/VPA atual 3,7× mediana 1,0× faixa 0,3× – 3,7× acima da mediana
+P/VPA atual 3,2× mediana 1,1× faixa 0,3× – 3,6× acima da mediana
 
-Dividend Yield atual 0,7% mediana 0,7% faixa 0,1% – 1,0% acima da mediana
+Dividend Yield atual 0,8% mediana 0,7% faixa 0,1% – 1,0% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

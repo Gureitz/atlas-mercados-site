@@ -1,19 +1,19 @@
 ---
 title: WILSON SONS S.A. (PORT3) — análise financeira | Atlas Mercados
-description: WILSON SONS S.A. (PORT3) teve receita líquida de R$ 2,9 bilhões e lucro líquido de R$ 488,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 43,0% sobre a receita. Em 2024, distribuiu R$ 470,2 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2024.
+description: WILSON SONS S.A. (PORT3) teve receita líquida de R$ 2,9 bilhões e lucro líquido de R$ 488,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 45,9% sobre a receita. Em 2024, distribuiu R$ 470,2 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 03/12/2025, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/PORT3
 ---
 <!-- https://atlasmercados.com.br/empresa/PORT3 — versão Markdown da página -->
 
 WI
 
-WILSON SONS S.A.
+WILSON SONS S.A. registro cancelada na CVM sem pregão em 90 dias
 
-PORT3 · CD_CVM 26247 · Emp. Adm. Part. - Serviços Transporte e Logística · RJ · DFP 5a · ITR 5a
+PORT3 · CD_CVM 26247 · Emp. Adm. Part. - Serviços Transporte e Logística · RJ · DFP 5a · ITR 5a · último pregão 03/12/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/PORT3?base=con) [Individual](https://atlasmercados.com.br/empresa/PORT3?base=ind)
 
-> WILSON SONS S.A. (PORT3) teve receita líquida de R$ 2,9 bilhões e lucro líquido de R$ 488,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 43,0% sobre a receita. Em 2024, distribuiu R$ 470,2 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2024.
+> WILSON SONS S.A. (PORT3) teve receita líquida de R$ 2,9 bilhões e lucro líquido de R$ 488,6 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 45,9% sobre a receita. Em 2024, distribuiu R$ 470,2 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 03/12/2025, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 2,9 bi · 2024
 

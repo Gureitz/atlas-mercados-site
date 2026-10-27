@@ -1,6 +1,6 @@
 ---
 title: DIRECIONAL ENGENHARIA SA (DIRR3) — análise financeira | Atlas Mercados
-description: DIRECIONAL ENGENHARIA SA (DIRR3) teve receita líquida de R$ 4,3 bilhões e lucro líquido de R$ 979,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 5,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,6 e P/VPA de 2,36 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: DIRECIONAL ENGENHARIA SA (DIRR3) teve receita líquida de R$ 4,3 bilhões e lucro líquido de R$ 979,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 6,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,1 e P/VPA de 2,59 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/DIRR3
 ---
 <!-- https://atlasmercados.com.br/empresa/DIRR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ DI
 
 DIRECIONAL ENGENHARIA SA
 
-DIRR3 · CD_CVM 21350 · Construção Civil, Mat. Constr. e Decoração · MG · DFP 16a · ITR 16a
+DIRR3 · CD_CVM 21350 · Construção Civil, Mat. Constr. e Decoração · MG · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/DIRR3?base=con) [Individual](https://atlasmercados.com.br/empresa/DIRR3?base=ind)
 
-> DIRECIONAL ENGENHARIA SA (DIRR3) teve receita líquida de R$ 4,3 bilhões e lucro líquido de R$ 979,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 5,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,6 e P/VPA de 2,36 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> DIRECIONAL ENGENHARIA SA (DIRR3) teve receita líquida de R$ 4,3 bilhões e lucro líquido de R$ 979,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 25,0% sobre a receita. O valor de mercado era de R$ 6,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,1 e P/VPA de 2,59 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 4,3 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 4,8× mediana 10,2× faixa 3,6× – 21,5× abaixo da mediana
+P/L atual 5,5× mediana 10,2× faixa 3,6× – 21,5× abaixo da mediana
 
-P/VPA atual 2,0× mediana 1,8× faixa 0,9× – 3,9× acima da mediana
+P/VPA atual 2,2× mediana 1,8× faixa 0,9× – 3,9× acima da mediana
 
-Dividend Yield atual 22,8% mediana 6,1% faixa 1,5% – 22,8% acima da mediana
+Dividend Yield atual 19,1% mediana 6,2% faixa 1,5% – 21,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

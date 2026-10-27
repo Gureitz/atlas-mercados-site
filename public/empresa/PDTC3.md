@@ -9,7 +9,7 @@ PA
 
 PADTEC HOLDING S.A.
 
-PDTC3, IDNT3 · CD_CVM 18414 · Emp. Adm. Part. - Telecomunicações · SP · DFP 16a · ITR 16a
+PDTC3, IDNT3 · CD_CVM 18414 · Emp. Adm. Part. - Telecomunicações · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PDTC3?base=con) [Individual](https://atlasmercados.com.br/empresa/PDTC3?base=ind)
 
@@ -89,9 +89,9 @@ DRE · DFP · consolidado · 2025 · 35 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 16,3× mediana 12,9× faixa 2,1× – 864,3× acima da mediana
+P/L atual 13,8× mediana 12,9× faixa 2,1× – 864,3× acima da mediana
 
-P/VPA atual 0,9× mediana 1,7× faixa 0,7× – 29,3× abaixo da mediana
+P/VPA atual 1,1× mediana 1,7× faixa 0,7× – 29,3× abaixo da mediana
 
 Dividend Yield atual 4,7% mediana 3,4% faixa 2,1% – 4,7% acima da mediana
 

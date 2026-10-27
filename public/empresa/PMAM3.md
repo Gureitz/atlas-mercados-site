@@ -1,19 +1,19 @@
 ---
 title: PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL (PMAM3) — análise financeira | Atlas Mercados
-description: PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL (PMAM3) teve receita líquida de R$ 562,4 milhões e prejuízo líquido de R$ 1,3 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 519,6 milhões, margem EBITDA de -92,4% sobre a receita. Em 2024, distribuiu R$ 25,8 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL (PMAM3) teve receita líquida de R$ 562,4 milhões e prejuízo líquido de R$ 1,3 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 514,0 milhões, margem EBITDA de -91,4% sobre a receita. Em 2024, distribuiu R$ 25,8 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/PMAM3
 ---
 <!-- https://atlasmercados.com.br/empresa/PMAM3 — versão Markdown da página -->
 
 PA
 
-PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL
+PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
 PMAM3 · CD_CVM 9393 · Metalurgia e Siderurgia · BA · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/PMAM3?base=con) [Individual](https://atlasmercados.com.br/empresa/PMAM3?base=ind)
 
-> PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL (PMAM3) teve receita líquida de R$ 562,4 milhões e prejuízo líquido de R$ 1,3 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 519,6 milhões, margem EBITDA de -92,4% sobre a receita. Em 2024, distribuiu R$ 25,8 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL (PMAM3) teve receita líquida de R$ 562,4 milhões e prejuízo líquido de R$ 1,3 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 514,0 milhões, margem EBITDA de -91,4% sobre a receita. Em 2024, distribuiu R$ 25,8 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 562,4 mi · 2025
 

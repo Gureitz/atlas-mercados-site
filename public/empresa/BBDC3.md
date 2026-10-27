@@ -1,6 +1,6 @@
 ---
 title: BANCO BRADESCO S.A. (BBDC3) — análise financeira | Atlas Mercados
-description: BANCO BRADESCO S.A. (BBDC3) teve receitas da intermediação financeira de R$ 270,2 bilhões e lucro líquido de R$ 23,9 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 191,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 1,07 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: BANCO BRADESCO S.A. (BBDC3) teve receitas da intermediação financeira de R$ 270,2 bilhões e lucro líquido de R$ 23,9 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 203,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,5 e P/VPA de 1,14 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/BBDC3
 ---
 <!-- https://atlasmercados.com.br/empresa/BBDC3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BA
 
 BANCO BRADESCO S.A.
 
-BBDC3, BBDC4 · CD_CVM 906 · Bancos · SP · DFP 16a · ITR 16a
+BBDC3, BBDC4 · CD_CVM 906 · Bancos · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BBDC3?base=con) [Individual](https://atlasmercados.com.br/empresa/BBDC3?base=ind)
 
-> BANCO BRADESCO S.A. (BBDC3) teve receitas da intermediação financeira de R$ 270,2 bilhões e lucro líquido de R$ 23,9 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 191,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 1,07 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> BANCO BRADESCO S.A. (BBDC3) teve receitas da intermediação financeira de R$ 270,2 bilhões e lucro líquido de R$ 23,9 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 203,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,5 e P/VPA de 1,14 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 270,2 bi · 2025
 

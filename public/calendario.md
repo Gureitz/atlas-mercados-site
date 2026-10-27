@@ -1,6 +1,6 @@
 ---
 title: Calendário de divulgações — IPCA, PIB, PMC, PNAD e outras pesquisas do IBGE — Atlas Mercados
-description: Pelo calendário oficial do IBGE, o IPCA sai em 12/11/2026, o desemprego (PNAD Contínua) em 30/10/2026, a Pesquisa Mensal de Comércio em 13/11/2026 e o PIB trimestral em 02/12/2026; ao todo são 55 divulgações programadas até 23/03/2027. A pesquisa Focus do Banco Central sai toda segunda-feira.
+description: Pelo calendário oficial do IBGE, o IPCA sai em 12/11/2026, o desemprego (PNAD Contínua) em 30/10/2026, a Pesquisa Mensal de Comércio em 13/11/2026 e o PIB trimestral em 02/12/2026; ao todo são 53 divulgações programadas até 23/03/2027. A pesquisa Focus do Banco Central sai toda segunda-feira.
 url: https://atlasmercados.com.br/calendario
 ---
 <!-- https://atlasmercados.com.br/calendario — versão Markdown da página -->
@@ -9,14 +9,12 @@ url: https://atlasmercados.com.br/calendario
 
 IBGE (calendário oficial, API v3) · Banco Central (regras de publicação) · coletado em 18/10/2026 · [JSON](https://atlasmercados.com.br/calendario.json)
 
-> Pelo calendário oficial do IBGE, o IPCA sai em 12/11/2026, o desemprego (PNAD Contínua) em 30/10/2026, a Pesquisa Mensal de Comércio em 13/11/2026 e o PIB trimestral em 02/12/2026; ao todo são 55 divulgações programadas até 23/03/2027. A pesquisa Focus do Banco Central sai toda segunda-feira.
+> Pelo calendário oficial do IBGE, o IPCA sai em 12/11/2026, o desemprego (PNAD Contínua) em 30/10/2026, a Pesquisa Mensal de Comércio em 13/11/2026 e o PIB trimestral em 02/12/2026; ao todo são 53 divulgações programadas até 23/03/2027. A pesquisa Focus do Banco Central sai toda segunda-feira.
 
-## Próximas divulgações do IBGE — 55 divulgações · horário de Brasília
+## Próximas divulgações do IBGE — 53 divulgações · horário de Brasília
 
 | Data | Hora | Pesquisa | Tipo | No site |
 |---|---|---|---|---|
-| 22/10/2026 | 13:00 | Contas Econômicas Ambientais - Contas de Ecossistemas: uma abordagem para Unidades de Conservação | Produtos Geocientíficos Experimentais |  |
-| 23/10/2026 | 12:00 | Índice Nacional de Preços ao Consumidor Amplo 15 | Divulgação de Indicadores | IPCA-15 |
 | 27/10/2026 | 12:00 | Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação | Divulgação de Indicadores |  |
 | 29/10/2026 | 13:00 | Mapa dos Macrocompartimentos de Relevo do Brasil: Primeiro Nível Taxonômico do Sistema Brasileiro de Classificação de Relevo - SBCR | Produtos da Geociências |  |
 | 30/10/2026 | 12:00 | Pesquisa Nacional por Amostra de Domicílios Contínua Mensal | Divulgação de Indicadores | desemprego |
@@ -83,6 +81,8 @@ IBGE (calendário oficial, API v3) · Banco Central (regras de publicação) · 
 
 |  |  |  |
 |---|---|---|
+| 23/10/2026 | Índice Nacional de Preços ao Consumidor Amplo 15 | IPCA-15 |
+| 22/10/2026 | Contas Econômicas Ambientais - Contas de Ecossistemas: uma abordagem para Unidades de Conservação |  |
 | 16/10/2026 | Pesquisa Nacional por Amostra de Domicílios Contínua: Trabalho de Crianças e Adolescentes de 5 a 17 anos de idade 2025 |  |
 | 15/10/2026 | Elaboração e aplicação de metodologia de priorização de áreas para levantamentos florísticos no Brasil |  |
 | 15/10/2026 | Levantamento Sistemático da Produção Agrícola | agropecuária |

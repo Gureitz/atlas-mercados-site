@@ -1,6 +1,6 @@
 ---
 title: INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A. (MEAL3) — análise financeira | Atlas Mercados
-description: INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A. (MEAL3) teve receita líquida de R$ 1,7 bilhão e prejuízo líquido de R$ 149,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 138,5 milhões, margem EBITDA de 8,0% sobre a receita. O valor de mercado era de R$ 29,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 34,12 sobre o último exercício. A série anual disponível vai de 2011 a 2025.
+description: INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A. (MEAL3) teve receita líquida de R$ 1,7 bilhão e prejuízo líquido de R$ 149,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 240,8 milhões, margem EBITDA de 13,9% sobre a receita. O valor de mercado era de R$ 29,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 34,12 sobre o último exercício. A série anual disponível vai de 2011 a 2025.
 url: https://atlasmercados.com.br/empresa/MEAL3
 ---
 <!-- https://atlasmercados.com.br/empresa/MEAL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ IN
 
 INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A.
 
-MEAL3 · CD_CVM 23574 · Alimentos · SP · DFP 15a · ITR 13a
+MEAL3 · CD_CVM 23574 · Alimentos · SP · DFP 15a · ITR 13a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MEAL3?base=con) [Individual](https://atlasmercados.com.br/empresa/MEAL3?base=ind)
 
-> INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A. (MEAL3) teve receita líquida de R$ 1,7 bilhão e prejuízo líquido de R$ 149,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 138,5 milhões, margem EBITDA de 8,0% sobre a receita. O valor de mercado era de R$ 29,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 34,12 sobre o último exercício. A série anual disponível vai de 2011 a 2025.
+> INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A. (MEAL3) teve receita líquida de R$ 1,7 bilhão e prejuízo líquido de R$ 149,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 240,8 milhões, margem EBITDA de 13,9% sobre a receita. O valor de mercado era de R$ 29,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 34,12 sobre o último exercício. A série anual disponível vai de 2011 a 2025.
 
 - Receita líq. · R$ 1,7 bi · 2025
 
@@ -90,7 +90,7 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 P/L atual 4,0× mediana 9,2× faixa 4,0× – 81,8× abaixo da mediana
 
-P/VPA atual 41,4× mediana 0,6× faixa 0,3× – 41,4× acima da mediana
+P/VPA atual 39,0× mediana 0,6× faixa 0,3× – 39,8× acima da mediana
 
 Dividend Yield atual 0,2% mediana 0,3% faixa 0,2% – 0,4% abaixo da mediana
 

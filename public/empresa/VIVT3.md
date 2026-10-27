@@ -1,6 +1,6 @@
 ---
 title: TELEFÔNICA BRASIL S.A. (VIVT3) — análise financeira | Atlas Mercados
-description: TELEFÔNICA BRASIL S.A. (VIVT3) teve receita líquida de R$ 59,6 bilhões e lucro líquido de R$ 6,2 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 24,8 bilhões, margem EBITDA de 41,6% sobre a receita. O valor de mercado era de R$ 97,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,7 e P/VPA de 1,41 sobre o último exercício. Em 2025, distribuiu R$ 3,4 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: TELEFÔNICA BRASIL S.A. (VIVT3) teve receita líquida de R$ 59,6 bilhões e lucro líquido de R$ 6,2 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 24,8 bilhões, margem EBITDA de 41,6% sobre a receita. O valor de mercado era de R$ 104,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 1,52 sobre o último exercício. Em 2025, distribuiu R$ 3,4 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 192 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/VIVT3
 ---
 <!-- https://atlasmercados.com.br/empresa/VIVT3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ TE
 
 TELEFÔNICA BRASIL S.A.
 
-VIVT3, VIVT4 · CD_CVM 17671 · Telecomunicações · SP · DFP 16a · ITR 16a
+VIVT3, VIVT4 · CD_CVM 17671 · Telecomunicações · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/VIVT3?base=con) [Individual](https://atlasmercados.com.br/empresa/VIVT3?base=ind)
 
-> TELEFÔNICA BRASIL S.A. (VIVT3) teve receita líquida de R$ 59,6 bilhões e lucro líquido de R$ 6,2 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 24,8 bilhões, margem EBITDA de 41,6% sobre a receita. O valor de mercado era de R$ 97,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,7 e P/VPA de 1,41 sobre o último exercício. Em 2025, distribuiu R$ 3,4 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> TELEFÔNICA BRASIL S.A. (VIVT3) teve receita líquida de R$ 59,6 bilhões e lucro líquido de R$ 6,2 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 24,8 bilhões, margem EBITDA de 41,6% sobre a receita. O valor de mercado era de R$ 104,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 1,52 sobre o último exercício. Em 2025, distribuiu R$ 3,4 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 192 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 59,6 bi · 2025
 
@@ -36,6 +36,28 @@ VIVT3, VIVT4 · CD_CVM 17671 · Telecomunicações · SP · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 192 MW · 5 usinas ≥ 1 MW
+
+- Capacidade proporcional · 192 MW · inclui coligadas
+
+- Garantia física · 57 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Janaúba 15 | Solar | MG | 50 MW | 95,0% | 48 |
+| Janaúba 16 | Solar | MG | 50 MW | 95,0% | 48 |
+| Janaúba 17 | Solar | MG | 50 MW | 95,0% | 48 |
+| Janaúba 18 | Solar | MG | 50 MW | 95,0% | 48 |
+| Telesp | Fóssil | SP | 1 MW | 100,0% | 1 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -82,11 +104,11 @@ DRE · DFP · consolidado · 2025 · 28 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 14,8× mediana 16,2× faixa 8,1× – 22,8× abaixo da mediana
+P/L atual 15,7× mediana 16,2× faixa 8,1× – 22,8× abaixo da mediana
 
-P/VPA atual 1,4× mediana 1,1× faixa 0,6× – 2,0× acima da mediana
+P/VPA atual 1,6× mediana 1,1× faixa 0,6× – 2,0× acima da mediana
 
-Dividend Yield atual 3,6% mediana 6,9% faixa 2,3% – 9,2% abaixo da mediana
+Dividend Yield atual 3,3% mediana 6,9% faixa 2,3% – 9,2% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

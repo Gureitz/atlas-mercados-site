@@ -15,4 +15,4 @@ Realizado até 1T2025 · projeção de 40 trimestres (10 anos), de 2T2025 a 1T20
 
 [← Estrutura](https://atlasmercados.com.br/valuation/CLSA3)
 
-## Projeção trimestral — 14 premissas · 1 linhas derivadas · realizado em cinza, projetado em azul
+## Projeção trimestral — 15 premissas · 1 linhas derivadas · realizado em cinza, projetado em azul

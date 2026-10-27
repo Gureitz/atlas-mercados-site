@@ -1,19 +1,19 @@
 ---
 title: INVESTIMENTOS E PARTICIP EM INFRA SA INVEPAR (IVPR3) — análise financeira | Atlas Mercados
-description: INVESTIMENTOS E PARTICIP EM INFRA SA INVEPAR (IVPR3) teve receita líquida de R$ 3,8 bilhões e lucro líquido de R$ 741,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,0 bilhões, margem EBITDA de 79,8% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: INVESTIMENTOS E PARTICIP EM INFRA SA INVEPAR (IVPR3) teve receita líquida de R$ 3,8 bilhões e lucro líquido de R$ 741,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,0 bilhões, margem EBITDA de 79,8% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/IVPR3
 ---
 <!-- https://atlasmercados.com.br/empresa/IVPR3 — versão Markdown da página -->
 
 IN
 
-INVESTIMENTOS E PARTICIP EM INFRA SA INVEPAR
+INVESTIMENTOS E PARTICIP EM INFRA SA INVEPAR sem pregão em 90 dias
 
 IVPR3, IVPR4 · CD_CVM 18775 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/IVPR3?base=con) [Individual](https://atlasmercados.com.br/empresa/IVPR3?base=ind)
 
-> INVESTIMENTOS E PARTICIP EM INFRA SA INVEPAR (IVPR3) teve receita líquida de R$ 3,8 bilhões e lucro líquido de R$ 741,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,0 bilhões, margem EBITDA de 79,8% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> INVESTIMENTOS E PARTICIP EM INFRA SA INVEPAR (IVPR3) teve receita líquida de R$ 3,8 bilhões e lucro líquido de R$ 741,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,0 bilhões, margem EBITDA de 79,8% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 3,8 bi · 2025
 

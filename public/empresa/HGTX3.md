@@ -1,19 +1,19 @@
 ---
 title: CIA HERING (HGTX3) — análise financeira | Atlas Mercados
-description: CIA HERING (HGTX3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 343,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 170,0 milhões, margem EBITDA de 15,8% sobre a receita. Em 2020, distribuiu R$ 87,0 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2020.
+description: CIA HERING (HGTX3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 343,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 170,0 milhões, margem EBITDA de 15,8% sobre a receita. Em 2020, distribuiu R$ 87,0 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/HGTX3
 ---
 <!-- https://atlasmercados.com.br/empresa/HGTX3 — versão Markdown da página -->
 
 CI
 
-CIA HERING
+CIA HERING registro cancelada na CVM sem pregão em 90 dias
 
 HGTX3 · CD_CVM 14761 · Têxtil e Vestuário · SC · DFP 11a · ITR 11a
 
 [Consolidado](https://atlasmercados.com.br/empresa/HGTX3?base=con) [Individual](https://atlasmercados.com.br/empresa/HGTX3?base=ind)
 
-> CIA HERING (HGTX3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 343,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 170,0 milhões, margem EBITDA de 15,8% sobre a receita. Em 2020, distribuiu R$ 87,0 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2020.
+> CIA HERING (HGTX3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 343,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 170,0 milhões, margem EBITDA de 15,8% sobre a receita. Em 2020, distribuiu R$ 87,0 milhões em proventos (DMPL). A série anual disponível vai de 2010 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 1,1 bi · 2020
 

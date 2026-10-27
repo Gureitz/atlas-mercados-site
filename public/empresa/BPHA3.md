@@ -1,19 +1,19 @@
 ---
 title: MASSA FALIDA DA BRASIL PHARMA SA (BPHA3) — análise financeira | Atlas Mercados
-description: MASSA FALIDA DA BRASIL PHARMA SA (BPHA3) teve receita líquida de R$ 9,5 milhões e lucro líquido de R$ 1,0 bilhão no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 15,1 milhões, margem EBITDA de -158,3% sobre a receita. A série anual disponível vai de 2010 a 2018.
+description: MASSA FALIDA DA BRASIL PHARMA SA (BPHA3) teve receita líquida de R$ 9,5 milhões e lucro líquido de R$ 1,0 bilhão no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 15,1 milhões, margem EBITDA de -158,3% sobre a receita. A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/BPHA3
 ---
 <!-- https://atlasmercados.com.br/empresa/BPHA3 — versão Markdown da página -->
 
 MA
 
-MASSA FALIDA DA BRASIL PHARMA SA
+MASSA FALIDA DA BRASIL PHARMA SA sem pregão em 90 dias
 
 BPHA3 · CD_CVM 22500 · Farmacêutico e Higiene · SP · DFP 9a · ITR 9a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BPHA3?base=con) [Individual](https://atlasmercados.com.br/empresa/BPHA3?base=ind)
 
-> MASSA FALIDA DA BRASIL PHARMA SA (BPHA3) teve receita líquida de R$ 9,5 milhões e lucro líquido de R$ 1,0 bilhão no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 15,1 milhões, margem EBITDA de -158,3% sobre a receita. A série anual disponível vai de 2010 a 2018.
+> MASSA FALIDA DA BRASIL PHARMA SA (BPHA3) teve receita líquida de R$ 9,5 milhões e lucro líquido de R$ 1,0 bilhão no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 15,1 milhões, margem EBITDA de -158,3% sobre a receita. A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 9,5 mi · 2018
 

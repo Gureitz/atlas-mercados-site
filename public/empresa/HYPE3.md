@@ -1,6 +1,6 @@
 ---
 title: HYPERA S/A (HYPE3) — análise financeira | Atlas Mercados
-description: HYPERA S/A (HYPE3) teve receita líquida de R$ 7,7 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,1 bilhões, margem EBITDA de 27,0% sobre a receita. O valor de mercado era de R$ 17,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,9 e P/VPA de 1,41 sobre o último exercício. Em 2025, distribuiu R$ 740,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: HYPERA S/A (HYPE3) teve receita líquida de R$ 7,7 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,1 bilhões, margem EBITDA de 27,0% sobre a receita. O valor de mercado era de R$ 19,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,1 e P/VPA de 1,53 sobre o último exercício. Em 2025, distribuiu R$ 740,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/HYPE3
 ---
 <!-- https://atlasmercados.com.br/empresa/HYPE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ HY
 
 HYPERA S/A
 
-HYPE3 · CD_CVM 21431 · Farmacêutico e Higiene · SP · DFP 16a · ITR 16a
+HYPE3 · CD_CVM 21431 · Farmacêutico e Higiene · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/HYPE3?base=con) [Individual](https://atlasmercados.com.br/empresa/HYPE3?base=ind)
 
-> HYPERA S/A (HYPE3) teve receita líquida de R$ 7,7 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,1 bilhões, margem EBITDA de 27,0% sobre a receita. O valor de mercado era de R$ 17,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,9 e P/VPA de 1,41 sobre o último exercício. Em 2025, distribuiu R$ 740,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> HYPERA S/A (HYPE3) teve receita líquida de R$ 7,7 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,1 bilhões, margem EBITDA de 27,0% sobre a receita. O valor de mercado era de R$ 19,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,1 e P/VPA de 1,53 sobre o último exercício. Em 2025, distribuiu R$ 740,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 7,7 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 10,3× mediana 15,8× faixa 6,8× – 23,7× abaixo da mediana
+P/L atual 11,0× mediana 15,6× faixa 6,8× – 23,7× abaixo da mediana
 
-P/VPA atual 1,2× mediana 2,0× faixa 0,9× – 3,1× abaixo da mediana
+P/VPA atual 1,3× mediana 2,0× faixa 0,9× – 3,1× abaixo da mediana
 
-Dividend Yield atual 4,3% mediana 3,7% faixa 2,4% – 6,8% acima da mediana
+Dividend Yield atual 3,9% mediana 3,7% faixa 2,4% – 6,8% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

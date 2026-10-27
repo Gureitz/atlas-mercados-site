@@ -1,6 +1,6 @@
 ---
 title: REDE ENERGIA PARTICIPAÇÕES S.A. (REDE3) — análise financeira | Atlas Mercados
-description: REDE ENERGIA PARTICIPAÇÕES S.A. (REDE3) teve receita líquida de R$ 19,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 13,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,3 e P/VPA de 2,10 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: REDE ENERGIA PARTICIPAÇÕES S.A. (REDE3) teve receita líquida de R$ 19,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 24,4% sobre a receita. O valor de mercado era de R$ 13,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,3 e P/VPA de 2,09 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as 4 distribuidoras controladas atendiam 4,5 milhões de consumidores no último mês completo de cada uma (SAMP, 08/2026 a 09/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/REDE3
 ---
 <!-- https://atlasmercados.com.br/empresa/REDE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ RE
 
 REDE ENERGIA PARTICIPAÇÕES S.A.
 
-REDE3 · CD_CVM 3190 · Energia Elétrica · MG · DFP 16a · ITR 16a
+REDE3 · CD_CVM 3190 · Energia Elétrica · MG · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/REDE3?base=con) [Individual](https://atlasmercados.com.br/empresa/REDE3?base=ind)
 
-> REDE ENERGIA PARTICIPAÇÕES S.A. (REDE3) teve receita líquida de R$ 19,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 13,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,3 e P/VPA de 2,10 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> REDE ENERGIA PARTICIPAÇÕES S.A. (REDE3) teve receita líquida de R$ 19,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 24,4% sobre a receita. O valor de mercado era de R$ 13,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,3 e P/VPA de 2,09 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as 4 distribuidoras controladas atendiam 4,5 milhões de consumidores no último mês completo de cada uma (SAMP, 08/2026 a 09/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 19,4 bi · 2025
 
@@ -36,6 +36,27 @@ REDE3 · CD_CVM 3190 · Energia Elétrica · MG · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 3 MW · 0 usinas ≥ 1 MW
+
+- Capacidade proporcional · 3 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · 4.544.478 · distribuidoras controladas
+
+- Energia faturada 12m · 21.557 GWh · TUSD · controladas
+
+| Distribuidora | Participação efetiva | Consumidores | Energia 12m | Mês |
+|---|---|---|---|---|
+| EMT ENERGISA MATO GROSSO - DISTRIBUIDORA DE | 97,7% | 1.744.457 | 9.295 GWh | 09/2026 |
+| EMS ENERGISA MATO GROSSO DO SUL - DISTRIBUID | 99,9% | 1.180.475 | 5.135 GWh | 08/2026 |
+| ESS ENERGISA SUL-SUDESTE - DISTRIBUIDORA DE | 99,3% | 908.310 | 4.394 GWh | 08/2026 |
+| ETO ENERGISA TOCANTINS DISTRIBUIDORA DE ENER | 76,7% | 711.236 | 2.733 GWh | 08/2026 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -101,11 +122,11 @@ DRE · DFP · consolidado · 2025 · 47 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 9,2× mediana 7,1× faixa 5,2× – 33,4× acima da mediana
+P/L atual 10,6× mediana 7,1× faixa 5,2× – 33,4× acima da mediana
 
-P/VPA atual 2,1× mediana 2,4× faixa 1,8× – 4,7× abaixo da mediana
+P/VPA atual 2,0× mediana 2,4× faixa 1,8× – 4,7× abaixo da mediana
 
-Dividend Yield atual 9,3% mediana 8,7% faixa 0,5% – 16,0% acima da mediana
+Dividend Yield atual 9,3% mediana 8,8% faixa 0,5% – 16,0% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

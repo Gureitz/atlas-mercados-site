@@ -1,6 +1,6 @@
 ---
 title: LOJAS QUERO QUERO S.A. (LJQQ3) — análise financeira | Atlas Mercados
-description: LOJAS QUERO QUERO S.A. (LJQQ3) teve receita líquida de R$ 2,8 bilhões e prejuízo líquido de R$ 161,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 151,5 milhões, margem EBITDA de 5,4% sobre a receita. O valor de mercado era de R$ 318,7 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,79 sobre o último exercício. Em 2024, distribuiu R$ 23,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2025.
+description: LOJAS QUERO QUERO S.A. (LJQQ3) teve receita líquida de R$ 2,8 bilhões e prejuízo líquido de R$ 161,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 156,7 milhões, margem EBITDA de 5,6% sobre a receita. O valor de mercado era de R$ 631,1 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,56 sobre o último exercício. Em 2024, distribuiu R$ 23,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/LJQQ3
 ---
 <!-- https://atlasmercados.com.br/empresa/LJQQ3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ LO
 
 LOJAS QUERO QUERO S.A.
 
-LJQQ3 · CD_CVM 25038 · Comércio (Atacado e Varejo) · RS · DFP 7a · ITR 7a
+LJQQ3 · CD_CVM 25038 · Comércio (Atacado e Varejo) · RS · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/LJQQ3?base=con) [Individual](https://atlasmercados.com.br/empresa/LJQQ3?base=ind)
 
-> LOJAS QUERO QUERO S.A. (LJQQ3) teve receita líquida de R$ 2,8 bilhões e prejuízo líquido de R$ 161,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 151,5 milhões, margem EBITDA de 5,4% sobre a receita. O valor de mercado era de R$ 318,7 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,79 sobre o último exercício. Em 2024, distribuiu R$ 23,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2025.
+> LOJAS QUERO QUERO S.A. (LJQQ3) teve receita líquida de R$ 2,8 bilhões e prejuízo líquido de R$ 161,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 156,7 milhões, margem EBITDA de 5,6% sobre a receita. O valor de mercado era de R$ 631,1 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,56 sobre o último exercício. Em 2024, distribuiu R$ 23,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 2,8 bi · 2025
 
@@ -88,9 +88,9 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 P/L atual 3.727,3× mediana 24,6× faixa 6,7× – 4.081,7× acima da mediana
 
-P/VPA atual 0,8× mediana 1,5× faixa 0,7× – 9,0× abaixo da mediana
+P/VPA atual 2,2× mediana 1,5× faixa 0,7× – 9,0× acima da mediana
 
-Dividend Yield atual 9,0% mediana 1,5% faixa 0,2% – 9,9% acima da mediana
+Dividend Yield atual 3,8% mediana 1,5% faixa 0,2% – 9,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

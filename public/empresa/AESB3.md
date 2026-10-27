@@ -1,19 +1,19 @@
 ---
 title: AUREN PARTICIPAÇÕES S.A. (AESB3) — análise financeira | Atlas Mercados
-description: AUREN PARTICIPAÇÕES S.A. (AESB3) teve receita líquida de R$ 4,1 bilhões e prejuízo líquido de R$ 368,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 42,7% sobre a receita. Em 2025, distribuiu R$ 746,5 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+description: AUREN PARTICIPAÇÕES S.A. (AESB3) teve receita líquida de R$ 4,1 bilhões e prejuízo líquido de R$ 368,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 44,7% sobre a receita. Em 2025, distribuiu R$ 746,5 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/AESB3
 ---
 <!-- https://atlasmercados.com.br/empresa/AESB3 — versão Markdown da página -->
 
 AU
 
-AUREN PARTICIPAÇÕES S.A.
+AUREN PARTICIPAÇÕES S.A. sem pregão em 90 dias
 
 AESB3 · CD_CVM 25640 · Energia Elétrica · SP · DFP 6a · ITR 7a
 
 [Consolidado](https://atlasmercados.com.br/empresa/AESB3?base=con) [Individual](https://atlasmercados.com.br/empresa/AESB3?base=ind)
 
-> AUREN PARTICIPAÇÕES S.A. (AESB3) teve receita líquida de R$ 4,1 bilhões e prejuízo líquido de R$ 368,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 42,7% sobre a receita. Em 2025, distribuiu R$ 746,5 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+> AUREN PARTICIPAÇÕES S.A. (AESB3) teve receita líquida de R$ 4,1 bilhões e prejuízo líquido de R$ 368,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 44,7% sobre a receita. Em 2025, distribuiu R$ 746,5 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 4,1 bi · 2025
 

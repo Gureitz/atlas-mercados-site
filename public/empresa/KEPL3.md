@@ -1,6 +1,6 @@
 ---
 title: KEPLER WEBER SA (KEPL3) — análise financeira | Atlas Mercados
-description: KEPLER WEBER SA (KEPL3) teve receita líquida de R$ 1,5 bilhão e lucro líquido de R$ 156,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 231,9 milhões, margem EBITDA de 15,6% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,8 e P/VPA de 1,57 sobre o último exercício. Em 2025, distribuiu R$ 129,6 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: KEPLER WEBER SA (KEPL3) teve receita líquida de R$ 1,5 bilhão e lucro líquido de R$ 156,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 231,9 milhões, margem EBITDA de 15,6% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,0 e P/VPA de 1,82 sobre o último exercício. Em 2025, distribuiu R$ 129,6 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/KEPL3
 ---
 <!-- https://atlasmercados.com.br/empresa/KEPL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ KE
 
 KEPLER WEBER SA
 
-KEPL3, KEPL11 · CD_CVM 7870 · Emp. Adm. Part. - Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a
+KEPL3, KEPL11 · CD_CVM 7870 · Emp. Adm. Part. - Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/KEPL3?base=con) [Individual](https://atlasmercados.com.br/empresa/KEPL3?base=ind)
 
-> KEPLER WEBER SA (KEPL3) teve receita líquida de R$ 1,5 bilhão e lucro líquido de R$ 156,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 231,9 milhões, margem EBITDA de 15,6% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,8 e P/VPA de 1,57 sobre o último exercício. Em 2025, distribuiu R$ 129,6 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> KEPLER WEBER SA (KEPL3) teve receita líquida de R$ 1,5 bilhão e lucro líquido de R$ 156,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 231,9 milhões, margem EBITDA de 15,6% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,0 e P/VPA de 1,82 sobre o último exercício. Em 2025, distribuiu R$ 129,6 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,5 bi · 2025
 
@@ -86,11 +86,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,7× mediana 7,9× faixa 1,7× – 28,0× abaixo da mediana
+P/L atual 9,7× mediana 8,0× faixa 1,7× – 28,0× acima da mediana
 
-P/VPA atual 1,4× mediana 2,3× faixa 1,1× – 4,2× abaixo da mediana
+P/VPA atual 1,7× mediana 2,3× faixa 1,1× – 4,2× abaixo da mediana
 
-Dividend Yield atual 11,5% mediana 6,0% faixa 0,4% – 37,1% acima da mediana
+Dividend Yield atual 9,5% mediana 6,0% faixa 0,4% – 37,1% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

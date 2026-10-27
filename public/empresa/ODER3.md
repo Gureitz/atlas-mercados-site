@@ -1,19 +1,19 @@
 ---
 title: CONSERVAS ODERICH SA (ODER3) — análise financeira | Atlas Mercados
-description: CONSERVAS ODERICH SA (ODER3) teve receita líquida de R$ 828,0 milhões e lucro líquido de R$ 75,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 4,8 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+description: CONSERVAS ODERICH SA (ODER3) teve receita líquida de R$ 828,0 milhões e lucro líquido de R$ 75,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 4,8 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/ODER3
 ---
 <!-- https://atlasmercados.com.br/empresa/ODER3 — versão Markdown da página -->
 
 CO
 
-CONSERVAS ODERICH SA
+CONSERVAS ODERICH SA sem pregão em 90 dias
 
 ODER3, ODER4 · CD_CVM 4693 · Alimentos · RS · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/ODER3?base=con) [Individual](https://atlasmercados.com.br/empresa/ODER3?base=ind)
 
-> CONSERVAS ODERICH SA (ODER3) teve receita líquida de R$ 828,0 milhões e lucro líquido de R$ 75,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 4,8 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+> CONSERVAS ODERICH SA (ODER3) teve receita líquida de R$ 828,0 milhões e lucro líquido de R$ 75,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 4,8 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 828,0 mi · 2025
 

@@ -1,6 +1,6 @@
 ---
 title: DIAGNOSTICOS DA AMERICA SA (DASA3) — análise financeira | Atlas Mercados
-description: DIAGNOSTICOS DA AMERICA SA (DASA3) teve receita líquida de R$ 11,2 bilhões e prejuízo líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 18,1% sobre a receita. O valor de mercado era de R$ 5,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,72 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: DIAGNOSTICOS DA AMERICA SA (DASA3) teve receita líquida de R$ 11,2 bilhões e prejuízo líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 18,1% sobre a receita. O valor de mercado era de R$ 6,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,00 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/DASA3
 ---
 <!-- https://atlasmercados.com.br/empresa/DASA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ DI
 
 DIAGNOSTICOS DA AMERICA SA
 
-DASA3 · CD_CVM 19623 · Serviços Médicos · SP · DFP 16a · ITR 16a
+DASA3 · CD_CVM 19623 · Serviços Médicos · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/DASA3?base=con) [Individual](https://atlasmercados.com.br/empresa/DASA3?base=ind)
 
-> DIAGNOSTICOS DA AMERICA SA (DASA3) teve receita líquida de R$ 11,2 bilhões e prejuízo líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 18,1% sobre a receita. O valor de mercado era de R$ 5,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,72 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> DIAGNOSTICOS DA AMERICA SA (DASA3) teve receita líquida de R$ 11,2 bilhões e prejuízo líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 18,1% sobre a receita. O valor de mercado era de R$ 6,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,00 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 11,2 bi · 2025
 
@@ -85,7 +85,7 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/VPA atual 0,7× mediana 0,9× faixa 0,2× – 21,2× abaixo da mediana
+P/VPA atual 1,0× mediana 0,9× faixa 0,2× – 21,2× acima da mediana
 
 Dividend Yield atual 2,3% mediana 0,8% faixa 0,2% – 4,0% acima da mediana
 

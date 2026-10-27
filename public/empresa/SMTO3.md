@@ -1,6 +1,6 @@
 ---
 title: SÃO MARTINHO SA (SMTO3) — análise financeira | Atlas Mercados
-description: SÃO MARTINHO SA (SMTO3) teve receita líquida de R$ 7,4 bilhões e lucro líquido de R$ 836,2 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 6,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,7 e P/VPA de 0,87 sobre o último exercício. Em 2026, distribuiu R$ 219,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2011 a 2026.
+description: SÃO MARTINHO SA (SMTO3) teve receita líquida de R$ 7,4 bilhões e lucro líquido de R$ 836,2 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 7,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,4 e P/VPA de 0,95 sobre o último exercício. Em 2026, distribuiu R$ 219,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2011 a 2026. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 335 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/SMTO3
 ---
 <!-- https://atlasmercados.com.br/empresa/SMTO3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ SÃ
 
 SÃO MARTINHO SA
 
-SMTO3 · CD_CVM 20516 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 16a · ITR 16a
+SMTO3 · CD_CVM 20516 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SMTO3?base=con) [Individual](https://atlasmercados.com.br/empresa/SMTO3?base=ind)
 
-> SÃO MARTINHO SA (SMTO3) teve receita líquida de R$ 7,4 bilhões e lucro líquido de R$ 836,2 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 6,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,7 e P/VPA de 0,87 sobre o último exercício. Em 2026, distribuiu R$ 219,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2011 a 2026.
+> SÃO MARTINHO SA (SMTO3) teve receita líquida de R$ 7,4 bilhões e lucro líquido de R$ 836,2 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 7,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,4 e P/VPA de 0,95 sobre o último exercício. Em 2026, distribuiu R$ 219,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2011 a 2026. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 335 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 7,4 bi · 2026
 
@@ -36,6 +36,30 @@ SMTO3 · CD_CVM 20516 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201520162017201820192020202120222023202420252026
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 335 MW · 7 usinas ≥ 1 MW
+
+- Capacidade proporcional · 335 MW · inclui coligadas
+
+- Garantia física · 103 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Santa Cruz AB (Antiga Ometto) | Biomassa | SP | 84 MW | 100,0% | 84 |
+| São Martinho | Biomassa | SP | 73 MW | 100,0% | 73 |
+| São Martinho Boa Vista | Biomassa | GO | 44 MW | 100,0% | 44 |
+| Boa Vista | Biomassa | GO | 40 MW | 100,0% | 40 |
+| São Martinho Bioenergia | Biomassa | SP | 40 MW | 100,0% | 40 |
+| São Martinho Energia | Biomassa | SP | 40 MW | 100,0% | 40 |
+| Iracema | Biomassa | SP | 14 MW | 100,0% | 14 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -84,11 +108,11 @@ DRE · DFP · consolidado · 2026 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 6,7× mediana 10,2× faixa 5,4× – 16,8× abaixo da mediana
+P/L atual 8,4× mediana 10,1× faixa 5,4× – 16,8× abaixo da mediana
 
-P/VPA atual 0,8× mediana 1,7× faixa 0,6× – 3,6× abaixo da mediana
+P/VPA atual 0,9× mediana 1,7× faixa 0,6× – 3,6× abaixo da mediana
 
-Dividend Yield atual 5,3% mediana 4,0% faixa 1,0% – 12,2% acima da mediana
+Dividend Yield atual 4,4% mediana 4,0% faixa 1,0% – 12,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

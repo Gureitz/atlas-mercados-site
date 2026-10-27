@@ -1,29 +1,84 @@
 ---
 title: FIBAM CIA INDUSTRIAL (FBMC3) — análise financeira | Atlas Mercados
-description: Análise financeira de FIBAM CIA INDUSTRIAL (FBMC3, CD_CVM 6017) a partir da CVM: receita n/d, lucro líquido n/d, patrimônio n/d no exercício . DFP/ITR, metodologia explícita.
+description: FIBAM CIA INDUSTRIAL (FBMC3) teve receita líquida de R$ 40,2 milhões e prejuízo líquido de R$ 24,5 milhões no exercício de 2017 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2017. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/FBMC3
 ---
 <!-- https://atlasmercados.com.br/empresa/FBMC3 — versão Markdown da página -->
 
 FI
 
-FIBAM CIA INDUSTRIAL
+FIBAM CIA INDUSTRIAL registro cancelada na CVM sem pregão em 90 dias
 
 FBMC3, FBMC4 · CD_CVM 6017 · Metalurgia e Siderurgia · SP · DFP 8a · ITR 8a
 
 [Consolidado](https://atlasmercados.com.br/empresa/FBMC3?base=con) [Individual](https://atlasmercados.com.br/empresa/FBMC3?base=ind)
 
-Sem DFP consolidada para esta companhia. Tente a outra variante acima.
+> FIBAM CIA INDUSTRIAL (FBMC3) teve receita líquida de R$ 40,2 milhões e prejuízo líquido de R$ 24,5 milhões no exercício de 2017 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2017. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
+
+- Receita líq. · R$ 40,2 mi · 2017
+
+- Lucro líq. · -R$ 24,5 mi · 2017
+
+- Margem líq. · -60,9% · LL / receita
+
+- EBIT · -R$ 20,0 mi · result. oper.
+
+- Ativo total · R$ 44,0 mi · 2017
+
+- Patrim. líq. · -R$ 54,7 mi · 2017
+
+- ROE · 44,7% · LL / PL
+
+## Receita líquida — por exercício (DFP, R$)
+
+20102011201220132014201520162017
+
+## Lucro líquido — por exercício (DFP, R$)
+
+20102011201220132014201520162017
+
+Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
 ## Demonstração crua — linha a linha, fonte CVM
 
-[DFP](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP) [ITR](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=ITR)
+[DFP](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP) [ITR](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=ITR)
 
-[BPA](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=BPA&ano=2017) [BPP](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=BPP&ano=2017) [DFC_MI](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DFC_MI&ano=2017) [DMPL](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DMPL&ano=2017) [DRA](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRA&ano=2017) [DRE](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRE&ano=2017) [DVA](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DVA&ano=2017)
+[BPA](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=BPA&ano=2017) [BPP](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=BPP&ano=2017) [DFC_MI](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DFC_MI&ano=2017) [DMPL](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DMPL&ano=2017) [DRA](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRA&ano=2017) [DRE](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRE&ano=2017) [DVA](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DVA&ano=2017)
 
-[2017](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRE&ano=2017) [2016](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRE&ano=2016) [2015](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRE&ano=2015) [2014](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRE&ano=2014) [2013](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRE&ano=2013) [2012](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRE&ano=2012) [2011](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRE&ano=2011) [2010](https://atlasmercados.com.br/empresa/FBMC3?base=con&doc=DFP&demo=DRE&ano=2010)
+[2017](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRE&ano=2017) [2016](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRE&ano=2016) [2015](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRE&ano=2015) [2014](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRE&ano=2014) [2013](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRE&ano=2013) [2012](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRE&ano=2012) [2011](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRE&ano=2011) [2010](https://atlasmercados.com.br/empresa/FBMC3?base=ind&doc=DFP&demo=DRE&ano=2010)
 
-Sem dados para esta seleção.
+| Conta | Descrição | Valor (R$) |
+|---|---|---|
+| 3.01 | Receita de Venda de Bens e/ou Serviços | 40.195.000 |
+| 3.01.01 | Receita Bruta de Vendas e/ou Serviços | 51.569.000 |
+| 3.01.02 | Deduções da Receita Bruta | -11.374.000 |
+| 3.02 | Custo dos Bens e/ou Serviços Vendidos | -56.211.000 |
+| 3.03 | Resultado Bruto | -16.016.000 |
+| 3.04 | Despesas/Receitas Operacionais | -4.011.000 |
+| 3.04.01 | Despesas com Vendas | -3.179.000 |
+| 3.04.02 | Despesas Gerais e Administrativas | -12.475.000 |
+| 3.04.03 | Perdas pela Não Recuperabilidade de Ativos | 0 |
+| 3.04.04 | Outras Receitas Operacionais | 11.643.000 |
+| 3.04.05 | Outras Despesas Operacionais | 0 |
+| 3.04.06 | Resultado de Equivalência Patrimonial | 0 |
+| 3.05 | Resultado Antes do Resultado Financeiro e dos Tributos | -20.027.000 |
+| 3.06 | Resultado Financeiro | -4.448.000 |
+| 3.06.01 | Receitas Financeiras | 152.000 |
+| 3.06.02 | Despesas Financeiras | -4.600.000 |
+| 3.07 | Resultado Antes dos Tributos sobre o Lucro | -24.475.000 |
+| 3.08 | Imposto de Renda e Contribuição Social sobre o Lucro | 0 |
+| 3.08.01 | Corrente | 0 |
+| 3.08.02 | Diferido | 0 |
+| 3.09 | Resultado Líquido das Operações Continuadas | -24.475.000 |
+| 3.10 | Resultado Líquido de Operações Descontinuadas | 0 |
+| 3.10.01 | Lucro/Prejuízo Líquido das Operações Descontinuadas | 0 |
+| 3.10.02 | Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas | 0 |
+| 3.11 | Lucro/Prejuízo do Período | -24.475.000 |
+| 3.99 | Lucro por Ação - (Reais / Ação) | 0 |
+| 3.99.01 | Lucro Básico por Ação | 0 |
+| 3.99.02 | Lucro Diluído por Ação | 0 |
+
+DRE · DFP · individual · 2017 · 28 linhas · R$
 
 ## Proventos por exercício — dividendos e JCP atribuídos aos controladores · DMPL da CVM
 

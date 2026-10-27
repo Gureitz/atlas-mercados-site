@@ -1,6 +1,6 @@
 ---
 title: CYRELA BRAZIL REALTY S.A.EMPREEND E PART (CYRE3) — análise financeira | Atlas Mercados
-description: CYRELA BRAZIL REALTY S.A.EMPREEND E PART (CYRE3) teve receita líquida de R$ 9,4 bilhões e lucro líquido de R$ 2,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 12,6 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,3 e P/VPA de 1,10 sobre o último exercício. Em 2025, distribuiu R$ 999,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: CYRELA BRAZIL REALTY S.A.EMPREEND E PART (CYRE3) teve receita líquida de R$ 9,4 bilhões e lucro líquido de R$ 2,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 25,8% sobre a receita. O valor de mercado era de R$ 16,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,7 e P/VPA de 1,39 sobre o último exercício. Em 2025, distribuiu R$ 999,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/CYRE3
 ---
 <!-- https://atlasmercados.com.br/empresa/CYRE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CY
 
 CYRELA BRAZIL REALTY S.A.EMPREEND E PART
 
-CYRE3, CYRE4 · CD_CVM 14460 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+CYRE3, CYRE4 · CD_CVM 14460 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CYRE3?base=con) [Individual](https://atlasmercados.com.br/empresa/CYRE3?base=ind)
 
-> CYRELA BRAZIL REALTY S.A.EMPREEND E PART (CYRE3) teve receita líquida de R$ 9,4 bilhões e lucro líquido de R$ 2,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 12,6 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 5,3 e P/VPA de 1,10 sobre o último exercício. Em 2025, distribuiu R$ 999,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> CYRELA BRAZIL REALTY S.A.EMPREEND E PART (CYRE3) teve receita líquida de R$ 9,4 bilhões e lucro líquido de R$ 2,4 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 25,8% sobre a receita. O valor de mercado era de R$ 16,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,7 e P/VPA de 1,39 sobre o último exercício. Em 2025, distribuiu R$ 999,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 9,4 bi · 2025
 
@@ -104,11 +104,11 @@ DRE · DFP · consolidado · 2025 · 50 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 5,0× mediana 5,8× faixa 2,8× – 24,0× abaixo da mediana
+P/L atual 6,7× mediana 5,8× faixa 2,8× – 24,0× acima da mediana
 
-P/VPA atual 1,0× mediana 1,0× faixa 0,7× – 2,1× acima da mediana
+P/VPA atual 1,3× mediana 1,0× faixa 0,7× – 2,1× acima da mediana
 
-Dividend Yield atual 8,4% mediana 4,5% faixa 2,1% – 17,4% acima da mediana
+Dividend Yield atual 6,3% mediana 4,5% faixa 2,1% – 17,4% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

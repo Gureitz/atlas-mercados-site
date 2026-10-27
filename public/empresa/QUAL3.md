@@ -1,6 +1,6 @@
 ---
 title: QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A. (QUAL3) — análise financeira | Atlas Mercados
-description: QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A. (QUAL3) teve receitas operacionais de R$ 1,4 bilhão e lucro líquido de R$ 17,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 480,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,2 e P/VPA de 0,37 sobre o último exercício. Em 2025, distribuiu R$ 2,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A. (QUAL3) teve receitas operacionais de R$ 1,4 bilhão e lucro líquido de R$ 17,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 633,4 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 37,1 e P/VPA de 0,48 sobre o último exercício. Em 2025, distribuiu R$ 2,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/QUAL3
 ---
 <!-- https://atlasmercados.com.br/empresa/QUAL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ QU
 
 QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.
 
-QUAL3 · CD_CVM 22497 · Seguradoras e Corretoras · SP · DFP 16a · ITR 16a
+QUAL3 · CD_CVM 22497 · Seguradoras e Corretoras · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/QUAL3?base=con) [Individual](https://atlasmercados.com.br/empresa/QUAL3?base=ind)
 
-> QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A. (QUAL3) teve receitas operacionais de R$ 1,4 bilhão e lucro líquido de R$ 17,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 480,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,2 e P/VPA de 0,37 sobre o último exercício. Em 2025, distribuiu R$ 2,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A. (QUAL3) teve receitas operacionais de R$ 1,4 bilhão e lucro líquido de R$ 17,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 633,4 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 37,1 e P/VPA de 0,48 sobre o último exercício. Em 2025, distribuiu R$ 2,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,4 bi · 2025
 
@@ -86,11 +86,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 19,9× mediana 20,4× faixa 4,4× – 121,2× abaixo da mediana
+P/L atual 18,2× mediana 20,8× faixa 4,4× – 121,2× abaixo da mediana
 
-P/VPA atual 0,3× mediana 0,8× faixa 0,3× – 6,4× abaixo da mediana
+P/VPA atual 0,5× mediana 0,8× faixa 0,3× – 6,4× abaixo da mediana
 
-Dividend Yield atual 0,6% mediana 2,7% faixa 0,2% – 63,2% abaixo da mediana
+Dividend Yield atual 0,4% mediana 2,6% faixa 0,2% – 63,2% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

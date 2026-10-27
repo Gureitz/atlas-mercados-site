@@ -1,19 +1,19 @@
 ---
 title: BRISANET PARTICIPAÇÕES S.A. (BRIT3) — análise financeira | Atlas Mercados
-description: BRISANET PARTICIPAÇÕES S.A. (BRIT3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 163,3 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 580,0 milhões, margem EBITDA de 47,2% sobre a receita. Em 2023, distribuiu R$ 38,9 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2023.
+description: BRISANET PARTICIPAÇÕES S.A. (BRIT3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 163,3 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 580,0 milhões, margem EBITDA de 47,2% sobre a receita. Em 2023, distribuiu R$ 38,9 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/BRIT3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRIT3 — versão Markdown da página -->
 
 BR
 
-BRISANET PARTICIPAÇÕES S.A.
+BRISANET PARTICIPAÇÕES S.A. registro cancelada na CVM sem pregão em 90 dias
 
 BRIT3 · CD_CVM 26085 · Emp. Adm. Part. - Telecomunicações · CE · DFP 4a · ITR 4a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRIT3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRIT3?base=ind)
 
-> BRISANET PARTICIPAÇÕES S.A. (BRIT3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 163,3 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 580,0 milhões, margem EBITDA de 47,2% sobre a receita. Em 2023, distribuiu R$ 38,9 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2023.
+> BRISANET PARTICIPAÇÕES S.A. (BRIT3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 163,3 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 580,0 milhões, margem EBITDA de 47,2% sobre a receita. Em 2023, distribuiu R$ 38,9 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 1,2 bi · 2023
 

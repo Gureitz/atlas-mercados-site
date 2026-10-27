@@ -1,19 +1,19 @@
 ---
 title: MASSA FALIDA DA MMX MINERACAO E METALICOS S.A. (MMXM3) — análise financeira | Atlas Mercados
-description: MASSA FALIDA DA MMX MINERACAO E METALICOS S.A. (MMXM3) teve receita líquida de R$ 256.000 e prejuízo líquido de R$ 81,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2020.
+description: MASSA FALIDA DA MMX MINERACAO E METALICOS S.A. (MMXM3) teve receita líquida de R$ 256.000 e prejuízo líquido de R$ 81,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/MMXM3
 ---
 <!-- https://atlasmercados.com.br/empresa/MMXM3 — versão Markdown da página -->
 
 MA
 
-MASSA FALIDA DA MMX MINERACAO E METALICOS S.A.
+MASSA FALIDA DA MMX MINERACAO E METALICOS S.A. registro cancelada na CVM sem pregão em 90 dias
 
 MMXM3 · CD_CVM 17914 · Extração Mineral · RJ · DFP 11a · ITR 11a
 
 [Consolidado](https://atlasmercados.com.br/empresa/MMXM3?base=con) [Individual](https://atlasmercados.com.br/empresa/MMXM3?base=ind)
 
-> MASSA FALIDA DA MMX MINERACAO E METALICOS S.A. (MMXM3) teve receita líquida de R$ 256.000 e prejuízo líquido de R$ 81,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2020.
+> MASSA FALIDA DA MMX MINERACAO E METALICOS S.A. (MMXM3) teve receita líquida de R$ 256.000 e prejuízo líquido de R$ 81,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 256 mil · 2020
 

@@ -1,6 +1,6 @@
 ---
 title: TEGMA GESTÃO LOGÍSTICA SA (TGMA3) — análise financeira | Atlas Mercados
-description: TEGMA GESTÃO LOGÍSTICA SA (TGMA3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 243,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 358,1 milhões, margem EBITDA de 16,1% sobre a receita. O valor de mercado era de R$ 2,6 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,7 e P/VPA de 2,99 sobre o último exercício. Em 2025, distribuiu R$ 292,1 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: TEGMA GESTÃO LOGÍSTICA SA (TGMA3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 243,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 388,6 milhões, margem EBITDA de 17,5% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,1 e P/VPA de 3,92 sobre o último exercício. Em 2025, distribuiu R$ 292,1 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/TGMA3
 ---
 <!-- https://atlasmercados.com.br/empresa/TGMA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ TE
 
 TEGMA GESTÃO LOGÍSTICA SA
 
-TGMA3 · CD_CVM 20800 · Serviços Transporte e Logística · SP · DFP 16a · ITR 16a
+TGMA3 · CD_CVM 20800 · Serviços Transporte e Logística · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/TGMA3?base=con) [Individual](https://atlasmercados.com.br/empresa/TGMA3?base=ind)
 
-> TEGMA GESTÃO LOGÍSTICA SA (TGMA3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 243,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 358,1 milhões, margem EBITDA de 16,1% sobre a receita. O valor de mercado era de R$ 2,6 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,7 e P/VPA de 2,99 sobre o último exercício. Em 2025, distribuiu R$ 292,1 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> TEGMA GESTÃO LOGÍSTICA SA (TGMA3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 243,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 388,6 milhões, margem EBITDA de 17,5% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,1 e P/VPA de 3,92 sobre o último exercício. Em 2025, distribuiu R$ 292,1 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 2,2 bi · 2025
 
@@ -89,11 +89,11 @@ DRE · DFP · consolidado · 2025 · 35 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 9,9× mediana 9,3× faixa 6,4× – 21,8× acima da mediana
+P/L atual 13,4× mediana 9,3× faixa 6,4× – 21,8× acima da mediana
 
-P/VPA atual 2,6× mediana 2,2× faixa 1,3× – 3,0× acima da mediana
+P/VPA atual 3,4× mediana 2,2× faixa 1,3× – 3,4× acima da mediana
 
-Dividend Yield atual 12,4% mediana 5,8% faixa 1,4% – 14,9% acima da mediana
+Dividend Yield atual 8,6% mediana 5,8% faixa 1,4% – 14,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,6 +1,6 @@
 ---
 title: ROMI S.A. (ROMI3) — análise financeira | Atlas Mercados
-description: ROMI S.A. (ROMI3) teve receita líquida de R$ 1,3 bilhão e lucro líquido de R$ 86,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 163,5 milhões, margem EBITDA de 12,3% sobre a receita. O valor de mercado era de R$ 592,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,9 e P/VPA de 0,47 sobre o último exercício. Em 2025, distribuiu R$ 67,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: ROMI S.A. (ROMI3) teve receita líquida de R$ 1,3 bilhão e lucro líquido de R$ 86,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 163,5 milhões, margem EBITDA de 12,3% sobre a receita. O valor de mercado era de R$ 710,9 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,2 e P/VPA de 0,57 sobre o último exercício. Em 2025, distribuiu R$ 67,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/ROMI3
 ---
 <!-- https://atlasmercados.com.br/empresa/ROMI3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ RO
 
 ROMI S.A.
 
-ROMI3 · CD_CVM 7510 · Máquinas, Equipamentos, Veículos e Peças · SP · DFP 16a · ITR 16a
+ROMI3 · CD_CVM 7510 · Máquinas, Equipamentos, Veículos e Peças · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ROMI3?base=con) [Individual](https://atlasmercados.com.br/empresa/ROMI3?base=ind)
 
-> ROMI S.A. (ROMI3) teve receita líquida de R$ 1,3 bilhão e lucro líquido de R$ 86,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 163,5 milhões, margem EBITDA de 12,3% sobre a receita. O valor de mercado era de R$ 592,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,9 e P/VPA de 0,47 sobre o último exercício. Em 2025, distribuiu R$ 67,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> ROMI S.A. (ROMI3) teve receita líquida de R$ 1,3 bilhão e lucro líquido de R$ 86,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 163,5 milhões, margem EBITDA de 12,3% sobre a receita. O valor de mercado era de R$ 710,9 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,2 e P/VPA de 0,57 sobre o último exercício. Em 2025, distribuiu R$ 67,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,3 bi · 2025
 
@@ -91,11 +91,11 @@ DRE · DFP · consolidado · 2025 · 37 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,6× mediana 6,8× faixa 3,8× – 19,1× acima da mediana
+P/L atual 9,4× mediana 6,8× faixa 3,8× – 19,1× acima da mediana
 
-P/VPA atual 0,5× mediana 1,0× faixa 0,4× – 2,9× abaixo da mediana
+P/VPA atual 0,6× mediana 1,0× faixa 0,4× – 2,9× abaixo da mediana
 
-Dividend Yield atual 11,2% mediana 8,8% faixa 3,4% – 15,8% acima da mediana
+Dividend Yield atual 9,4% mediana 8,8% faixa 3,4% – 15,8% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

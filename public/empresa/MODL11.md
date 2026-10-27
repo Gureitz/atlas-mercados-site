@@ -1,19 +1,19 @@
 ---
 title: BANCO MODAL S.A. (MODL11) — análise financeira | Atlas Mercados
-description: BANCO MODAL S.A. (MODL11) teve receitas da intermediação financeira de R$ 1,4 bilhão e lucro líquido de R$ 48,9 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 67,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2022.
+description: BANCO MODAL S.A. (MODL11) teve receitas da intermediação financeira de R$ 1,4 bilhão e lucro líquido de R$ 48,9 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 67,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/MODL11
 ---
 <!-- https://atlasmercados.com.br/empresa/MODL11 — versão Markdown da página -->
 
 BA
 
-BANCO MODAL S.A.
+BANCO MODAL S.A. registro cancelada na CVM sem pregão em 90 dias
 
 MODL11, MODL3 · CD_CVM 25755 · Bancos · SP · DFP 3a · ITR 3a
 
 [Consolidado](https://atlasmercados.com.br/empresa/MODL11?base=con) [Individual](https://atlasmercados.com.br/empresa/MODL11?base=ind)
 
-> BANCO MODAL S.A. (MODL11) teve receitas da intermediação financeira de R$ 1,4 bilhão e lucro líquido de R$ 48,9 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 67,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2022.
+> BANCO MODAL S.A. (MODL11) teve receitas da intermediação financeira de R$ 1,4 bilhão e lucro líquido de R$ 48,9 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 67,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 1,4 bi · 2022
 

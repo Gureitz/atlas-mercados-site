@@ -1,6 +1,6 @@
 ---
 title: BANCO BTG PACTUAL S/A (BPAC11) — análise financeira | Atlas Mercados
-description: BANCO BTG PACTUAL S/A (BPAC11) teve receitas da intermediação financeira de R$ 28,1 bilhões e lucro líquido de R$ 16,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 274,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,4 e P/VPA de 3,41 sobre o último exercício. Em 2025, distribuiu R$ 4,7 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2011 a 2025.
+description: BANCO BTG PACTUAL S/A (BPAC11) teve receitas da intermediação financeira de R$ 28,1 bilhões e lucro líquido de R$ 16,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 330,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,8 e P/VPA de 4,12 sobre o último exercício. Em 2025, distribuiu R$ 4,7 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2011 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 139 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/BPAC11
 ---
 <!-- https://atlasmercados.com.br/empresa/BPAC11 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BA
 
 BANCO BTG PACTUAL S/A
 
-BPAC11, BPAC3, BPAC5 · CD_CVM 22616 · Bancos · RJ · DFP 16a · ITR 16a
+BPAC11, BPAC3, BPAC5 · CD_CVM 22616 · Bancos · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BPAC11?base=con) [Individual](https://atlasmercados.com.br/empresa/BPAC11?base=ind)
 
-> BANCO BTG PACTUAL S/A (BPAC11) teve receitas da intermediação financeira de R$ 28,1 bilhões e lucro líquido de R$ 16,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 274,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,4 e P/VPA de 3,41 sobre o último exercício. Em 2025, distribuiu R$ 4,7 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2011 a 2025.
+> BANCO BTG PACTUAL S/A (BPAC11) teve receitas da intermediação financeira de R$ 28,1 bilhões e lucro líquido de R$ 16,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 330,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,8 e P/VPA de 4,12 sobre o último exercício. Em 2025, distribuiu R$ 4,7 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2011 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 139 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 28,1 bi · 2025
 
@@ -36,6 +36,26 @@ BPAC11, BPAC3, BPAC5 · CD_CVM 22616 · Bancos · RJ · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 139 MW · 3 usinas ≥ 1 MW
+
+- Capacidade proporcional · 139 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Anemus Wind 3 | Eólica | RN | 55 MW | 75,5% | 41 |
+| Anemus Wind 2 | Eólica | RN | 46 MW | 75,5% | 35 |
+| Anemus Wind 1 (Antiga Queimadas I) | Eólica | RN | 38 MW | 75,5% | 29 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -83,11 +103,11 @@ DRE · DFP · consolidado · 2025 · 29 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 14,5× mediana 18,0× faixa 10,5× – 145,5× abaixo da mediana
+P/L atual 17,2× mediana 18,0× faixa 10,5× – 145,5× abaixo da mediana
 
-P/VPA atual 3,2× mediana 3,1× faixa 1,9× – 21,3× acima da mediana
+P/VPA atual 3,7× mediana 3,1× faixa 1,9× – 21,3× acima da mediana
 
-Dividend Yield atual 1,8% mediana 1,5% faixa 0,2% – 2,7% acima da mediana
+Dividend Yield atual 1,4% mediana 1,5% faixa 0,2% – 2,7% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

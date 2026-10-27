@@ -1,6 +1,6 @@
 ---
 title: GERDAU S.A. (GGBR3) — análise financeira | Atlas Mercados
-description: GERDAU S.A. (GGBR3) teve receita líquida de R$ 69,9 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,4 bilhões, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 49,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 34,7 e P/VPA de 0,92 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: GERDAU S.A. (GGBR3) teve receita líquida de R$ 69,9 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,4 bilhões, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 47,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 33,5 e P/VPA de 0,88 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em proventos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 756 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/GGBR3
 ---
 <!-- https://atlasmercados.com.br/empresa/GGBR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ GE
 
 GERDAU S.A.
 
-GGBR3, GGBR4 · CD_CVM 3980 · Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a
+GGBR3, GGBR4 · CD_CVM 3980 · Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/GGBR3?base=con) [Individual](https://atlasmercados.com.br/empresa/GGBR3?base=ind)
 
-> GERDAU S.A. (GGBR3) teve receita líquida de R$ 69,9 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,4 bilhões, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 49,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 34,7 e P/VPA de 0,92 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+> GERDAU S.A. (GGBR3) teve receita líquida de R$ 69,9 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 7,4 bilhões, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 47,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 33,5 e P/VPA de 0,88 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em proventos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 756 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 69,9 bi · 2025
 
@@ -36,6 +36,40 @@ GGBR3, GGBR4 · CD_CVM 3980 · Metalurgia e Siderurgia · SP · DFP 16a · ITR 1
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 756 MW · 15 usinas ≥ 1 MW
+
+- Capacidade proporcional · 626 MW · inclui coligadas
+
+- Garantia física · 264 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Açominas | Fóssil | MG | 103 MW | 99,9% | 103 |
+| Dona Francisca | Hídrica | RS | 125 MW | 45,8% | 57 |
+| Barro Alto V | Solar | GO | 50 MW | 100,0% | 50 |
+| Barro Alto VI | Solar | GO | 50 MW | 100,0% | 50 |
+| Barro Alto VII | Solar | GO | 50 MW | 100,0% | 50 |
+| Garganta da Jararaca | Hídrica | MT | 29 MW | 100,0% | 29 |
+| Paranatinga II | Hídrica | MT | 29 MW | 100,0% | 29 |
+| Arinos 3 | Solar | MG | 48 MW | 52,3% | 25 |
+| Arinos 5 | Solar | MG | 48 MW | 52,3% | 25 |
+| Arinos 6 | Solar | MG | 48 MW | 52,3% | 25 |
+| Arinos 7 | Solar | MG | 48 MW | 52,3% | 25 |
+| Arinos 18 | Solar | MG | 48 MW | 52,3% | 25 |
+| Arinos 19 | Solar | MG | 48 MW | 52,3% | 25 |
+| Arinos 20 | Solar | MG | 48 MW | 52,3% | 25 |
+| Barro Alto I coligada | Solar | GO | 50 MW | 40,0% | 20 |
+
+15 de 19 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -101,7 +135,7 @@ DRE · DFP · consolidado · 2025 · 47 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 28,1× mediana 6,8× faixa 2,3× – 42,7× acima da mediana
+P/L atual 20,9× mediana 6,9× faixa 2,3× – 42,7× acima da mediana
 
 P/VPA atual 0,9× mediana 0,9× faixa 0,5× – 1,7× acima da mediana
 

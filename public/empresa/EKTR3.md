@@ -1,6 +1,6 @@
 ---
 title: ELEKTRO REDES S.A. (EKTR3) — análise financeira | Atlas Mercados
-description: Análise financeira de ELEKTRO REDES S.A. (EKTR3, CD_CVM 17485) a partir da CVM: receita n/d, lucro líquido n/d, patrimônio n/d no exercício . DFP/ITR, metodologia explícita.
+description: ELEKTRO REDES S.A. (EKTR3) teve receita líquida de R$ 10,0 bilhões e lucro líquido de R$ 958,0 milhões no exercício de 2025 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,0 e P/VPA de 4,22 sobre o último exercício. Em 2025, distribuiu R$ 938,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, a distribuidora controlada atendia 3,1 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/EKTR3
 ---
 <!-- https://atlasmercados.com.br/empresa/EKTR3 — versão Markdown da página -->
@@ -9,21 +9,109 @@ EL
 
 ELEKTRO REDES S.A.
 
-EKTR3, EKTR4 · CD_CVM 17485 · Energia Elétrica · SP · DFP 16a · ITR 16a
+EKTR3, EKTR4 · CD_CVM 17485 · Energia Elétrica · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/EKTR3?base=con) [Individual](https://atlasmercados.com.br/empresa/EKTR3?base=ind)
 
-Sem DFP consolidada para esta companhia. Tente a outra variante acima.
+> ELEKTRO REDES S.A. (EKTR3) teve receita líquida de R$ 10,0 bilhões e lucro líquido de R$ 958,0 milhões no exercício de 2025 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,0 e P/VPA de 4,22 sobre o último exercício. Em 2025, distribuiu R$ 938,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, a distribuidora controlada atendia 3,1 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
+
+- Receita líq. · R$ 10,0 bi · 2025
+
+- Lucro líq. · R$ 958,0 mi · 2025
+
+- Margem líq. · 9,6% · LL / receita
+
+- EBIT · R$ 2,3 bi · result. oper.
+
+- Ativo total · R$ 13,1 bi · 2025
+
+- Patrim. líq. · R$ 2,0 bi · 2025
+
+- ROE · 46,9% · LL / PL
+
+## Receita líquida — por exercício (DFP, R$)
+
+201420152016201720182019202020212022202320242025
+
+## Lucro líquido — por exercício (DFP, R$)
+
+201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 2 MW · 1 usinas ≥ 1 MW
+
+- Capacidade proporcional · 2 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · 3.074.049 · distribuidoras controladas
+
+- Energia faturada 12m · 18.741 GWh · TUSD · controladas
+
+| Distribuidora | Participação efetiva | Consumidores | Energia 12m | Mês |
+|---|---|---|---|---|
+| ELEKTRO ELEKTRO REDES S.A. | 100,0% | 3.074.049 | 18.741 GWh | 08/2026 |
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Elektro 4UGs | Fóssil | SP | 2 MW | 100,0% | 2 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
+
+Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
 ## Demonstração crua — linha a linha, fonte CVM
 
-[DFP](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP) [ITR](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=ITR)
+[DFP](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP) [ITR](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=ITR)
 
-[BPA](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=BPA&ano=2025) [BPP](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=BPP&ano=2025) [DFC_MI](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DFC_MI&ano=2025) [DMPL](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DMPL&ano=2025) [DRA](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRA&ano=2025) [DRE](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRE&ano=2025) [DVA](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DVA&ano=2025)
+[BPA](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=BPA&ano=2025) [BPP](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=BPP&ano=2025) [DFC_MI](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DFC_MI&ano=2025) [DMPL](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DMPL&ano=2025) [DRA](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRA&ano=2025) [DRE](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRE&ano=2025) [DVA](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DVA&ano=2025)
 
-[2025](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRE&ano=2025) [2024](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRE&ano=2024) [2023](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRE&ano=2023) [2022](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRE&ano=2022) [2021](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRE&ano=2021) [2020](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRE&ano=2020) [2019](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRE&ano=2019) [2018](https://atlasmercados.com.br/empresa/EKTR3?base=con&doc=DFP&demo=DRE&ano=2018)
+[2025](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRE&ano=2025) [2024](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRE&ano=2024) [2023](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRE&ano=2023) [2022](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRE&ano=2022) [2021](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRE&ano=2021) [2020](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRE&ano=2020) [2019](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRE&ano=2019) [2018](https://atlasmercados.com.br/empresa/EKTR3?base=ind&doc=DFP&demo=DRE&ano=2018)
 
-Sem dados para esta seleção.
+| Conta | Descrição | Valor (R$) |
+|---|---|---|
+| 3.01 | Receita de Venda de Bens e/ou Serviços | 9.977.000.000 |
+| 3.01.01 | Receita Bruta | 15.093.000.000 |
+| 3.01.02 | (-) Deduções da Receita Bruta | -5.116.000.000 |
+| 3.02 | Custo dos Bens e/ou Serviços Vendidos | -7.208.000.000 |
+| 3.02.01 | Custos com Energia Elétrica | -5.193.000.000 |
+| 3.02.02 | Custos de Construção | -1.100.000.000 |
+| 3.02.03 | Custos de Operação | -915.000.000 |
+| 3.03 | Resultado Bruto | 2.769.000.000 |
+| 3.04 | Despesas/Receitas Operacionais | -498.000.000 |
+| 3.04.01 | Despesas com Vendas | -54.000.000 |
+| 3.04.02 | Despesas Gerais e Administrativas | -347.000.000 |
+| 3.04.03 | Perdas pela Não Recuperabilidade de Ativos | 0 |
+| 3.04.04 | Outras Receitas Operacionais | 0 |
+| 3.04.05 | Outras Despesas Operacionais | -97.000.000 |
+| 3.04.05.01 | Perdas de Créditos Esperadas | -97.000.000 |
+| 3.04.06 | Resultado de Equivalência Patrimonial | 0 |
+| 3.05 | Resultado Antes do Resultado Financeiro e dos Tributos | 2.271.000.000 |
+| 3.06 | Resultado Financeiro | -989.000.000 |
+| 3.06.01 | Receitas Financeiras | 158.000.000 |
+| 3.06.01.01 | Receitas Financeiras | 158.000.000 |
+| 3.06.01.02 | Outros Resultados Financeiros, Líquidos | 0 |
+| 3.06.02 | Despesas Financeiras | -1.147.000.000 |
+| 3.06.02.01 | Despesas Financeiras | -1.114.000.000 |
+| 3.06.02.02 | Outros Resultados Financeiros, Líquidos | -33.000.000 |
+| 3.07 | Resultado Antes dos Tributos sobre o Lucro | 1.282.000.000 |
+| 3.08 | Imposto de Renda e Contribuição Social sobre o Lucro | -324.000.000 |
+| 3.08.01 | Corrente | -169.000.000 |
+| 3.08.02 | Diferido | -155.000.000 |
+| 3.09 | Resultado Líquido das Operações Continuadas | 958.000.000 |
+| 3.10 | Resultado Líquido de Operações Descontinuadas | 0 |
+| 3.10.01 | Lucro/Prejuízo Líquido das Operações Descontinuadas | 0 |
+| 3.10.02 | Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas | 0 |
+| 3.11 | Lucro/Prejuízo do Período | 958.000.000 |
+| 3.99 | Lucro por Ação - (Reais / Ação) | 0 |
+| 3.99.01 | Lucro Básico por Ação | 0 |
+| 3.99.01.01 | ON | 4.700 |
+| 3.99.01.02 | PNA | 5.170 |
+| 3.99.01.03 | PNB | 0 |
+| 3.99.02 | Lucro Diluído por Ação | 0 |
+
+DRE · DFP · individual · 2025 · 39 linhas · R$
 
 ## Proventos por exercício — dividendos e JCP atribuídos aos controladores · DMPL da CVM
 

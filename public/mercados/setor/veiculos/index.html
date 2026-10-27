@@ -69,6 +69,10 @@
       <span class="i">⚒</span><span class="l">Trabalho</span>
     </a>
     
+    <a href="/energia" class="" title="Energia">
+      <span class="i">ϟ</span><span class="l">Energia</span>
+    </a>
+    
     <a href="/mapa" class="" title="Mapa">
       <span class="i">◍</span><span class="l">Mapa</span>
     </a>
@@ -1040,6 +1044,39 @@
     </tr>
     
     <tr class="">
+      <td class="l"><span class="mono">aneel_samp</span></td>
+      <td class="l"><a href="https://dadosabertos.aneel.gov.br/dataset/samp" rel="nofollow" class="mono acc">t/samp</a></td>
+      <td class="l" style="font-size:11px">ANEEL — SAMP, mercado das distribuidoras</td>
+      <td class="l mono dim">2024-01-01–2026-09-01</td>
+      <td class="mono">1.079.868</td>
+      <td class="l dim2" style="font-size:10.5px">a do rótulo do detalhe (kWh, kW, R$, %, consumidores) · nenhuma; somado sobre modalidade tarifária, subgrupo, posto, subclasse e acessante</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-26T23:49</td>
+      <td class="l dl"><a href="/dados/aneel_samp.parquet">parquet</a><a href="/dados/aneel_samp.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">aneel_siga</span></td>
+      <td class="l"><a href="https://dadosabertos.aneel.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel" rel="nofollow" class="mono acc">t/siga</a></td>
+      <td class="l" style="font-size:11px">ANEEL — SIGA, empreendimentos de geração e proprietários</td>
+      <td class="l mono dim">2026-10-01–2026-10-01</td>
+      <td class="mono">25.624</td>
+      <td class="l dim2" style="font-size:10.5px">kW · nenhuma; proprietários do texto da fonte, uma linha por usina × dono</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-27T00:24</td>
+      <td class="l dl"><a href="/dados/aneel_siga.parquet">parquet</a><a href="/dados/aneel_siga.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
+      <td class="l"><span class="mono">aneel_societaria</span></td>
+      <td class="l"><a href="https://dadosabertos.aneel.gov.br/dataset/composicao-societaria-polimero" rel="nofollow" class="mono acc">t/polimero</a></td>
+      <td class="l" style="font-size:11px">ANEEL — composição societária dos agentes (Polímero), participações diretas</td>
+      <td class="l mono dim">2020-09-30–2026-09-30</td>
+      <td class="mono">7.520</td>
+      <td class="l dim2" style="font-size:10.5px">% efetivo no agente declarante · fatia direta = efetiva do sócio ÷ efetiva do elo acima; formulário mais novo de cada empresa-pai</td>
+      <td class="l mono dim2" style="font-size:10.5px">2026-10-27T00:16</td>
+      <td class="l dl"><a href="/dados/aneel_societaria.parquet">parquet</a><a href="/dados/aneel_societaria.csv">csv</a></td>
+    </tr>
+    
+    <tr class="">
       <td class="l"><span class="mono">calendario</span></td>
       <td class="l"><a href="https://www.ibge.gov.br/calendario-indicadores-novoportal.html" rel="nofollow" class="mono acc">t/v3/calendario</a></td>
       <td class="l" style="font-size:11px">Calendário de divulgações do IBGE</td>
@@ -1528,7 +1565,7 @@
   </div>
   
   <div class="api" style="margin-top:10px">
-    <div class="dim" style="margin-bottom:4px"><b>Arquivos inteiros:</b> <a href="/dados/mercados_pac.parquet" class="acc mono">mercados_pac.parquet</a> · <a href="/dados/mercados_pac.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_pmc.parquet" class="acc mono">mercados_pmc.parquet</a> · <a href="/dados/mercados_pmc.csv" class="acc mono">.csv</a> · <a href="/dados/uf_vab.parquet" class="acc mono">uf_vab.parquet</a> · <a href="/dados/uf_vab.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_varejo.parquet" class="acc mono">cempre_varejo.parquet</a> · <a href="/dados/cempre_varejo.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_derivados.parquet" class="acc mono">mercados_derivados.parquet</a> · <a href="/dados/mercados_derivados.csv" class="acc mono">.csv</a> · <a href="/dados/catalogo_fontes.parquet" class="acc mono">catalogo_fontes.parquet</a> · <a href="/dados/catalogo_fontes.csv" class="acc mono">.csv</a> · <a href="/dados/macro_bcb.parquet" class="acc mono">macro_bcb.parquet</a> · <a href="/dados/macro_bcb.csv" class="acc mono">.csv</a> · <a href="/dados/economia_servicos_pas.parquet" class="acc mono">economia_servicos_pas.parquet</a> · <a href="/dados/economia_servicos_pas.csv" class="acc mono">.csv</a> · <a href="/dados/economia_industria_pia.parquet" class="acc mono">economia_industria_pia.parquet</a> · <a href="/dados/economia_industria_pia.csv" class="acc mono">.csv</a> · <a href="/dados/economia_construcao_paic.parquet" class="acc mono">economia_construcao_paic.parquet</a> · <a href="/dados/economia_construcao_paic.csv" class="acc mono">.csv</a> · <a href="/dados/economia_agro_pam_ppm.parquet" class="acc mono">economia_agro_pam_ppm.parquet</a> · <a href="/dados/economia_agro_pam_ppm.csv" class="acc mono">.csv</a> · <a href="/dados/pib_trimestral_cnt.parquet" class="acc mono">pib_trimestral_cnt.parquet</a> · <a href="/dados/pib_trimestral_cnt.csv" class="acc mono">.csv</a> · <a href="/dados/populacao_ibge.parquet" class="acc mono">populacao_ibge.parquet</a> · <a href="/dados/populacao_ibge.csv" class="acc mono">.csv</a> · <a href="/dados/focus_expectativas.parquet" class="acc mono">focus_expectativas.parquet</a> · <a href="/dados/focus_expectativas.csv" class="acc mono">.csv</a> · <a href="/dados/credito_bcb.parquet" class="acc mono">credito_bcb.parquet</a> · <a href="/dados/credito_bcb.csv" class="acc mono">.csv</a> · <a href="/dados/comex_mdic.parquet" class="acc mono">comex_mdic.parquet</a> · <a href="/dados/comex_mdic.csv" class="acc mono">.csv</a> · <a href="/dados/pulso_industria_servicos.parquet" class="acc mono">pulso_industria_servicos.parquet</a> · <a href="/dados/pulso_industria_servicos.csv" class="acc mono">.csv</a> · <a href="/dados/safra_lspa.parquet" class="acc mono">safra_lspa.parquet</a> · <a href="/dados/safra_lspa.csv" class="acc mono">.csv</a> · <a href="/dados/agro_municipios.parquet" class="acc mono">agro_municipios.parquet</a> · <a href="/dados/agro_municipios.csv" class="acc mono">.csv</a> · <a href="/dados/pnad_trabalho.parquet" class="acc mono">pnad_trabalho.parquet</a> · <a href="/dados/pnad_trabalho.csv" class="acc mono">.csv</a> · <a href="/dados/municipios_ibge.parquet" class="acc mono">municipios_ibge.parquet</a> · <a href="/dados/municipios_ibge.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_municipios.parquet" class="acc mono">cempre_municipios.parquet</a> · <a href="/dados/cempre_municipios.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_uf.parquet" class="acc mono">cempre_uf.parquet</a> · <a href="/dados/cempre_uf.csv" class="acc mono">.csv</a></div>
+    <div class="dim" style="margin-bottom:4px"><b>Arquivos inteiros:</b> <a href="/dados/mercados_pac.parquet" class="acc mono">mercados_pac.parquet</a> · <a href="/dados/mercados_pac.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_pmc.parquet" class="acc mono">mercados_pmc.parquet</a> · <a href="/dados/mercados_pmc.csv" class="acc mono">.csv</a> · <a href="/dados/uf_vab.parquet" class="acc mono">uf_vab.parquet</a> · <a href="/dados/uf_vab.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_varejo.parquet" class="acc mono">cempre_varejo.parquet</a> · <a href="/dados/cempre_varejo.csv" class="acc mono">.csv</a> · <a href="/dados/mercados_derivados.parquet" class="acc mono">mercados_derivados.parquet</a> · <a href="/dados/mercados_derivados.csv" class="acc mono">.csv</a> · <a href="/dados/catalogo_fontes.parquet" class="acc mono">catalogo_fontes.parquet</a> · <a href="/dados/catalogo_fontes.csv" class="acc mono">.csv</a> · <a href="/dados/macro_bcb.parquet" class="acc mono">macro_bcb.parquet</a> · <a href="/dados/macro_bcb.csv" class="acc mono">.csv</a> · <a href="/dados/economia_servicos_pas.parquet" class="acc mono">economia_servicos_pas.parquet</a> · <a href="/dados/economia_servicos_pas.csv" class="acc mono">.csv</a> · <a href="/dados/economia_industria_pia.parquet" class="acc mono">economia_industria_pia.parquet</a> · <a href="/dados/economia_industria_pia.csv" class="acc mono">.csv</a> · <a href="/dados/economia_construcao_paic.parquet" class="acc mono">economia_construcao_paic.parquet</a> · <a href="/dados/economia_construcao_paic.csv" class="acc mono">.csv</a> · <a href="/dados/economia_agro_pam_ppm.parquet" class="acc mono">economia_agro_pam_ppm.parquet</a> · <a href="/dados/economia_agro_pam_ppm.csv" class="acc mono">.csv</a> · <a href="/dados/pib_trimestral_cnt.parquet" class="acc mono">pib_trimestral_cnt.parquet</a> · <a href="/dados/pib_trimestral_cnt.csv" class="acc mono">.csv</a> · <a href="/dados/populacao_ibge.parquet" class="acc mono">populacao_ibge.parquet</a> · <a href="/dados/populacao_ibge.csv" class="acc mono">.csv</a> · <a href="/dados/focus_expectativas.parquet" class="acc mono">focus_expectativas.parquet</a> · <a href="/dados/focus_expectativas.csv" class="acc mono">.csv</a> · <a href="/dados/credito_bcb.parquet" class="acc mono">credito_bcb.parquet</a> · <a href="/dados/credito_bcb.csv" class="acc mono">.csv</a> · <a href="/dados/comex_mdic.parquet" class="acc mono">comex_mdic.parquet</a> · <a href="/dados/comex_mdic.csv" class="acc mono">.csv</a> · <a href="/dados/pulso_industria_servicos.parquet" class="acc mono">pulso_industria_servicos.parquet</a> · <a href="/dados/pulso_industria_servicos.csv" class="acc mono">.csv</a> · <a href="/dados/safra_lspa.parquet" class="acc mono">safra_lspa.parquet</a> · <a href="/dados/safra_lspa.csv" class="acc mono">.csv</a> · <a href="/dados/agro_municipios.parquet" class="acc mono">agro_municipios.parquet</a> · <a href="/dados/agro_municipios.csv" class="acc mono">.csv</a> · <a href="/dados/pnad_trabalho.parquet" class="acc mono">pnad_trabalho.parquet</a> · <a href="/dados/pnad_trabalho.csv" class="acc mono">.csv</a> · <a href="/dados/municipios_ibge.parquet" class="acc mono">municipios_ibge.parquet</a> · <a href="/dados/municipios_ibge.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_municipios.parquet" class="acc mono">cempre_municipios.parquet</a> · <a href="/dados/cempre_municipios.csv" class="acc mono">.csv</a> · <a href="/dados/cempre_uf.parquet" class="acc mono">cempre_uf.parquet</a> · <a href="/dados/cempre_uf.csv" class="acc mono">.csv</a> · <a href="/dados/aneel_siga.parquet" class="acc mono">aneel_siga.parquet</a> · <a href="/dados/aneel_siga.csv" class="acc mono">.csv</a> · <a href="/dados/aneel_samp.parquet" class="acc mono">aneel_samp.parquet</a> · <a href="/dados/aneel_samp.csv" class="acc mono">.csv</a> · <a href="/dados/aneel_societaria.parquet" class="acc mono">aneel_societaria.parquet</a> · <a href="/dados/aneel_societaria.csv" class="acc mono">.csv</a></div>
     <div class="dim"><b>Fatias por API</b> (JSON; <code>&amp;formato=csv</code> para CSV; filtros <code>tabela, uf, ano, desde, categoria, variavel, atividade, situacao</code>):
       <code>/api/mercados/pac?tabela=10653&amp;uf=SP&amp;variavel=866</code> ·
       <code>/api/mercados/pac?categoria=47.7</code> ·

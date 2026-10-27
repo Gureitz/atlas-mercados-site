@@ -1,6 +1,6 @@
 ---
 title: JALLES MACHADO S.A. (JALL3) — análise financeira | Atlas Mercados
-description: JALLES MACHADO S.A. (JALL3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 9,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 840,7 e P/VPA de 3,97 sobre o último exercício. Em 2026, distribuiu R$ 2,4 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2026.
+description: JALLES MACHADO S.A. (JALL3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 9,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 9,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 968,5 e P/VPA de 4,58 sobre o último exercício. Em 2026, distribuiu R$ 2,4 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2026. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 41 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/JALL3
 ---
 <!-- https://atlasmercados.com.br/empresa/JALL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ JA
 
 JALLES MACHADO S.A.
 
-JALL3 · CD_CVM 25496 · Agricultura (Açúcar, Álcool e Cana) · GO · DFP 7a · ITR 7a
+JALL3 · CD_CVM 25496 · Agricultura (Açúcar, Álcool e Cana) · GO · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/JALL3?base=con) [Individual](https://atlasmercados.com.br/empresa/JALL3?base=ind)
 
-> JALLES MACHADO S.A. (JALL3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 9,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 840,7 e P/VPA de 3,97 sobre o último exercício. Em 2026, distribuiu R$ 2,4 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2026.
+> JALLES MACHADO S.A. (JALL3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 9,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 9,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 968,5 e P/VPA de 4,58 sobre o último exercício. Em 2026, distribuiu R$ 2,4 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2026. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 41 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 2,1 bi · 2026
 
@@ -36,6 +36,26 @@ JALL3 · CD_CVM 25496 · Agricultura (Açúcar, Álcool e Cana) · GO · DFP 7a 
 ## Lucro líquido — por exercício (DFP, R$)
 
 2020202120222023202420252026
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 41 MW · 1 usinas ≥ 1 MW
+
+- Capacidade proporcional · 95 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Santa Vitória | Biomassa | MG | 41 MW | 100,0% | 41 |
+| Codora coligada | Biomassa | GO | 78 MW | 35,0% | 27 |
+| Esplanada (Antiga Jalles Machado) coligada | Biomassa | GO | 65 MW | 40,0% | 26 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -92,9 +112,9 @@ DRE · DFP · consolidado · 2026 · 38 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 747,5× mediana 8,8× faixa 2,6× – 843,3× acima da mediana
+P/L atual 753,9× mediana 8,8× faixa 2,6× – 843,3× acima da mediana
 
-P/VPA atual 3,5× mediana 1,2× faixa 0,4× – 4,0× acima da mediana
+P/VPA atual 4,7× mediana 1,2× faixa 0,4× – 4,7× acima da mediana
 
 Dividend Yield atual 0,2% mediana 2,1% faixa 0,1% – 10,7% abaixo da mediana
 

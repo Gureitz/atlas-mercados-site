@@ -1,6 +1,6 @@
 ---
 title: ARANDU INVESTIMENTOS S.A. (ARND3) — análise financeira | Atlas Mercados
-description: ARANDU INVESTIMENTOS S.A. (ARND3) teve receitas da intermediação financeira de R$ 70,9 milhões e prejuízo líquido de R$ 459,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 79,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,59 sobre o último exercício. A série anual disponível vai de 2022 a 2025.
+description: ARANDU INVESTIMENTOS S.A. (ARND3) teve receitas da intermediação financeira de R$ 70,9 milhões e prejuízo líquido de R$ 459,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 97,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,73 sobre o último exercício. A série anual disponível vai de 2022 a 2025.
 url: https://atlasmercados.com.br/empresa/ARND3
 ---
 <!-- https://atlasmercados.com.br/empresa/ARND3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AR
 
 ARANDU INVESTIMENTOS S.A.
 
-ARND3, NINJ3 · CD_CVM 25887 · Emp. Adm. Part. - Intermediação Financeira · SP · DFP 6a · ITR 6a
+ARND3, NINJ3 · CD_CVM 25887 · Emp. Adm. Part. - Intermediação Financeira · SP · DFP 6a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ARND3?base=con) [Individual](https://atlasmercados.com.br/empresa/ARND3?base=ind)
 
-> ARANDU INVESTIMENTOS S.A. (ARND3) teve receitas da intermediação financeira de R$ 70,9 milhões e prejuízo líquido de R$ 459,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 79,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,59 sobre o último exercício. A série anual disponível vai de 2022 a 2025.
+> ARANDU INVESTIMENTOS S.A. (ARND3) teve receitas da intermediação financeira de R$ 70,9 milhões e prejuízo líquido de R$ 459,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 97,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,73 sobre o último exercício. A série anual disponível vai de 2022 a 2025.
 
 - Receita líq. · R$ 70,9 mi · 2025
 
@@ -89,7 +89,7 @@ DRE · DFP · consolidado · 2025 · 33 linhas · R$
 
 P/L atual 19,1× mediana 27,7× faixa 16,3× – 87,7× abaixo da mediana
 
-P/VPA atual 0,6× mediana 0,8× faixa 0,4× – 0,9× abaixo da mediana
+P/VPA atual 0,7× mediana 0,8× faixa 0,4× – 0,9× abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

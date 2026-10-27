@@ -1,19 +1,19 @@
 ---
 title: REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL (RPMG3) — análise financeira | Atlas Mercados
-description: REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL (RPMG3) teve receita líquida de R$ 7,0 bilhões e prejuízo líquido de R$ 1,0 bilhão no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,2 bilhão, margem EBITDA de -17,8% sobre a receita. A série anual disponível vai de 2010 a 2024.
+description: REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL (RPMG3) teve receita líquida de R$ 7,0 bilhões e prejuízo líquido de R$ 1,0 bilhão no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,2 bilhão, margem EBITDA de -17,8% sobre a receita. A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/RPMG3
 ---
 <!-- https://atlasmercados.com.br/empresa/RPMG3 — versão Markdown da página -->
 
 RE
 
-REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL
+REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
 RPMG3 · CD_CVM 9989 · Petróleo e Gás · RJ · DFP 15a · ITR 15a
 
 [Consolidado](https://atlasmercados.com.br/empresa/RPMG3?base=con) [Individual](https://atlasmercados.com.br/empresa/RPMG3?base=ind)
 
-> REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL (RPMG3) teve receita líquida de R$ 7,0 bilhões e prejuízo líquido de R$ 1,0 bilhão no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,2 bilhão, margem EBITDA de -17,8% sobre a receita. A série anual disponível vai de 2010 a 2024.
+> REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL (RPMG3) teve receita líquida de R$ 7,0 bilhões e prejuízo líquido de R$ 1,0 bilhão no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,2 bilhão, margem EBITDA de -17,8% sobre a receita. A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 7,0 bi · 2024
 

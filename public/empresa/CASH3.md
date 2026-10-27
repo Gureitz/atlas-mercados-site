@@ -1,6 +1,6 @@
 ---
 title: MELIUZ S.A. (CASH3) — análise financeira | Atlas Mercados
-description: MELIUZ S.A. (CASH3) teve receita líquida de R$ 460,2 milhões e prejuízo líquido de R$ 1,1 milhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 595,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,15 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
+description: MELIUZ S.A. (CASH3) teve receita líquida de R$ 460,2 milhões e prejuízo líquido de R$ 1,1 milhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 37,2 milhões, margem EBITDA de 8,1% sobre a receita. O valor de mercado era de R$ 567,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,09 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
 url: https://atlasmercados.com.br/empresa/CASH3
 ---
 <!-- https://atlasmercados.com.br/empresa/CASH3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ ME
 
 MELIUZ S.A.
 
-CASH3 · CD_CVM 25232 · Comunicação e Informática · SP · DFP 7a · ITR 7a
+CASH3 · CD_CVM 25232 · Comunicação e Informática · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CASH3?base=con) [Individual](https://atlasmercados.com.br/empresa/CASH3?base=ind)
 
-> MELIUZ S.A. (CASH3) teve receita líquida de R$ 460,2 milhões e prejuízo líquido de R$ 1,1 milhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 595,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,15 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
+> MELIUZ S.A. (CASH3) teve receita líquida de R$ 460,2 milhões e prejuízo líquido de R$ 1,1 milhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 37,2 milhões, margem EBITDA de 8,1% sobre a receita. O valor de mercado era de R$ 567,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,09 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
 
 - Receita líq. · R$ 460,2 mi · 2025
 
@@ -96,7 +96,7 @@ DRE · DFP · consolidado · 2025 · 40 linhas · R$
 
 P/L atual 7,8× mediana 162,2× faixa 7,3× – 521,7× abaixo da mediana
 
-P/VPA atual 1,3× mediana 1,0× faixa 0,4× – 23,0× acima da mediana
+P/VPA atual 1,3× mediana 1,1× faixa 0,4× – 23,0× acima da mediana
 
 Dividend Yield atual 0,5% mediana 0,2% faixa 0,1% – 0,5% acima da mediana
 

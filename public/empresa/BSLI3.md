@@ -1,6 +1,6 @@
 ---
 title: BRB BANCO DE BRASILIA SA (BSLI3) — análise financeira | Atlas Mercados
-description: BRB BANCO DE BRASILIA SA (BSLI3) teve receitas da intermediação financeira de R$ 8,9 bilhões e lucro líquido de R$ 311,0 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,0 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,4 e P/VPA de 0,30 sobre o último exercício. A série anual disponível vai de 2010 a 2024.
+description: BRB BANCO DE BRASILIA SA (BSLI3) teve receitas da intermediação financeira de R$ 8,9 bilhões e lucro líquido de R$ 311,0 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,2 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,8 e P/VPA de 0,33 sobre o último exercício. A série anual disponível vai de 2010 a 2024.
 url: https://atlasmercados.com.br/empresa/BSLI3
 ---
 <!-- https://atlasmercados.com.br/empresa/BSLI3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BR
 
 BRB BANCO DE BRASILIA SA
 
-BSLI3, BSLI4, BSLI03, BSLI04 · CD_CVM 14206 · Bancos · DF · DFP 15a · ITR 15a
+BSLI3, BSLI4, BSLI03, BSLI04 · CD_CVM 14206 · Bancos · DF · DFP 15a · ITR 15a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BSLI3?base=con) [Individual](https://atlasmercados.com.br/empresa/BSLI3?base=ind)
 
-> BRB BANCO DE BRASILIA SA (BSLI3) teve receitas da intermediação financeira de R$ 8,9 bilhões e lucro líquido de R$ 311,0 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,0 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,4 e P/VPA de 0,30 sobre o último exercício. A série anual disponível vai de 2010 a 2024.
+> BRB BANCO DE BRASILIA SA (BSLI3) teve receitas da intermediação financeira de R$ 8,9 bilhões e lucro líquido de R$ 311,0 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,2 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,8 e P/VPA de 0,33 sobre o último exercício. A série anual disponível vai de 2010 a 2024.
 
 - Receita líq. · R$ 8,9 bi · 2024
 
@@ -80,9 +80,9 @@ DRE · DFP · consolidado · 2024 · 26 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 1,8× mediana 15,0× faixa 1,8× – 55,4× abaixo da mediana
+P/L atual 1,9× mediana 15,0× faixa 1,7× – 55,4× abaixo da mediana
 
-P/VPA atual 0,3× mediana 3,9× faixa 0,3× – 40,8× abaixo da mediana
+P/VPA atual 0,3× mediana 3,8× faixa 0,3× – 40,8× abaixo da mediana
 
 Dividend Yield atual 1,3% mediana 1,8% faixa 0,7% – 6,2% abaixo da mediana
 

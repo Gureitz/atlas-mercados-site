@@ -1,19 +1,19 @@
 ---
 title: CCX CARVÃO DA COLOMBIA S.A. - EM LIQUIDAÇÃO (CCXC3) — análise financeira | Atlas Mercados
-description: CCX CARVÃO DA COLOMBIA S.A. - EM LIQUIDAÇÃO (CCXC3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 8,0 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2012 a 2022.
+description: CCX CARVÃO DA COLOMBIA S.A. - EM LIQUIDAÇÃO (CCXC3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 8,0 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2012 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/CCXC3
 ---
 <!-- https://atlasmercados.com.br/empresa/CCXC3 — versão Markdown da página -->
 
 CC
 
-CCX CARVÃO DA COLOMBIA S.A. - EM LIQUIDAÇÃO
+CCX CARVÃO DA COLOMBIA S.A. - EM LIQUIDAÇÃO registro cancelada na CVM sem pregão em 90 dias
 
 CCXC3 · CD_CVM 20184 · Emp. Adm. Part. - Extração Mineral · RJ · DFP 13a · ITR 12a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CCXC3?base=con) [Individual](https://atlasmercados.com.br/empresa/CCXC3?base=ind)
 
-> CCX CARVÃO DA COLOMBIA S.A. - EM LIQUIDAÇÃO (CCXC3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 8,0 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2012 a 2022.
+> CCX CARVÃO DA COLOMBIA S.A. - EM LIQUIDAÇÃO (CCXC3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 8,0 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2012 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 0 · 2022
 

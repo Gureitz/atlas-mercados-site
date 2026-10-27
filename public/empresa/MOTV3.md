@@ -1,6 +1,6 @@
 ---
 title: MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A. (MOTV3) — análise financeira | Atlas Mercados
-description: MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A. (MOTV3) teve receita líquida de R$ 18,9 bilhões e lucro líquido de R$ 3,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 8,7 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 35,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,1 e P/VPA de 2,17 sobre o último exercício. Em 2025, distribuiu R$ 443,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A. (MOTV3) teve receita líquida de R$ 18,9 bilhões e lucro líquido de R$ 3,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 8,8 bilhões, margem EBITDA de 46,7% sobre a receita. O valor de mercado era de R$ 40,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,6 e P/VPA de 2,51 sobre o último exercício. Em 2025, distribuiu R$ 443,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/MOTV3
 ---
 <!-- https://atlasmercados.com.br/empresa/MOTV3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MO
 
 MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.
 
-MOTV3, CCRO3 · CD_CVM 18821 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 16a · ITR 16a
+MOTV3, CCRO3 · CD_CVM 18821 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MOTV3?base=con) [Individual](https://atlasmercados.com.br/empresa/MOTV3?base=ind)
 
-> MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A. (MOTV3) teve receita líquida de R$ 18,9 bilhões e lucro líquido de R$ 3,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 8,7 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 35,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,1 e P/VPA de 2,17 sobre o último exercício. Em 2025, distribuiu R$ 443,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A. (MOTV3) teve receita líquida de R$ 18,9 bilhões e lucro líquido de R$ 3,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 8,8 bilhões, margem EBITDA de 46,7% sobre a receita. O valor de mercado era de R$ 40,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,6 e P/VPA de 2,51 sobre o último exercício. Em 2025, distribuiu R$ 443,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 18,9 bi · 2025
 
@@ -115,11 +115,11 @@ DRE · DFP · consolidado · 2025 · 61 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 9,2× mediana 18,0× faixa 5,3× – 323,2× abaixo da mediana
+P/L atual 9,9× mediana 17,8× faixa 5,3× – 323,2× abaixo da mediana
 
-P/VPA atual 2,0× mediana 2,1× faixa 1,5× – 3,5× abaixo da mediana
+P/VPA atual 2,2× mediana 2,1× faixa 1,5× – 3,5× acima da mediana
 
-Dividend Yield atual 1,3% mediana 3,0% faixa 1,1% – 6,8% abaixo da mediana
+Dividend Yield atual 1,1% mediana 3,0% faixa 1,1% – 6,8% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

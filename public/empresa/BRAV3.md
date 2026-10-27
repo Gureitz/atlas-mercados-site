@@ -1,6 +1,6 @@
 ---
 title: BRAVA ENERGIA S.A. (BRAV3) — análise financeira | Atlas Mercados
-description: BRAVA ENERGIA S.A. (BRAV3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 40,0% sobre a receita. O valor de mercado era de R$ 8,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,2 e P/VPA de 0,75 sobre o último exercício. Em 2025, distribuiu R$ 57,4 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: BRAVA ENERGIA S.A. (BRAV3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 40,0% sobre a receita. O valor de mercado era de R$ 10,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,1 e P/VPA de 0,86 sobre o último exercício. Em 2025, distribuiu R$ 57,4 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/BRAV3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRAV3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BR
 
 BRAVA ENERGIA S.A.
 
-BRAV3, RRRP3 · CD_CVM 25291 · Petróleo e Gás · RJ · DFP 7a · ITR 7a
+BRAV3, RRRP3 · CD_CVM 25291 · Petróleo e Gás · RJ · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRAV3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRAV3?base=ind)
 
-> BRAVA ENERGIA S.A. (BRAV3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 40,0% sobre a receita. O valor de mercado era de R$ 8,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,2 e P/VPA de 0,75 sobre o último exercício. Em 2025, distribuiu R$ 57,4 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+> BRAVA ENERGIA S.A. (BRAV3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,4 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 4,7 bilhões, margem EBITDA de 40,0% sobre a receita. O valor de mercado era de R$ 10,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,1 e P/VPA de 0,86 sobre o último exercício. Em 2025, distribuiu R$ 57,4 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 11,6 bi · 2025
 
@@ -91,11 +91,11 @@ DRE · DFP · consolidado · 2025 · 37 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 35,9× mediana 19,8× faixa 4,1× – 617,6× acima da mediana
+P/L atual 185,0× mediana 20,1× faixa 4,1× – 617,6× acima da mediana
 
-P/VPA atual 0,7× mediana 1,5× faixa 0,5× – 5,6× abaixo da mediana
+P/VPA atual 0,8× mediana 1,5× faixa 0,5× – 5,6× abaixo da mediana
 
-Dividend Yield atual 0,7% mediana 1,1% faixa 0,6% – 1,5% abaixo da mediana
+Dividend Yield atual 0,6% mediana 1,0% faixa 0,6% – 1,5% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

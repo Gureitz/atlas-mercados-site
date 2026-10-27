@@ -1,19 +1,19 @@
 ---
 title: SMILES FIDELIDADE S.A. (SMLS3) — análise financeira | Atlas Mercados
-description: SMILES FIDELIDADE S.A. (SMLS3) teve receita líquida de R$ 572,9 milhões e lucro líquido de R$ 196,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2020, distribuiu R$ 53,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2020.
+description: SMILES FIDELIDADE S.A. (SMLS3) teve receita líquida de R$ 572,9 milhões e lucro líquido de R$ 196,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2020, distribuiu R$ 53,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/SMLS3
 ---
 <!-- https://atlasmercados.com.br/empresa/SMLS3 — versão Markdown da página -->
 
 SM
 
-SMILES FIDELIDADE S.A.
+SMILES FIDELIDADE S.A. registro cancelada na CVM sem pregão em 90 dias
 
 SMLS3 · CD_CVM 24252 · Comércio (Atacado e Varejo) · SP · DFP 5a · ITR 5a
 
 [Consolidado](https://atlasmercados.com.br/empresa/SMLS3?base=con) [Individual](https://atlasmercados.com.br/empresa/SMLS3?base=ind)
 
-> SMILES FIDELIDADE S.A. (SMLS3) teve receita líquida de R$ 572,9 milhões e lucro líquido de R$ 196,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2020, distribuiu R$ 53,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2020.
+> SMILES FIDELIDADE S.A. (SMLS3) teve receita líquida de R$ 572,9 milhões e lucro líquido de R$ 196,0 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2020, distribuiu R$ 53,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 572,9 mi · 2020
 

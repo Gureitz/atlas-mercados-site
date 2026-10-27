@@ -1,19 +1,19 @@
 ---
 title: T4F ENTRETENIMENTO SA (SHOW3) — análise financeira | Atlas Mercados
-description: T4F ENTRETENIMENTO SA (SHOW3) teve receita líquida de R$ 180,8 milhões e prejuízo líquido de R$ 54,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 15,4 milhões, margem EBITDA de -8,5% sobre a receita. O valor de mercado era de R$ 42,1 milhões em 01/09/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,40 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: T4F ENTRETENIMENTO SA (SHOW3) teve receita líquida de R$ 180,8 milhões e prejuízo líquido de R$ 54,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 15,4 milhões, margem EBITDA de -8,5% sobre a receita. O valor de mercado era de R$ 42,1 milhões em 01/09/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,40 sobre o último exercício. A série anual disponível vai de 2010 a 2025. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/SHOW3
 ---
 <!-- https://atlasmercados.com.br/empresa/SHOW3 — versão Markdown da página -->
 
 T4
 
-T4F ENTRETENIMENTO SA
+T4F ENTRETENIMENTO SA registro cancelada na CVM
 
-SHOW3 · CD_CVM 22454 · Brinquedos e Lazer · SP · DFP 16a · ITR 16a
+SHOW3 · CD_CVM 22454 · Brinquedos e Lazer · SP · DFP 16a · ITR 16a · último pregão 01/09/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SHOW3?base=con) [Individual](https://atlasmercados.com.br/empresa/SHOW3?base=ind)
 
-> T4F ENTRETENIMENTO SA (SHOW3) teve receita líquida de R$ 180,8 milhões e prejuízo líquido de R$ 54,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 15,4 milhões, margem EBITDA de -8,5% sobre a receita. O valor de mercado era de R$ 42,1 milhões em 01/09/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,40 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> T4F ENTRETENIMENTO SA (SHOW3) teve receita líquida de R$ 180,8 milhões e prejuízo líquido de R$ 54,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 15,4 milhões, margem EBITDA de -8,5% sobre a receita. O valor de mercado era de R$ 42,1 milhões em 01/09/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,40 sobre o último exercício. A série anual disponível vai de 2010 a 2025. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 180,8 mi · 2025
 

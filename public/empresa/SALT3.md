@@ -1,19 +1,19 @@
 ---
 title: GRUPO SALTA EDUCAÇÃO S.A. (SALT3) — análise financeira | Atlas Mercados
-description: GRUPO SALTA EDUCAÇÃO S.A. (SALT3) teve receita líquida de R$ 2,8 bilhões e lucro líquido de R$ 121,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 38,8 milhões em dividendos (DMPL). A série anual disponível vai de 2024 a 2025.
+description: GRUPO SALTA EDUCAÇÃO S.A. (SALT3) teve receita líquida de R$ 2,8 bilhões e lucro líquido de R$ 121,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 738,2 milhões, margem EBITDA de 26,4% sobre a receita. Em 2025, distribuiu R$ 38,8 milhões em dividendos (DMPL). A série anual disponível vai de 2024 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/SALT3
 ---
 <!-- https://atlasmercados.com.br/empresa/SALT3 — versão Markdown da página -->
 
 GR
 
-GRUPO SALTA EDUCAÇÃO S.A.
+GRUPO SALTA EDUCAÇÃO S.A. sem pregão em 90 dias
 
 SALT3, SALT4 · CD_CVM 27820 · Emp. Adm. Part. - Educação · RJ · DFP 2a · ITR 2a
 
 [Consolidado](https://atlasmercados.com.br/empresa/SALT3?base=con) [Individual](https://atlasmercados.com.br/empresa/SALT3?base=ind)
 
-> GRUPO SALTA EDUCAÇÃO S.A. (SALT3) teve receita líquida de R$ 2,8 bilhões e lucro líquido de R$ 121,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 38,8 milhões em dividendos (DMPL). A série anual disponível vai de 2024 a 2025.
+> GRUPO SALTA EDUCAÇÃO S.A. (SALT3) teve receita líquida de R$ 2,8 bilhões e lucro líquido de R$ 121,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 738,2 milhões, margem EBITDA de 26,4% sobre a receita. Em 2025, distribuiu R$ 38,8 milhões em dividendos (DMPL). A série anual disponível vai de 2024 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 2,8 bi · 2025
 

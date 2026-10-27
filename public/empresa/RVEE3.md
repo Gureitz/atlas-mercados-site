@@ -1,6 +1,6 @@
 ---
 title: REVEE S.A. (RVEE3) — análise financeira | Atlas Mercados
-description: REVEE S.A. (RVEE3) teve receita líquida de R$ 1,1 milhão e lucro líquido de R$ 12,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 84,1 milhões em 01/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,0 e P/VPA de 0,64 sobre o último exercício.
+description: REVEE S.A. (RVEE3) teve receita líquida de R$ 1,1 milhão e lucro líquido de R$ 12,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 82,9 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,9 e P/VPA de 0,63 sobre o último exercício.
 url: https://atlasmercados.com.br/empresa/RVEE3
 ---
 <!-- https://atlasmercados.com.br/empresa/RVEE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ RE
 
 REVEE S.A.
 
-RVEE3 · CD_CVM 27650 · Emp. Adm. Part. - Brinquedos e Lazer · SP · DFP 3a · ITR 3a
+RVEE3 · CD_CVM 27650 · Emp. Adm. Part. - Brinquedos e Lazer · SP · DFP 3a · ITR 3a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/RVEE3?base=con) [Individual](https://atlasmercados.com.br/empresa/RVEE3?base=ind)
 
-> REVEE S.A. (RVEE3) teve receita líquida de R$ 1,1 milhão e lucro líquido de R$ 12,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 84,1 milhões em 01/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,0 e P/VPA de 0,64 sobre o último exercício.
+> REVEE S.A. (RVEE3) teve receita líquida de R$ 1,1 milhão e lucro líquido de R$ 12,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 82,9 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,9 e P/VPA de 0,63 sobre o último exercício.
 
 - Receita líq. · R$ 1,1 mi · 2025
 
@@ -86,7 +86,7 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 P/L atual 10,1× mediana 10,1× faixa 7,0× – 13,2× acima da mediana
 
-P/VPA atual 1,2× mediana 1,1× faixa 0,3× – 2,5× acima da mediana
+P/VPA atual 2,3× mediana 1,2× faixa 0,3× – 2,5× acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

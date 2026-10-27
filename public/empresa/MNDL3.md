@@ -1,6 +1,6 @@
 ---
 title: MUNDIAL S.A - PRODUTOS DE CONSUMO (MNDL3) — análise financeira | Atlas Mercados
-description: MUNDIAL S.A - PRODUTOS DE CONSUMO (MNDL3) teve receita líquida de R$ 1,0 bilhão e prejuízo líquido de R$ 22,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 159,8 milhões, margem EBITDA de 15,7% sobre a receita. O valor de mercado era de R$ 180,7 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,34 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: MUNDIAL S.A - PRODUTOS DE CONSUMO (MNDL3) teve receita líquida de R$ 1,0 bilhão e prejuízo líquido de R$ 22,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 159,8 milhões, margem EBITDA de 15,7% sobre a receita. O valor de mercado era de R$ 183,4 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,36 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/MNDL3
 ---
 <!-- https://atlasmercados.com.br/empresa/MNDL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MU
 
 MUNDIAL S.A - PRODUTOS DE CONSUMO
 
-MNDL3 · CD_CVM 5312 · Têxtil e Vestuário · SP · DFP 16a · ITR 16a
+MNDL3 · CD_CVM 5312 · Têxtil e Vestuário · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MNDL3?base=con) [Individual](https://atlasmercados.com.br/empresa/MNDL3?base=ind)
 
-> MUNDIAL S.A - PRODUTOS DE CONSUMO (MNDL3) teve receita líquida de R$ 1,0 bilhão e prejuízo líquido de R$ 22,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 159,8 milhões, margem EBITDA de 15,7% sobre a receita. O valor de mercado era de R$ 180,7 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,34 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> MUNDIAL S.A - PRODUTOS DE CONSUMO (MNDL3) teve receita líquida de R$ 1,0 bilhão e prejuízo líquido de R$ 22,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 159,8 milhões, margem EBITDA de 15,7% sobre a receita. O valor de mercado era de R$ 183,4 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,36 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,0 bi · 2025
 
@@ -89,7 +89,7 @@ DRE · DFP · consolidado · 2025 · 33 linhas · R$
 
 P/L atual 73,2× mediana 2,5× faixa 0,1× – 110,4× acima da mediana
 
-P/VPA atual 1,6× mediana 1,0× faixa 0,2× – 1,6× acima da mediana
+P/VPA atual 1,7× mediana 1,0× faixa 0,2× – 1,7× acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

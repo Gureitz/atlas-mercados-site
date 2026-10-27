@@ -1,6 +1,6 @@
 ---
 title: MAGAZINE LUIZA SA (MGLU3) — análise financeira | Atlas Mercados
-description: MAGAZINE LUIZA SA (MGLU3) teve receita líquida de R$ 38,7 bilhões e lucro líquido de R$ 204,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,2 bilhões, margem EBITDA de 8,3% sobre a receita. O valor de mercado era de R$ 5,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,9 e P/VPA de 0,52 sobre o último exercício. Em 2025, distribuiu R$ 228,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: MAGAZINE LUIZA SA (MGLU3) teve receita líquida de R$ 38,7 bilhões e lucro líquido de R$ 204,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,2 bilhões, margem EBITDA de 8,3% sobre a receita. O valor de mercado era de R$ 9,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 48,1 e P/VPA de 0,87 sobre o último exercício. Em 2025, distribuiu R$ 228,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/MGLU3
 ---
 <!-- https://atlasmercados.com.br/empresa/MGLU3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MA
 
 MAGAZINE LUIZA SA
 
-MGLU3 · CD_CVM 22470 · Comércio (Atacado e Varejo) · SP · DFP 16a · ITR 16a
+MGLU3 · CD_CVM 22470 · Comércio (Atacado e Varejo) · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MGLU3?base=con) [Individual](https://atlasmercados.com.br/empresa/MGLU3?base=ind)
 
-> MAGAZINE LUIZA SA (MGLU3) teve receita líquida de R$ 38,7 bilhões e lucro líquido de R$ 204,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,2 bilhões, margem EBITDA de 8,3% sobre a receita. O valor de mercado era de R$ 5,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,9 e P/VPA de 0,52 sobre o último exercício. Em 2025, distribuiu R$ 228,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> MAGAZINE LUIZA SA (MGLU3) teve receita líquida de R$ 38,7 bilhões e lucro líquido de R$ 204,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,2 bilhões, margem EBITDA de 8,3% sobre a receita. O valor de mercado era de R$ 9,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 48,1 e P/VPA de 0,87 sobre o último exercício. Em 2025, distribuiu R$ 228,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 38,7 bi · 2025
 
@@ -86,11 +86,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 37,5× mediana 61,7× faixa 12,0× – 480,1× abaixo da mediana
+P/L atual 111,2× mediana 62,6× faixa 12,0× – 480,1× acima da mediana
 
-P/VPA atual 0,5× mediana 1,7× faixa 0,3× – 22,1× abaixo da mediana
+P/VPA atual 0,9× mediana 1,7× faixa 0,3× – 22,1× abaixo da mediana
 
-Dividend Yield atual 4,5% mediana 0,4% faixa 0,1% – 6,3% acima da mediana
+Dividend Yield atual 2,3% mediana 0,4% faixa 0,1% – 6,3% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

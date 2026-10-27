@@ -1,19 +1,19 @@
 ---
 title: STATKRAFT ENERGIAS RENOVÁVEIS S.A. (STKF3) — análise financeira | Atlas Mercados
-description: STATKRAFT ENERGIAS RENOVÁVEIS S.A. (STKF3) teve receita líquida de R$ 944,6 milhões e lucro líquido de R$ 381,0 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 533,3 milhões, margem EBITDA de 56,5% sobre a receita. Em 2023, distribuiu R$ 18,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023.
+description: STATKRAFT ENERGIAS RENOVÁVEIS S.A. (STKF3) teve receita líquida de R$ 944,6 milhões e lucro líquido de R$ 381,0 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 533,3 milhões, margem EBITDA de 56,5% sobre a receita. Em 2023, distribuiu R$ 18,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/STKF3
 ---
 <!-- https://atlasmercados.com.br/empresa/STKF3 — versão Markdown da página -->
 
 ST
 
-STATKRAFT ENERGIAS RENOVÁVEIS S.A.
+STATKRAFT ENERGIAS RENOVÁVEIS S.A. registro cancelada na CVM sem pregão em 90 dias
 
 STKF3 · CD_CVM 22594 · Energia Elétrica · SC · DFP 14a · ITR 14a
 
 [Consolidado](https://atlasmercados.com.br/empresa/STKF3?base=con) [Individual](https://atlasmercados.com.br/empresa/STKF3?base=ind)
 
-> STATKRAFT ENERGIAS RENOVÁVEIS S.A. (STKF3) teve receita líquida de R$ 944,6 milhões e lucro líquido de R$ 381,0 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 533,3 milhões, margem EBITDA de 56,5% sobre a receita. Em 2023, distribuiu R$ 18,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023.
+> STATKRAFT ENERGIAS RENOVÁVEIS S.A. (STKF3) teve receita líquida de R$ 944,6 milhões e lucro líquido de R$ 381,0 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 533,3 milhões, margem EBITDA de 56,5% sobre a receita. Em 2023, distribuiu R$ 18,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 944,6 mi · 2023
 

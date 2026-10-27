@@ -1,19 +1,19 @@
 ---
 title: SOMOS EDUCAÇÃO S.A. (SEDU3) — análise financeira | Atlas Mercados
-description: SOMOS EDUCAÇÃO S.A. (SEDU3) teve receita líquida de R$ 1,9 bilhão e prejuízo líquido de R$ 398,4 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 146,0 milhões, margem EBITDA de -7,8% sobre a receita. A série anual disponível vai de 2010 a 2018.
+description: SOMOS EDUCAÇÃO S.A. (SEDU3) teve receita líquida de R$ 1,9 bilhão e prejuízo líquido de R$ 398,4 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 56,1 milhões, margem EBITDA de -3,0% sobre a receita. A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/SEDU3
 ---
 <!-- https://atlasmercados.com.br/empresa/SEDU3 — versão Markdown da página -->
 
 SO
 
-SOMOS EDUCAÇÃO S.A.
+SOMOS EDUCAÇÃO S.A. registro cancelada na CVM sem pregão em 90 dias
 
 SEDU3 · CD_CVM 22551 · Gráficas e Editoras · SP · DFP 9a · ITR 9a
 
 [Consolidado](https://atlasmercados.com.br/empresa/SEDU3?base=con) [Individual](https://atlasmercados.com.br/empresa/SEDU3?base=ind)
 
-> SOMOS EDUCAÇÃO S.A. (SEDU3) teve receita líquida de R$ 1,9 bilhão e prejuízo líquido de R$ 398,4 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 146,0 milhões, margem EBITDA de -7,8% sobre a receita. A série anual disponível vai de 2010 a 2018.
+> SOMOS EDUCAÇÃO S.A. (SEDU3) teve receita líquida de R$ 1,9 bilhão e prejuízo líquido de R$ 398,4 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 56,1 milhões, margem EBITDA de -3,0% sobre a receita. A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 1,9 bi · 2018
 

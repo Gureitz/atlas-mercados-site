@@ -1,6 +1,6 @@
 ---
 title: CENTRAIS ELETRICAS DE SANTA CATARINA S.A (CLSC3) — análise financeira | Atlas Mercados
-description: CENTRAIS ELETRICAS DE SANTA CATARINA S.A (CLSC3) teve receita líquida de R$ 11,9 bilhões e lucro líquido de R$ 729,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 15,1% sobre a receita. O valor de mercado era de R$ 6,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,2 e P/VPA de 1,51 sobre o último exercício. Em 2025, distribuiu R$ 361,4 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: CENTRAIS ELETRICAS DE SANTA CATARINA S.A (CLSC3) teve receita líquida de R$ 11,9 bilhões e lucro líquido de R$ 729,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 15,1% sobre a receita. O valor de mercado era de R$ 7,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,5 e P/VPA de 1,75 sobre o último exercício. Em 2025, distribuiu R$ 361,4 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, a distribuidora controlada atendia 3,5 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/CLSC3
 ---
 <!-- https://atlasmercados.com.br/empresa/CLSC3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CE
 
 CENTRAIS ELETRICAS DE SANTA CATARINA S.A
 
-CLSC3, CLSC4 · CD_CVM 2461 · Energia Elétrica · SC · DFP 16a · ITR 16a
+CLSC3, CLSC4 · CD_CVM 2461 · Energia Elétrica · SC · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CLSC3?base=con) [Individual](https://atlasmercados.com.br/empresa/CLSC3?base=ind)
 
-> CENTRAIS ELETRICAS DE SANTA CATARINA S.A (CLSC3) teve receita líquida de R$ 11,9 bilhões e lucro líquido de R$ 729,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 15,1% sobre a receita. O valor de mercado era de R$ 6,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,2 e P/VPA de 1,51 sobre o último exercício. Em 2025, distribuiu R$ 361,4 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> CENTRAIS ELETRICAS DE SANTA CATARINA S.A (CLSC3) teve receita líquida de R$ 11,9 bilhões e lucro líquido de R$ 729,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 15,1% sobre a receita. O valor de mercado era de R$ 7,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,5 e P/VPA de 1,75 sobre o último exercício. Em 2025, distribuiu R$ 361,4 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, a distribuidora controlada atendia 3,5 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 11,9 bi · 2025
 
@@ -36,6 +36,28 @@ CLSC3, CLSC4 · CD_CVM 2461 · Energia Elétrica · SC · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 0 MW · 0 usinas ≥ 1 MW
+
+- Capacidade proporcional · 24 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · 3.544.645 · distribuidoras controladas
+
+- Energia faturada 12m · 26.828 GWh · TUSD · controladas
+
+| Distribuidora | Participação efetiva | Consumidores | Energia 12m | Mês |
+|---|---|---|---|---|
+| CELESC CELESC DISTRIBUICAO S.A | 100,0% | 3.544.645 | 26.828 GWh | 08/2026 |
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Dona Francisca coligada | Hídrica | RS | 125 MW | 19,6% | 24 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -94,11 +116,11 @@ DRE · DFP · consolidado · 2025 · 40 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,1× mediana 4,9× faixa 3,2× – 8,9× acima da mediana
+P/L atual 7,9× mediana 4,9× faixa 3,2× – 8,9× acima da mediana
 
-P/VPA atual 1,4× mediana 1,0× faixa 0,6× – 1,5× acima da mediana
+P/VPA atual 1,6× mediana 1,0× faixa 0,6× – 1,6× acima da mediana
 
-Dividend Yield atual 6,1% mediana 6,5% faixa 2,4% – 9,5% abaixo da mediana
+Dividend Yield atual 5,2% mediana 6,4% faixa 2,4% – 9,5% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

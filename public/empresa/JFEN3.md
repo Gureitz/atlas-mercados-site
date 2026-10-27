@@ -1,19 +1,19 @@
 ---
 title: JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL (JFEN3) — análise financeira | Atlas Mercados
-description: JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL (JFEN3) teve receita líquida de R$ 175,0 milhões e prejuízo líquido de R$ 223,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 191,1 milhões, margem EBITDA de -109,2% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL (JFEN3) teve receita líquida de R$ 175,0 milhões e prejuízo líquido de R$ 223,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 191,1 milhões, margem EBITDA de -109,2% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/JFEN3
 ---
 <!-- https://atlasmercados.com.br/empresa/JFEN3 — versão Markdown da página -->
 
 JO
 
-JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL
+JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
 JFEN3 · CD_CVM 7811 · Construção Civil, Mat. Constr. e Decoração · RJ · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/JFEN3?base=con) [Individual](https://atlasmercados.com.br/empresa/JFEN3?base=ind)
 
-> JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL (JFEN3) teve receita líquida de R$ 175,0 milhões e prejuízo líquido de R$ 223,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 191,1 milhões, margem EBITDA de -109,2% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL (JFEN3) teve receita líquida de R$ 175,0 milhões e prejuízo líquido de R$ 223,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 191,1 milhões, margem EBITDA de -109,2% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 175,0 mi · 2025
 

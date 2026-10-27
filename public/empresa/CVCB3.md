@@ -1,6 +1,6 @@
 ---
 title: CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA (CVCB3) — análise financeira | Atlas Mercados
-description: CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA (CVCB3) teve receita líquida de R$ 1,5 bilhão e prejuízo líquido de R$ 40,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 505,0 milhões, margem EBITDA de 33,9% sobre a receita. O valor de mercado era de R$ 725,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,51 sobre o último exercício. A série anual disponível vai de 2012 a 2025.
+description: CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA (CVCB3) teve receita líquida de R$ 1,5 bilhão e prejuízo líquido de R$ 40,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 505,0 milhões, margem EBITDA de 33,9% sobre a receita. O valor de mercado era de R$ 825,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,72 sobre o último exercício. A série anual disponível vai de 2012 a 2025.
 url: https://atlasmercados.com.br/empresa/CVCB3
 ---
 <!-- https://atlasmercados.com.br/empresa/CVCB3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CV
 
 CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA
 
-CVCB3 · CD_CVM 23310 · Hospedagem e Turismo · SP · DFP 14a · ITR 14a
+CVCB3 · CD_CVM 23310 · Hospedagem e Turismo · SP · DFP 14a · ITR 14a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CVCB3?base=con) [Individual](https://atlasmercados.com.br/empresa/CVCB3?base=ind)
 
-> CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA (CVCB3) teve receita líquida de R$ 1,5 bilhão e prejuízo líquido de R$ 40,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 505,0 milhões, margem EBITDA de 33,9% sobre a receita. O valor de mercado era de R$ 725,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,51 sobre o último exercício. A série anual disponível vai de 2012 a 2025.
+> CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA (CVCB3) teve receita líquida de R$ 1,5 bilhão e prejuízo líquido de R$ 40,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 505,0 milhões, margem EBITDA de 33,9% sobre a receita. O valor de mercado era de R$ 825,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,72 sobre o último exercício. A série anual disponível vai de 2012 a 2025.
 
 - Receita líq. · R$ 1,5 bi · 2025
 
@@ -88,7 +88,7 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/VPA atual 1,9× mediana 2,4× faixa 1,2× – 22,2× abaixo da mediana
+P/VPA atual 2,5× mediana 2,5× faixa 1,2× – 22,2× acima da mediana
 
 Dividend Yield atual 1,7% mediana 2,0% faixa 1,3% – 3,9% abaixo da mediana
 

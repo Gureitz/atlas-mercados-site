@@ -1,6 +1,6 @@
 ---
 title: METALURGICA RIOSULENSE SA (RSUL4) — análise financeira | Atlas Mercados
-description: METALURGICA RIOSULENSE SA (RSUL4) teve receita líquida de R$ 420,5 milhões e lucro líquido de R$ 64,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 101,7 milhões, margem EBITDA de 24,2% sobre a receita. O valor de mercado era de R$ 261,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 0,95 sobre o último exercício. Em 2025, distribuiu R$ 26,2 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: METALURGICA RIOSULENSE SA (RSUL4) teve receita líquida de R$ 420,5 milhões e lucro líquido de R$ 64,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 101,7 milhões, margem EBITDA de 24,2% sobre a receita. O valor de mercado era de R$ 302,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,7 e P/VPA de 1,10 sobre o último exercício. Em 2025, distribuiu R$ 26,2 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/RSUL4
 ---
 <!-- https://atlasmercados.com.br/empresa/RSUL4 — versão Markdown da página -->
@@ -9,11 +9,11 @@ ME
 
 METALURGICA RIOSULENSE SA
 
-RSUL4, RSUL3 · CD_CVM 13439 · Máquinas, Equipamentos, Veículos e Peças · SC · DFP 16a · ITR 16a
+RSUL4, RSUL3 · CD_CVM 13439 · Máquinas, Equipamentos, Veículos e Peças · SC · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/RSUL4?base=con) [Individual](https://atlasmercados.com.br/empresa/RSUL4?base=ind)
 
-> METALURGICA RIOSULENSE SA (RSUL4) teve receita líquida de R$ 420,5 milhões e lucro líquido de R$ 64,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 101,7 milhões, margem EBITDA de 24,2% sobre a receita. O valor de mercado era de R$ 261,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 0,95 sobre o último exercício. Em 2025, distribuiu R$ 26,2 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+> METALURGICA RIOSULENSE SA (RSUL4) teve receita líquida de R$ 420,5 milhões e lucro líquido de R$ 64,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 101,7 milhões, margem EBITDA de 24,2% sobre a receita. O valor de mercado era de R$ 302,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,7 e P/VPA de 1,10 sobre o último exercício. Em 2025, distribuiu R$ 26,2 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 420,5 mi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 3,8× mediana 7,0× faixa 3,7× – 13,5× abaixo da mediana
+P/L atual 4,9× mediana 6,9× faixa 3,7× – 13,5× abaixo da mediana
 
-P/VPA atual 0,8× mediana 2,4× faixa 0,8× – 12,5× abaixo da mediana
+P/VPA atual 1,0× mediana 2,4× faixa 0,8× – 12,5× abaixo da mediana
 
-Dividend Yield atual 11,0% mediana 2,8% faixa 1,8% – 11,2% acima da mediana
+Dividend Yield atual 8,7% mediana 2,8% faixa 1,8% – 11,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

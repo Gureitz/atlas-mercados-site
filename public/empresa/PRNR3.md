@@ -1,6 +1,6 @@
 ---
 title: PRINER SERVIÇOS INDUSTRIAIS S.A. (PRNR3) — análise financeira | Atlas Mercados
-description: PRINER SERVIÇOS INDUSTRIAIS S.A. (PRNR3) teve receita líquida de R$ 1,6 bilhão e lucro líquido de R$ 8,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 184,6 milhões, margem EBITDA de 11,8% sobre a receita. O valor de mercado era de R$ 1,1 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 128,8 e P/VPA de 1,93 sobre o último exercício. Em 2024, distribuiu R$ 2,4 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2025.
+description: PRINER SERVIÇOS INDUSTRIAIS S.A. (PRNR3) teve receita líquida de R$ 1,6 bilhão e lucro líquido de R$ 8,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 184,6 milhões, margem EBITDA de 11,8% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 141,0 e P/VPA de 2,11 sobre o último exercício. Em 2024, distribuiu R$ 2,4 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2025.
 url: https://atlasmercados.com.br/empresa/PRNR3
 ---
 <!-- https://atlasmercados.com.br/empresa/PRNR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ PR
 
 PRINER SERVIÇOS INDUSTRIAIS S.A.
 
-PRNR3 · CD_CVM 24236 · Construção Civil, Mat. Constr. e Decoração · RJ · DFP 10a · ITR 10a
+PRNR3 · CD_CVM 24236 · Construção Civil, Mat. Constr. e Decoração · RJ · DFP 10a · ITR 10a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PRNR3?base=con) [Individual](https://atlasmercados.com.br/empresa/PRNR3?base=ind)
 
-> PRINER SERVIÇOS INDUSTRIAIS S.A. (PRNR3) teve receita líquida de R$ 1,6 bilhão e lucro líquido de R$ 8,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 184,6 milhões, margem EBITDA de 11,8% sobre a receita. O valor de mercado era de R$ 1,1 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 128,8 e P/VPA de 1,93 sobre o último exercício. Em 2024, distribuiu R$ 2,4 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2025.
+> PRINER SERVIÇOS INDUSTRIAIS S.A. (PRNR3) teve receita líquida de R$ 1,6 bilhão e lucro líquido de R$ 8,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 184,6 milhões, margem EBITDA de 11,8% sobre a receita. O valor de mercado era de R$ 1,2 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 141,0 e P/VPA de 2,11 sobre o último exercício. Em 2024, distribuiu R$ 2,4 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2025.
 
 - Receita líq. · R$ 1,6 bi · 2025
 
@@ -84,9 +84,9 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 18,8× mediana 17,6× faixa 4,7× – 15.313,0× acima da mediana
+P/L atual 21,3× mediana 18,2× faixa 4,7× – 15.313,0× acima da mediana
 
-P/VPA atual 1,7× mediana 1,7× faixa 0,8× – 5,1× abaixo da mediana
+P/VPA atual 2,1× mediana 1,7× faixa 0,8× – 5,1× acima da mediana
 
 Dividend Yield atual 0,2% mediana 0,3% faixa 0,2% – 3,1% abaixo da mediana
 

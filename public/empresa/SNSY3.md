@@ -1,6 +1,6 @@
 ---
 title: SANSUY SA INDÚSTRIA DE PLASTICOS (SNSY3) — análise financeira | Atlas Mercados
-description: SANSUY SA INDÚSTRIA DE PLASTICOS (SNSY3) teve receita líquida de R$ 975,9 milhões e prejuízo líquido de R$ 284,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 3,5 milhões, margem EBITDA de -0,4% sobre a receita. O valor de mercado era de R$ 35,9 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
+description: SANSUY SA INDÚSTRIA DE PLASTICOS (SNSY3) teve receita líquida de R$ 975,9 milhões e prejuízo líquido de R$ 284,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 3,5 milhões, margem EBITDA de -0,4% sobre a receita. O valor de mercado era de R$ 38,6 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/SNSY3
 ---
 <!-- https://atlasmercados.com.br/empresa/SNSY3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ SA
 
 SANSUY SA INDÚSTRIA DE PLASTICOS
 
-SNSY3, SNSY5, SNSY6 · CD_CVM 12696 · Petroquímicos e Borracha · BA · DFP 16a · ITR 16a
+SNSY3, SNSY5, SNSY6 · CD_CVM 12696 · Petroquímicos e Borracha · BA · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SNSY3?base=con) [Individual](https://atlasmercados.com.br/empresa/SNSY3?base=ind)
 
-> SANSUY SA INDÚSTRIA DE PLASTICOS (SNSY3) teve receita líquida de R$ 975,9 milhões e prejuízo líquido de R$ 284,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 3,5 milhões, margem EBITDA de -0,4% sobre a receita. O valor de mercado era de R$ 35,9 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
+> SANSUY SA INDÚSTRIA DE PLASTICOS (SNSY3) teve receita líquida de R$ 975,9 milhões e prejuízo líquido de R$ 284,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 3,5 milhões, margem EBITDA de -0,4% sobre a receita. O valor de mercado era de R$ 38,6 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 975,9 mi · 2025
 

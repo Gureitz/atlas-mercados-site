@@ -1,6 +1,6 @@
 ---
 title: ENJOEI S.A. (ENJU3) — análise financeira | Atlas Mercados
-description: ENJOEI S.A. (ENJU3) teve receita líquida de R$ 264,0 milhões e prejuízo líquido de R$ 16,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 10,4 milhões, margem EBITDA de 4,0% sobre a receita. O valor de mercado era de R$ 153,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,51 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
+description: ENJOEI S.A. (ENJU3) teve receita líquida de R$ 264,0 milhões e prejuízo líquido de R$ 16,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 10,4 milhões, margem EBITDA de 4,0% sobre a receita. O valor de mercado era de R$ 1,8 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 5,93 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/ENJU3
 ---
 <!-- https://atlasmercados.com.br/empresa/ENJU3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ EN
 
 ENJOEI S.A.
 
-ENJU3 · CD_CVM 25259 · Comércio (Atacado e Varejo) · SP · DFP 7a · ITR 7a
+ENJU3 · CD_CVM 25259 · Comércio (Atacado e Varejo) · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ENJU3?base=con) [Individual](https://atlasmercados.com.br/empresa/ENJU3?base=ind)
 
-> ENJOEI S.A. (ENJU3) teve receita líquida de R$ 264,0 milhões e prejuízo líquido de R$ 16,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 10,4 milhões, margem EBITDA de 4,0% sobre a receita. O valor de mercado era de R$ 153,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,51 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
+> ENJOEI S.A. (ENJU3) teve receita líquida de R$ 264,0 milhões e prejuízo líquido de R$ 16,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 10,4 milhões, margem EBITDA de 4,0% sobre a receita. O valor de mercado era de R$ 1,8 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 5,93 sobre o último exercício. A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 264,0 mi · 2025
 
@@ -86,7 +86,7 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/VPA atual 0,5× mediana 0,8× faixa 0,4× – 5,7× abaixo da mediana
+P/VPA atual 8,7× mediana 0,8× faixa 0,4× – 8,7× acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

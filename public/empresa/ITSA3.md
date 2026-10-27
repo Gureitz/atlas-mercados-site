@@ -1,6 +1,6 @@
 ---
 title: ITAUSA S.A. (ITSA3) — análise financeira | Atlas Mercados
-description: ITAUSA S.A. (ITSA3) teve receitas da intermediação financeira de R$ 8,2 bilhões e lucro líquido de R$ 16,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 165,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,0 e P/VPA de 1,77 sobre o último exercício. Em 2025, distribuiu R$ 18,7 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: ITAUSA S.A. (ITSA3) teve receitas da intermediação financeira de R$ 8,2 bilhões e lucro líquido de R$ 16,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 174,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,5 e P/VPA de 1,87 sobre o último exercício. Em 2025, distribuiu R$ 18,7 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/ITSA3
 ---
 <!-- https://atlasmercados.com.br/empresa/ITSA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ IT
 
 ITAUSA S.A.
 
-ITSA3, ITSA4 · CD_CVM 7617 · Emp. Adm. Part. - Intermediação Financeira · SP · DFP 16a · ITR 16a
+ITSA3, ITSA4 · CD_CVM 7617 · Emp. Adm. Part. - Intermediação Financeira · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ITSA3?base=con) [Individual](https://atlasmercados.com.br/empresa/ITSA3?base=ind)
 
-> ITAUSA S.A. (ITSA3) teve receitas da intermediação financeira de R$ 8,2 bilhões e lucro líquido de R$ 16,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 165,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,0 e P/VPA de 1,77 sobre o último exercício. Em 2025, distribuiu R$ 18,7 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> ITAUSA S.A. (ITSA3) teve receitas da intermediação financeira de R$ 8,2 bilhões e lucro líquido de R$ 16,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 174,3 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,5 e P/VPA de 1,87 sobre o último exercício. Em 2025, distribuiu R$ 18,7 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 8,2 bi · 2025
 
@@ -86,11 +86,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 9,2× mediana 7,5× faixa 5,3× – 13,9× acima da mediana
+P/L atual 9,6× mediana 7,5× faixa 5,3× – 13,9× acima da mediana
 
-P/VPA atual 1,7× mediana 1,3× faixa 1,0× – 1,8× acima da mediana
+P/VPA atual 1,8× mediana 1,3× faixa 1,0× – 1,8× acima da mediana
 
-Dividend Yield atual 11,9% mediana 5,9% faixa 3,6% – 12,9% acima da mediana
+Dividend Yield atual 10,7% mediana 5,9% faixa 3,6% – 12,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,6 +1,6 @@
 ---
 title: VITRU EDUCAÇÃO S.A. (VTRU3) — análise financeira | Atlas Mercados
-description: VITRU EDUCAÇÃO S.A. (VTRU3) teve receita líquida de R$ 2,3 bilhões e lucro líquido de R$ 369,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 812,6 milhões, margem EBITDA de 36,0% sobre a receita. O valor de mercado era de R$ 2,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,3 e P/VPA de 0,80 sobre o último exercício. Em 2025, distribuiu R$ 3,7 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+description: VITRU EDUCAÇÃO S.A. (VTRU3) teve receita líquida de R$ 2,3 bilhões e lucro líquido de R$ 369,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 812,6 milhões, margem EBITDA de 36,0% sobre a receita. O valor de mercado era de R$ 3,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,4 e P/VPA de 1,06 sobre o último exercício. Em 2025, distribuiu R$ 3,7 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
 url: https://atlasmercados.com.br/empresa/VTRU3
 ---
 <!-- https://atlasmercados.com.br/empresa/VTRU3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ VI
 
 VITRU EDUCAÇÃO S.A.
 
-VTRU3 · CD_CVM 27057 · Educação · SP · DFP 5a · ITR 5a
+VTRU3 · CD_CVM 27057 · Educação · SP · DFP 5a · ITR 5a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/VTRU3?base=con) [Individual](https://atlasmercados.com.br/empresa/VTRU3?base=ind)
 
-> VITRU EDUCAÇÃO S.A. (VTRU3) teve receita líquida de R$ 2,3 bilhões e lucro líquido de R$ 369,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 812,6 milhões, margem EBITDA de 36,0% sobre a receita. O valor de mercado era de R$ 2,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,3 e P/VPA de 0,80 sobre o último exercício. Em 2025, distribuiu R$ 3,7 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+> VITRU EDUCAÇÃO S.A. (VTRU3) teve receita líquida de R$ 2,3 bilhões e lucro líquido de R$ 369,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 812,6 milhões, margem EBITDA de 36,0% sobre a receita. O valor de mercado era de R$ 3,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,4 e P/VPA de 1,06 sobre o último exercício. Em 2025, distribuiu R$ 3,7 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
 
 - Receita líq. · R$ 2,3 bi · 2025
 
@@ -89,11 +89,11 @@ DRE · DFP · consolidado · 2025 · 35 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 2,0× mediana 4,8× faixa 1,7× – 27,4× abaixo da mediana
+P/L atual 2,8× mediana 4,8× faixa 1,7× – 27,4× abaixo da mediana
 
-P/VPA atual 0,6× mediana 0,6× faixa 0,3× – 0,8× acima da mediana
+P/VPA atual 0,8× mediana 0,6× faixa 0,3× – 0,8× acima da mediana
 
-Dividend Yield atual 0,2% mediana 0,2% faixa 0,1% – 5,5% abaixo da mediana
+Dividend Yield atual 0,1% mediana 0,2% faixa 0,1% – 5,5% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

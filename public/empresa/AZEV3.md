@@ -1,6 +1,6 @@
 ---
 title: AZEVEDO & TRAVASSOS SA (AZEV3) — análise financeira | Atlas Mercados
-description: AZEVEDO & TRAVASSOS SA (AZEV3) teve receita líquida de R$ 349,4 milhões e prejuízo líquido de R$ 618,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 170,2 milhões, margem EBITDA de -48,7% sobre a receita. O valor de mercado era de R$ 344,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 3,08 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: AZEVEDO & TRAVASSOS SA (AZEV3) teve receita líquida de R$ 349,4 milhões e prejuízo líquido de R$ 618,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 170,2 milhões, margem EBITDA de -48,7% sobre a receita. O valor de mercado era de R$ 538,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 4,82 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/AZEV3
 ---
 <!-- https://atlasmercados.com.br/empresa/AZEV3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AZ
 
 AZEVEDO & TRAVASSOS SA
 
-AZEV3, AZEV4, AZEV11 · CD_CVM 11975 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+AZEV3, AZEV4, AZEV11 · CD_CVM 11975 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/AZEV3?base=con) [Individual](https://atlasmercados.com.br/empresa/AZEV3?base=ind)
 
-> AZEVEDO & TRAVASSOS SA (AZEV3) teve receita líquida de R$ 349,4 milhões e prejuízo líquido de R$ 618,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 170,2 milhões, margem EBITDA de -48,7% sobre a receita. O valor de mercado era de R$ 344,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 3,08 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> AZEVEDO & TRAVASSOS SA (AZEV3) teve receita líquida de R$ 349,4 milhões e prejuízo líquido de R$ 618,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 170,2 milhões, margem EBITDA de -48,7% sobre a receita. O valor de mercado era de R$ 538,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 4,82 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 349,4 mi · 2025
 
@@ -85,7 +85,7 @@ DRE · DFP · consolidado · 2025 · 29 linhas · R$
 
 P/L atual 9,6× mediana 1,5× faixa 0,7× – 13,6× acima da mediana
 
-P/VPA atual 3,0× mediana 1,2× faixa 0,2× – 4,5× acima da mediana
+P/VPA atual 1,3× mediana 1,2× faixa 0,2× – 4,5× acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

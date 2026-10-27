@@ -1,6 +1,6 @@
 ---
 title: M. DIAS BRANCO SA IND E COM DE ALIMENTOS (MDIA3) — análise financeira | Atlas Mercados
-description: M. DIAS BRANCO SA IND E COM DE ALIMENTOS (MDIA3) teve receita líquida de R$ 10,4 bilhões e lucro líquido de R$ 659,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 5,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,8 e P/VPA de 0,70 sobre o último exercício. Em 2025, distribuiu R$ 438,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: M. DIAS BRANCO SA IND E COM DE ALIMENTOS (MDIA3) teve receita líquida de R$ 10,4 bilhões e lucro líquido de R$ 659,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 6,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,8 e P/VPA de 0,79 sobre o último exercício. Em 2025, distribuiu R$ 438,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/MDIA3
 ---
 <!-- https://atlasmercados.com.br/empresa/MDIA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ M.
 
 M. DIAS BRANCO SA IND E COM DE ALIMENTOS
 
-MDIA3 · CD_CVM 20338 · Alimentos · CE · DFP 16a · ITR 16a
+MDIA3 · CD_CVM 20338 · Alimentos · CE · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MDIA3?base=con) [Individual](https://atlasmercados.com.br/empresa/MDIA3?base=ind)
 
-> M. DIAS BRANCO SA IND E COM DE ALIMENTOS (MDIA3) teve receita líquida de R$ 10,4 bilhões e lucro líquido de R$ 659,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 5,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,8 e P/VPA de 0,70 sobre o último exercício. Em 2025, distribuiu R$ 438,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> M. DIAS BRANCO SA IND E COM DE ALIMENTOS (MDIA3) teve receita líquida de R$ 10,4 bilhões e lucro líquido de R$ 659,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 10,6% sobre a receita. O valor de mercado era de R$ 6,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,8 e P/VPA de 0,79 sobre o último exercício. Em 2025, distribuiu R$ 438,1 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 10,4 bi · 2025
 
@@ -96,11 +96,11 @@ DRE · DFP · consolidado · 2025 · 42 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,9× mediana 15,8× faixa 7,1× – 29,7× abaixo da mediana
+P/L atual 9,9× mediana 15,3× faixa 7,1× – 29,7× abaixo da mediana
 
-P/VPA atual 0,7× mediana 1,4× faixa 0,7× – 2,3× abaixo da mediana
+P/VPA atual 0,8× mediana 1,4× faixa 0,7× – 2,3× abaixo da mediana
 
-Dividend Yield atual 8,0% mediana 1,4% faixa 0,6% – 8,0% acima da mediana
+Dividend Yield atual 6,8% mediana 1,4% faixa 0,6% – 8,0% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

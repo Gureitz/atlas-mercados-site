@@ -1,6 +1,6 @@
 ---
 title: MANGELS INDUSTRIAL S.A. (MGEL4) — análise financeira | Atlas Mercados
-description: MANGELS INDUSTRIAL S.A. (MGEL4) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 48,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 95,8 milhões, margem EBITDA de 9,0% sobre a receita. O valor de mercado era de R$ 33,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,7 e P/VPA de 0,70 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: MANGELS INDUSTRIAL S.A. (MGEL4) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 48,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 95,8 milhões, margem EBITDA de 9,0% sobre a receita. O valor de mercado era de R$ 46,0 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 1,0 e P/VPA de 0,98 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/MGEL4
 ---
 <!-- https://atlasmercados.com.br/empresa/MGEL4 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MA
 
 MANGELS INDUSTRIAL S.A.
 
-MGEL4, MGEL3 · CD_CVM 8397 · Emp. Adm. Part. - Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a
+MGEL4, MGEL3 · CD_CVM 8397 · Emp. Adm. Part. - Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MGEL4?base=con) [Individual](https://atlasmercados.com.br/empresa/MGEL4?base=ind)
 
-> MANGELS INDUSTRIAL S.A. (MGEL4) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 48,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 95,8 milhões, margem EBITDA de 9,0% sobre a receita. O valor de mercado era de R$ 33,0 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 0,7 e P/VPA de 0,70 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> MANGELS INDUSTRIAL S.A. (MGEL4) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 48,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 95,8 milhões, margem EBITDA de 9,0% sobre a receita. O valor de mercado era de R$ 46,0 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 1,0 e P/VPA de 0,98 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,1 bi · 2025
 
@@ -90,9 +90,9 @@ DRE · DFP · consolidado · 2025 · 36 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 0,8× mediana 0,7× faixa 0,3× – 6,1× acima da mediana
+P/L atual 1,1× mediana 0,7× faixa 0,3× – 6,1× acima da mediana
 
-P/VPA atual 0,7× mediana 2,4× faixa 0,6× – 54,5× abaixo da mediana
+P/VPA atual 0,8× mediana 2,3× faixa 0,6× – 54,5× abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

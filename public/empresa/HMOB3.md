@@ -1,19 +1,19 @@
 ---
 title: HMOBI PARTICIPAÇÕES S.A (HMOB3) — análise financeira | Atlas Mercados
-description: HMOBI PARTICIPAÇÕES S.A (HMOB3) teve receita líquida de R$ 1,3 bilhão e prejuízo líquido de R$ 23,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 603,7 milhões, margem EBITDA de 48,1% sobre a receita. Em 2025, distribuiu R$ 317,2 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+description: HMOBI PARTICIPAÇÕES S.A (HMOB3) teve receita líquida de R$ 1,3 bilhão e prejuízo líquido de R$ 23,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 637,5 milhões, margem EBITDA de 50,8% sobre a receita. Em 2025, distribuiu R$ 317,2 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/HMOB3
 ---
 <!-- https://atlasmercados.com.br/empresa/HMOB3 — versão Markdown da página -->
 
 HM
 
-HMOBI PARTICIPAÇÕES S.A
+HMOBI PARTICIPAÇÕES S.A sem pregão em 90 dias
 
 HMOB3 · CD_CVM 25674 · Emp. Adm. Part. - Sem Setor Principal · RJ · DFP 6a · ITR 6a
 
 [Consolidado](https://atlasmercados.com.br/empresa/HMOB3?base=con) [Individual](https://atlasmercados.com.br/empresa/HMOB3?base=ind)
 
-> HMOBI PARTICIPAÇÕES S.A (HMOB3) teve receita líquida de R$ 1,3 bilhão e prejuízo líquido de R$ 23,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 603,7 milhões, margem EBITDA de 48,1% sobre a receita. Em 2025, distribuiu R$ 317,2 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+> HMOBI PARTICIPAÇÕES S.A (HMOB3) teve receita líquida de R$ 1,3 bilhão e prejuízo líquido de R$ 23,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 637,5 milhões, margem EBITDA de 50,8% sobre a receita. Em 2025, distribuiu R$ 317,2 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 1,3 bi · 2025
 

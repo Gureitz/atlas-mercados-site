@@ -1,19 +1,19 @@
 ---
 title: NEOENERGIA S.A (NEOE3) — análise financeira | Atlas Mercados
-description: NEOENERGIA S.A (NEOE3) teve receita líquida de R$ 52,6 bilhões e lucro líquido de R$ 5,1 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 14,4 bilhões, margem EBITDA de 27,3% sobre a receita. O valor de mercado era de R$ 41,1 bilhões em 04/05/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 1,12 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: NEOENERGIA S.A (NEOE3) teve receita líquida de R$ 52,6 bilhões e lucro líquido de R$ 5,1 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 14,4 bilhões, margem EBITDA de 27,3% sobre a receita. O valor de mercado era de R$ 41,1 bilhões em 04/05/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 1,12 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 04/05/2026, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/NEOE3
 ---
 <!-- https://atlasmercados.com.br/empresa/NEOE3 — versão Markdown da página -->
 
 NE
 
-NEOENERGIA S.A
+NEOENERGIA S.A sem pregão em 90 dias
 
-NEOE3 · CD_CVM 15539 · Emp. Adm. Part. - Energia Elétrica · RJ · DFP 16a · ITR 16a
+NEOE3 · CD_CVM 15539 · Emp. Adm. Part. - Energia Elétrica · RJ · DFP 16a · ITR 16a · último pregão 04/05/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/NEOE3?base=con) [Individual](https://atlasmercados.com.br/empresa/NEOE3?base=ind)
 
-> NEOENERGIA S.A (NEOE3) teve receita líquida de R$ 52,6 bilhões e lucro líquido de R$ 5,1 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 14,4 bilhões, margem EBITDA de 27,3% sobre a receita. O valor de mercado era de R$ 41,1 bilhões em 04/05/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 1,12 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> NEOENERGIA S.A (NEOE3) teve receita líquida de R$ 52,6 bilhões e lucro líquido de R$ 5,1 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 14,4 bilhões, margem EBITDA de 27,3% sobre a receita. O valor de mercado era de R$ 41,1 bilhões em 04/05/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 1,12 sobre o último exercício. Em 2025, distribuiu R$ 1,3 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 04/05/2026, segundo o COTAHIST).
 
 - Receita líq. · R$ 52,6 bi · 2025
 

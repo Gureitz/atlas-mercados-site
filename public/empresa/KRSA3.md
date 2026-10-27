@@ -1,19 +1,19 @@
 ---
 title: KORA SAÚDE PARTICIPAÇÕES S.A. (KRSA3) — análise financeira | Atlas Mercados
-description: KORA SAÚDE PARTICIPAÇÕES S.A. (KRSA3) teve receita líquida de R$ 2,4 bilhões e prejuízo líquido de R$ 421,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2020 a 2025.
+description: KORA SAÚDE PARTICIPAÇÕES S.A. (KRSA3) teve receita líquida de R$ 2,4 bilhões e prejuízo líquido de R$ 421,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 384,2 milhões, margem EBITDA de 16,1% sobre a receita. A série anual disponível vai de 2020 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 14/04/2025, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/KRSA3
 ---
 <!-- https://atlasmercados.com.br/empresa/KRSA3 — versão Markdown da página -->
 
 KO
 
-KORA SAÚDE PARTICIPAÇÕES S.A.
+KORA SAÚDE PARTICIPAÇÕES S.A. sem pregão em 90 dias
 
-KRSA3 · CD_CVM 25879 · Serviços Médicos · ES · DFP 6a · ITR 6a
+KRSA3 · CD_CVM 25879 · Serviços Médicos · ES · DFP 6a · ITR 6a · último pregão 14/04/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/KRSA3?base=con) [Individual](https://atlasmercados.com.br/empresa/KRSA3?base=ind)
 
-> KORA SAÚDE PARTICIPAÇÕES S.A. (KRSA3) teve receita líquida de R$ 2,4 bilhões e prejuízo líquido de R$ 421,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2020 a 2025.
+> KORA SAÚDE PARTICIPAÇÕES S.A. (KRSA3) teve receita líquida de R$ 2,4 bilhões e prejuízo líquido de R$ 421,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 384,2 milhões, margem EBITDA de 16,1% sobre a receita. A série anual disponível vai de 2020 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 14/04/2025, segundo o COTAHIST).
 
 - Receita líq. · R$ 2,4 bi · 2025
 

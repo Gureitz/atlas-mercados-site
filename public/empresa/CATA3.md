@@ -1,19 +1,19 @@
 ---
 title: COMPANHIA INDUSTRIAL CATAGUASES (CATA3) — análise financeira | Atlas Mercados
-description: COMPANHIA INDUSTRIAL CATAGUASES (CATA3) teve receita líquida de R$ 298,9 milhões e lucro líquido de R$ 15,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 5,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: COMPANHIA INDUSTRIAL CATAGUASES (CATA3) teve receita líquida de R$ 298,9 milhões e lucro líquido de R$ 15,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 30,0 milhões, margem EBITDA de 10,0% sobre a receita. Em 2025, distribuiu R$ 5,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/CATA3
 ---
 <!-- https://atlasmercados.com.br/empresa/CATA3 — versão Markdown da página -->
 
 CO
 
-COMPANHIA INDUSTRIAL CATAGUASES
+COMPANHIA INDUSTRIAL CATAGUASES sem pregão em 90 dias
 
 CATA3 · CD_CVM 3395 · Têxtil e Vestuário · MG · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CATA3?base=con) [Individual](https://atlasmercados.com.br/empresa/CATA3?base=ind)
 
-> COMPANHIA INDUSTRIAL CATAGUASES (CATA3) teve receita líquida de R$ 298,9 milhões e lucro líquido de R$ 15,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 5,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> COMPANHIA INDUSTRIAL CATAGUASES (CATA3) teve receita líquida de R$ 298,9 milhões e lucro líquido de R$ 15,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 30,0 milhões, margem EBITDA de 10,0% sobre a receita. Em 2025, distribuiu R$ 5,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 298,9 mi · 2025
 

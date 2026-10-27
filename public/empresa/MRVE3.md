@@ -1,6 +1,6 @@
 ---
 title: MRV ENGENHARIA E PARTICIPAÇÕES S/A (MRVE3) — análise financeira | Atlas Mercados
-description: MRV ENGENHARIA E PARTICIPAÇÕES S/A (MRVE3) teve receita líquida de R$ 10,9 bilhões e prejuízo líquido de R$ 1,0 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 452,8 milhões, margem EBITDA de 4,2% sobre a receita. O valor de mercado era de R$ 3,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,51 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: MRV ENGENHARIA E PARTICIPAÇÕES S/A (MRVE3) teve receita líquida de R$ 10,9 bilhões e prejuízo líquido de R$ 1,0 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 644,5 milhões, margem EBITDA de 5,9% sobre a receita. O valor de mercado era de R$ 4,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,75 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/MRVE3
 ---
 <!-- https://atlasmercados.com.br/empresa/MRVE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MR
 
 MRV ENGENHARIA E PARTICIPAÇÕES S/A
 
-MRVE3 · CD_CVM 20915 · Construção Civil, Mat. Constr. e Decoração · MG · DFP 16a · ITR 16a
+MRVE3 · CD_CVM 20915 · Construção Civil, Mat. Constr. e Decoração · MG · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MRVE3?base=con) [Individual](https://atlasmercados.com.br/empresa/MRVE3?base=ind)
 
-> MRV ENGENHARIA E PARTICIPAÇÕES S/A (MRVE3) teve receita líquida de R$ 10,9 bilhões e prejuízo líquido de R$ 1,0 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 452,8 milhões, margem EBITDA de 4,2% sobre a receita. O valor de mercado era de R$ 3,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,51 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> MRV ENGENHARIA E PARTICIPAÇÕES S/A (MRVE3) teve receita líquida de R$ 10,9 bilhões e prejuízo líquido de R$ 1,0 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 644,5 milhões, margem EBITDA de 5,9% sobre a receita. O valor de mercado era de R$ 4,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,75 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 10,9 bi · 2025
 
@@ -90,7 +90,7 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 P/L atual 6,3× mediana 8,3× faixa 4,3× – 16,0× abaixo da mediana
 
-P/VPA atual 0,5× mediana 0,7× faixa 0,3× – 1,7× abaixo da mediana
+P/VPA atual 0,9× mediana 0,7× faixa 0,3× – 1,7× acima da mediana
 
 Dividend Yield atual 8,0% mediana 6,1% faixa 1,6% – 13,0% acima da mediana
 

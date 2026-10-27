@@ -1,6 +1,6 @@
 ---
 title: IRANI PAPEL E EMBALAGEM S.A. (RANI3) — análise financeira | Atlas Mercados
-description: IRANI PAPEL E EMBALAGEM S.A. (RANI3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 242,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 652,6 milhões, margem EBITDA de 38,7% sobre a receita. O valor de mercado era de R$ 1,8 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,6 e P/VPA de 1,26 sobre o último exercício. Em 2025, distribuiu R$ 134,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: IRANI PAPEL E EMBALAGEM S.A. (RANI3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 242,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 652,6 milhões, margem EBITDA de 38,7% sobre a receita. O valor de mercado era de R$ 1,9 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,8 e P/VPA de 1,30 sobre o último exercício. Em 2025, distribuiu R$ 134,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 22 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/RANI3
 ---
 <!-- https://atlasmercados.com.br/empresa/RANI3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ IR
 
 IRANI PAPEL E EMBALAGEM S.A.
 
-RANI3, RANI4 · CD_CVM 2429 · Embalagens · RS · DFP 16a · ITR 16a
+RANI3, RANI4 · CD_CVM 2429 · Embalagens · RS · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/RANI3?base=con) [Individual](https://atlasmercados.com.br/empresa/RANI3?base=ind)
 
-> IRANI PAPEL E EMBALAGEM S.A. (RANI3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 242,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 652,6 milhões, margem EBITDA de 38,7% sobre a receita. O valor de mercado era de R$ 1,8 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,6 e P/VPA de 1,26 sobre o último exercício. Em 2025, distribuiu R$ 134,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> IRANI PAPEL E EMBALAGEM S.A. (RANI3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 242,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 652,6 milhões, margem EBITDA de 38,7% sobre a receita. O valor de mercado era de R$ 1,9 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,8 e P/VPA de 1,30 sobre o último exercício. Em 2025, distribuiu R$ 134,6 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 22 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 1,7 bi · 2025
 
@@ -36,6 +36,26 @@ RANI3, RANI4 · CD_CVM 2429 · Embalagens · RS · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 22 MW · 3 usinas ≥ 1 MW
+
+- Capacidade proporcional · 22 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Irani | Biomassa | SC | 10 MW | 100,0% | 10 |
+| TG 04 | Biomassa | SC | 8 MW | 100,0% | 8 |
+| Celulose Irani | Biomassa | SC | 5 MW | 100,0% | 5 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -86,11 +106,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,8× mediana 5,9× faixa 4,7× – 26,5× acima da mediana
+P/L atual 14,6× mediana 5,9× faixa 4,7× – 26,5× acima da mediana
 
-P/VPA atual 1,2× mediana 1,8× faixa 1,2× – 3,7× abaixo da mediana
+P/VPA atual 1,3× mediana 1,8× faixa 1,2× – 3,7× abaixo da mediana
 
-Dividend Yield atual 7,5% mediana 6,7% faixa 0,3% – 11,7% acima da mediana
+Dividend Yield atual 7,1% mediana 6,7% faixa 0,3% – 11,7% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

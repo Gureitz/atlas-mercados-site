@@ -1,19 +1,19 @@
 ---
 title: INC EMPREENDIMENTOS IMOBILIÁRIOS S.A. (INNC3) — análise financeira | Atlas Mercados
-description: INC EMPREENDIMENTOS IMOBILIÁRIOS S.A. (INNC3) teve receita líquida de R$ 560,6 milhões e lucro líquido de R$ 75,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 48,0 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
+description: INC EMPREENDIMENTOS IMOBILIÁRIOS S.A. (INNC3) teve receita líquida de R$ 560,6 milhões e lucro líquido de R$ 75,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 79,8 milhões, margem EBITDA de 14,2% sobre a receita. Em 2025, distribuiu R$ 48,0 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/INNC3
 ---
 <!-- https://atlasmercados.com.br/empresa/INNC3 — versão Markdown da página -->
 
 IN
 
-INC EMPREENDIMENTOS IMOBILIÁRIOS S.A.
+INC EMPREENDIMENTOS IMOBILIÁRIOS S.A. sem pregão em 90 dias
 
 INNC3, INNT3 · CD_CVM 24279 · Construção Civil, Mat. Constr. e Decoração · MG · DFP 10a · ITR 10a
 
 [Consolidado](https://atlasmercados.com.br/empresa/INNC3?base=con) [Individual](https://atlasmercados.com.br/empresa/INNC3?base=ind)
 
-> INC EMPREENDIMENTOS IMOBILIÁRIOS S.A. (INNC3) teve receita líquida de R$ 560,6 milhões e lucro líquido de R$ 75,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 48,0 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025.
+> INC EMPREENDIMENTOS IMOBILIÁRIOS S.A. (INNC3) teve receita líquida de R$ 560,6 milhões e lucro líquido de R$ 75,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 79,8 milhões, margem EBITDA de 14,2% sobre a receita. Em 2025, distribuiu R$ 48,0 milhões em dividendos (DMPL). A série anual disponível vai de 2018 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 560,6 mi · 2025
 

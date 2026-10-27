@@ -15,4 +15,4 @@ Realizado até 3T2024 · projeção de 40 trimestres (10 anos), de 4T2024 a 3T20
 
 [← Estrutura](https://atlasmercados.com.br/valuation/ENAT3)
 
-## Projeção trimestral — 13 premissas · 2 linhas derivadas · realizado em cinza, projetado em azul
+## Projeção trimestral — 14 premissas · 2 linhas derivadas · realizado em cinza, projetado em azul

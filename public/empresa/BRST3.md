@@ -1,6 +1,6 @@
 ---
 title: BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A. (BRST3) — análise financeira | Atlas Mercados
-description: BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A. (BRST3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 40,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,3 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 31,6 e P/VPA de 0,83 sobre o último exercício. Em 2025, distribuiu R$ 8,2 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2023 a 2025.
+description: BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A. (BRST3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 40,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,5 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 37,3 e P/VPA de 0,98 sobre o último exercício. Em 2025, distribuiu R$ 8,2 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2023 a 2025.
 url: https://atlasmercados.com.br/empresa/BRST3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRST3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BR
 
 BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.
 
-BRST3 · CD_CVM 27693 · Telecomunicações · CE · DFP 3a · ITR 3a
+BRST3 · CD_CVM 27693 · Telecomunicações · CE · DFP 3a · ITR 3a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRST3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRST3?base=ind)
 
-> BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A. (BRST3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 40,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,3 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 31,6 e P/VPA de 0,83 sobre o último exercício. Em 2025, distribuiu R$ 8,2 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2023 a 2025.
+> BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A. (BRST3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 40,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 1,5 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 37,3 e P/VPA de 0,98 sobre o último exercício. Em 2025, distribuiu R$ 8,2 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2023 a 2025.
 
 - Receita líq. · R$ 1,7 bi · 2025
 
@@ -85,11 +85,11 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 31,6× mediana 24,0× faixa 19,1× – 32,0× acima da mediana
+P/L atual 25,7× mediana 25,7× faixa 19,1× – 32,0× acima da mediana
 
-P/VPA atual 0,8× mediana 0,8× faixa 0,7× – 1,0× abaixo da mediana
+P/VPA atual 1,0× mediana 0,8× faixa 0,7× – 1,0× acima da mediana
 
-Dividend Yield atual 0,7% mediana 5,2% faixa 0,6% – 6,8% abaixo da mediana
+Dividend Yield atual 0,5% mediana 5,1% faixa 0,5% – 6,8% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

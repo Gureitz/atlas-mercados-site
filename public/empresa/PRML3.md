@@ -1,19 +1,19 @@
 ---
 title: PRUMO LOGÍSTICA S.A. (PRML3) — análise financeira | Atlas Mercados
-description: PRUMO LOGÍSTICA S.A. (PRML3) teve receita líquida de R$ 232,7 milhões e prejuízo líquido de R$ 989,1 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 177,4 milhões, margem EBITDA de -76,2% sobre a receita. A série anual disponível vai de 2010 a 2017.
+description: PRUMO LOGÍSTICA S.A. (PRML3) teve receita líquida de R$ 232,7 milhões e prejuízo líquido de R$ 989,1 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 148,9 milhões, margem EBITDA de -64,0% sobre a receita. A série anual disponível vai de 2010 a 2017. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/PRML3
 ---
 <!-- https://atlasmercados.com.br/empresa/PRML3 — versão Markdown da página -->
 
 PR
 
-PRUMO LOGÍSTICA S.A.
+PRUMO LOGÍSTICA S.A. registro cancelada na CVM sem pregão em 90 dias
 
 PRML3 · CD_CVM 21482 · Serviços Transporte e Logística · RJ · DFP 8a · ITR 7a
 
 [Consolidado](https://atlasmercados.com.br/empresa/PRML3?base=con) [Individual](https://atlasmercados.com.br/empresa/PRML3?base=ind)
 
-> PRUMO LOGÍSTICA S.A. (PRML3) teve receita líquida de R$ 232,7 milhões e prejuízo líquido de R$ 989,1 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 177,4 milhões, margem EBITDA de -76,2% sobre a receita. A série anual disponível vai de 2010 a 2017.
+> PRUMO LOGÍSTICA S.A. (PRML3) teve receita líquida de R$ 232,7 milhões e prejuízo líquido de R$ 989,1 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 148,9 milhões, margem EBITDA de -64,0% sobre a receita. A série anual disponível vai de 2010 a 2017. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 232,7 mi · 2017
 

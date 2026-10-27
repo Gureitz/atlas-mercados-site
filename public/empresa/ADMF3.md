@@ -1,19 +1,19 @@
 ---
 title: B100 S.A. (ADMF3) — análise financeira | Atlas Mercados
-description: B100 S.A. (ADMF3) teve receitas da intermediação financeira de R$ 0 e prejuízo líquido de R$ 465,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 589,2 milhões em 01/04/2026 (cotação da B3 × ações informadas à CVM).
+description: B100 S.A. (ADMF3) teve receitas da intermediação financeira de R$ 0 e prejuízo líquido de R$ 465,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 589,2 milhões em 01/04/2026 (cotação da B3 × ações informadas à CVM). Não teve negociação na B3 nos últimos 90 dias (último pregão em 01/04/2026, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/ADMF3
 ---
 <!-- https://atlasmercados.com.br/empresa/ADMF3 — versão Markdown da página -->
 
 B1
 
-B100 S.A.
+B100 S.A. sem pregão em 90 dias
 
-ADMF3 · CD_CVM 27634 · Intermediação Financeira · SP · DFP 3a · ITR 3a
+ADMF3 · CD_CVM 27634 · Intermediação Financeira · SP · DFP 3a · ITR 3a · último pregão 01/04/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ADMF3?base=con) [Individual](https://atlasmercados.com.br/empresa/ADMF3?base=ind)
 
-> B100 S.A. (ADMF3) teve receitas da intermediação financeira de R$ 0 e prejuízo líquido de R$ 465,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 589,2 milhões em 01/04/2026 (cotação da B3 × ações informadas à CVM).
+> B100 S.A. (ADMF3) teve receitas da intermediação financeira de R$ 0 e prejuízo líquido de R$ 465,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 589,2 milhões em 01/04/2026 (cotação da B3 × ações informadas à CVM). Não teve negociação na B3 nos últimos 90 dias (último pregão em 01/04/2026, segundo o COTAHIST).
 
 - Receita líq. · R$ 0 · 2025
 

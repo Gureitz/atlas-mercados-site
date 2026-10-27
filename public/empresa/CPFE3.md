@@ -1,6 +1,6 @@
 ---
 title: CPFL ENERGIA SA (CPFE3) — análise financeira | Atlas Mercados
-description: CPFL ENERGIA SA (CPFE3) teve receita líquida de R$ 44,4 bilhões e lucro líquido de R$ 5,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,5 bilhões, margem EBITDA de 30,3% sobre a receita. O valor de mercado era de R$ 55,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,6 e P/VPA de 2,36 sobre o último exercício. Em 2025, distribuiu R$ 3,2 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: CPFL ENERGIA SA (CPFE3) teve receita líquida de R$ 44,4 bilhões e lucro líquido de R$ 5,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,5 bilhões, margem EBITDA de 30,3% sobre a receita. O valor de mercado era de R$ 57,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,0 e P/VPA de 2,44 sobre o último exercício. Em 2025, distribuiu R$ 3,2 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 4,2 GW de potência fiscalizada (SIGA, 01/10/2026) e as 4 distribuidoras controladas atendiam 10,7 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/CPFE3
 ---
 <!-- https://atlasmercados.com.br/empresa/CPFE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CP
 
 CPFL ENERGIA SA
 
-CPFE3 · CD_CVM 18660 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 16a · ITR 16a
+CPFE3 · CD_CVM 18660 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CPFE3?base=con) [Individual](https://atlasmercados.com.br/empresa/CPFE3?base=ind)
 
-> CPFL ENERGIA SA (CPFE3) teve receita líquida de R$ 44,4 bilhões e lucro líquido de R$ 5,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,5 bilhões, margem EBITDA de 30,3% sobre a receita. O valor de mercado era de R$ 55,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,6 e P/VPA de 2,36 sobre o último exercício. Em 2025, distribuiu R$ 3,2 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> CPFL ENERGIA SA (CPFE3) teve receita líquida de R$ 44,4 bilhões e lucro líquido de R$ 5,7 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,5 bilhões, margem EBITDA de 30,3% sobre a receita. O valor de mercado era de R$ 57,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,0 e P/VPA de 2,44 sobre o último exercício. Em 2025, distribuiu R$ 3,2 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 4,2 GW de potência fiscalizada (SIGA, 01/10/2026) e as 4 distribuidoras controladas atendiam 10,7 milhões de consumidores em 08/2026 (SAMP) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 44,4 bi · 2025
 
@@ -36,6 +36,47 @@ CPFE3 · CD_CVM 18660 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 16a ·
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 4.174 MW · 93 usinas ≥ 1 MW
+
+- Capacidade proporcional · 3.295 MW · inclui coligadas
+
+- Garantia física · 1.864 MWm · controladas
+
+- Consumidores · 10.748.709 · distribuidoras controladas
+
+- Energia faturada 12m · 68.386 GWh · TUSD · controladas
+
+| Distribuidora | Participação efetiva | Consumidores | Energia 12m | Mês |
+|---|---|---|---|---|
+| CPFL-PAULISTA COMPANHIA PAULISTA DE FORCA E LUZ | 100,0% | 5.069.613 | 32.286 GWh | 08/2026 |
+| RGE SUL RGE SUL DISTRIBUIDORA DE ENERGIA S.A. | 100,0% | 3.146.054 | 17.500 GWh | 08/2026 |
+| CPFL-PIRATINING COMPANHIA PIRATININGA DE FORCA E LUZ | 100,0% | 2.012.126 | 15.434 GWh | 08/2026 |
+| CPFL JAGUARI COMPANHIA JAGUARI DE ENERGIA | 100,0% | 520.916 | 3.166 GWh | 08/2026 |
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Campos Novos | Hídrica | SC | 880 MW | 52,1% | 459 |
+| Foz do Chapecó | Hídrica | RS | 855 MW | 51,0% | 436 |
+| Barra Grande coligada | Hídrica | RS | 690 MW | 25,0% | 173 |
+| Praia Formosa | Eólica | CE | 105 MW | 100,0% | 105 |
+| Castro Alves | Hídrica | RS | 130 MW | 65,0% | 84 |
+| Monte Claro | Hídrica | RS | 130 MW | 65,0% | 84 |
+| 14 de Julho | Hídrica | RS | 100 MW | 65,0% | 65 |
+| Canoa Quebrada | Eólica | CE | 57 MW | 100,0% | 57 |
+| Icaraizinho | Eólica | CE | 55 MW | 100,0% | 55 |
+| Bio Coopcana | Biomassa | PR | 50 MW | 100,0% | 50 |
+| Bons Ventos | Eólica | CE | 50 MW | 100,0% | 50 |
+| Baldin | Biomassa | SP | 45 MW | 95,6% | 43 |
+| Ester | Biomassa | SP | 40 MW | 88,6% | 35 |
+| Enacel | Eólica | CE | 32 MW | 100,0% | 32 |
+| Bio Alvorada | Biomassa | MG | 50 MW | 62,1% | 31 |
+
+15 de 94 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -95,11 +136,11 @@ DRE · DFP · consolidado · 2025 · 41 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,4× mediana 7,9× faixa 6,6× – 13,5× acima da mediana
+P/L atual 9,1× mediana 7,9× faixa 6,6× – 13,5× acima da mediana
 
-P/VPA atual 2,0× mediana 2,1× faixa 1,7× – 2,9× abaixo da mediana
+P/VPA atual 2,4× mediana 2,2× faixa 1,7× – 2,9× acima da mediana
 
-Dividend Yield atual 6,4% mediana 7,1% faixa 1,6% – 14,2% abaixo da mediana
+Dividend Yield atual 5,6% mediana 7,0% faixa 1,6% – 14,2% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

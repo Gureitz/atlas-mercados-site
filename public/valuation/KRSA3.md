@@ -11,7 +11,7 @@ KR
 
 KORA SAÚDE PARTICIPAÇÕES S.A. Serviços Médicos B3 · CVM
 
-KRSA3 · 15 linhas × 23 períodos · BRL · CVM
+KRSA3 · 16 linhas × 23 períodos · BRL · CVM
 
 [Projetar →](https://atlasmercados.com.br/projecao/KRSA3) [Trimestral](https://atlasmercados.com.br/valuation/KRSA3?p=tri) [Anual](https://atlasmercados.com.br/valuation/KRSA3?p=anual) [Tudo](https://atlasmercados.com.br/valuation/KRSA3?p=tudo)
 
@@ -31,6 +31,7 @@ Atenção: Em operadora de saúde a sinistralidade é a variável central; em pr
 | Custo dos produtos/serviços vendidosBRL | — | -R$ 152,7 mi | -R$ 214,4 mi | -R$ 237,3 mi | -R$ 334,8 mi | -R$ 350,3 mi | -R$ 375,1 mi | -R$ 391,5 mi | -R$ 441,9 mi | -R$ 429,0 mi | -R$ 438,3 mi | -R$ 467,8 mi | -R$ 450,3 mi | -R$ 442,9 mi | -R$ 466,7 mi | -R$ 461,3 mi | -R$ 443,1 mi | -R$ 458,8 mi | -R$ 481,7 mi | -R$ 497,4 mi | -R$ 494,9 mi | -R$ 518,8 mi | -R$ 538,5 mi |
 | Lucro brutoBRL | — | R$ 63,9 mi | R$ 92,3 mi | R$ 87,2 mi | R$ 79,3 mi | R$ 128,4 mi | R$ 143,7 mi | R$ 119,7 mi | R$ 96,1 mi | R$ 124,0 mi | R$ 126,7 mi | R$ 109,1 mi | R$ 114,4 mi | R$ 122,3 mi | R$ 115,8 mi | R$ 102,8 mi | R$ 113,4 mi | R$ 101,3 mi | R$ 120,0 mi | R$ 127,1 mi | R$ 102,9 mi | R$ 96,9 mi | R$ 98,1 mi |
 | Despesas operacionaisBRL | — | -R$ 23,7 mi | -R$ 32,3 mi | -R$ 40,9 mi | -R$ 92,9 mi | -R$ 55,7 mi | -R$ 55,4 mi | -R$ 68,0 mi | -R$ 38,4 mi | -R$ 70,3 mi | -R$ 49,4 mi | -R$ 36,0 mi | -R$ 29,7 mi | -R$ 44,4 mi | -R$ 44,9 mi | -R$ 42,3 mi | -R$ 56,1 mi | -R$ 39,9 mi | -R$ 34,3 mi | -R$ 39,8 mi | -R$ 115,6 mi | -R$ 62,1 mi | -R$ 49,0 mi |
+| Depreciação e amortizaçãoBRL | R$ 28,0 mi | R$ 8,3 mi | R$ 16,5 mi | — | R$ 48,4 mi | R$ 23,0 mi | R$ 13,0 mi | R$ 41,5 mi | R$ 46,6 mi | R$ 38,1 mi | R$ 37,5 mi | R$ 43,9 mi | R$ 48,1 mi | R$ 36,8 mi | R$ 37,1 mi | R$ 38,5 mi | R$ 58,3 mi | R$ 40,5 mi | R$ 40,3 mi | R$ 41,5 mi | R$ 40,2 mi | R$ 51,0 mi | R$ 49,4 mi |
 | EBITBRL | — | R$ 40,2 mi | R$ 60,0 mi | R$ 46,3 mi | -R$ 13,7 mi | R$ 72,7 mi | R$ 88,3 mi | R$ 51,8 mi | R$ 57,7 mi | R$ 53,8 mi | R$ 77,4 mi | R$ 73,1 mi | R$ 84,6 mi | R$ 77,9 mi | R$ 70,9 mi | R$ 60,5 mi | R$ 57,2 mi | R$ 61,4 mi | R$ 85,7 mi | R$ 87,3 mi | -R$ 12,7 mi | R$ 34,8 mi | R$ 49,1 mi |
 | Resultado financeiro líquidoBRL | — | -R$ 15,0 mi | -R$ 27,4 mi | -R$ 42,7 mi | -R$ 45,0 mi | -R$ 53,4 mi | -R$ 76,9 mi | -R$ 105,1 mi | -R$ 124,8 mi | -R$ 99,1 mi | -R$ 109,1 mi | -R$ 101,4 mi | -R$ 113,4 mi | -R$ 96,4 mi | -R$ 96,3 mi | -R$ 92,1 mi | -R$ 155,6 mi | -R$ 153,4 mi | -R$ 136,5 mi | -R$ 172,1 mi | -R$ 184,4 mi | -R$ 165,8 mi | -R$ 177,5 mi |
 | Resultado antes dos impostos (LAIR)BRL | — | R$ 25,2 mi | R$ 32,6 mi | R$ 3,6 mi | -R$ 58,6 mi | R$ 19,4 mi | R$ 11,4 mi | -R$ 53,4 mi | -R$ 67,1 mi | -R$ 45,3 mi | -R$ 31,7 mi | -R$ 28,2 mi | -R$ 28,8 mi | -R$ 18,5 mi | -R$ 25,4 mi | -R$ 31,6 mi | -R$ 98,4 mi | -R$ 92,0 mi | -R$ 50,8 mi | -R$ 84,8 mi | -R$ 197,1 mi | -R$ 130,9 mi | -R$ 128,4 mi |

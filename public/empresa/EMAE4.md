@@ -1,6 +1,6 @@
 ---
 title: EMAE - EMPRESA METROP.AGUAS ENERGIA S.A. (EMAE4) — análise financeira | Atlas Mercados
-description: EMAE - EMPRESA METROP.AGUAS ENERGIA S.A. (EMAE4) teve receita líquida de R$ 476,9 milhões e prejuízo líquido de R$ 133,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 327,1 milhões, margem EBITDA de -68,6% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,28 sobre o último exercício. Em 2024, distribuiu R$ 29,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: EMAE - EMPRESA METROP.AGUAS ENERGIA S.A. (EMAE4) teve receita líquida de R$ 476,9 milhões e prejuízo líquido de R$ 133,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 327,1 milhões, margem EBITDA de -68,6% sobre a receita. O valor de mercado era de R$ 1,6 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,62 sobre o último exercício. Em 2024, distribuiu R$ 29,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 961 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/EMAE4
 ---
 <!-- https://atlasmercados.com.br/empresa/EMAE4 — versão Markdown da página -->
@@ -9,11 +9,11 @@ EM
 
 EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.
 
-EMAE4, EMAE3 · CD_CVM 16993 · Energia Elétrica · SP · DFP 16a · ITR 16a
+EMAE4, EMAE3 · CD_CVM 16993 · Energia Elétrica · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/EMAE4?base=con) [Individual](https://atlasmercados.com.br/empresa/EMAE4?base=ind)
 
-> EMAE - EMPRESA METROP.AGUAS ENERGIA S.A. (EMAE4) teve receita líquida de R$ 476,9 milhões e prejuízo líquido de R$ 133,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 327,1 milhões, margem EBITDA de -68,6% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,28 sobre o último exercício. Em 2024, distribuiu R$ 29,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> EMAE - EMPRESA METROP.AGUAS ENERGIA S.A. (EMAE4) teve receita líquida de R$ 476,9 milhões e prejuízo líquido de R$ 133,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 327,1 milhões, margem EBITDA de -68,6% sobre a receita. O valor de mercado era de R$ 1,6 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,62 sobre o último exercício. Em 2024, distribuiu R$ 29,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 961 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 476,9 mi · 2025
 
@@ -36,6 +36,27 @@ EMAE4, EMAE3 · CD_CVM 16993 · Energia Elétrica · SP · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 961 MW · 4 usinas ≥ 1 MW
+
+- Capacidade proporcional · 961 MW · inclui coligadas
+
+- Garantia física · 156 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Henry Borden | Hídrica | SP | 889 MW | 100,0% | 889 |
+| Pirapora | Hídrica | SP | 25 MW | 100,0% | 25 |
+| Porto Góes | Hídrica | SP | 25 MW | 100,0% | 25 |
+| Rasgão | Hídrica | SP | 22 MW | 100,0% | 22 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -95,9 +116,9 @@ DRE · DFP · consolidado · 2025 · 39 linhas · R$
 
 P/L atual 4,8× mediana 14,4× faixa 4,8× – 43,1× abaixo da mediana
 
-P/VPA atual 2,1× mediana 1,8× faixa 0,9× – 4,6× acima da mediana
+P/VPA atual 2,3× mediana 1,8× faixa 0,9× – 4,6× acima da mediana
 
-Dividend Yield atual 2,3% mediana 2,0% faixa 0,8% – 7,9% acima da mediana
+Dividend Yield atual 1,9% mediana 2,0% faixa 0,8% – 7,9% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

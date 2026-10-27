@@ -1,6 +1,6 @@
 ---
 title: BIOMA EDUCAÇÃO S.A. (BIED3) — análise financeira | Atlas Mercados
-description: BIOMA EDUCAÇÃO S.A. (BIED3) teve receita líquida de R$ 332,7 milhões e prejuízo líquido de R$ 61,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 12,6 milhões, margem EBITDA de -3,8% sobre a receita. O valor de mercado era de R$ 148,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,69 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: BIOMA EDUCAÇÃO S.A. (BIED3) teve receita líquida de R$ 332,7 milhões e prejuízo líquido de R$ 61,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 12,5 milhões, margem EBITDA de 3,8% sobre a receita. O valor de mercado era de R$ 146,5 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,65 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/BIED3
 ---
 <!-- https://atlasmercados.com.br/empresa/BIED3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BI
 
 BIOMA EDUCAÇÃO S.A.
 
-BIED3, BAHI3 · CD_CVM 701 · Emp. Adm. Part. - Educação · SP · DFP 16a · ITR 16a
+BIED3, BAHI3 · CD_CVM 701 · Emp. Adm. Part. - Educação · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BIED3?base=con) [Individual](https://atlasmercados.com.br/empresa/BIED3?base=ind)
 
-> BIOMA EDUCAÇÃO S.A. (BIED3) teve receita líquida de R$ 332,7 milhões e prejuízo líquido de R$ 61,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 12,6 milhões, margem EBITDA de -3,8% sobre a receita. O valor de mercado era de R$ 148,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,69 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> BIOMA EDUCAÇÃO S.A. (BIED3) teve receita líquida de R$ 332,7 milhões e prejuízo líquido de R$ 61,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 12,5 milhões, margem EBITDA de 3,8% sobre a receita. O valor de mercado era de R$ 146,5 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,65 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 332,7 mi · 2025
 
@@ -88,7 +88,7 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/VPA atual 3,1× mediana 1,7× faixa 0,2× – 4,6× acima da mediana
+P/VPA atual 4,5× mediana 1,7× faixa 0,2× – 4,6× acima da mediana
 
 Dividend Yield atual 0,8% mediana 0,7% faixa 0,5% – 0,9% acima da mediana
 

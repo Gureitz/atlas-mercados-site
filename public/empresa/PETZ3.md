@@ -1,19 +1,19 @@
 ---
 title: PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A. (PETZ3) — análise financeira | Atlas Mercados
-description: PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A. (PETZ3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 40,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 347,4 milhões, margem EBITDA de 9,7% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 02/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 49,5 e P/VPA de 1,16 sobre o último exercício. Em 2024, distribuiu R$ 130,0 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+description: PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A. (PETZ3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 40,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 521,7 milhões, margem EBITDA de 14,5% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 02/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 49,5 e P/VPA de 1,16 sobre o último exercício. Em 2024, distribuiu R$ 130,0 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 02/01/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/PETZ3
 ---
 <!-- https://atlasmercados.com.br/empresa/PETZ3 — versão Markdown da página -->
 
 PE
 
-PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A.
+PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A. registro cancelada na CVM sem pregão em 90 dias
 
-PETZ3 · CD_CVM 25089 · Comércio (Atacado e Varejo) · SP · DFP 7a · ITR 7a
+PETZ3 · CD_CVM 25089 · Comércio (Atacado e Varejo) · SP · DFP 7a · ITR 7a · último pregão 02/01/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PETZ3?base=con) [Individual](https://atlasmercados.com.br/empresa/PETZ3?base=ind)
 
-> PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A. (PETZ3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 40,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 347,4 milhões, margem EBITDA de 9,7% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 02/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 49,5 e P/VPA de 1,16 sobre o último exercício. Em 2024, distribuiu R$ 130,0 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+> PET CENTER COMÉRCIO E PARTICIPAÇÕES S.A. (PETZ3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 40,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 521,7 milhões, margem EBITDA de 14,5% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 02/01/2026 (cotação da B3 × ações informadas à CVM), com P/L de 49,5 e P/VPA de 1,16 sobre o último exercício. Em 2024, distribuiu R$ 130,0 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 02/01/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 3,6 bi · 2025
 

@@ -1,19 +1,19 @@
 ---
 title: AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (AGXY3) — análise financeira | Atlas Mercados
-description: AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (AGXY3) teve receita líquida de R$ 4,6 bilhões e prejuízo líquido de R$ 3,0 bilhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,8 bilhão, margem EBITDA de -39,3% sobre a receita. A série anual disponível vai de 2019 a 2024.
+description: AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (AGXY3) teve receita líquida de R$ 4,6 bilhões e prejuízo líquido de R$ 3,0 bilhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,8 bilhão, margem EBITDA de -39,3% sobre a receita. A série anual disponível vai de 2019 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/AGXY3
 ---
 <!-- https://atlasmercados.com.br/empresa/AGXY3 — versão Markdown da página -->
 
 AG
 
-AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL
+AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
 AGXY3 · CD_CVM 25658 · Comércio (Atacado e Varejo) · GO · DFP 6a · ITR 6a
 
 [Consolidado](https://atlasmercados.com.br/empresa/AGXY3?base=con) [Individual](https://atlasmercados.com.br/empresa/AGXY3?base=ind)
 
-> AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (AGXY3) teve receita líquida de R$ 4,6 bilhões e prejuízo líquido de R$ 3,0 bilhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,8 bilhão, margem EBITDA de -39,3% sobre a receita. A série anual disponível vai de 2019 a 2024.
+> AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL (AGXY3) teve receita líquida de R$ 4,6 bilhões e prejuízo líquido de R$ 3,0 bilhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,8 bilhão, margem EBITDA de -39,3% sobre a receita. A série anual disponível vai de 2019 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 4,6 bi · 2024
 

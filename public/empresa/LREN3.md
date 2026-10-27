@@ -1,6 +1,6 @@
 ---
 title: LOJAS RENNER SA (LREN3) — análise financeira | Atlas Mercados
-description: LOJAS RENNER SA (LREN3) teve receita líquida de R$ 15,8 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,1 bilhões, margem EBITDA de 19,5% sobre a receita. O valor de mercado era de R$ 11,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 1,13 sobre o último exercício. Em 2025, distribuiu R$ 834,3 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: LOJAS RENNER SA (LREN3) teve receita líquida de R$ 15,8 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,1 bilhões, margem EBITDA de 19,5% sobre a receita. O valor de mercado era de R$ 14,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,1 e P/VPA de 1,40 sobre o último exercício. Em 2025, distribuiu R$ 834,3 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/LREN3
 ---
 <!-- https://atlasmercados.com.br/empresa/LREN3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ LO
 
 LOJAS RENNER SA
 
-LREN3, LRNE15 · CD_CVM 8133 · Comércio (Atacado e Varejo) · RS · DFP 16a · ITR 16a
+LREN3, LRNE15 · CD_CVM 8133 · Comércio (Atacado e Varejo) · RS · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/LREN3?base=con) [Individual](https://atlasmercados.com.br/empresa/LREN3?base=ind)
 
-> LOJAS RENNER SA (LREN3) teve receita líquida de R$ 15,8 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,1 bilhões, margem EBITDA de 19,5% sobre a receita. O valor de mercado era de R$ 11,8 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 1,13 sobre o último exercício. Em 2025, distribuiu R$ 834,3 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> LOJAS RENNER SA (LREN3) teve receita líquida de R$ 15,8 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,1 bilhões, margem EBITDA de 19,5% sobre a receita. O valor de mercado era de R$ 14,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,1 e P/VPA de 1,40 sobre o último exercício. Em 2025, distribuiu R$ 834,3 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 15,8 bi · 2025
 
@@ -88,11 +88,11 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,2× mediana 16,4× faixa 7,0× – 308,0× abaixo da mediana
+P/L atual 9,4× mediana 16,3× faixa 7,0× – 308,0× abaixo da mediana
 
-P/VPA atual 1,0× mediana 1,8× faixa 1,0× – 7,3× abaixo da mediana
+P/VPA atual 1,4× mediana 1,8× faixa 1,0× – 7,3× abaixo da mediana
 
-Dividend Yield atual 7,8% mediana 3,5% faixa 0,7% – 8,0% acima da mediana
+Dividend Yield atual 6,0% mediana 3,5% faixa 0,7% – 8,0% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,19 +1,19 @@
 ---
 title: CORRÊA RIBEIRO S/A COMÉRCIO E INDÚSTRIA (CORR3) — análise financeira | Atlas Mercados
-description: CORRÊA RIBEIRO S/A COMÉRCIO E INDÚSTRIA (CORR3) teve receita líquida de R$ 2,3 milhões e lucro líquido de R$ 9,2 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 1,7 milhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2022.
+description: CORRÊA RIBEIRO S/A COMÉRCIO E INDÚSTRIA (CORR3) teve receita líquida de R$ 2,3 milhões e lucro líquido de R$ 9,2 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 1,7 milhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/CORR3
 ---
 <!-- https://atlasmercados.com.br/empresa/CORR3 — versão Markdown da página -->
 
 CO
 
-CORRÊA RIBEIRO S/A COMÉRCIO E INDÚSTRIA
+CORRÊA RIBEIRO S/A COMÉRCIO E INDÚSTRIA registro cancelada na CVM sem pregão em 90 dias
 
 CORR3, CORR4 · CD_CVM 4863 · Construção Civil, Mat. Constr. e Decoração · BA · DFP 13a · ITR 13a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CORR3?base=con) [Individual](https://atlasmercados.com.br/empresa/CORR3?base=ind)
 
-> CORRÊA RIBEIRO S/A COMÉRCIO E INDÚSTRIA (CORR3) teve receita líquida de R$ 2,3 milhões e lucro líquido de R$ 9,2 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 1,7 milhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2022.
+> CORRÊA RIBEIRO S/A COMÉRCIO E INDÚSTRIA (CORR3) teve receita líquida de R$ 2,3 milhões e lucro líquido de R$ 9,2 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 1,7 milhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 2,3 mi · 2022
 

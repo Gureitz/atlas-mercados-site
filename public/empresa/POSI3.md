@@ -1,6 +1,6 @@
 ---
 title: POSITIVO TECNOLOGIA S.A. (POSI3) — análise financeira | Atlas Mercados
-description: POSITIVO TECNOLOGIA S.A. (POSI3) teve receita líquida de R$ 3,4 bilhões e lucro líquido de R$ 12,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 312,6 milhões, margem EBITDA de 9,3% sobre a receita. O valor de mercado era de R$ 531,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 43,5 e P/VPA de 0,34 sobre o último exercício. Em 2025, distribuiu R$ 25,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: POSITIVO TECNOLOGIA S.A. (POSI3) teve receita líquida de R$ 3,4 bilhões e lucro líquido de R$ 12,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 312,6 milhões, margem EBITDA de 9,3% sobre a receita. O valor de mercado era de R$ 720,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 58,9 e P/VPA de 0,46 sobre o último exercício. Em 2025, distribuiu R$ 25,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/POSI3
 ---
 <!-- https://atlasmercados.com.br/empresa/POSI3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ PO
 
 POSITIVO TECNOLOGIA S.A.
 
-POSI3 · CD_CVM 20362 · Comunicação e Informática · PR · DFP 16a · ITR 16a
+POSI3 · CD_CVM 20362 · Comunicação e Informática · PR · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/POSI3?base=con) [Individual](https://atlasmercados.com.br/empresa/POSI3?base=ind)
 
-> POSITIVO TECNOLOGIA S.A. (POSI3) teve receita líquida de R$ 3,4 bilhões e lucro líquido de R$ 12,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 312,6 milhões, margem EBITDA de 9,3% sobre a receita. O valor de mercado era de R$ 531,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 43,5 e P/VPA de 0,34 sobre o último exercício. Em 2025, distribuiu R$ 25,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> POSITIVO TECNOLOGIA S.A. (POSI3) teve receita líquida de R$ 3,4 bilhões e lucro líquido de R$ 12,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 312,6 milhões, margem EBITDA de 9,3% sobre a receita. O valor de mercado era de R$ 720,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 58,9 e P/VPA de 0,46 sobre o último exercício. Em 2025, distribuiu R$ 25,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 3,4 bi · 2025
 
@@ -88,11 +88,11 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 39,7× mediana 7,2× faixa 2,5× – 129,3× acima da mediana
+P/L atual 54,7× mediana 7,2× faixa 2,5× – 129,3× acima da mediana
 
-P/VPA atual 0,3× mediana 0,7× faixa 0,3× – 1,9× abaixo da mediana
+P/VPA atual 0,5× mediana 0,7× faixa 0,3× – 1,9× abaixo da mediana
 
-Dividend Yield atual 5,0% mediana 4,8% faixa 0,5% – 8,4% acima da mediana
+Dividend Yield atual 3,6% mediana 4,6% faixa 0,5% – 8,4% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

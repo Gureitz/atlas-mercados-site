@@ -1,6 +1,6 @@
 ---
 title: BEMOBI MOBILE TECH S.A. (BMOB3) — análise financeira | Atlas Mercados
-description: BEMOBI MOBILE TECH S.A. (BMOB3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 161,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 210,1 milhões, margem EBITDA de 12,4% sobre a receita. O valor de mercado era de R$ 2,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,6 e P/VPA de 2,42 sobre o último exercício. Em 2025, distribuiu R$ 222,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2025.
+description: BEMOBI MOBILE TECH S.A. (BMOB3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 161,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 213,1 milhões, margem EBITDA de 12,6% sobre a receita. O valor de mercado era de R$ 2,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 17,5 e P/VPA de 2,90 sobre o último exercício. Em 2025, distribuiu R$ 222,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2025.
 url: https://atlasmercados.com.br/empresa/BMOB3
 ---
 <!-- https://atlasmercados.com.br/empresa/BMOB3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BE
 
 BEMOBI MOBILE TECH S.A.
 
-BMOB3 · CD_CVM 25500 · Comunicação e Informática · RJ · DFP 7a · ITR 7a
+BMOB3 · CD_CVM 25500 · Comunicação e Informática · RJ · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BMOB3?base=con) [Individual](https://atlasmercados.com.br/empresa/BMOB3?base=ind)
 
-> BEMOBI MOBILE TECH S.A. (BMOB3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 161,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 210,1 milhões, margem EBITDA de 12,4% sobre a receita. O valor de mercado era de R$ 2,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,6 e P/VPA de 2,42 sobre o último exercício. Em 2025, distribuiu R$ 222,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2025.
+> BEMOBI MOBILE TECH S.A. (BMOB3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 161,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 213,1 milhões, margem EBITDA de 12,6% sobre a receita. O valor de mercado era de R$ 2,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 17,5 e P/VPA de 2,90 sobre o último exercício. Em 2025, distribuiu R$ 222,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2020 a 2025.
 
 - Receita líq. · R$ 1,7 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 13,1× mediana 14,3× faixa 9,7× – 59,7× abaixo da mediana
+P/L atual 15,9× mediana 14,4× faixa 9,7× – 59,7× acima da mediana
 
-P/VPA atual 2,2× mediana 1,2× faixa 0,9× – 13,8× acima da mediana
+P/VPA atual 2,8× mediana 1,2× faixa 0,9× – 13,8× acima da mediana
 
-Dividend Yield atual 10,1% mediana 2,2% faixa 0,4% – 18,7% acima da mediana
+Dividend Yield atual 8,1% mediana 2,2% faixa 0,4% – 18,7% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

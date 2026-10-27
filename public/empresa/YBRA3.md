@@ -1,19 +1,19 @@
 ---
 title: YBYRA CAPITAL S.A (YBRA3) — análise financeira | Atlas Mercados
-description: YBYRA CAPITAL S.A (YBRA3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 289.467 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2022 a 2025.
+description: YBYRA CAPITAL S.A (YBRA3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 289.467 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2022 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/YBRA3
 ---
 <!-- https://atlasmercados.com.br/empresa/YBRA3 — versão Markdown da página -->
 
 YB
 
-YBYRA CAPITAL S.A
+YBYRA CAPITAL S.A sem pregão em 90 dias
 
-YBRA3, YBRA4 · CD_CVM 16705 · Emp. Adm. Part. - Sem Setor Principal · SP · DFP 16a · ITR 15a
+YBRA3, YBRA4 · CD_CVM 16705 · Emp. Adm. Part. - Sem Setor Principal · RJ · DFP 16a · ITR 15a
 
 [Consolidado](https://atlasmercados.com.br/empresa/YBRA3?base=con) [Individual](https://atlasmercados.com.br/empresa/YBRA3?base=ind)
 
-> YBYRA CAPITAL S.A (YBRA3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 289.467 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2022 a 2025.
+> YBYRA CAPITAL S.A (YBRA3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 289.467 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2022 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 0 · 2025
 

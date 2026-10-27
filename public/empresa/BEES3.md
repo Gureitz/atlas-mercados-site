@@ -1,6 +1,6 @@
 ---
 title: BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO (BEES3) — análise financeira | Atlas Mercados
-description: BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO (BEES3) teve receitas da intermediação financeira de R$ 5,5 bilhões e lucro líquido de R$ 339,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 3,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,4 e P/VPA de 1,32 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO (BEES3) teve receitas da intermediação financeira de R$ 5,5 bilhões e lucro líquido de R$ 339,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 3,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,4 e P/VPA de 1,46 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/BEES3
 ---
 <!-- https://atlasmercados.com.br/empresa/BEES3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BA
 
 BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO
 
-BEES3, BEES4 · CD_CVM 1155 · Bancos · ES · DFP 16a · ITR 16a
+BEES3, BEES4 · CD_CVM 1155 · Bancos · ES · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BEES3?base=con) [Individual](https://atlasmercados.com.br/empresa/BEES3?base=ind)
 
-> BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO (BEES3) teve receitas da intermediação financeira de R$ 5,5 bilhões e lucro líquido de R$ 339,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 3,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 9,4 e P/VPA de 1,32 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO (BEES3) teve receitas da intermediação financeira de R$ 5,5 bilhões e lucro líquido de R$ 339,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 3,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,4 e P/VPA de 1,46 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 5,5 bi · 2025
 
@@ -94,7 +94,7 @@ DRE · DFP · consolidado · 2025 · 40 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 9,6× mediana 7,7× faixa 5,7× – 9,6× acima da mediana
+P/L atual 8,0× mediana 7,7× faixa 5,7× – 9,8× acima da mediana
 
 P/VPA atual 0,9× mediana 1,0× faixa 0,9× – 1,2× abaixo da mediana
 

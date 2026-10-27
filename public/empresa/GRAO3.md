@@ -1,19 +1,19 @@
 ---
 title: HUMBERG AGRIBRASIL COMÉRCIO E EXPORTAÇÃO DE GRÃOS S.A (GRAO3) — análise financeira | Atlas Mercados
-description: HUMBERG AGRIBRASIL COMÉRCIO E EXPORTAÇÃO DE GRÃOS S.A (GRAO3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 27,3 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2023, distribuiu R$ 684.000 em dividendos (DMPL). A série anual disponível vai de 2020 a 2024.
+description: HUMBERG AGRIBRASIL COMÉRCIO E EXPORTAÇÃO DE GRÃOS S.A (GRAO3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 27,3 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 160,6 milhões, margem EBITDA de 7,3% sobre a receita. Em 2023, distribuiu R$ 684.000 em dividendos (DMPL). A série anual disponível vai de 2020 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/GRAO3
 ---
 <!-- https://atlasmercados.com.br/empresa/GRAO3 — versão Markdown da página -->
 
 HU
 
-HUMBERG AGRIBRASIL COMÉRCIO E EXPORTAÇÃO DE GRÃOS S.A
+HUMBERG AGRIBRASIL COMÉRCIO E EXPORTAÇÃO DE GRÃOS S.A registro cancelada na CVM sem pregão em 90 dias
 
 GRAO3 · CD_CVM 25933 · Comércio (Atacado e Varejo) · SP · DFP 5a · ITR 5a
 
 [Consolidado](https://atlasmercados.com.br/empresa/GRAO3?base=con) [Individual](https://atlasmercados.com.br/empresa/GRAO3?base=ind)
 
-> HUMBERG AGRIBRASIL COMÉRCIO E EXPORTAÇÃO DE GRÃOS S.A (GRAO3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 27,3 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2023, distribuiu R$ 684.000 em dividendos (DMPL). A série anual disponível vai de 2020 a 2024.
+> HUMBERG AGRIBRASIL COMÉRCIO E EXPORTAÇÃO DE GRÃOS S.A (GRAO3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 27,3 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 160,6 milhões, margem EBITDA de 7,3% sobre a receita. Em 2023, distribuiu R$ 684.000 em dividendos (DMPL). A série anual disponível vai de 2020 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 2,2 bi · 2024
 

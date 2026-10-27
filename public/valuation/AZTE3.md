@@ -31,7 +31,7 @@ Atenção: Tarifa é decisão regulatória, não de mercado — a projeção dep
 | Custo dos produtos/serviços vendidosBRL | — | R$ 0 | R$ 0 | -R$ 946 mil | -R$ 541 mil | -R$ 510 mil | -R$ 288 mil | -R$ 135 mil | -R$ 241 mil | -R$ 439 mil | -R$ 647 mil |
 | Lucro brutoBRL | — | R$ 0 | R$ 0 | R$ 291 mil | R$ 420 mil | -R$ 63 mil | R$ 482 mil | R$ 761 mil | R$ 519 mil | R$ 673 mil | R$ 256 mil |
 | Despesas operacionaisBRL | — | -R$ 5 mil | -R$ 71 mil | -R$ 61,7 mi | R$ 3,9 mi | -R$ 4,7 mi | R$ 2,4 mi | -R$ 2,3 mi | -R$ 5,1 mi | -R$ 3,7 mi | -R$ 3,1 mi |
-| Depreciação e amortizaçãoBRL | — | — | — | R$ 2,3 mi | R$ 2,0 mi | R$ 2,2 mi | — | -R$ 3,8 mi | R$ 5,4 mi | R$ 1,5 mi | R$ 1,3 mi |
+| Depreciação e amortizaçãoBRL | — | — | — | R$ 0 | R$ 4,3 mi | — | — | -R$ 1,5 mi | R$ 5,4 mi | R$ 1,5 mi | R$ 1,3 mi |
 | EBITBRL | — | -R$ 5 mil | -R$ 71 mil | -R$ 61,4 mi | R$ 4,3 mi | -R$ 4,8 mi | R$ 2,8 mi | -R$ 1,5 mi | -R$ 4,5 mi | -R$ 3,0 mi | -R$ 2,8 mi |
 | Resultado financeiro líquidoBRL | — | R$ 0 | R$ 0 | -R$ 266 mil | -R$ 126 mil | -R$ 605 mil | -R$ 1,5 mi | -R$ 288 mil | -R$ 883 mil | -R$ 214 mil | -R$ 322 mil |
 | Resultado antes dos impostos (LAIR)BRL | — | -R$ 5 mil | -R$ 71 mil | -R$ 61,6 mi | R$ 4,2 mi | -R$ 5,4 mi | R$ 1,3 mi | -R$ 1,8 mi | -R$ 5,4 mi | -R$ 3,2 mi | -R$ 3,1 mi |

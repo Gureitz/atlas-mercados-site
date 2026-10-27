@@ -1,6 +1,6 @@
 ---
 title: SYN PROP & TECH S.A. (SYNE3) — análise financeira | Atlas Mercados
-description: SYN PROP & TECH S.A. (SYNE3) teve receita líquida de R$ 327,7 milhões e lucro líquido de R$ 74,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 537,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,2 e P/VPA de 0,40 sobre o último exercício. Em 2025, distribuiu R$ 134,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: SYN PROP & TECH S.A. (SYNE3) teve receita líquida de R$ 327,7 milhões e lucro líquido de R$ 74,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 196,8 milhões, margem EBITDA de 60,1% sobre a receita. O valor de mercado era de R$ 599,9 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 0,45 sobre o último exercício. Em 2025, distribuiu R$ 134,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/SYNE3
 ---
 <!-- https://atlasmercados.com.br/empresa/SYNE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ SY
 
 SYN PROP & TECH S.A.
 
-SYNE3, CCPR3 · CD_CVM 21040 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · SP · DFP 16a · ITR 16a
+SYNE3, CCPR3 · CD_CVM 21040 · Emp. Adm. Part. - Const. Civil, Mat. Const. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SYNE3?base=con) [Individual](https://atlasmercados.com.br/empresa/SYNE3?base=ind)
 
-> SYN PROP & TECH S.A. (SYNE3) teve receita líquida de R$ 327,7 milhões e lucro líquido de R$ 74,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 537,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,2 e P/VPA de 0,40 sobre o último exercício. Em 2025, distribuiu R$ 134,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> SYN PROP & TECH S.A. (SYNE3) teve receita líquida de R$ 327,7 milhões e lucro líquido de R$ 74,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 196,8 milhões, margem EBITDA de 60,1% sobre a receita. O valor de mercado era de R$ 599,9 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 0,45 sobre o último exercício. Em 2025, distribuiu R$ 134,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 327,7 mi · 2025
 
@@ -89,11 +89,11 @@ DRE · DFP · consolidado · 2025 · 35 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,1× mediana 8,0× faixa 0,4× – 258,4× abaixo da mediana
+P/L atual 8,4× mediana 8,0× faixa 0,4× – 258,4× acima da mediana
 
 P/VPA atual 0,4× mediana 0,4× faixa 0,2× – 1,3× abaixo da mediana
 
-Dividend Yield atual 24,5% mediana 13,2% faixa 0,3% – 256,7% acima da mediana
+Dividend Yield atual 22,3% mediana 13,3% faixa 0,3% – 256,7% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

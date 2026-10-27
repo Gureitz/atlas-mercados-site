@@ -1,19 +1,19 @@
 ---
 title: TERRA SANTA AGRO S.A. (TESA3) — análise financeira | Atlas Mercados
-description: TERRA SANTA AGRO S.A. (TESA3) teve receita líquida de R$ 1,2 bilhão e prejuízo líquido de R$ 56,8 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 304,1 milhões, margem EBITDA de 24,7% sobre a receita. A série anual disponível vai de 2010 a 2020.
+description: TERRA SANTA AGRO S.A. (TESA3) teve receita líquida de R$ 1,2 bilhão e prejuízo líquido de R$ 56,8 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 304,1 milhões, margem EBITDA de 24,7% sobre a receita. A série anual disponível vai de 2010 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/TESA3
 ---
 <!-- https://atlasmercados.com.br/empresa/TESA3 — versão Markdown da página -->
 
 TE
 
-TERRA SANTA AGRO S.A.
+TERRA SANTA AGRO S.A. registro cancelada na CVM sem pregão em 90 dias
 
 TESA3 · CD_CVM 20354 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 11a · ITR 11a
 
 [Consolidado](https://atlasmercados.com.br/empresa/TESA3?base=con) [Individual](https://atlasmercados.com.br/empresa/TESA3?base=ind)
 
-> TERRA SANTA AGRO S.A. (TESA3) teve receita líquida de R$ 1,2 bilhão e prejuízo líquido de R$ 56,8 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 304,1 milhões, margem EBITDA de 24,7% sobre a receita. A série anual disponível vai de 2010 a 2020.
+> TERRA SANTA AGRO S.A. (TESA3) teve receita líquida de R$ 1,2 bilhão e prejuízo líquido de R$ 56,8 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 304,1 milhões, margem EBITDA de 24,7% sobre a receita. A série anual disponível vai de 2010 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 1,2 bi · 2020
 

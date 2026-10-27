@@ -1,19 +1,19 @@
 ---
 title: ITAUTEC S.A. - GRUPO ITAUTEC (ITEC3) — análise financeira | Atlas Mercados
-description: ITAUTEC S.A. - GRUPO ITAUTEC (ITEC3) teve receita líquida de R$ 405.000 e prejuízo líquido de R$ 7,1 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 25,7 milhões, margem EBITDA de -6348,6% sobre a receita. A série anual disponível vai de 2010 a 2018.
+description: ITAUTEC S.A. - GRUPO ITAUTEC (ITEC3) teve receita líquida de R$ 405.000 e prejuízo líquido de R$ 7,1 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 25,7 milhões, margem EBITDA de -6348,6% sobre a receita. A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/ITEC3
 ---
 <!-- https://atlasmercados.com.br/empresa/ITEC3 — versão Markdown da página -->
 
 IT
 
-ITAUTEC S.A. - GRUPO ITAUTEC
+ITAUTEC S.A. - GRUPO ITAUTEC registro cancelada na CVM sem pregão em 90 dias
 
 ITEC3 · CD_CVM 12530 · Comunicação e Informática · SP · DFP 9a · ITR 9a
 
 [Consolidado](https://atlasmercados.com.br/empresa/ITEC3?base=con) [Individual](https://atlasmercados.com.br/empresa/ITEC3?base=ind)
 
-> ITAUTEC S.A. - GRUPO ITAUTEC (ITEC3) teve receita líquida de R$ 405.000 e prejuízo líquido de R$ 7,1 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 25,7 milhões, margem EBITDA de -6348,6% sobre a receita. A série anual disponível vai de 2010 a 2018.
+> ITAUTEC S.A. - GRUPO ITAUTEC (ITEC3) teve receita líquida de R$ 405.000 e prejuízo líquido de R$ 7,1 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 25,7 milhões, margem EBITDA de -6348,6% sobre a receita. A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 405 mil · 2018
 

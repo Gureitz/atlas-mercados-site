@@ -1,6 +1,6 @@
 ---
 title: COMPANHIA MELHORAMENTOS DE SÃO PAULO (MSPA3) — análise financeira | Atlas Mercados
-description: COMPANHIA MELHORAMENTOS DE SÃO PAULO (MSPA3) teve receita líquida de R$ 177,1 milhões e prejuízo líquido de R$ 32,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 236,9 milhões em 08/09/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,29 sobre o último exercício. Em 2025, distribuiu R$ 787.000 em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: COMPANHIA MELHORAMENTOS DE SÃO PAULO (MSPA3) teve receita líquida de R$ 177,1 milhões e prejuízo líquido de R$ 32,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 12,7 milhões, margem EBITDA de 7,2% sobre a receita. O valor de mercado era de R$ 236,9 milhões em 08/09/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,29 sobre o último exercício. Em 2025, distribuiu R$ 787.000 em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/MSPA3
 ---
 <!-- https://atlasmercados.com.br/empresa/MSPA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CO
 
 COMPANHIA MELHORAMENTOS DE SÃO PAULO
 
-MSPA3, MSPA4 · CD_CVM 3654 · Papel e Celulose · SP · DFP 16a · ITR 16a
+MSPA3, MSPA4 · CD_CVM 3654 · Papel e Celulose · SP · DFP 16a · ITR 16a · último pregão 08/09/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MSPA3?base=con) [Individual](https://atlasmercados.com.br/empresa/MSPA3?base=ind)
 
-> COMPANHIA MELHORAMENTOS DE SÃO PAULO (MSPA3) teve receita líquida de R$ 177,1 milhões e prejuízo líquido de R$ 32,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 236,9 milhões em 08/09/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,29 sobre o último exercício. Em 2025, distribuiu R$ 787.000 em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> COMPANHIA MELHORAMENTOS DE SÃO PAULO (MSPA3) teve receita líquida de R$ 177,1 milhões e prejuízo líquido de R$ 32,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 12,7 milhões, margem EBITDA de 7,2% sobre a receita. O valor de mercado era de R$ 236,9 milhões em 08/09/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,29 sobre o último exercício. Em 2025, distribuiu R$ 787.000 em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 177,1 mi · 2025
 

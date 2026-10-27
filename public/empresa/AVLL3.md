@@ -1,6 +1,6 @@
 ---
 title: ALPHAVILLE S.A. (AVLL3) — análise financeira | Atlas Mercados
-description: ALPHAVILLE S.A. (AVLL3) teve receita líquida de R$ 584,9 milhões e prejuízo líquido de R$ 105,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 134,0 milhões, margem EBITDA de 22,9% sobre a receita. O valor de mercado era de R$ 44,1 milhões em 01/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
+description: ALPHAVILLE S.A. (AVLL3) teve receita líquida de R$ 584,9 milhões e prejuízo líquido de R$ 105,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 137,7 milhões, margem EBITDA de 23,5% sobre a receita. O valor de mercado era de R$ 46,7 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/AVLL3
 ---
 <!-- https://atlasmercados.com.br/empresa/AVLL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AL
 
 ALPHAVILLE S.A.
 
-AVLL3 · CD_CVM 25275 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 7a · ITR 7a
+AVLL3 · CD_CVM 25275 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/AVLL3?base=con) [Individual](https://atlasmercados.com.br/empresa/AVLL3?base=ind)
 
-> ALPHAVILLE S.A. (AVLL3) teve receita líquida de R$ 584,9 milhões e prejuízo líquido de R$ 105,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 134,0 milhões, margem EBITDA de 22,9% sobre a receita. O valor de mercado era de R$ 44,1 milhões em 01/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
+> ALPHAVILLE S.A. (AVLL3) teve receita líquida de R$ 584,9 milhões e prejuízo líquido de R$ 105,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 137,7 milhões, margem EBITDA de 23,5% sobre a receita. O valor de mercado era de R$ 46,7 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 584,9 mi · 2025
 

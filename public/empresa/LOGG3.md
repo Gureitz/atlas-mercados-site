@@ -1,6 +1,6 @@
 ---
 title: LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES (LOGG3) — análise financeira | Atlas Mercados
-description: LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES (LOGG3) teve receita líquida de R$ 248,8 milhões e lucro líquido de R$ 363,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 2,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,2 e P/VPA de 0,62 sobre o último exercício. Em 2025, distribuiu R$ 346,1 milhões em dividendos (DMPL). A série anual disponível vai de 2012 a 2025.
+description: LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES (LOGG3) teve receita líquida de R$ 248,8 milhões e lucro líquido de R$ 363,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 603,4 milhões, margem EBITDA de 242,6% sobre a receita. O valor de mercado era de R$ 2,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,4 e P/VPA de 0,74 sobre o último exercício. Em 2025, distribuiu R$ 346,1 milhões em dividendos (DMPL). A série anual disponível vai de 2012 a 2025.
 url: https://atlasmercados.com.br/empresa/LOGG3
 ---
 <!-- https://atlasmercados.com.br/empresa/LOGG3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ LO
 
 LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES
 
-LOGG3 · CD_CVM 23272 · Construção Civil, Mat. Constr. e Decoração · MG · DFP 14a · ITR 14a
+LOGG3 · CD_CVM 23272 · Construção Civil, Mat. Constr. e Decoração · MG · DFP 14a · ITR 14a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/LOGG3?base=con) [Individual](https://atlasmercados.com.br/empresa/LOGG3?base=ind)
 
-> LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES (LOGG3) teve receita líquida de R$ 248,8 milhões e lucro líquido de R$ 363,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 2,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,2 e P/VPA de 0,62 sobre o último exercício. Em 2025, distribuiu R$ 346,1 milhões em dividendos (DMPL). A série anual disponível vai de 2012 a 2025.
+> LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES (LOGG3) teve receita líquida de R$ 248,8 milhões e lucro líquido de R$ 363,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 603,4 milhões, margem EBITDA de 242,6% sobre a receita. O valor de mercado era de R$ 2,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,4 e P/VPA de 0,74 sobre o último exercício. Em 2025, distribuiu R$ 346,1 milhões em dividendos (DMPL). A série anual disponível vai de 2012 a 2025.
 
 - Receita líq. · R$ 248,8 mi · 2025
 
@@ -88,11 +88,11 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 5,2× mediana 6,9× faixa 3,3× – 38,1× abaixo da mediana
+P/L atual 7,0× mediana 6,9× faixa 3,3× – 38,1× acima da mediana
 
-P/VPA atual 0,6× mediana 0,6× faixa 0,4× – 1,3× abaixo da mediana
+P/VPA atual 0,8× mediana 0,6× faixa 0,4× – 1,3× acima da mediana
 
-Dividend Yield atual 16,3% mediana 3,6% faixa 0,5% – 16,3% acima da mediana
+Dividend Yield atual 12,9% mediana 3,7% faixa 0,5% – 16,1% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

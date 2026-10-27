@@ -1,19 +1,19 @@
 ---
-title: GRUPO CASAS BAHIA S.A. (BHIA3) — análise financeira | Atlas Mercados
-description: GRUPO CASAS BAHIA S.A. (BHIA3) teve receita líquida de R$ 29,2 bilhões e prejuízo líquido de R$ 3,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 8,2% sobre a receita. O valor de mercado era de R$ 429,4 milhões em 17/08/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,15 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+title: GRUPO CASAS BAHIA S.A. - EM RECUPERAÇÃO JUDICIAL (BHIA3) — análise financeira | Atlas Mercados
+description: GRUPO CASAS BAHIA S.A. - EM RECUPERAÇÃO JUDICIAL (BHIA3) teve receita líquida de R$ 29,2 bilhões e prejuízo líquido de R$ 3,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 8,2% sobre a receita. O valor de mercado era de R$ 429,4 milhões em 17/08/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,15 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/BHIA3
 ---
 <!-- https://atlasmercados.com.br/empresa/BHIA3 — versão Markdown da página -->
 
 GR
 
-GRUPO CASAS BAHIA S.A.
+GRUPO CASAS BAHIA S.A. - EM RECUPERAÇÃO JUDICIAL
 
-BHIA3, BHIA12, VIIA3, VVAR11, VVAR3, VVAR4 · CD_CVM 6505 · Comércio (Atacado e Varejo) · SP · DFP 16a · ITR 16a
+BHIA3, BHIA12, VIIA3, VVAR11, VVAR3, VVAR4 · CD_CVM 6505 · Comércio (Atacado e Varejo) · SP · DFP 16a · ITR 16a · último pregão 17/08/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BHIA3?base=con) [Individual](https://atlasmercados.com.br/empresa/BHIA3?base=ind)
 
-> GRUPO CASAS BAHIA S.A. (BHIA3) teve receita líquida de R$ 29,2 bilhões e prejuízo líquido de R$ 3,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 8,2% sobre a receita. O valor de mercado era de R$ 429,4 milhões em 17/08/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,15 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> GRUPO CASAS BAHIA S.A. - EM RECUPERAÇÃO JUDICIAL (BHIA3) teve receita líquida de R$ 29,2 bilhões e prejuízo líquido de R$ 3,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,4 bilhões, margem EBITDA de 8,2% sobre a receita. O valor de mercado era de R$ 429,4 milhões em 17/08/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,15 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 29,2 bi · 2025
 
@@ -109,6 +109,6 @@ Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a
 
 Como citar
 
-Atlas Mercados. GRUPO CASAS BAHIA S.A. — demonstrações financeiras. https://atlasmercados.com.br/empresa/BHIA3. Dados: CVM Dados Abertos — DFP/ITR de GRUPO CASAS BAHIA S.A. (CD_CVM 6505). Acesso em [data de acesso].
+Atlas Mercados. GRUPO CASAS BAHIA S.A. - EM RECUPERAÇÃO JUDICIAL — demonstrações financeiras. https://atlasmercados.com.br/empresa/BHIA3. Dados: CVM Dados Abertos — DFP/ITR de GRUPO CASAS BAHIA S.A. - EM RECUPERAÇÃO JUDICIAL (CD_CVM 6505). Acesso em [data de acesso].
 
 Identificador da série: cvm:6505 · Permalink: [https://atlasmercados.com.br/empresa/BHIA3](https://atlasmercados.com.br/empresa/BHIA3) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)

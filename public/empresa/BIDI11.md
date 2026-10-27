@@ -1,19 +1,19 @@
 ---
 title: BANCO INTER S.A. (BIDI11) — análise financeira | Atlas Mercados
-description: BANCO INTER S.A. (BIDI11) teve receitas da intermediação financeira de R$ 723,6 milhões e prejuízo líquido de R$ 27,3 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 38,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2022.
+description: BANCO INTER S.A. (BIDI11) teve receitas da intermediação financeira de R$ 723,6 milhões e prejuízo líquido de R$ 27,3 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 38,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/BIDI11
 ---
 <!-- https://atlasmercados.com.br/empresa/BIDI11 — versão Markdown da página -->
 
 BA
 
-BANCO INTER S.A.
+BANCO INTER S.A. registro cancelada na CVM sem pregão em 90 dias
 
 BIDI11, BIDI3, BIDI4 · CD_CVM 24406 · Bancos · MG · DFP 6a · ITR 5a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BIDI11?base=con) [Individual](https://atlasmercados.com.br/empresa/BIDI11?base=ind)
 
-> BANCO INTER S.A. (BIDI11) teve receitas da intermediação financeira de R$ 723,6 milhões e prejuízo líquido de R$ 27,3 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 38,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2022.
+> BANCO INTER S.A. (BIDI11) teve receitas da intermediação financeira de R$ 723,6 milhões e prejuízo líquido de R$ 27,3 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 38,1 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 723,6 mi · 2022
 

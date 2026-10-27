@@ -1,6 +1,6 @@
 ---
 title: YDUQS PARTICIPACOES S.A. (YDUQ3) — análise financeira | Atlas Mercados
-description: YDUQS PARTICIPACOES S.A. (YDUQ3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 180,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 30,8% sobre a receita. O valor de mercado era de R$ 3,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 1,02 sobre o último exercício. Em 2025, distribuiu R$ 175,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: YDUQS PARTICIPACOES S.A. (YDUQ3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 180,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 30,8% sobre a receita. O valor de mercado era de R$ 3,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,4 e P/VPA de 1,30 sobre o último exercício. Em 2025, distribuiu R$ 175,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/YDUQ3
 ---
 <!-- https://atlasmercados.com.br/empresa/YDUQ3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ YD
 
 YDUQS PARTICIPACOES S.A.
 
-YDUQ3, ESTC3 · CD_CVM 21016 · Emp. Adm. Part. - Educação · RJ · DFP 16a · ITR 16a
+YDUQ3, ESTC3 · CD_CVM 21016 · Emp. Adm. Part. - Educação · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/YDUQ3?base=con) [Individual](https://atlasmercados.com.br/empresa/YDUQ3?base=ind)
 
-> YDUQS PARTICIPACOES S.A. (YDUQ3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 180,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 30,8% sobre a receita. O valor de mercado era de R$ 3,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 1,02 sobre o último exercício. Em 2025, distribuiu R$ 175,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> YDUQS PARTICIPACOES S.A. (YDUQ3) teve receita líquida de R$ 5,5 bilhões e lucro líquido de R$ 180,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 30,8% sobre a receita. O valor de mercado era de R$ 3,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,4 e P/VPA de 1,30 sobre o último exercício. Em 2025, distribuiu R$ 175,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 5,5 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 23,6× mediana 20,5× faixa 10,7× – 417,9× acima da mediana
+P/L atual 31,8× mediana 20,5× faixa 10,7× – 417,9× acima da mediana
 
-P/VPA atual 0,9× mediana 1,4× faixa 0,7× – 3,3× abaixo da mediana
+P/VPA atual 1,2× mediana 1,4× faixa 0,7× – 3,3× abaixo da mediana
 
-Dividend Yield atual 6,4% mediana 2,8% faixa 1,5% – 8,4% acima da mediana
+Dividend Yield atual 4,9% mediana 2,8% faixa 1,5% – 8,4% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

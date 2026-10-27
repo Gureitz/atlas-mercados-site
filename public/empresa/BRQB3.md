@@ -1,19 +1,19 @@
 ---
 title: BRQ SOLUÇÕES EM INFORMÁTICA S.A. (BRQB3) — análise financeira | Atlas Mercados
-description: BRQ SOLUÇÕES EM INFORMÁTICA S.A. (BRQB3) teve receita líquida de R$ 593,7 milhões e lucro líquido de R$ 68,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 268,3 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2014 a 2025.
+description: BRQ SOLUÇÕES EM INFORMÁTICA S.A. (BRQB3) teve receita líquida de R$ 593,7 milhões e lucro líquido de R$ 68,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 268,3 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2014 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/BRQB3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRQB3 — versão Markdown da página -->
 
 BR
 
-BRQ SOLUÇÕES EM INFORMÁTICA S.A.
+BRQ SOLUÇÕES EM INFORMÁTICA S.A. sem pregão em 90 dias
 
 BRQB3 · CD_CVM 23817 · Comunicação e Informática · SP · DFP 12a · ITR 12a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRQB3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRQB3?base=ind)
 
-> BRQ SOLUÇÕES EM INFORMÁTICA S.A. (BRQB3) teve receita líquida de R$ 593,7 milhões e lucro líquido de R$ 68,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 268,3 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2014 a 2025.
+> BRQ SOLUÇÕES EM INFORMÁTICA S.A. (BRQB3) teve receita líquida de R$ 593,7 milhões e lucro líquido de R$ 68,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2025, distribuiu R$ 268,3 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2014 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 593,7 mi · 2025
 

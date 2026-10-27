@@ -1,19 +1,19 @@
 ---
 title: OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL (OSXB3) — análise financeira | Atlas Mercados
-description: OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL (OSXB3) teve receita líquida de R$ 82,7 milhões e prejuízo líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 242,9 milhões, margem EBITDA de -293,9% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL (OSXB3) teve receita líquida de R$ 82,7 milhões e prejuízo líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 242,9 milhões, margem EBITDA de -293,9% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/OSXB3
 ---
 <!-- https://atlasmercados.com.br/empresa/OSXB3 — versão Markdown da página -->
 
 OS
 
-OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL
+OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
 OSXB3 · CD_CVM 21342 · Emp. Adm. Part. - Sem Setor Principal · RJ · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/OSXB3?base=con) [Individual](https://atlasmercados.com.br/empresa/OSXB3?base=ind)
 
-> OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL (OSXB3) teve receita líquida de R$ 82,7 milhões e prejuízo líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 242,9 milhões, margem EBITDA de -293,9% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL (OSXB3) teve receita líquida de R$ 82,7 milhões e prejuízo líquido de R$ 1,1 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 242,9 milhões, margem EBITDA de -293,9% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 82,7 mi · 2025
 

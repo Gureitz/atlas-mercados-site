@@ -1,6 +1,6 @@
 ---
 title: LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A (LAVV3) — análise financeira | Atlas Mercados
-description: LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A (LAVV3) teve receita líquida de R$ 1,8 bilhão e lucro líquido de R$ 464,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 22,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 48,5 e P/VPA de 12,63 sobre o último exercício. Em 2025, distribuiu R$ 403,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A (LAVV3) teve receita líquida de R$ 1,8 bilhão e lucro líquido de R$ 464,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 483,8 milhões, margem EBITDA de 27,5% sobre a receita. O valor de mercado era de R$ 31,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 66,9 e P/VPA de 17,45 sobre o último exercício. Em 2025, distribuiu R$ 403,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/LAVV3
 ---
 <!-- https://atlasmercados.com.br/empresa/LAVV3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ LA
 
 LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A
 
-LAVV3 · CD_CVM 25062 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 7a · ITR 7a
+LAVV3 · CD_CVM 25062 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/LAVV3?base=con) [Individual](https://atlasmercados.com.br/empresa/LAVV3?base=ind)
 
-> LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A (LAVV3) teve receita líquida de R$ 1,8 bilhão e lucro líquido de R$ 464,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 22,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 48,5 e P/VPA de 12,63 sobre o último exercício. Em 2025, distribuiu R$ 403,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+> LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A (LAVV3) teve receita líquida de R$ 1,8 bilhão e lucro líquido de R$ 464,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 483,8 milhões, margem EBITDA de 27,5% sobre a receita. O valor de mercado era de R$ 31,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 66,9 e P/VPA de 17,45 sobre o último exercício. Em 2025, distribuiu R$ 403,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 1,8 bi · 2025
 
@@ -86,11 +86,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 43,7× mediana 6,8× faixa 4,4× – 48,3× acima da mediana
+P/L atual 73,3× mediana 6,8× faixa 4,4× – 73,3× acima da mediana
 
-P/VPA atual 12,1× mediana 1,1× faixa 0,7× – 12,6× acima da mediana
+P/VPA atual 18,1× mediana 1,1× faixa 0,7× – 18,1× acima da mediana
 
-Dividend Yield atual 2,1% mediana 5,3% faixa 0,1% – 18,0% abaixo da mediana
+Dividend Yield atual 1,3% mediana 5,2% faixa 0,1% – 18,0% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

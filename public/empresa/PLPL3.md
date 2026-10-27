@@ -1,6 +1,6 @@
 ---
 title: PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A. (PLPL3) — análise financeira | Atlas Mercados
-description: PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A. (PLPL3) teve receita líquida de R$ 3,3 bilhões e lucro líquido de R$ 422,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 537,8 milhões, margem EBITDA de 16,4% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,4 e P/VPA de 1,27 sobre o último exercício. Em 2025, distribuiu R$ 216,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+description: PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A. (PLPL3) teve receita líquida de R$ 3,3 bilhões e lucro líquido de R$ 422,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 537,8 milhões, margem EBITDA de 16,4% sobre a receita. O valor de mercado era de R$ 1,7 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 1,51 sobre o último exercício. Em 2025, distribuiu R$ 216,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
 url: https://atlasmercados.com.br/empresa/PLPL3
 ---
 <!-- https://atlasmercados.com.br/empresa/PLPL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ PL
 
 PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.
 
-PLPL3 · CD_CVM 25070 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 6a · ITR 7a
+PLPL3 · CD_CVM 25070 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 6a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PLPL3?base=con) [Individual](https://atlasmercados.com.br/empresa/PLPL3?base=ind)
 
-> PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A. (PLPL3) teve receita líquida de R$ 3,3 bilhões e lucro líquido de R$ 422,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 537,8 milhões, margem EBITDA de 16,4% sobre a receita. O valor de mercado era de R$ 1,4 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,4 e P/VPA de 1,27 sobre o último exercício. Em 2025, distribuiu R$ 216,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+> PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A. (PLPL3) teve receita líquida de R$ 3,3 bilhões e lucro líquido de R$ 422,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 537,8 milhões, margem EBITDA de 16,4% sobre a receita. O valor de mercado era de R$ 1,7 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 1,51 sobre o último exercício. Em 2025, distribuiu R$ 216,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
 
 - Receita líq. · R$ 3,3 bi · 2025
 
@@ -85,11 +85,11 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 3,5× mediana 7,3× faixa 2,8× – 14,7× abaixo da mediana
+P/L atual 4,9× mediana 7,2× faixa 2,8× – 14,7× abaixo da mediana
 
-P/VPA atual 1,2× mediana 2,9× faixa 1,2× – 6,2× abaixo da mediana
+P/VPA atual 1,4× mediana 2,9× faixa 1,2× – 6,2× abaixo da mediana
 
-Dividend Yield atual 15,9% mediana 3,8% faixa 1,1% – 15,9% acima da mediana
+Dividend Yield atual 12,6% mediana 3,8% faixa 1,1% – 15,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

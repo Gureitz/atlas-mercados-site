@@ -1,19 +1,19 @@
 ---
 title: CREMER SA (CREM3) — análise financeira | Atlas Mercados
-description: CREMER SA (CREM3) teve receita líquida de R$ 652,4 milhões e lucro líquido de R$ 14,4 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 75,8 milhões, margem EBITDA de 11,6% sobre a receita. Em 2017, distribuiu R$ 4,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2017.
+description: CREMER SA (CREM3) teve receita líquida de R$ 652,4 milhões e lucro líquido de R$ 14,4 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 75,8 milhões, margem EBITDA de 11,6% sobre a receita. Em 2017, distribuiu R$ 4,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2017. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/CREM3
 ---
 <!-- https://atlasmercados.com.br/empresa/CREM3 — versão Markdown da página -->
 
 CR
 
-CREMER SA
+CREMER SA registro cancelada na CVM sem pregão em 90 dias
 
 CREM3 · CD_CVM 20141 · Têxtil e Vestuário · SC · DFP 8a · ITR 8a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CREM3?base=con) [Individual](https://atlasmercados.com.br/empresa/CREM3?base=ind)
 
-> CREMER SA (CREM3) teve receita líquida de R$ 652,4 milhões e lucro líquido de R$ 14,4 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 75,8 milhões, margem EBITDA de 11,6% sobre a receita. Em 2017, distribuiu R$ 4,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2017.
+> CREMER SA (CREM3) teve receita líquida de R$ 652,4 milhões e lucro líquido de R$ 14,4 milhões no exercício de 2017 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 75,8 milhões, margem EBITDA de 11,6% sobre a receita. Em 2017, distribuiu R$ 4,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2017. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 652,4 mi · 2017
 

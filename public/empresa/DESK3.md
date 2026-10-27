@@ -1,6 +1,6 @@
 ---
 title: DESKTOP S.A (DESK3) — análise financeira | Atlas Mercados
-description: DESKTOP S.A (DESK3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 80,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 566,9 milhões, margem EBITDA de 46,5% sobre a receita. O valor de mercado era de R$ 2,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 27,7 e P/VPA de 1,56 sobre o último exercício. Em 2025, distribuiu R$ 17,0 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+description: DESKTOP S.A (DESK3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 80,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 620,8 milhões, margem EBITDA de 50,9% sobre a receita. O valor de mercado era de R$ 2,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 27,7 e P/VPA de 1,55 sobre o último exercício. Em 2025, distribuiu R$ 17,0 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
 url: https://atlasmercados.com.br/empresa/DESK3
 ---
 <!-- https://atlasmercados.com.br/empresa/DESK3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ DE
 
 DESKTOP S.A
 
-DESK3 · CD_CVM 26026 · Telecomunicações · SP · DFP 6a · ITR 6a
+DESK3 · CD_CVM 26026 · Telecomunicações · SP · DFP 6a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/DESK3?base=con) [Individual](https://atlasmercados.com.br/empresa/DESK3?base=ind)
 
-> DESKTOP S.A (DESK3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 80,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 566,9 milhões, margem EBITDA de 46,5% sobre a receita. O valor de mercado era de R$ 2,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 27,7 e P/VPA de 1,56 sobre o último exercício. Em 2025, distribuiu R$ 17,0 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+> DESKTOP S.A (DESK3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 80,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 620,8 milhões, margem EBITDA de 50,9% sobre a receita. O valor de mercado era de R$ 2,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 27,7 e P/VPA de 1,55 sobre o último exercício. Em 2025, distribuiu R$ 17,0 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
 
 - Receita líq. · R$ 1,2 bi · 2025
 
@@ -85,7 +85,7 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 31,3× mediana 18,7× faixa 8,5× – 128,2× acima da mediana
+P/L atual 33,4× mediana 18,9× faixa 8,5× – 128,2× acima da mediana
 
 P/VPA atual 1,5× mediana 1,2× faixa 0,7× – 4,4× acima da mediana
 

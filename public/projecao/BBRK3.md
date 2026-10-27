@@ -15,4 +15,4 @@ Realizado até 2T2026 · projeção de 40 trimestres (10 anos), de 3T2026 a 2T20
 
 [← Estrutura](https://atlasmercados.com.br/valuation/BBRK3)
 
-## Projeção trimestral — 14 premissas · 1 linhas derivadas · realizado em cinza, projetado em azul
+## Projeção trimestral — 15 premissas · 1 linhas derivadas · realizado em cinza, projetado em azul

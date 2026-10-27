@@ -1,6 +1,6 @@
 ---
 title: CM HOSPITALAR S.A (VVEO3) — análise financeira | Atlas Mercados
-description: CM HOSPITALAR S.A (VVEO3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 18,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 862,0 milhões, margem EBITDA de 7,5% sobre a receita. O valor de mercado era de R$ 261,5 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,3 e P/VPA de 0,13 sobre o último exercício. Em 2024, distribuiu R$ 59,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+description: CM HOSPITALAR S.A (VVEO3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 18,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 862,0 milhões, margem EBITDA de 7,5% sobre a receita. O valor de mercado era de R$ 287,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,8 e P/VPA de 0,15 sobre o último exercício. Em 2024, distribuiu R$ 59,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
 url: https://atlasmercados.com.br/empresa/VVEO3
 ---
 <!-- https://atlasmercados.com.br/empresa/VVEO3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CM
 
 CM HOSPITALAR S.A
 
-VVEO3 · CD_CVM 25682 · Comércio (Atacado e Varejo) · SP · DFP 6a · ITR 6a
+VVEO3 · CD_CVM 25682 · Comércio (Atacado e Varejo) · SP · DFP 6a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/VVEO3?base=con) [Individual](https://atlasmercados.com.br/empresa/VVEO3?base=ind)
 
-> CM HOSPITALAR S.A (VVEO3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 18,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 862,0 milhões, margem EBITDA de 7,5% sobre a receita. O valor de mercado era de R$ 261,5 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,3 e P/VPA de 0,13 sobre o último exercício. Em 2024, distribuiu R$ 59,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+> CM HOSPITALAR S.A (VVEO3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 18,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 862,0 milhões, margem EBITDA de 7,5% sobre a receita. O valor de mercado era de R$ 287,3 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 15,8 e P/VPA de 0,15 sobre o último exercício. Em 2024, distribuiu R$ 59,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
 
 - Receita líq. · R$ 11,6 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 11,9× mediana 12,5× faixa 1,8× – 30,1× abaixo da mediana
+P/L atual 4,9× mediana 12,4× faixa 1,8× – 30,1× abaixo da mediana
 
-P/VPA atual 0,1× mediana 0,3× faixa 0,1× – 2,6× abaixo da mediana
+P/VPA atual 0,2× mediana 0,3× faixa 0,1× – 2,6× abaixo da mediana
 
-Dividend Yield atual 24,6% mediana 4,0% faixa 0,4% – 27,5% acima da mediana
+Dividend Yield atual 21,0% mediana 4,0% faixa 0,4% – 27,5% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

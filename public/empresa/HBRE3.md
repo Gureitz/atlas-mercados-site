@@ -1,6 +1,6 @@
 ---
 title: HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A. (HBRE3) — análise financeira | Atlas Mercados
-description: HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A. (HBRE3) teve receita líquida de R$ 532,6 milhões e lucro líquido de R$ 96,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 344,7 milhões, margem EBITDA de 64,7% sobre a receita. O valor de mercado era de R$ 273,5 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 2,8 e P/VPA de 0,10 sobre o último exercício. Em 2025, distribuiu R$ 120,0 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A. (HBRE3) teve receita líquida de R$ 532,6 milhões e lucro líquido de R$ 96,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 344,7 milhões, margem EBITDA de 64,7% sobre a receita. O valor de mercado era de R$ 361,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,7 e P/VPA de 0,13 sobre o último exercício. Em 2025, distribuiu R$ 120,0 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/HBRE3
 ---
 <!-- https://atlasmercados.com.br/empresa/HBRE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ HB
 
 HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A.
 
-HBRE3 · CD_CVM 25402 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 7a · ITR 7a
+HBRE3 · CD_CVM 25402 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/HBRE3?base=con) [Individual](https://atlasmercados.com.br/empresa/HBRE3?base=ind)
 
-> HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A. (HBRE3) teve receita líquida de R$ 532,6 milhões e lucro líquido de R$ 96,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 344,7 milhões, margem EBITDA de 64,7% sobre a receita. O valor de mercado era de R$ 273,5 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 2,8 e P/VPA de 0,10 sobre o último exercício. Em 2025, distribuiu R$ 120,0 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+> HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A. (HBRE3) teve receita líquida de R$ 532,6 milhões e lucro líquido de R$ 96,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 344,7 milhões, margem EBITDA de 64,7% sobre a receita. O valor de mercado era de R$ 361,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,7 e P/VPA de 0,13 sobre o último exercício. Em 2025, distribuiu R$ 120,0 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 532,6 mi · 2025
 
@@ -98,11 +98,11 @@ DRE · DFP · consolidado · 2025 · 44 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 2,6× mediana 2,9× faixa 1,2× – 5,6× abaixo da mediana
+P/L atual 3,3× mediana 2,9× faixa 1,2× – 5,6× acima da mediana
 
 P/VPA atual 0,1× mediana 0,2× faixa 0,1× – 1,4× abaixo da mediana
 
-Dividend Yield atual 45,3% mediana 42,8% faixa 37,4% – 56,0% acima da mediana
+Dividend Yield atual 33,3% mediana 42,5% faixa 33,3% – 56,0% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

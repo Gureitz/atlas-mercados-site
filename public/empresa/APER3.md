@@ -1,19 +1,19 @@
 ---
 title: ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A. (APER3) — análise financeira | Atlas Mercados
-description: ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A. (APER3) teve receitas operacionais de R$ 510,8 milhões e lucro líquido de R$ 15,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+description: ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A. (APER3) teve receitas operacionais de R$ 510,8 milhões e lucro líquido de R$ 15,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/APER3
 ---
 <!-- https://atlasmercados.com.br/empresa/APER3 — versão Markdown da página -->
 
 AL
 
-ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A.
+ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A. registro cancelada na CVM sem pregão em 90 dias
 
 APER3 · CD_CVM 22217 · Emp. Adm. Part. - Seguradoras e Corretoras · SP · DFP 15a · ITR 14a
 
 [Consolidado](https://atlasmercados.com.br/empresa/APER3?base=con) [Individual](https://atlasmercados.com.br/empresa/APER3?base=ind)
 
-> ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A. (APER3) teve receitas operacionais de R$ 510,8 milhões e lucro líquido de R$ 15,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025.
+> ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A. (APER3) teve receitas operacionais de R$ 510,8 milhões e lucro líquido de R$ 15,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 510,8 mi · 2025
 

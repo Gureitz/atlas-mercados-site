@@ -15,4 +15,4 @@ Realizado até 3T2018 · projeção de 40 trimestres (10 anos), de 4T2018 a 3T20
 
 [← Estrutura](https://atlasmercados.com.br/valuation/MAGG3)
 
-## Projeção trimestral — 13 premissas · 2 linhas derivadas · realizado em cinza, projetado em azul
+## Projeção trimestral — 14 premissas · 2 linhas derivadas · realizado em cinza, projetado em azul

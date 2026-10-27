@@ -1,6 +1,6 @@
 ---
 title: BAUMER SA (BALM3) — análise financeira | Atlas Mercados
-description: BAUMER SA (BALM3) teve receita líquida de R$ 213,7 milhões e lucro líquido de R$ 22,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 178,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 1,24 sobre o último exercício. Em 2025, distribuiu R$ 44,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: BAUMER SA (BALM3) teve receita líquida de R$ 213,7 milhões e lucro líquido de R$ 22,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 40,2 milhões, margem EBITDA de 18,8% sobre a receita. O valor de mercado era de R$ 187,7 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,5 e P/VPA de 1,30 sobre o último exercício. Em 2025, distribuiu R$ 44,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/BALM3
 ---
 <!-- https://atlasmercados.com.br/empresa/BALM3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BA
 
 BAUMER SA
 
-BALM3, BALM4 · CD_CVM 1562 · Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a
+BALM3, BALM4 · CD_CVM 1562 · Metalurgia e Siderurgia · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BALM3?base=con) [Individual](https://atlasmercados.com.br/empresa/BALM3?base=ind)
 
-> BAUMER SA (BALM3) teve receita líquida de R$ 213,7 milhões e lucro líquido de R$ 22,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 178,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,1 e P/VPA de 1,24 sobre o último exercício. Em 2025, distribuiu R$ 44,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> BAUMER SA (BALM3) teve receita líquida de R$ 213,7 milhões e lucro líquido de R$ 22,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 40,2 milhões, margem EBITDA de 18,8% sobre a receita. O valor de mercado era de R$ 187,7 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,5 e P/VPA de 1,30 sobre o último exercício. Em 2025, distribuiu R$ 44,3 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 213,7 mi · 2025
 
@@ -90,11 +90,11 @@ DRE · DFP · consolidado · 2025 · 36 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 8,8× mediana 10,0× faixa 4,8× – 204,3× abaixo da mediana
+P/L atual 7,4× mediana 10,0× faixa 4,8× – 204,3× abaixo da mediana
 
-P/VPA atual 1,3× mediana 1,0× faixa 0,7× – 1,6× acima da mediana
+P/VPA atual 1,2× mediana 1,0× faixa 0,7× – 1,6× acima da mediana
 
-Dividend Yield atual 22,3% mediana 1,1% faixa 0,5% – 22,9% acima da mediana
+Dividend Yield atual 23,6% mediana 1,2% faixa 0,5% – 24,8% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,19 +1,19 @@
 ---
 title: KOSMOS COMÉRCIO DE VESTUÁRIO S/A - EM RECUPERAÇÃO JUDICIAL (LOAR11) — análise financeira | Atlas Mercados
-description: KOSMOS COMÉRCIO DE VESTUÁRIO S/A - EM RECUPERAÇÃO JUDICIAL (LOAR11) teve receita líquida de R$ 46,6 milhões e prejuízo líquido de R$ 85,0 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 77,2 milhões, margem EBITDA de -165,7% sobre a receita. A série anual disponível vai de 2010 a 2019.
+description: KOSMOS COMÉRCIO DE VESTUÁRIO S/A - EM RECUPERAÇÃO JUDICIAL (LOAR11) teve receita líquida de R$ 46,6 milhões e prejuízo líquido de R$ 85,0 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 77,2 milhões, margem EBITDA de -165,7% sobre a receita. A série anual disponível vai de 2010 a 2019. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/LOAR11
 ---
 <!-- https://atlasmercados.com.br/empresa/LOAR11 — versão Markdown da página -->
 
 KO
 
-KOSMOS COMÉRCIO DE VESTUÁRIO S/A - EM RECUPERAÇÃO JUDICIAL
+KOSMOS COMÉRCIO DE VESTUÁRIO S/A - EM RECUPERAÇÃO JUDICIAL registro cancelada na CVM sem pregão em 90 dias
 
 LOAR11 · CD_CVM 15083 · Comércio (Atacado e Varejo) · SP · DFP 10a · ITR 9a
 
 [Consolidado](https://atlasmercados.com.br/empresa/LOAR11?base=con) [Individual](https://atlasmercados.com.br/empresa/LOAR11?base=ind)
 
-> KOSMOS COMÉRCIO DE VESTUÁRIO S/A - EM RECUPERAÇÃO JUDICIAL (LOAR11) teve receita líquida de R$ 46,6 milhões e prejuízo líquido de R$ 85,0 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 77,2 milhões, margem EBITDA de -165,7% sobre a receita. A série anual disponível vai de 2010 a 2019.
+> KOSMOS COMÉRCIO DE VESTUÁRIO S/A - EM RECUPERAÇÃO JUDICIAL (LOAR11) teve receita líquida de R$ 46,6 milhões e prejuízo líquido de R$ 85,0 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 77,2 milhões, margem EBITDA de -165,7% sobre a receita. A série anual disponível vai de 2010 a 2019. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 46,6 mi · 2019
 

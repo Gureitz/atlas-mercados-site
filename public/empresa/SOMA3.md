@@ -1,19 +1,19 @@
 ---
 title: GRUPO DE MODA SOMA S.A. (SOMA3) — análise financeira | Atlas Mercados
-description: GRUPO DE MODA SOMA S.A. (SOMA3) teve receita líquida de R$ 5,4 bilhões e prejuízo líquido de R$ 1,6 bilhão no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 2,2 bilhões, margem EBITDA de -40,7% sobre a receita. Em 2022, distribuiu R$ 79,6 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2023.
+description: GRUPO DE MODA SOMA S.A. (SOMA3) teve receita líquida de R$ 5,4 bilhões e prejuízo líquido de R$ 1,6 bilhão no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 2,2 bilhões, margem EBITDA de -40,7% sobre a receita. Em 2022, distribuiu R$ 79,6 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/SOMA3
 ---
 <!-- https://atlasmercados.com.br/empresa/SOMA3 — versão Markdown da página -->
 
 GR
 
-GRUPO DE MODA SOMA S.A.
+GRUPO DE MODA SOMA S.A. registro cancelada na CVM sem pregão em 90 dias
 
 SOMA3 · CD_CVM 25011 · Têxtil e Vestuário · RJ · DFP 5a · ITR 5a
 
 [Consolidado](https://atlasmercados.com.br/empresa/SOMA3?base=con) [Individual](https://atlasmercados.com.br/empresa/SOMA3?base=ind)
 
-> GRUPO DE MODA SOMA S.A. (SOMA3) teve receita líquida de R$ 5,4 bilhões e prejuízo líquido de R$ 1,6 bilhão no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 2,2 bilhões, margem EBITDA de -40,7% sobre a receita. Em 2022, distribuiu R$ 79,6 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2023.
+> GRUPO DE MODA SOMA S.A. (SOMA3) teve receita líquida de R$ 5,4 bilhões e prejuízo líquido de R$ 1,6 bilhão no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 2,2 bilhões, margem EBITDA de -40,7% sobre a receita. Em 2022, distribuiu R$ 79,6 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 5,4 bi · 2023
 

@@ -1,19 +1,19 @@
 ---
 title: BRF S.A. (BRFS3) — análise financeira | Atlas Mercados
-description: BRF S.A. (BRFS3) teve receita líquida de R$ 65,0 bilhões e lucro líquido de R$ 3,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 10,2 bilhões, margem EBITDA de 15,7% sobre a receita. Em 2025, distribuiu R$ 4,5 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: BRF S.A. (BRFS3) teve receita líquida de R$ 65,0 bilhões e lucro líquido de R$ 3,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 10,2 bilhões, margem EBITDA de 15,7% sobre a receita. Em 2025, distribuiu R$ 4,5 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 22/09/2025, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/BRFS3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRFS3 — versão Markdown da página -->
 
 BR
 
-BRF S.A.
+BRF S.A. sem pregão em 90 dias
 
-BRFS3 · CD_CVM 16292 · Emp. Adm. Part. - Alimentos · SC · DFP 16a · ITR 16a
+BRFS3 · CD_CVM 16292 · Emp. Adm. Part. - Alimentos · SC · DFP 16a · ITR 16a · último pregão 22/09/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRFS3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRFS3?base=ind)
 
-> BRF S.A. (BRFS3) teve receita líquida de R$ 65,0 bilhões e lucro líquido de R$ 3,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 10,2 bilhões, margem EBITDA de 15,7% sobre a receita. Em 2025, distribuiu R$ 4,5 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> BRF S.A. (BRFS3) teve receita líquida de R$ 65,0 bilhões e lucro líquido de R$ 3,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 10,2 bilhões, margem EBITDA de 15,7% sobre a receita. Em 2025, distribuiu R$ 4,5 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 22/09/2025, segundo o COTAHIST).
 
 - Receita líq. · R$ 65,0 bi · 2025
 

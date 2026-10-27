@@ -1,19 +1,19 @@
 ---
 title: AUREN OPERAÇÕES S.A. (AESO3) — análise financeira | Atlas Mercados
-description: AUREN OPERAÇÕES S.A. (AESO3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 100,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 31,0% sobre a receita. Em 2024, distribuiu R$ 200,0 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+description: AUREN OPERAÇÕES S.A. (AESO3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 100,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,2 bilhão, margem EBITDA de 32,3% sobre a receita. Em 2024, distribuiu R$ 200,0 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/AESO3
 ---
 <!-- https://atlasmercados.com.br/empresa/AESO3 — versão Markdown da página -->
 
 AU
 
-AUREN OPERAÇÕES S.A.
+AUREN OPERAÇÕES S.A. sem pregão em 90 dias
 
 AESO3 · CD_CVM 26174 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 6a · ITR 6a
 
 [Consolidado](https://atlasmercados.com.br/empresa/AESO3?base=con) [Individual](https://atlasmercados.com.br/empresa/AESO3?base=ind)
 
-> AUREN OPERAÇÕES S.A. (AESO3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 100,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 31,0% sobre a receita. Em 2024, distribuiu R$ 200,0 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025.
+> AUREN OPERAÇÕES S.A. (AESO3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 100,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,2 bilhão, margem EBITDA de 32,3% sobre a receita. Em 2024, distribuiu R$ 200,0 milhões em dividendos (DMPL). A série anual disponível vai de 2021 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 3,6 bi · 2025
 

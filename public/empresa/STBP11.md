@@ -1,19 +1,19 @@
 ---
 title: SANTOS BRASIL PARTICIPAÇÕES S.A. (STBP11) — análise financeira | Atlas Mercados
-description: SANTOS BRASIL PARTICIPAÇÕES S.A. (STBP11) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 871,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 54,5% sobre a receita. Em 2025, distribuiu R$ 243,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: SANTOS BRASIL PARTICIPAÇÕES S.A. (STBP11) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 871,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 54,5% sobre a receita. Em 2025, distribuiu R$ 243,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 02/10/2025, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/STBP11
 ---
 <!-- https://atlasmercados.com.br/empresa/STBP11 — versão Markdown da página -->
 
 SA
 
-SANTOS BRASIL PARTICIPAÇÕES S.A.
+SANTOS BRASIL PARTICIPAÇÕES S.A. sem pregão em 90 dias
 
-STBP11, STBP3, STPB3 · CD_CVM 17892 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 16a · ITR 16a
+STBP11, STBP3, STPB3 · CD_CVM 17892 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 16a · ITR 16a · último pregão 02/10/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/STBP11?base=con) [Individual](https://atlasmercados.com.br/empresa/STBP11?base=ind)
 
-> SANTOS BRASIL PARTICIPAÇÕES S.A. (STBP11) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 871,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 54,5% sobre a receita. Em 2025, distribuiu R$ 243,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> SANTOS BRASIL PARTICIPAÇÕES S.A. (STBP11) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 871,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,0 bilhões, margem EBITDA de 54,5% sobre a receita. Em 2025, distribuiu R$ 243,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 02/10/2025, segundo o COTAHIST).
 
 - Receita líq. · R$ 3,6 bi · 2025
 

@@ -1,6 +1,6 @@
 ---
 title: MOVIDA PARTICIPAÇÕES S.A. (MOVI3) — análise financeira | Atlas Mercados
-description: MOVIDA PARTICIPAÇÕES S.A. (MOVI3) teve receita líquida de R$ 14,7 bilhões e lucro líquido de R$ 318,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,7 bilhões, margem EBITDA de 38,8% sobre a receita. O valor de mercado era de R$ 4,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,7 e P/VPA de 1,47 sobre o último exercício. Em 2025, distribuiu R$ 255,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2014 a 2025.
+description: MOVIDA PARTICIPAÇÕES S.A. (MOVI3) teve receita líquida de R$ 14,7 bilhões e lucro líquido de R$ 318,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,7 bilhões, margem EBITDA de 38,8% sobre a receita. O valor de mercado era de R$ 7,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 23,6 e P/VPA de 2,53 sobre o último exercício. Em 2025, distribuiu R$ 255,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2014 a 2025.
 url: https://atlasmercados.com.br/empresa/MOVI3
 ---
 <!-- https://atlasmercados.com.br/empresa/MOVI3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MO
 
 MOVIDA PARTICIPAÇÕES S.A.
 
-MOVI3, MOVI11 · CD_CVM 23825 · Serviços Transporte e Logística · SP · DFP 12a · ITR 12a
+MOVI3, MOVI11 · CD_CVM 23825 · Serviços Transporte e Logística · SP · DFP 12a · ITR 12a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MOVI3?base=con) [Individual](https://atlasmercados.com.br/empresa/MOVI3?base=ind)
 
-> MOVIDA PARTICIPAÇÕES S.A. (MOVI3) teve receita líquida de R$ 14,7 bilhões e lucro líquido de R$ 318,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,7 bilhões, margem EBITDA de 38,8% sobre a receita. O valor de mercado era de R$ 4,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,7 e P/VPA de 1,47 sobre o último exercício. Em 2025, distribuiu R$ 255,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2014 a 2025.
+> MOVIDA PARTICIPAÇÕES S.A. (MOVI3) teve receita líquida de R$ 14,7 bilhões e lucro líquido de R$ 318,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,7 bilhões, margem EBITDA de 38,8% sobre a receita. O valor de mercado era de R$ 7,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 23,6 e P/VPA de 2,53 sobre o último exercício. Em 2025, distribuiu R$ 255,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2014 a 2025.
 
 - Receita líq. · R$ 14,7 bi · 2025
 
@@ -86,11 +86,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 9,8× mediana 12,0× faixa 2,8× – 586,4× abaixo da mediana
+P/L atual 17,3× mediana 12,2× faixa 2,8× – 586,4× acima da mediana
 
-P/VPA atual 1,2× mediana 1,4× faixa 0,5× – 2,8× abaixo da mediana
+P/VPA atual 1,9× mediana 1,4× faixa 0,5× – 2,8× acima da mediana
 
-Dividend Yield atual 7,1% mediana 3,8% faixa 0,2% – 22,3% acima da mediana
+Dividend Yield atual 3,4% mediana 3,4% faixa 0,2% – 22,3% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

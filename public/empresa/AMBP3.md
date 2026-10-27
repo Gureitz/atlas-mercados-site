@@ -1,19 +1,19 @@
 ---
-title: AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. (AMBP3) — análise financeira | Atlas Mercados
-description: AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. (AMBP3) teve receita líquida de R$ 6,4 bilhões e prejuízo líquido de R$ 172,2 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 28,0% sobre a receita. A série anual disponível vai de 2019 a 2024.
+title: AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL (AMBP3) — análise financeira | Atlas Mercados
+description: AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL (AMBP3) teve receita líquida de R$ 6,4 bilhões e prejuízo líquido de R$ 172,2 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 28,0% sobre a receita. A série anual disponível vai de 2019 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 21/10/2025, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/AMBP3
 ---
 <!-- https://atlasmercados.com.br/empresa/AMBP3 — versão Markdown da página -->
 
 AM
 
-AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A.
+AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
-AMBP3 · CD_CVM 24961 · Saneamento, Serv. Água e Gás · SP · DFP 6a · ITR 6a
+AMBP3 · CD_CVM 24961 · Saneamento, Serv. Água e Gás · SP · DFP 6a · ITR 6a · último pregão 21/10/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/AMBP3?base=con) [Individual](https://atlasmercados.com.br/empresa/AMBP3?base=ind)
 
-> AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. (AMBP3) teve receita líquida de R$ 6,4 bilhões e prejuízo líquido de R$ 172,2 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 28,0% sobre a receita. A série anual disponível vai de 2019 a 2024.
+> AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL (AMBP3) teve receita líquida de R$ 6,4 bilhões e prejuízo líquido de R$ 172,2 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,8 bilhão, margem EBITDA de 28,0% sobre a receita. A série anual disponível vai de 2019 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 21/10/2025, segundo o COTAHIST).
 
 - Receita líq. · R$ 6,4 bi · 2024
 
@@ -105,6 +105,6 @@ Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a
 
 Como citar
 
-Atlas Mercados. AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. — demonstrações financeiras. https://atlasmercados.com.br/empresa/AMBP3. Dados: CVM Dados Abertos — DFP/ITR de AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. (CD_CVM 24961). Acesso em [data de acesso].
+Atlas Mercados. AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL — demonstrações financeiras. https://atlasmercados.com.br/empresa/AMBP3. Dados: CVM Dados Abertos — DFP/ITR de AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL (CD_CVM 24961). Acesso em [data de acesso].
 
 Identificador da série: cvm:24961 · Permalink: [https://atlasmercados.com.br/empresa/AMBP3](https://atlasmercados.com.br/empresa/AMBP3) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)

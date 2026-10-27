@@ -1,6 +1,6 @@
 ---
 title: USINAS SID DE MINAS GERAIS S.A.-USIMINAS (USIM3) — análise financeira | Atlas Mercados
-description: USINAS SID DE MINAS GERAIS S.A.-USIMINAS (USIM3) teve receita líquida de R$ 26,3 bilhões e prejuízo líquido de R$ 2,9 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 89,1 milhões, margem EBITDA de -0,3% sobre a receita. O valor de mercado era de R$ 9,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,38 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: USINAS SID DE MINAS GERAIS S.A.-USIMINAS (USIM3) teve receita líquida de R$ 26,3 bilhões e prejuízo líquido de R$ 2,9 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 89,1 milhões, margem EBITDA de -0,3% sobre a receita. O valor de mercado era de R$ 8,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,34 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 122 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/USIM3
 ---
 <!-- https://atlasmercados.com.br/empresa/USIM3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ US
 
 USINAS SID DE MINAS GERAIS S.A.-USIMINAS
 
-USIM3, USIM5, USIM6, USIM16 · CD_CVM 14320 · Metalurgia e Siderurgia · MG · DFP 16a · ITR 16a
+USIM3, USIM5, USIM6, USIM16 · CD_CVM 14320 · Metalurgia e Siderurgia · MG · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/USIM3?base=con) [Individual](https://atlasmercados.com.br/empresa/USIM3?base=ind)
 
-> USINAS SID DE MINAS GERAIS S.A.-USIMINAS (USIM3) teve receita líquida de R$ 26,3 bilhões e prejuízo líquido de R$ 2,9 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 89,1 milhões, margem EBITDA de -0,3% sobre a receita. O valor de mercado era de R$ 9,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,38 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> USINAS SID DE MINAS GERAIS S.A.-USIMINAS (USIM3) teve receita líquida de R$ 26,3 bilhões e prejuízo líquido de R$ 2,9 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 89,1 milhões, margem EBITDA de -0,3% sobre a receita. O valor de mercado era de R$ 8,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,34 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 122 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 26,3 bi · 2025
 
@@ -36,6 +36,30 @@ USIM3, USIM5, USIM6, USIM16 · CD_CVM 14320 · Metalurgia e Siderurgia · MG · 
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 122 MW · 3 usinas ≥ 1 MW
+
+- Capacidade proporcional · 181 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Usiminas 2 | Biomassa | MG | 63 MW | 100,0% | 63 |
+| Ipatinga | Fóssil | MG | 40 MW | 100,0% | 40 |
+| Jaíba NO1 coligada | Solar | MG | 40 MW | 49,0% | 20 |
+| Jaíba NE1 coligada | Solar | MG | 40 MW | 49,0% | 20 |
+| Usiminas | Biomassa | MG | 19 MW | 100,0% | 19 |
+| Jaíba N coligada | Solar | MG | 20 MW | 49,0% | 10 |
+| Jaíba O coligada | Solar | MG | 20 MW | 49,0% | 10 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -88,7 +112,7 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 P/L atual 14,0× mediana 6,6× faixa 1,0× – 2.056,9× acima da mediana
 
-P/VPA atual 0,4× mediana 0,4× faixa 0,2× – 1,7× abaixo da mediana
+P/VPA atual 0,3× mediana 0,4× faixa 0,2× – 1,7× abaixo da mediana
 
 Dividend Yield atual 4,7% mediana 4,1% faixa 0,2% – 25,2% acima da mediana
 

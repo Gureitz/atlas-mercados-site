@@ -1,6 +1,6 @@
 ---
 title: BANCO MERCANTIL BRASIL SA (BMEB3) — análise financeira | Atlas Mercados
-description: BANCO MERCANTIL BRASIL SA (BMEB3) teve receitas da intermediação financeira de R$ 8,3 bilhões e lucro líquido de R$ 640,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 6,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,4 e P/VPA de 2,86 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: BANCO MERCANTIL BRASIL SA (BMEB3) teve receitas da intermediação financeira de R$ 8,3 bilhões e lucro líquido de R$ 640,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,4 e P/VPA de 3,67 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/BMEB3
 ---
 <!-- https://atlasmercados.com.br/empresa/BMEB3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BA
 
 BANCO MERCANTIL BRASIL SA
 
-BMEB3, BMEB4 · CD_CVM 1325 · Bancos · MG · DFP 16a · ITR 16a
+BMEB3, BMEB4 · CD_CVM 1325 · Bancos · MG · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BMEB3?base=con) [Individual](https://atlasmercados.com.br/empresa/BMEB3?base=ind)
 
-> BANCO MERCANTIL BRASIL SA (BMEB3) teve receitas da intermediação financeira de R$ 8,3 bilhões e lucro líquido de R$ 640,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 6,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,4 e P/VPA de 2,86 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> BANCO MERCANTIL BRASIL SA (BMEB3) teve receitas da intermediação financeira de R$ 8,3 bilhões e lucro líquido de R$ 640,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,4 e P/VPA de 3,67 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 8,3 bi · 2025
 

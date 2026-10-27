@@ -1,6 +1,6 @@
 ---
 title: ENEVA S.A. (ENEV3) — análise financeira | Atlas Mercados
-description: ENEVA S.A. (ENEV3) teve receita líquida de R$ 18,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 35,3% sobre a receita. O valor de mercado era de R$ 55,6 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 32,9 e P/VPA de 2,60 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: ENEVA S.A. (ENEV3) teve receita líquida de R$ 18,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 35,3% sobre a receita. O valor de mercado era de R$ 61,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,0 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 6,3 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/ENEV3
 ---
 <!-- https://atlasmercados.com.br/empresa/ENEV3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ EN
 
 ENEVA S.A.
 
-ENEV3 · CD_CVM 21237 · Energia Elétrica · RJ · DFP 16a · ITR 16a
+ENEV3 · CD_CVM 21237 · Energia Elétrica · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/ENEV3?base=con) [Individual](https://atlasmercados.com.br/empresa/ENEV3?base=ind)
 
-> ENEVA S.A. (ENEV3) teve receita líquida de R$ 18,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 35,3% sobre a receita. O valor de mercado era de R$ 55,6 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 32,9 e P/VPA de 2,60 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> ENEVA S.A. (ENEV3) teve receita líquida de R$ 18,4 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,5 bilhões, margem EBITDA de 35,3% sobre a receita. O valor de mercado era de R$ 61,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,0 e P/VPA de 2,85 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 6,3 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 18,4 bi · 2025
 
@@ -36,6 +36,40 @@ ENEV3 · CD_CVM 21237 · Energia Elétrica · RJ · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 6.332 MW · 28 usinas ≥ 1 MW
+
+- Capacidade proporcional · 5.968 MW · inclui coligadas
+
+- Garantia física · 2.720 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Porto de Sergipe I | Fóssil | SE | 1.593 MW | 100,0% | 1.593 |
+| Maranhão III | Fóssil | MA | 519 MW | 82,9% | 430 |
+| Azulão | Fóssil | AM | 362 MW | 100,0% | 362 |
+| Porto do Itaqui (Antiga Termomaranhão) | Fóssil | MA | 360 MW | 100,0% | 360 |
+| Porto do Pecém II | Fóssil | CE | 360 MW | 100,0% | 360 |
+| Parnaíba V (Antiga Parnaíba 5A e 5B) | Fóssil | MA | 365 MW | 82,9% | 303 |
+| Maranhão IV (Antiga MC2 Joinville) | Fóssil | MA | 338 MW | 82,9% | 280 |
+| Maranhão V (Antiga MC2 João Neiva) | Fóssil | MA | 338 MW | 82,9% | 280 |
+| Luiz Oscar Rodrigues de Melo (Antiga Linhares) | Fóssil | ES | 240 MW | 100,0% | 240 |
+| MC2 Nova Venécia 2 | Fóssil | MA | 265 MW | 82,9% | 220 |
+| Viana | Fóssil | ES | 175 MW | 100,0% | 175 |
+| Geramar II (Antiga Nova Olinda) | Fóssil | MA | 166 MW | 100,0% | 166 |
+| Geramar I (Antiga Tocantinópolis) | Fóssil | MA | 166 MW | 100,0% | 166 |
+| Termoparaíba | Fóssil | PB | 171 MW | 81,7% | 140 |
+| Termonordeste | Fóssil | PB | 171 MW | 81,7% | 140 |
+
+15 de 47 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -135,9 +169,9 @@ DRE · DFP · consolidado · 2025 · 81 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 27,5× mediana 26,1× faixa 12,2× – 154,2× acima da mediana
+P/L atual 39,2× mediana 26,6× faixa 12,2× – 154,2× acima da mediana
 
-P/VPA atual 2,3× mediana 1,7× faixa 1,1× – 3,0× acima da mediana
+P/VPA atual 2,7× mediana 1,8× faixa 1,1× – 3,0× acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

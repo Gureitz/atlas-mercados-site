@@ -1,19 +1,19 @@
 ---
 title: BANCO VOITER S.A. (IDVL3) — análise financeira | Atlas Mercados
-description: BANCO VOITER S.A. (IDVL3) teve receitas da intermediação financeira de R$ 109,4 milhões e prejuízo líquido de R$ 17,7 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2019.
+description: BANCO VOITER S.A. (IDVL3) teve receitas da intermediação financeira de R$ 109,4 milhões e prejuízo líquido de R$ 17,7 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2019. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/IDVL3
 ---
 <!-- https://atlasmercados.com.br/empresa/IDVL3 — versão Markdown da página -->
 
 BA
 
-BANCO VOITER S.A.
+BANCO VOITER S.A. registro cancelada na CVM sem pregão em 90 dias
 
 IDVL3, IDVL4 · CD_CVM 20885 · Bancos · SP · DFP 10a · ITR 10a
 
 [Consolidado](https://atlasmercados.com.br/empresa/IDVL3?base=con) [Individual](https://atlasmercados.com.br/empresa/IDVL3?base=ind)
 
-> BANCO VOITER S.A. (IDVL3) teve receitas da intermediação financeira de R$ 109,4 milhões e prejuízo líquido de R$ 17,7 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2019.
+> BANCO VOITER S.A. (IDVL3) teve receitas da intermediação financeira de R$ 109,4 milhões e prejuízo líquido de R$ 17,7 milhões no exercício de 2019 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2019. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 109,4 mi · 2019
 

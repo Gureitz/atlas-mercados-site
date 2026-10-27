@@ -1,6 +1,6 @@
 ---
 title: PRIO S.A. (PRIO3) — análise financeira | Atlas Mercados
-description: PRIO S.A. (PRIO3) teve receita líquida de R$ 15,6 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 55,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 24,4 e P/VPA de 2,13 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: PRIO S.A. (PRIO3) teve receita líquida de R$ 15,6 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 64,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,6 e P/VPA de 2,50 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/PRIO3
 ---
 <!-- https://atlasmercados.com.br/empresa/PRIO3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ PR
 
 PRIO S.A.
 
-PRIO3 · CD_CVM 22187 · Petróleo e Gás · RJ · DFP 16a · ITR 16a
+PRIO3 · CD_CVM 22187 · Petróleo e Gás · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PRIO3?base=con) [Individual](https://atlasmercados.com.br/empresa/PRIO3?base=ind)
 
-> PRIO S.A. (PRIO3) teve receita líquida de R$ 15,6 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 55,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 24,4 e P/VPA de 2,13 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> PRIO S.A. (PRIO3) teve receita líquida de R$ 15,6 bilhões e lucro líquido de R$ 2,3 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 64,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 28,6 e P/VPA de 2,50 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 15,6 bi · 2025
 
@@ -94,9 +94,9 @@ DRE · DFP · consolidado · 2025 · 40 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 19,0× mediana 8,5× faixa 2,7× – 46,8× acima da mediana
+P/L atual 15,2× mediana 8,5× faixa 2,7× – 46,8× acima da mediana
 
-P/VPA atual 1,8× mediana 2,6× faixa 1,1× – 6,1× abaixo da mediana
+P/VPA atual 2,1× mediana 2,6× faixa 1,1× – 6,1× abaixo da mediana
 
 Dividend Yield atual 0,2% mediana 0,2% faixa 0,2% – 0,2% acima da mediana
 

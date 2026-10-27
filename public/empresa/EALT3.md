@@ -1,6 +1,6 @@
 ---
 title: ELECTRO AÇO ALTONA S/A (EALT3) — análise financeira | Atlas Mercados
-description: ELECTRO AÇO ALTONA S/A (EALT3) teve receita líquida de R$ 556,1 milhões e lucro líquido de R$ 91,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 79,8 milhões, margem EBITDA de 14,3% sobre a receita. O valor de mercado era de R$ 275,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,0 e P/VPA de 0,77 sobre o último exercício. Em 2025, distribuiu R$ 25,3 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2018 a 2025.
+description: ELECTRO AÇO ALTONA S/A (EALT3) teve receita líquida de R$ 556,1 milhões e lucro líquido de R$ 91,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 79,8 milhões, margem EBITDA de 14,3% sobre a receita. O valor de mercado era de R$ 278,1 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,1 e P/VPA de 0,78 sobre o último exercício. Em 2025, distribuiu R$ 25,3 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2018 a 2025.
 url: https://atlasmercados.com.br/empresa/EALT3
 ---
 <!-- https://atlasmercados.com.br/empresa/EALT3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ EL
 
 ELECTRO AÇO ALTONA S/A
 
-EALT3, EALT4 · CD_CVM 5380 · Metalurgia e Siderurgia · SC · DFP 16a · ITR 16a
+EALT3, EALT4 · CD_CVM 5380 · Metalurgia e Siderurgia · SC · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/EALT3?base=con) [Individual](https://atlasmercados.com.br/empresa/EALT3?base=ind)
 
-> ELECTRO AÇO ALTONA S/A (EALT3) teve receita líquida de R$ 556,1 milhões e lucro líquido de R$ 91,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 79,8 milhões, margem EBITDA de 14,3% sobre a receita. O valor de mercado era de R$ 275,3 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,0 e P/VPA de 0,77 sobre o último exercício. Em 2025, distribuiu R$ 25,3 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2018 a 2025.
+> ELECTRO AÇO ALTONA S/A (EALT3) teve receita líquida de R$ 556,1 milhões e lucro líquido de R$ 91,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 79,8 milhões, margem EBITDA de 14,3% sobre a receita. O valor de mercado era de R$ 278,1 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,1 e P/VPA de 0,78 sobre o último exercício. Em 2025, distribuiu R$ 25,3 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2018 a 2025.
 
 - Receita líq. · R$ 556,1 mi · 2025
 
@@ -97,7 +97,7 @@ P/L atual 4,7× mediana 5,1× faixa 2,9× – 12,8× abaixo da mediana
 
 P/VPA atual 0,7× mediana 1,0× faixa 0,7× – 1,3× abaixo da mediana
 
-Dividend Yield atual 9,3% mediana 3,5% faixa 0,4% – 10,1% acima da mediana
+Dividend Yield atual 9,1% mediana 3,5% faixa 0,4% – 10,1% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

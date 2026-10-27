@@ -29,7 +29,7 @@ Receita = volume × preço (driver específico não mapeado)
 | Custo dos produtos/serviços vendidosBRL | -R$ 626 mil | -R$ 536 mil | -R$ 595 mil | -R$ 440 mil | -R$ 529 mil | -R$ 600 mil | -R$ 530 mil | -R$ 487 mil | -R$ 565 mil | -R$ 535 mil |
 | Lucro brutoBRL | R$ 11,4 mi | R$ 7,1 mi | R$ 7,3 mi | R$ 6,3 mi | R$ 8,4 mi | R$ 5,8 mi | R$ 5,8 mi | R$ 4,4 mi | R$ 4,4 mi | R$ 3,8 mi |
 | Despesas operacionaisBRL | -R$ 7,9 mi | -R$ 7,4 mi | -R$ 7,2 mi | -R$ 8,4 mi | -R$ 9,0 mi | -R$ 6,1 mi | -R$ 6,0 mi | -R$ 6,3 mi | -R$ 6,3 mi | -R$ 4,8 mi |
-| Depreciação e amortizaçãoBRL | R$ 180 mil | R$ 191 mil | — | — | R$ 211 mil | R$ 213 mil | — | — | R$ 218 mil | R$ 223 mil |
+| Depreciação e amortizaçãoBRL | R$ 243 mil | R$ 235 mil | — | — | R$ 304 mil | R$ 307 mil | — | — | R$ 336 mil | R$ 341 mil |
 | EBITBRL | R$ 3,6 mi | -R$ 337 mil | R$ 97 mil | -R$ 2,1 mi | -R$ 599 mil | -R$ 263 mil | -R$ 206 mil | -R$ 1,9 mi | -R$ 1,9 mi | -R$ 978 mil |
 | Resultado financeiro líquidoBRL | R$ 79 mil | R$ 156 mil | R$ 131 mil | R$ 506 mil | R$ 29 mil | -R$ 2 mil | -R$ 66 mil | -R$ 3 mil | R$ 45 mil | -R$ 69 mil |
 | Resultado antes dos impostos (LAIR)BRL | R$ 3,6 mi | -R$ 181 mil | R$ 228 mil | -R$ 1,6 mi | -R$ 570 mil | -R$ 265 mil | -R$ 272 mil | -R$ 1,9 mi | -R$ 1,8 mi | -R$ 1,0 mi |

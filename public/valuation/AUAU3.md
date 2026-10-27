@@ -31,7 +31,7 @@ Atenção: Vendas mesmas lojas separam crescimento orgânico de abertura de loja
 | Custo dos produtos/serviços vendidosBRL | — | -R$ 377,5 mi | -R$ 388,0 mi | -R$ 388,6 mi | -R$ 408,1 mi | -R$ 392,1 mi | -R$ 405,8 mi | -R$ 416,5 mi | -R$ 438,2 mi | -R$ 899,2 mi | -R$ 930,5 mi |
 | Lucro brutoBRL | — | R$ 297,9 mi | R$ 279,7 mi | R$ 278,3 mi | R$ 319,7 mi | R$ 313,4 mi | R$ 344,5 mi | R$ 343,5 mi | R$ 359,8 mi | R$ 792,9 mi | R$ 836,4 mi |
 | Despesas operacionaisBRL | — | -R$ 260,2 mi | -R$ 232,2 mi | -R$ 264,8 mi | -R$ 208,3 mi | -R$ 273,3 mi | -R$ 271,9 mi | -R$ 273,9 mi | -R$ 322,0 mi | -R$ 675,0 mi | -R$ 639,2 mi |
-| Depreciação e amortizaçãoBRL | R$ 75,9 mi | R$ 22,9 mi | R$ 22,5 mi | R$ 23,8 mi | R$ 24,4 mi | R$ 26,5 mi | R$ 27,0 mi | R$ 27,1 mi | R$ 27,6 mi | R$ 77,1 mi | R$ 90,1 mi |
+| Depreciação e amortizaçãoBRL | R$ 200,0 mi | R$ 55,8 mi | R$ 55,4 mi | R$ 57,3 mi | R$ 57,4 mi | R$ 61,5 mi | R$ 63,8 mi | R$ 64,3 mi | R$ 64,9 mi | R$ 162,9 mi | R$ 162,7 mi |
 | EBITBRL | — | R$ 37,7 mi | R$ 47,5 mi | R$ 13,6 mi | R$ 111,5 mi | R$ 40,1 mi | R$ 72,6 mi | R$ 69,5 mi | R$ 37,9 mi | R$ 117,9 mi | R$ 197,2 mi |
 | Resultado financeiro líquidoBRL | — | -R$ 20,2 mi | -R$ 11,0 mi | -R$ 17,8 mi | -R$ 1,9 mi | -R$ 18,7 mi | -R$ 17,6 mi | -R$ 13,0 mi | -R$ 11,8 mi | -R$ 55,4 mi | -R$ 49,3 mi |
 | Resultado antes dos impostos (LAIR)BRL | — | R$ 17,5 mi | R$ 36,5 mi | -R$ 4,3 mi | R$ 109,6 mi | R$ 21,4 mi | R$ 55,0 mi | R$ 56,5 mi | R$ 26,0 mi | R$ 62,5 mi | R$ 147,9 mi |

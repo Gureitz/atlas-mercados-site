@@ -1,6 +1,6 @@
 ---
 title: BIOMM SA (BIOM3) — análise financeira | Atlas Mercados
-description: BIOMM SA (BIOM3) teve receita líquida de R$ 269,3 milhões e prejuízo líquido de R$ 6,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,3 milhões, margem EBITDA de 1,2% sobre a receita. O valor de mercado era de R$ 882,7 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,82 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: BIOMM SA (BIOM3) teve receita líquida de R$ 269,3 milhões e prejuízo líquido de R$ 6,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,3 milhões, margem EBITDA de 1,2% sobre a receita. O valor de mercado era de R$ 807,4 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,58 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/BIOM3
 ---
 <!-- https://atlasmercados.com.br/empresa/BIOM3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BI
 
 BIOMM SA
 
-BIOM3 · CD_CVM 19305 · Farmacêutico e Higiene · MG · DFP 16a · ITR 16a
+BIOM3 · CD_CVM 19305 · Farmacêutico e Higiene · MG · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BIOM3?base=con) [Individual](https://atlasmercados.com.br/empresa/BIOM3?base=ind)
 
-> BIOMM SA (BIOM3) teve receita líquida de R$ 269,3 milhões e prejuízo líquido de R$ 6,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,3 milhões, margem EBITDA de 1,2% sobre a receita. O valor de mercado era de R$ 882,7 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,82 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> BIOMM SA (BIOM3) teve receita líquida de R$ 269,3 milhões e prejuízo líquido de R$ 6,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,3 milhões, margem EBITDA de 1,2% sobre a receita. O valor de mercado era de R$ 807,4 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 2,58 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 269,3 mi · 2025
 

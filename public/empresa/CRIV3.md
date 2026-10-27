@@ -1,19 +1,19 @@
 ---
 title: FINANCEIRA ALFA S.A.- C.F.I (CRIV3) — análise financeira | Atlas Mercados
-description: FINANCEIRA ALFA S.A.- C.F.I (CRIV3) teve receitas da intermediação financeira de R$ 2,1 bilhões e lucro líquido de R$ 23,0 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2020 a 2023.
+description: FINANCEIRA ALFA S.A.- C.F.I (CRIV3) teve receitas da intermediação financeira de R$ 2,1 bilhões e lucro líquido de R$ 23,0 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2020 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/CRIV3
 ---
 <!-- https://atlasmercados.com.br/empresa/CRIV3 — versão Markdown da página -->
 
 FI
 
-FINANCEIRA ALFA S.A.- C.F.I
+FINANCEIRA ALFA S.A.- C.F.I registro cancelada na CVM sem pregão em 90 dias
 
 CRIV3, CRIV4 · CD_CVM 3891 · Bancos · SP · DFP 14a · ITR 13a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CRIV3?base=con) [Individual](https://atlasmercados.com.br/empresa/CRIV3?base=ind)
 
-> FINANCEIRA ALFA S.A.- C.F.I (CRIV3) teve receitas da intermediação financeira de R$ 2,1 bilhões e lucro líquido de R$ 23,0 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2020 a 2023.
+> FINANCEIRA ALFA S.A.- C.F.I (CRIV3) teve receitas da intermediação financeira de R$ 2,1 bilhões e lucro líquido de R$ 23,0 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2020 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 2,1 bi · 2023
 

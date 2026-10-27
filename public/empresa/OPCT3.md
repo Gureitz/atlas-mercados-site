@@ -1,6 +1,6 @@
 ---
 title: OCEANPACT SERVIÇOS MARÍTIMOS S.A. (OPCT3) — análise financeira | Atlas Mercados
-description: OCEANPACT SERVIÇOS MARÍTIMOS S.A. (OPCT3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 105,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 652,4 milhões, margem EBITDA de 30,6% sobre a receita. O valor de mercado era de R$ 1,8 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,7 e P/VPA de 1,74 sobre o último exercício. Em 2025, distribuiu R$ 4,8 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: OCEANPACT SERVIÇOS MARÍTIMOS S.A. (OPCT3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 105,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 652,4 milhões, margem EBITDA de 30,6% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,3 e P/VPA de 2,00 sobre o último exercício. Em 2025, distribuiu R$ 4,8 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/OPCT3
 ---
 <!-- https://atlasmercados.com.br/empresa/OPCT3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ OC
 
 OCEANPACT SERVIÇOS MARÍTIMOS S.A.
 
-OPCT3 · CD_CVM 25534 · Petróleo e Gás · RJ · DFP 7a · ITR 7a
+OPCT3 · CD_CVM 25534 · Petróleo e Gás · RJ · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/OPCT3?base=con) [Individual](https://atlasmercados.com.br/empresa/OPCT3?base=ind)
 
-> OCEANPACT SERVIÇOS MARÍTIMOS S.A. (OPCT3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 105,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 652,4 milhões, margem EBITDA de 30,6% sobre a receita. O valor de mercado era de R$ 1,8 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,7 e P/VPA de 1,74 sobre o último exercício. Em 2025, distribuiu R$ 4,8 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+> OCEANPACT SERVIÇOS MARÍTIMOS S.A. (OPCT3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 105,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 652,4 milhões, margem EBITDA de 30,6% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,3 e P/VPA de 2,00 sobre o último exercício. Em 2025, distribuiu R$ 4,8 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 2,1 bi · 2025
 
@@ -94,11 +94,11 @@ DRE · DFP · consolidado · 2025 · 40 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 13,7× mediana 19,1× faixa 12,9× – 53,8× abaixo da mediana
+P/L atual 12,1× mediana 18,3× faixa 12,1× – 53,8× abaixo da mediana
 
-P/VPA atual 1,7× mediana 1,3× faixa 0,4× – 11,2× acima da mediana
+P/VPA atual 2,0× mediana 1,3× faixa 0,4× – 11,2× acima da mediana
 
-Dividend Yield atual 0,3% mediana 0,5% faixa 0,2% – 1,3% abaixo da mediana
+Dividend Yield atual 0,2% mediana 0,5% faixa 0,2% – 1,3% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

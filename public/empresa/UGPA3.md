@@ -1,6 +1,6 @@
 ---
 title: ULTRAPAR PARTICIPAÇÕES SA (UGPA3) — análise financeira | Atlas Mercados
-description: ULTRAPAR PARTICIPAÇÕES SA (UGPA3) teve receita líquida de R$ 142,4 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,2 bilhões, margem EBITDA de 4,4% sobre a receita. O valor de mercado era de R$ 43,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 2,43 sobre o último exercício. Em 2025, distribuiu R$ 1,6 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: ULTRAPAR PARTICIPAÇÕES SA (UGPA3) teve receita líquida de R$ 142,4 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,6 bilhões, margem EBITDA de 4,6% sobre a receita. O valor de mercado era de R$ 43,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 2,43 sobre o último exercício. Em 2025, distribuiu R$ 1,6 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/UGPA3
 ---
 <!-- https://atlasmercados.com.br/empresa/UGPA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ UL
 
 ULTRAPAR PARTICIPAÇÕES SA
 
-UGPA3 · CD_CVM 18465 · Emp. Adm. Part. - Petróleo e Gás · SP · DFP 16a · ITR 16a
+UGPA3 · CD_CVM 18465 · Emp. Adm. Part. - Petróleo e Gás · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/UGPA3?base=con) [Individual](https://atlasmercados.com.br/empresa/UGPA3?base=ind)
 
-> ULTRAPAR PARTICIPAÇÕES SA (UGPA3) teve receita líquida de R$ 142,4 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,2 bilhões, margem EBITDA de 4,4% sobre a receita. O valor de mercado era de R$ 43,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 2,43 sobre o último exercício. Em 2025, distribuiu R$ 1,6 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> ULTRAPAR PARTICIPAÇÕES SA (UGPA3) teve receita líquida de R$ 142,4 bilhões e lucro líquido de R$ 2,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,6 bilhões, margem EBITDA de 4,6% sobre a receita. O valor de mercado era de R$ 43,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 16,9 e P/VPA de 2,43 sobre o último exercício. Em 2025, distribuiu R$ 1,6 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 142,4 bi · 2025
 
@@ -93,11 +93,11 @@ DRE · DFP · consolidado · 2025 · 39 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 13,2× mediana 12,0× faixa 5,9× – 103,9× acima da mediana
+P/L atual 11,6× mediana 11,9× faixa 5,9× – 103,9× abaixo da mediana
 
-P/VPA atual 2,2× mediana 1,6× faixa 1,1× – 2,7× acima da mediana
+P/VPA atual 2,1× mediana 1,6× faixa 1,1× – 2,7× acima da mediana
 
-Dividend Yield atual 4,0% mediana 3,0% faixa 1,3% – 7,0% acima da mediana
+Dividend Yield atual 3,9% mediana 3,0% faixa 1,3% – 7,0% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

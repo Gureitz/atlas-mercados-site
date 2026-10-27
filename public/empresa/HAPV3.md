@@ -1,6 +1,6 @@
 ---
 title: HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A. (HAPV3) — análise financeira | Atlas Mercados
-description: HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A. (HAPV3) teve receita líquida de R$ 31,6 bilhões e prejuízo líquido de R$ 142,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 5,5% sobre a receita. O valor de mercado era de R$ 3,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,08 sobre o último exercício. A série anual disponível vai de 2017 a 2025.
+description: HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A. (HAPV3) teve receita líquida de R$ 31,6 bilhões e prejuízo líquido de R$ 142,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,0 bilhões, margem EBITDA de 9,6% sobre a receita. O valor de mercado era de R$ 4,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,09 sobre o último exercício. A série anual disponível vai de 2017 a 2025.
 url: https://atlasmercados.com.br/empresa/HAPV3
 ---
 <!-- https://atlasmercados.com.br/empresa/HAPV3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ HA
 
 HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.
 
-HAPV3 · CD_CVM 24392 · Serviços Médicos · CE · DFP 9a · ITR 9a
+HAPV3 · CD_CVM 24392 · Serviços Médicos · CE · DFP 9a · ITR 9a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/HAPV3?base=con) [Individual](https://atlasmercados.com.br/empresa/HAPV3?base=ind)
 
-> HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A. (HAPV3) teve receita líquida de R$ 31,6 bilhões e prejuízo líquido de R$ 142,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,7 bilhão, margem EBITDA de 5,5% sobre a receita. O valor de mercado era de R$ 3,9 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,08 sobre o último exercício. A série anual disponível vai de 2017 a 2025.
+> HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A. (HAPV3) teve receita líquida de R$ 31,6 bilhões e prejuízo líquido de R$ 142,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 3,0 bilhões, margem EBITDA de 9,6% sobre a receita. O valor de mercado era de R$ 4,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,09 sobre o último exercício. A série anual disponível vai de 2017 a 2025.
 
 - Receita líq. · R$ 31,6 bi · 2025
 

@@ -1,19 +1,19 @@
 ---
 title: BLUE TECH SOLUTIONS EQI S.A. (BLUT3) — análise financeira | Atlas Mercados
-description: BLUE TECH SOLUTIONS EQI S.A. (BLUT3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 4,7 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2015 a 2021.
+description: BLUE TECH SOLUTIONS EQI S.A. (BLUT3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 4,7 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2015 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/BLUT3
 ---
 <!-- https://atlasmercados.com.br/empresa/BLUT3 — versão Markdown da página -->
 
 BL
 
-BLUE TECH SOLUTIONS EQI S.A.
+BLUE TECH SOLUTIONS EQI S.A. registro cancelada na CVM sem pregão em 90 dias
 
 BLUT3, BLUT4, JBDU3 · CD_CVM 12319 · Alimentos · SP · DFP 12a · ITR 11a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BLUT3?base=con) [Individual](https://atlasmercados.com.br/empresa/BLUT3?base=ind)
 
-> BLUE TECH SOLUTIONS EQI S.A. (BLUT3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 4,7 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2015 a 2021.
+> BLUE TECH SOLUTIONS EQI S.A. (BLUT3) teve receita líquida de R$ 0 e prejuízo líquido de R$ 4,7 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2015 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 0 · 2021
 

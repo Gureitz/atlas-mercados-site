@@ -11,7 +11,7 @@ IN
 
 INTELBRAS S.A. IND. DE TELECOMUNICAÇÃO ELETRÔNICA BRASILEIRA Comércio (Atacado e Varejo) B3 · CVM
 
-INTB3 · 15 linhas × 27 períodos · BRL · CVM
+INTB3 · 16 linhas × 27 períodos · BRL · CVM
 
 [Projetar →](https://atlasmercados.com.br/projecao/INTB3) [Trimestral](https://atlasmercados.com.br/valuation/INTB3?p=tri) [Anual](https://atlasmercados.com.br/valuation/INTB3?p=anual) [Tudo](https://atlasmercados.com.br/valuation/INTB3?p=tudo)
 
@@ -31,6 +31,7 @@ Atenção: Vendas mesmas lojas separam crescimento orgânico de abertura de loja
 | Custo dos produtos/serviços vendidosBRL | — | -R$ 289,6 mi | -R$ 228,1 mi | -R$ 410,4 mi | -R$ 505,5 mi | -R$ 487,9 mi | -R$ 506,4 mi | -R$ 534,1 mi | -R$ 649,5 mi | -R$ 612,6 mi | -R$ 735,4 mi | -R$ 810,1 mi | -R$ 873,0 mi | -R$ 709,2 mi | -R$ 636,8 mi | -R$ 631,5 mi | -R$ 849,2 mi | -R$ 687,1 mi | -R$ 812,7 mi | -R$ 879,4 mi | -R$ 914,3 mi | -R$ 650,1 mi | -R$ 880,8 mi | -R$ 777,6 mi | -R$ 809,4 mi | -R$ 769,6 mi | -R$ 768,8 mi |
 | Lucro brutoBRL | — | R$ 156,5 mi | R$ 151,3 mi | R$ 227,2 mi | R$ 165,8 mi | R$ 208,6 mi | R$ 218,5 mi | R$ 224,9 mi | R$ 257,3 mi | R$ 253,6 mi | R$ 280,5 mi | R$ 322,6 mi | R$ 344,8 mi | R$ 327,5 mi | R$ 334,1 mi | R$ 302,2 mi | R$ 313,2 mi | R$ 351,9 mi | R$ 372,9 mi | R$ 364,5 mi | R$ 373,4 mi | R$ 271,2 mi | R$ 365,7 mi | R$ 347,1 mi | R$ 358,6 mi | R$ 341,0 mi | R$ 380,2 mi |
 | Despesas operacionaisBRL | — | -R$ 94,4 mi | -R$ 84,1 mi | -R$ 122,3 mi | -R$ 13,7 mi | -R$ 112,6 mi | -R$ 129,7 mi | -R$ 150,2 mi | -R$ 154,1 mi | -R$ 163,3 mi | -R$ 176,9 mi | -R$ 190,3 mi | -R$ 207,6 mi | -R$ 201,6 mi | -R$ 215,3 mi | -R$ 194,2 mi | -R$ 144,5 mi | -R$ 206,9 mi | -R$ 237,8 mi | -R$ 238,8 mi | -R$ 234,8 mi | -R$ 218,8 mi | -R$ 239,8 mi | -R$ 233,0 mi | -R$ 225,8 mi | -R$ 213,4 mi | -R$ 240,3 mi |
+| Depreciação e amortizaçãoBRL | R$ 18,7 mi | R$ 5,0 mi | R$ 5,5 mi | R$ 6,0 mi | R$ 6,9 mi | R$ 6,3 mi | R$ 7,1 mi | R$ 14,4 mi | R$ 12,8 mi | R$ 14,7 mi | R$ 15,5 mi | R$ 16,3 mi | R$ 23,2 mi | R$ 17,9 mi | R$ 19,0 mi | R$ 20,3 mi | R$ 22,0 mi | R$ 22,0 mi | R$ 24,2 mi | R$ 24,8 mi | R$ 26,8 mi | R$ 28,8 mi | R$ 28,5 mi | R$ 29,9 mi | R$ 29,4 mi | R$ 28,7 mi | R$ 29,0 mi |
 | EBITBRL | — | R$ 62,1 mi | R$ 67,2 mi | R$ 105,0 mi | R$ 152,0 mi | R$ 96,0 mi | R$ 88,8 mi | R$ 74,6 mi | R$ 103,1 mi | R$ 90,3 mi | R$ 103,5 mi | R$ 132,3 mi | R$ 137,2 mi | R$ 125,9 mi | R$ 118,8 mi | R$ 107,9 mi | R$ 168,7 mi | R$ 145,0 mi | R$ 135,1 mi | R$ 125,7 mi | R$ 138,5 mi | R$ 52,4 mi | R$ 125,9 mi | R$ 114,1 mi | R$ 132,8 mi | R$ 127,6 mi | R$ 139,9 mi |
 | Resultado financeiro líquidoBRL | — | -R$ 115,5 mi | -R$ 21,2 mi | R$ 1,4 mi | R$ 65,6 mi | -R$ 8,5 mi | R$ 2,3 mi | R$ 9,7 mi | R$ 4,4 mi | R$ 13,6 mi | -R$ 8,5 mi | -R$ 4,7 mi | R$ 6,2 mi | -R$ 5,4 mi | R$ 619 mil | -R$ 5,3 mi | R$ 5,5 mi | R$ 9,4 mi | -R$ 13,2 mi | R$ 437 mil | -R$ 26,1 mi | -R$ 3,0 mi | R$ 11,1 mi | R$ 29,4 mi | R$ 17,5 mi | R$ 23,0 mi | R$ 29,8 mi |
 | Resultado antes dos impostos (LAIR)BRL | — | -R$ 53,4 mi | R$ 46,1 mi | R$ 106,4 mi | R$ 217,7 mi | R$ 87,5 mi | R$ 91,1 mi | R$ 84,3 mi | R$ 107,5 mi | R$ 103,9 mi | R$ 95,0 mi | R$ 127,7 mi | R$ 143,5 mi | R$ 120,5 mi | R$ 119,4 mi | R$ 102,6 mi | R$ 174,2 mi | R$ 154,4 mi | R$ 121,9 mi | R$ 126,1 mi | R$ 112,4 mi | R$ 49,4 mi | R$ 137,0 mi | R$ 143,5 mi | R$ 150,3 mi | R$ 150,6 mi | R$ 169,7 mi |

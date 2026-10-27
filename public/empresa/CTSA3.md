@@ -1,19 +1,19 @@
 ---
 title: CIA TECIDOS SANTANENSE - EM RECUPERAÇÃO JUDICIAL (CTSA3) — análise financeira | Atlas Mercados
-description: CIA TECIDOS SANTANENSE - EM RECUPERAÇÃO JUDICIAL (CTSA3) teve receita líquida de R$ 35,6 milhões e prejuízo líquido de R$ 161,4 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 98,2 milhões, margem EBITDA de -276,3% sobre a receita. A série anual disponível vai de 2010 a 2024.
+description: CIA TECIDOS SANTANENSE - EM RECUPERAÇÃO JUDICIAL (CTSA3) teve receita líquida de R$ 35,6 milhões e prejuízo líquido de R$ 161,4 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 98,2 milhões, margem EBITDA de -276,3% sobre a receita. A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/CTSA3
 ---
 <!-- https://atlasmercados.com.br/empresa/CTSA3 — versão Markdown da página -->
 
 CI
 
-CIA TECIDOS SANTANENSE - EM RECUPERAÇÃO JUDICIAL
+CIA TECIDOS SANTANENSE - EM RECUPERAÇÃO JUDICIAL registro suspenso(a) - decisão adm na CVM sem pregão em 90 dias
 
 CTSA3, CTSA4 · CD_CVM 4081 · Têxtil e Vestuário · MG · DFP 15a · ITR 14a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CTSA3?base=con) [Individual](https://atlasmercados.com.br/empresa/CTSA3?base=ind)
 
-> CIA TECIDOS SANTANENSE - EM RECUPERAÇÃO JUDICIAL (CTSA3) teve receita líquida de R$ 35,6 milhões e prejuízo líquido de R$ 161,4 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 98,2 milhões, margem EBITDA de -276,3% sobre a receita. A série anual disponível vai de 2010 a 2024.
+> CIA TECIDOS SANTANENSE - EM RECUPERAÇÃO JUDICIAL (CTSA3) teve receita líquida de R$ 35,6 milhões e prejuízo líquido de R$ 161,4 milhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 98,2 milhões, margem EBITDA de -276,3% sobre a receita. A série anual disponível vai de 2010 a 2024. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 35,6 mi · 2024
 

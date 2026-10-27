@@ -1,6 +1,6 @@
 ---
 title: LOCALIZA RENT A CAR SA (RENT3) — análise financeira | Atlas Mercados
-description: LOCALIZA RENT A CAR SA (RENT3) teve receita líquida de R$ 41,8 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,8 bilhões, margem EBITDA de 32,9% sobre a receita. O valor de mercado era de R$ 46,6 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 24,9 e P/VPA de 1,83 sobre o último exercício. Em 2025, distribuiu R$ 2,1 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: LOCALIZA RENT A CAR SA (RENT3) teve receita líquida de R$ 41,8 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,8 bilhões, margem EBITDA de 32,9% sobre a receita. O valor de mercado era de R$ 58,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 31,5 e P/VPA de 2,31 sobre o último exercício. Em 2025, distribuiu R$ 2,1 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/RENT3
 ---
 <!-- https://atlasmercados.com.br/empresa/RENT3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ LO
 
 LOCALIZA RENT A CAR SA
 
-RENT3, RENT4 · CD_CVM 19739 · Serviços Transporte e Logística · MG · DFP 16a · ITR 16a
+RENT3, RENT4 · CD_CVM 19739 · Serviços Transporte e Logística · MG · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/RENT3?base=con) [Individual](https://atlasmercados.com.br/empresa/RENT3?base=ind)
 
-> LOCALIZA RENT A CAR SA (RENT3) teve receita líquida de R$ 41,8 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,8 bilhões, margem EBITDA de 32,9% sobre a receita. O valor de mercado era de R$ 46,6 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 24,9 e P/VPA de 1,83 sobre o último exercício. Em 2025, distribuiu R$ 2,1 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> LOCALIZA RENT A CAR SA (RENT3) teve receita líquida de R$ 41,8 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 13,8 bilhões, margem EBITDA de 32,9% sobre a receita. O valor de mercado era de R$ 58,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 31,5 e P/VPA de 2,31 sobre o último exercício. Em 2025, distribuiu R$ 2,1 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 41,8 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 19,0× mediana 28,5× faixa 17,5× – 68,7× abaixo da mediana
+P/L atual 17,2× mediana 28,3× faixa 17,2× – 68,7× abaixo da mediana
 
-P/VPA atual 1,6× mediana 2,8× faixa 1,2× – 9,5× abaixo da mediana
+P/VPA atual 2,2× mediana 2,8× faixa 1,2× – 9,5× abaixo da mediana
 
-Dividend Yield atual 4,9% mediana 1,4% faixa 0,6% – 5,3% acima da mediana
+Dividend Yield atual 3,6% mediana 1,4% faixa 0,6% – 5,3% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

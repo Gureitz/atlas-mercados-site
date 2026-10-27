@@ -1,6 +1,6 @@
 ---
 title: HELBOR EMPREENDIMENTOS S/A (HBOR3) — análise financeira | Atlas Mercados
-description: HELBOR EMPREENDIMENTOS S/A (HBOR3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 92,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 139,6 milhões, margem EBITDA de 12,4% sobre a receita. O valor de mercado era de R$ 283,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,1 e P/VPA de 0,10 sobre o último exercício. Em 2025, distribuiu R$ 17,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: HELBOR EMPREENDIMENTOS S/A (HBOR3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 92,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 139,6 milhões, margem EBITDA de 12,4% sobre a receita. O valor de mercado era de R$ 365,4 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,0 e P/VPA de 0,13 sobre o último exercício. Em 2025, distribuiu R$ 17,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/HBOR3
 ---
 <!-- https://atlasmercados.com.br/empresa/HBOR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ HE
 
 HELBOR EMPREENDIMENTOS S/A
 
-HBOR3 · CD_CVM 20877 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+HBOR3 · CD_CVM 20877 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/HBOR3?base=con) [Individual](https://atlasmercados.com.br/empresa/HBOR3?base=ind)
 
-> HELBOR EMPREENDIMENTOS S/A (HBOR3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 92,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 139,6 milhões, margem EBITDA de 12,4% sobre a receita. O valor de mercado era de R$ 283,8 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,1 e P/VPA de 0,10 sobre o último exercício. Em 2025, distribuiu R$ 17,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> HELBOR EMPREENDIMENTOS S/A (HBOR3) teve receita líquida de R$ 1,1 bilhão e lucro líquido de R$ 92,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 139,6 milhões, margem EBITDA de 12,4% sobre a receita. O valor de mercado era de R$ 365,4 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,0 e P/VPA de 0,13 sobre o último exercício. Em 2025, distribuiu R$ 17,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,1 bi · 2025
 
@@ -98,11 +98,11 @@ DRE · DFP · consolidado · 2025 · 44 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 3,4× mediana 2,9× faixa 1,0× – 19,0× acima da mediana
+P/L atual 5,5× mediana 3,0× faixa 1,0× – 19,0× acima da mediana
 
 P/VPA atual 0,1× mediana 0,2× faixa 0,1× – 5,0× abaixo da mediana
 
-Dividend Yield atual 6,4% mediana 4,0% faixa 0,5% – 9,1% acima da mediana
+Dividend Yield atual 4,9% mediana 4,0% faixa 0,5% – 9,1% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

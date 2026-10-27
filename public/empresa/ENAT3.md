@@ -1,19 +1,19 @@
 ---
 title: ENAUTA PARTICIPAÇÕES S.A. (ENAT3) — análise financeira | Atlas Mercados
-description: ENAUTA PARTICIPAÇÕES S.A. (ENAT3) teve receita líquida de R$ 1,4 bilhão e prejuízo líquido de R$ 45,4 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2023, distribuiu R$ 39,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023.
+description: ENAUTA PARTICIPAÇÕES S.A. (ENAT3) teve receita líquida de R$ 1,4 bilhão e prejuízo líquido de R$ 45,4 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 680,7 milhões, margem EBITDA de 49,0% sobre a receita. Em 2023, distribuiu R$ 39,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/ENAT3
 ---
 <!-- https://atlasmercados.com.br/empresa/ENAT3 — versão Markdown da página -->
 
 EN
 
-ENAUTA PARTICIPAÇÕES S.A.
+ENAUTA PARTICIPAÇÕES S.A. registro cancelada na CVM sem pregão em 90 dias
 
 ENAT3, QGEP3 · CD_CVM 22365 · Emp. Adm. Part. - Petróleo e Gás · RJ · DFP 14a · ITR 14a
 
 [Consolidado](https://atlasmercados.com.br/empresa/ENAT3?base=con) [Individual](https://atlasmercados.com.br/empresa/ENAT3?base=ind)
 
-> ENAUTA PARTICIPAÇÕES S.A. (ENAT3) teve receita líquida de R$ 1,4 bilhão e prejuízo líquido de R$ 45,4 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2023, distribuiu R$ 39,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023.
+> ENAUTA PARTICIPAÇÕES S.A. (ENAT3) teve receita líquida de R$ 1,4 bilhão e prejuízo líquido de R$ 45,4 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 680,7 milhões, margem EBITDA de 49,0% sobre a receita. Em 2023, distribuiu R$ 39,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 1,4 bi · 2023
 

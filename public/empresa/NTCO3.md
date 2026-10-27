@@ -1,19 +1,19 @@
 ---
 title: NATURA & CO HOLDING S.A. (NTCO3) — análise financeira | Atlas Mercados
-description: NATURA & CO HOLDING S.A. (NTCO3) teve receita líquida de R$ 24,1 bilhões e prejuízo líquido de R$ 8,9 bilhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,9 bilhão, margem EBITDA de 7,8% sobre a receita. Em 2024, distribuiu R$ 730,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2024.
+description: NATURA & CO HOLDING S.A. (NTCO3) teve receita líquida de R$ 24,1 bilhões e prejuízo líquido de R$ 8,9 bilhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,9 bilhão, margem EBITDA de 7,8% sobre a receita. Em 2024, distribuiu R$ 730,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 01/07/2025, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/NTCO3
 ---
 <!-- https://atlasmercados.com.br/empresa/NTCO3 — versão Markdown da página -->
 
 NA
 
-NATURA & CO HOLDING S.A.
+NATURA & CO HOLDING S.A. registro cancelada na CVM sem pregão em 90 dias
 
-NTCO3 · CD_CVM 24783 · Farmacêutico e Higiene · SP · DFP 6a · ITR 7a
+NTCO3 · CD_CVM 24783 · Farmacêutico e Higiene · SP · DFP 6a · ITR 7a · último pregão 01/07/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/NTCO3?base=con) [Individual](https://atlasmercados.com.br/empresa/NTCO3?base=ind)
 
-> NATURA & CO HOLDING S.A. (NTCO3) teve receita líquida de R$ 24,1 bilhões e prejuízo líquido de R$ 8,9 bilhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,9 bilhão, margem EBITDA de 7,8% sobre a receita. Em 2024, distribuiu R$ 730,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2024.
+> NATURA & CO HOLDING S.A. (NTCO3) teve receita líquida de R$ 24,1 bilhões e prejuízo líquido de R$ 8,9 bilhões no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,9 bilhão, margem EBITDA de 7,8% sobre a receita. Em 2024, distribuiu R$ 730,0 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 01/07/2025, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 24,1 bi · 2024
 

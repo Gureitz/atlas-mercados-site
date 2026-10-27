@@ -9,7 +9,7 @@ IN
 
 INEPAR S.A. INDUSTRIA E CONSTRUCOES EM RECUPERACAO JUDICIAL
 
-INEP3 · CD_CVM 7595 · Máquinas, Equipamentos, Veículos e Peças · PR · DFP 16a · ITR 16a
+INEP3, INEP4 · CD_CVM 7595 · Máquinas, Equipamentos, Veículos e Peças · PR · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/INEP3?base=con) [Individual](https://atlasmercados.com.br/empresa/INEP3?base=ind)
 

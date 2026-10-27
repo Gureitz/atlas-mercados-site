@@ -1,6 +1,6 @@
 ---
 title: TUPY SA (TUPY3) — análise financeira | Atlas Mercados
-description: TUPY SA (TUPY3) teve receita líquida de R$ 9,7 bilhões e prejuízo líquido de R$ 654,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 225,0 milhões, margem EBITDA de 2,3% sobre a receita. O valor de mercado era de R$ 2,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,88 sobre o último exercício. Em 2024, distribuiu R$ 190,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: TUPY SA (TUPY3) teve receita líquida de R$ 9,7 bilhões e prejuízo líquido de R$ 654,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 225,0 milhões, margem EBITDA de 2,3% sobre a receita. O valor de mercado era de R$ 2,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,08 sobre o último exercício. Em 2024, distribuiu R$ 190,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/TUPY3
 ---
 <!-- https://atlasmercados.com.br/empresa/TUPY3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ TU
 
 TUPY SA
 
-TUPY3 · CD_CVM 6343 · Metalurgia e Siderurgia · SC · DFP 16a · ITR 16a
+TUPY3 · CD_CVM 6343 · Metalurgia e Siderurgia · SC · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/TUPY3?base=con) [Individual](https://atlasmercados.com.br/empresa/TUPY3?base=ind)
 
-> TUPY SA (TUPY3) teve receita líquida de R$ 9,7 bilhões e prejuízo líquido de R$ 654,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 225,0 milhões, margem EBITDA de 2,3% sobre a receita. O valor de mercado era de R$ 2,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,88 sobre o último exercício. Em 2024, distribuiu R$ 190,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> TUPY SA (TUPY3) teve receita líquida de R$ 9,7 bilhões e prejuízo líquido de R$ 654,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 225,0 milhões, margem EBITDA de 2,3% sobre a receita. O valor de mercado era de R$ 2,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 1,08 sobre o último exercício. Em 2024, distribuiu R$ 190,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 9,7 bi · 2025
 
@@ -88,9 +88,9 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 P/L atual 28,9× mediana 8,7× faixa 6,4× – 35,1× acima da mediana
 
-P/VPA atual 0,9× mediana 1,1× faixa 0,5× – 1,5× abaixo da mediana
+P/VPA atual 1,2× mediana 1,1× faixa 0,5× – 1,5× acima da mediana
 
-Dividend Yield atual 9,1% mediana 4,1% faixa 1,5% – 11,8% acima da mediana
+Dividend Yield atual 7,1% mediana 4,1% faixa 1,5% – 11,8% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

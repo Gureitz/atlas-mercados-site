@@ -1,6 +1,6 @@
 ---
 title: NATURA COSMETICOS SA (NATU3) — análise financeira | Atlas Mercados
-description: NATURA COSMETICOS SA (NATU3) teve receita líquida de R$ 21,8 bilhões e prejuízo líquido de R$ 1,8 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 10,2% sobre a receita. O valor de mercado era de R$ 10,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,79 sobre o último exercício. Em 2024, distribuiu R$ 406,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: NATURA COSMETICOS SA (NATU3) teve receita líquida de R$ 21,8 bilhões e prejuízo líquido de R$ 1,8 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 10,2% sobre a receita. O valor de mercado era de R$ 10,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,84 sobre o último exercício. Em 2024, distribuiu R$ 406,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/NATU3
 ---
 <!-- https://atlasmercados.com.br/empresa/NATU3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ NA
 
 NATURA COSMETICOS SA
 
-NATU3 · CD_CVM 19550 · Farmacêutico e Higiene · SP · DFP 16a · ITR 16a
+NATU3 · CD_CVM 19550 · Farmacêutico e Higiene · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/NATU3?base=con) [Individual](https://atlasmercados.com.br/empresa/NATU3?base=ind)
 
-> NATURA COSMETICOS SA (NATU3) teve receita líquida de R$ 21,8 bilhões e prejuízo líquido de R$ 1,8 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 10,2% sobre a receita. O valor de mercado era de R$ 10,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,79 sobre o último exercício. Em 2024, distribuiu R$ 406,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> NATURA COSMETICOS SA (NATU3) teve receita líquida de R$ 21,8 bilhões e prejuízo líquido de R$ 1,8 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,2 bilhões, margem EBITDA de 10,2% sobre a receita. O valor de mercado era de R$ 10,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,84 sobre o último exercício. Em 2024, distribuiu R$ 406,9 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 21,8 bi · 2025
 
@@ -87,9 +87,9 @@ DRE · DFP · consolidado · 2025 · 31 linhas · R$
 
 P/L atual 19,6× mediana 15,5× faixa 9,0× – 19,6× acima da mediana
 
-P/VPA atual 0,7× mediana 1,1× faixa 0,7× – 1,4× abaixo da mediana
+P/VPA atual 0,9× mediana 1,1× faixa 0,7× – 1,4× abaixo da mediana
 
-Dividend Yield atual 4,4% mediana 3,3% faixa 2,5% – 4,9% acima da mediana
+Dividend Yield atual 3,7% mediana 3,3% faixa 2,5% – 4,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

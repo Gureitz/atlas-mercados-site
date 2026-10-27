@@ -1,6 +1,6 @@
 ---
 title: KARSTEN SA (CTKA3) — análise financeira | Atlas Mercados
-description: KARSTEN SA (CTKA3) teve receita líquida de R$ 759,0 milhões e lucro líquido de R$ 70,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 114,6 milhões, margem EBITDA de 15,1% sobre a receita. O valor de mercado era de R$ 227,7 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,2 e P/VPA de 3,00 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: KARSTEN SA (CTKA3) teve receita líquida de R$ 759,0 milhões e lucro líquido de R$ 70,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 114,6 milhões, margem EBITDA de 15,1% sobre a receita. O valor de mercado era de R$ 214,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,0 e P/VPA de 2,83 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/CTKA3
 ---
 <!-- https://atlasmercados.com.br/empresa/CTKA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ KA
 
 KARSTEN SA
 
-CTKA3, CTKA4 · CD_CVM 4146 · Têxtil e Vestuário · SC · DFP 16a · ITR 16a
+CTKA3, CTKA4 · CD_CVM 4146 · Têxtil e Vestuário · SC · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CTKA3?base=con) [Individual](https://atlasmercados.com.br/empresa/CTKA3?base=ind)
 
-> KARSTEN SA (CTKA3) teve receita líquida de R$ 759,0 milhões e lucro líquido de R$ 70,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 114,6 milhões, margem EBITDA de 15,1% sobre a receita. O valor de mercado era de R$ 227,7 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,2 e P/VPA de 3,00 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> KARSTEN SA (CTKA3) teve receita líquida de R$ 759,0 milhões e lucro líquido de R$ 70,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 114,6 milhões, margem EBITDA de 15,1% sobre a receita. O valor de mercado era de R$ 214,8 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,0 e P/VPA de 2,83 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 759,0 mi · 2025
 
@@ -86,9 +86,9 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 3,7× mediana 2,4× faixa 1,8× – 3,8× acima da mediana
+P/L atual 3,6× mediana 2,4× faixa 1,8× – 3,8× acima da mediana
 
-P/VPA atual 2,8× mediana 5,6× faixa 2,4× – 41,3× abaixo da mediana
+P/VPA atual 2,3× mediana 5,3× faixa 2,3× – 41,3× abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

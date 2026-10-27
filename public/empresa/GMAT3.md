@@ -1,6 +1,6 @@
 ---
 title: GRUPO MATEUS S.A. (GMAT3) — análise financeira | Atlas Mercados
-description: GRUPO MATEUS S.A. (GMAT3) teve receita líquida de R$ 38,4 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,8 bilhões, margem EBITDA de 7,3% sobre a receita. O valor de mercado era de R$ 11,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,1 e P/VPA de 0,99 sobre o último exercício. Em 2025, distribuiu R$ 559,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2025.
+description: GRUPO MATEUS S.A. (GMAT3) teve receita líquida de R$ 38,4 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,8 bilhões, margem EBITDA de 7,3% sobre a receita. O valor de mercado era de R$ 12,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,6 e P/VPA de 1,06 sobre o último exercício. Em 2025, distribuiu R$ 559,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/GMAT3
 ---
 <!-- https://atlasmercados.com.br/empresa/GMAT3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ GR
 
 GRUPO MATEUS S.A.
 
-GMAT3 · CD_CVM 25186 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · MA · DFP 7a · ITR 7a
+GMAT3 · CD_CVM 25186 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · MA · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/GMAT3?base=con) [Individual](https://atlasmercados.com.br/empresa/GMAT3?base=ind)
 
-> GRUPO MATEUS S.A. (GMAT3) teve receita líquida de R$ 38,4 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,8 bilhões, margem EBITDA de 7,3% sobre a receita. O valor de mercado era de R$ 11,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,1 e P/VPA de 0,99 sobre o último exercício. Em 2025, distribuiu R$ 559,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2025.
+> GRUPO MATEUS S.A. (GMAT3) teve receita líquida de R$ 38,4 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 2,8 bilhões, margem EBITDA de 7,3% sobre a receita. O valor de mercado era de R$ 12,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,6 e P/VPA de 1,06 sobre o último exercício. Em 2025, distribuiu R$ 559,9 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 38,4 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 6,5× mediana 13,2× faixa 2,8× – 174,8× abaixo da mediana
+P/L atual 7,5× mediana 13,2× faixa 2,8× – 174,8× abaixo da mediana
 
-P/VPA atual 0,9× mediana 1,8× faixa 0,4× – 21,2× abaixo da mediana
+P/VPA atual 1,0× mediana 1,7× faixa 0,4× – 21,2× abaixo da mediana
 
-Dividend Yield atual 5,0% mediana 3,8% faixa 2,3% – 6,6% acima da mediana
+Dividend Yield atual 4,6% mediana 4,0% faixa 2,3% – 6,6% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

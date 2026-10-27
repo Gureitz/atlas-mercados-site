@@ -1,19 +1,19 @@
 ---
 title: FIBRIA CELULOSE S.A. (FIBR3) — análise financeira | Atlas Mercados
-description: FIBRIA CELULOSE S.A. (FIBR3) teve receita líquida de R$ 18,3 bilhões e lucro líquido de R$ 3,1 bilhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,3 bilhões, margem EBITDA de 50,7% sobre a receita. Em 2018, distribuiu R$ 3,5 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018.
+description: FIBRIA CELULOSE S.A. (FIBR3) teve receita líquida de R$ 18,3 bilhões e lucro líquido de R$ 3,1 bilhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,4 bilhões, margem EBITDA de 51,2% sobre a receita. Em 2018, distribuiu R$ 3,5 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/FIBR3
 ---
 <!-- https://atlasmercados.com.br/empresa/FIBR3 — versão Markdown da página -->
 
 FI
 
-FIBRIA CELULOSE S.A.
+FIBRIA CELULOSE S.A. registro cancelada na CVM sem pregão em 90 dias
 
 FIBR3 · CD_CVM 12793 · Papel e Celulose · SP · DFP 9a · ITR 8a
 
 [Consolidado](https://atlasmercados.com.br/empresa/FIBR3?base=con) [Individual](https://atlasmercados.com.br/empresa/FIBR3?base=ind)
 
-> FIBRIA CELULOSE S.A. (FIBR3) teve receita líquida de R$ 18,3 bilhões e lucro líquido de R$ 3,1 bilhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,3 bilhões, margem EBITDA de 50,7% sobre a receita. Em 2018, distribuiu R$ 3,5 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018.
+> FIBRIA CELULOSE S.A. (FIBR3) teve receita líquida de R$ 18,3 bilhões e lucro líquido de R$ 3,1 bilhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,4 bilhões, margem EBITDA de 51,2% sobre a receita. Em 2018, distribuiu R$ 3,5 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 18,3 bi · 2018
 

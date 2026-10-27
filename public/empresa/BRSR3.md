@@ -1,6 +1,6 @@
 ---
 title: BANCO DO ESTADO DO RIO GRANDE DO SUL SA (BRSR3) — análise financeira | Atlas Mercados
-description: BANCO DO ESTADO DO RIO GRANDE DO SUL SA (BRSR3) teve receitas da intermediação financeira de R$ 21,7 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 7,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 0,61 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: BANCO DO ESTADO DO RIO GRANDE DO SUL SA (BRSR3) teve receitas da intermediação financeira de R$ 21,7 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,7 e P/VPA de 0,71 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/BRSR3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRSR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BA
 
 BANCO DO ESTADO DO RIO GRANDE DO SUL SA
 
-BRSR3, BRSR5, BRSR6 · CD_CVM 1210 · Bancos · RS · DFP 16a · ITR 16a
+BRSR3, BRSR5, BRSR6 · CD_CVM 1210 · Bancos · RS · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRSR3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRSR3?base=ind)
 
-> BANCO DO ESTADO DO RIO GRANDE DO SUL SA (BRSR3) teve receitas da intermediação financeira de R$ 21,7 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 7,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,1 e P/VPA de 0,61 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> BANCO DO ESTADO DO RIO GRANDE DO SUL SA (BRSR3) teve receitas da intermediação financeira de R$ 21,7 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 8,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,7 e P/VPA de 0,71 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 21,7 bi · 2025
 

@@ -1,6 +1,6 @@
 ---
 title: SER EDUCACIONAL S.A. (SEER3) — análise financeira | Atlas Mercados
-description: SER EDUCACIONAL S.A. (SEER3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 214,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 669,3 milhões, margem EBITDA de 30,2% sobre a receita. O valor de mercado era de R$ 1,9 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,8 e P/VPA de 1,40 sobre o último exercício. Em 2025, distribuiu R$ 80,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: SER EDUCACIONAL S.A. (SEER3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 214,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 669,3 milhões, margem EBITDA de 30,2% sobre a receita. O valor de mercado era de R$ 2,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,0 e P/VPA de 1,75 sobre o último exercício. Em 2025, distribuiu R$ 80,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/SEER3
 ---
 <!-- https://atlasmercados.com.br/empresa/SEER3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ SE
 
 SER EDUCACIONAL S.A.
 
-SEER3 · CD_CVM 23221 · Educação · PE · DFP 16a · ITR 14a
+SEER3 · CD_CVM 23221 · Educação · PE · DFP 16a · ITR 14a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SEER3?base=con) [Individual](https://atlasmercados.com.br/empresa/SEER3?base=ind)
 
-> SER EDUCACIONAL S.A. (SEER3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 214,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 669,3 milhões, margem EBITDA de 30,2% sobre a receita. O valor de mercado era de R$ 1,9 bilhão em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,8 e P/VPA de 1,40 sobre o último exercício. Em 2025, distribuiu R$ 80,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> SER EDUCACIONAL S.A. (SEER3) teve receita líquida de R$ 2,2 bilhões e lucro líquido de R$ 214,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 669,3 milhões, margem EBITDA de 30,2% sobre a receita. O valor de mercado era de R$ 2,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,0 e P/VPA de 1,75 sobre o último exercício. Em 2025, distribuiu R$ 80,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 2,2 bi · 2025
 
@@ -83,11 +83,11 @@ DRE · DFP · consolidado · 2025 · 29 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 6,7× mediana 15,0× faixa 6,3× – 3.143,1× abaixo da mediana
+P/L atual 8,6× mediana 14,6× faixa 6,3× – 3.143,1× abaixo da mediana
 
-P/VPA atual 1,2× mediana 0,9× faixa 0,3× – 1,7× acima da mediana
+P/VPA atual 1,5× mediana 0,9× faixa 0,3× – 1,7× acima da mediana
 
-Dividend Yield atual 4,9% mediana 3,3% faixa 1,3% – 18,9% acima da mediana
+Dividend Yield atual 3,5% mediana 3,3% faixa 1,3% – 18,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

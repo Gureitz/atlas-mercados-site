@@ -1,19 +1,19 @@
 ---
 title: LUPATECH S.A. (LUPA3) — análise financeira | Atlas Mercados
-description: LUPATECH S.A. (LUPA3) teve receita líquida de R$ 52,1 milhões e prejuízo líquido de R$ 60,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 58,1 milhões, margem EBITDA de -111,6% sobre a receita. O valor de mercado era de R$ 3,5 milhões em 26/05/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,05 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+description: LUPATECH S.A. (LUPA3) teve receita líquida de R$ 52,1 milhões e prejuízo líquido de R$ 60,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 58,1 milhões, margem EBITDA de -111,6% sobre a receita. O valor de mercado era de R$ 3,5 milhões em 26/05/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,05 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 26/05/2026, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/LUPA3
 ---
 <!-- https://atlasmercados.com.br/empresa/LUPA3 — versão Markdown da página -->
 
 LU
 
-LUPATECH S.A.
+LUPATECH S.A. sem pregão em 90 dias
 
-LUPA3 · CD_CVM 20060 · Máquinas, Equipamentos, Veículos e Peças · SP · DFP 16a · ITR 16a
+LUPA3 · CD_CVM 20060 · Máquinas, Equipamentos, Veículos e Peças · SP · DFP 16a · ITR 16a · último pregão 26/05/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/LUPA3?base=con) [Individual](https://atlasmercados.com.br/empresa/LUPA3?base=ind)
 
-> LUPATECH S.A. (LUPA3) teve receita líquida de R$ 52,1 milhões e prejuízo líquido de R$ 60,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 58,1 milhões, margem EBITDA de -111,6% sobre a receita. O valor de mercado era de R$ 3,5 milhões em 26/05/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,05 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
+> LUPATECH S.A. (LUPA3) teve receita líquida de R$ 52,1 milhões e prejuízo líquido de R$ 60,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 58,1 milhões, margem EBITDA de -111,6% sobre a receita. O valor de mercado era de R$ 3,5 milhões em 26/05/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,05 sobre o último exercício. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 26/05/2026, segundo o COTAHIST).
 
 - Receita líq. · R$ 52,1 mi · 2025
 

@@ -1,6 +1,6 @@
 ---
 title: VESTE SA ESTILO (VSTE3) — análise financeira | Atlas Mercados
-description: VESTE SA ESTILO (VSTE3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 24,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 261,7 milhões, margem EBITDA de 21,3% sobre a receita. O valor de mercado era de R$ 312,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 12,8 e P/VPA de 0,29 sobre o último exercício. Em 2025, distribuiu R$ 5,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: VESTE SA ESTILO (VSTE3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 24,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 261,7 milhões, margem EBITDA de 21,3% sobre a receita. O valor de mercado era de R$ 439,7 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,0 e P/VPA de 0,41 sobre o último exercício. Em 2025, distribuiu R$ 5,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/VSTE3
 ---
 <!-- https://atlasmercados.com.br/empresa/VSTE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ VE
 
 VESTE SA ESTILO
 
-VSTE3, LLIS3 · CD_CVM 21440 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · SP · DFP 16a · ITR 16a
+VSTE3, LLIS3 · CD_CVM 21440 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/VSTE3?base=con) [Individual](https://atlasmercados.com.br/empresa/VSTE3?base=ind)
 
-> VESTE SA ESTILO (VSTE3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 24,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 261,7 milhões, margem EBITDA de 21,3% sobre a receita. O valor de mercado era de R$ 312,6 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 12,8 e P/VPA de 0,29 sobre o último exercício. Em 2025, distribuiu R$ 5,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> VESTE SA ESTILO (VSTE3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 24,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 261,7 milhões, margem EBITDA de 21,3% sobre a receita. O valor de mercado era de R$ 439,7 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,0 e P/VPA de 0,41 sobre o último exercício. Em 2025, distribuiu R$ 5,8 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 1,2 bi · 2025
 
@@ -88,11 +88,11 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 5,8× mediana 22,2× faixa 5,4× – 1.126,3× abaixo da mediana
+P/L atual 9,3× mediana 21,5× faixa 5,4× – 1.126,3× abaixo da mediana
 
-P/VPA atual 0,3× mediana 0,7× faixa 0,2× – 2,3× abaixo da mediana
+P/VPA atual 0,4× mediana 0,7× faixa 0,2× – 2,3× abaixo da mediana
 
-Dividend Yield atual 2,0% mediana 0,6% faixa 0,0% – 6,2% acima da mediana
+Dividend Yield atual 1,3% mediana 0,6% faixa 0,0% – 6,2% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

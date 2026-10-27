@@ -1,19 +1,19 @@
 ---
 title: FOCUS ENERGIA HOLDING PARTICIPAÇÕES S.A. (POWE3) — análise financeira | Atlas Mercados
-description: FOCUS ENERGIA HOLDING PARTICIPAÇÕES S.A. (POWE3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 46,6 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 83,0 milhões, margem EBITDA de 6,8% sobre a receita. Em 2020, distribuiu R$ 4,7 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2020.
+description: FOCUS ENERGIA HOLDING PARTICIPAÇÕES S.A. (POWE3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 46,6 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 83,0 milhões, margem EBITDA de 6,8% sobre a receita. Em 2020, distribuiu R$ 4,7 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/POWE3
 ---
 <!-- https://atlasmercados.com.br/empresa/POWE3 — versão Markdown da página -->
 
 FO
 
-FOCUS ENERGIA HOLDING PARTICIPAÇÕES S.A.
+FOCUS ENERGIA HOLDING PARTICIPAÇÕES S.A. registro cancelada na CVM sem pregão em 90 dias
 
 POWE3 · CD_CVM 25488 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 2a · ITR 2a
 
 [Consolidado](https://atlasmercados.com.br/empresa/POWE3?base=con) [Individual](https://atlasmercados.com.br/empresa/POWE3?base=ind)
 
-> FOCUS ENERGIA HOLDING PARTICIPAÇÕES S.A. (POWE3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 46,6 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 83,0 milhões, margem EBITDA de 6,8% sobre a receita. Em 2020, distribuiu R$ 4,7 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2020.
+> FOCUS ENERGIA HOLDING PARTICIPAÇÕES S.A. (POWE3) teve receita líquida de R$ 1,2 bilhão e lucro líquido de R$ 46,6 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 83,0 milhões, margem EBITDA de 6,8% sobre a receita. Em 2020, distribuiu R$ 4,7 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 1,2 bi · 2020
 

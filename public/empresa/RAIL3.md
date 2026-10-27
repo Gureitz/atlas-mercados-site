@@ -1,6 +1,6 @@
 ---
 title: RUMO S.A. (RAIL3) — análise financeira | Atlas Mercados
-description: RUMO S.A. (RAIL3) teve receita líquida de R$ 13,8 bilhões e lucro líquido de R$ 865,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,8 bilhões, margem EBITDA de 49,1% sobre a receita. O valor de mercado era de R$ 31,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,3 e P/VPA de 2,23 sobre o último exercício. Em 2025, distribuiu R$ 1,7 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: RUMO S.A. (RAIL3) teve receita líquida de R$ 13,8 bilhões e lucro líquido de R$ 865,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,8 bilhões, margem EBITDA de 49,1% sobre a receita. O valor de mercado era de R$ 34,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 40,0 e P/VPA de 2,46 sobre o último exercício. Em 2025, distribuiu R$ 1,7 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/RAIL3
 ---
 <!-- https://atlasmercados.com.br/empresa/RAIL3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ RU
 
 RUMO S.A.
 
-RAIL3 · CD_CVM 17450 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 16a · ITR 16a
+RAIL3 · CD_CVM 17450 · Emp. Adm. Part. - Serviços Transporte e Logística · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/RAIL3?base=con) [Individual](https://atlasmercados.com.br/empresa/RAIL3?base=ind)
 
-> RUMO S.A. (RAIL3) teve receita líquida de R$ 13,8 bilhões e lucro líquido de R$ 865,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,8 bilhões, margem EBITDA de 49,1% sobre a receita. O valor de mercado era de R$ 31,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 36,3 e P/VPA de 2,23 sobre o último exercício. Em 2025, distribuiu R$ 1,7 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> RUMO S.A. (RAIL3) teve receita líquida de R$ 13,8 bilhões e lucro líquido de R$ 865,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,8 bilhões, margem EBITDA de 49,1% sobre a receita. O valor de mercado era de R$ 34,6 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 40,0 e P/VPA de 2,46 sobre o último exercício. Em 2025, distribuiu R$ 1,7 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 13,8 bi · 2025
 
@@ -88,11 +88,11 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 27,6× mediana 51,2× faixa 25,3× – 210,2× abaixo da mediana
+P/L atual 27,7× mediana 50,8× faixa 25,3× – 210,2× abaixo da mediana
 
-P/VPA atual 2,1× mediana 2,3× faixa 1,8× – 4,2× abaixo da mediana
+P/VPA atual 2,4× mediana 2,3× faixa 1,8× – 4,2× acima da mediana
 
-Dividend Yield atual 5,8% mediana 0,1% faixa 0,0% – 6,8% acima da mediana
+Dividend Yield atual 4,9% mediana 0,1% faixa 0,0% – 6,8% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

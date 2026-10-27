@@ -17,7 +17,7 @@ ADMF3 · B3 · CD_CVM 27634
 
 - Lucro líquido · -R$ 2,8 mi · 2T2026 · +40.8%
 
-## Série reportada — 15 métricas × 14 períodos · fonte: CVM · reporte em BRL
+## Série reportada — 16 métricas × 14 períodos · fonte: CVM · reporte em BRL
 
 | Métrica | 2023 | 4T2023 | 2024 | 1T2024 | 2T2024 | 3T2024 | 4T2024 | 2025 | 1T2025 | 2T2025 | 3T2025 | 4T2025 | 1T2026 | 2T2026 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -25,6 +25,7 @@ ADMF3 · B3 · CD_CVM 27634
 | Custo dos produtos/serviços vendidos · Custo dos Bens e/ou Serviços Vendidos · último trimestre derivado (DFP − ITRs) | R$ 0 | — | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 |
 | Lucro bruto · Resultado Bruto · último trimestre derivado (DFP − ITRs) | R$ 0 | — | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 29,5 mi | R$ 10,0 mi | -R$ 39,5 mi | R$ 0 | R$ 2,5 mi |
 | Despesas operacionais · Despesas/Receitas Operacionais · último trimestre derivado (DFP − ITRs) | R$ 0 | — | -R$ 178 mil | -R$ 5 mil | -R$ 71 mil | -R$ 13 mil | -R$ 89 mil | -R$ 463,5 mi | -R$ 325 mil | -R$ 16,4 mi | -R$ 441,6 mi | -R$ 5,2 mi | -R$ 4,7 mi | -R$ 6,4 mi |
+| Depreciação e amortização · Depreciação | — | — | — | — | — | — | — | — | — | R$ 160 mil | R$ 202 mil | — | — | R$ 0 |
 | EBIT · Resultado Antes do Resultado Financeiro e dos Tributos · último trimestre derivado (DFP − ITRs) | R$ 0 | — | -R$ 178 mil | -R$ 5 mil | -R$ 71 mil | -R$ 13 mil | -R$ 89 mil | -R$ 463,5 mi | -R$ 325 mil | R$ 13,1 mi | -R$ 431,6 mi | -R$ 44,7 mi | -R$ 4,7 mi | -R$ 3,9 mi |
 | Resultado financeiro líquido · Resultado Financeiro · último trimestre derivado (DFP − ITRs) | R$ 0 | — | -R$ 2 mil | R$ 0 | R$ 0 | -R$ 1 mil | -R$ 1 mil | -R$ 1,5 mi | R$ 159 mil | R$ 3,2 mi | R$ 0 | -R$ 4,8 mi | -R$ 18 mil | R$ 1,7 mi |
 | Resultado antes dos impostos (LAIR) · Resultado Antes dos Tributos sobre o Lucro · último trimestre derivado (DFP − ITRs) | R$ 0 | — | -R$ 180 mil | -R$ 5 mil | -R$ 71 mil | -R$ 14 mil | -R$ 90 mil | -R$ 465,0 mi | -R$ 166 mil | R$ 16,2 mi | -R$ 431,6 mi | -R$ 49,5 mi | -R$ 4,7 mi | -R$ 2,2 mi |

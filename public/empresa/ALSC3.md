@@ -1,19 +1,19 @@
 ---
 title: ALIANSCE SHOPPING CENTERS S/A (ALSC3) — análise financeira | Atlas Mercados
-description: ALIANSCE SHOPPING CENTERS S/A (ALSC3) teve receita líquida de R$ 508,4 milhões e lucro líquido de R$ 119,4 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 394,4 milhões, margem EBITDA de 77,6% sobre a receita. Em 2018, distribuiu R$ 28,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018.
+description: ALIANSCE SHOPPING CENTERS S/A (ALSC3) teve receita líquida de R$ 508,4 milhões e lucro líquido de R$ 119,4 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 394,4 milhões, margem EBITDA de 77,6% sobre a receita. Em 2018, distribuiu R$ 28,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/ALSC3
 ---
 <!-- https://atlasmercados.com.br/empresa/ALSC3 — versão Markdown da página -->
 
 AL
 
-ALIANSCE SHOPPING CENTERS S/A
+ALIANSCE SHOPPING CENTERS S/A registro cancelada na CVM sem pregão em 90 dias
 
 ALSC3 · CD_CVM 21300 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · RJ · DFP 9a · ITR 9a
 
 [Consolidado](https://atlasmercados.com.br/empresa/ALSC3?base=con) [Individual](https://atlasmercados.com.br/empresa/ALSC3?base=ind)
 
-> ALIANSCE SHOPPING CENTERS S/A (ALSC3) teve receita líquida de R$ 508,4 milhões e lucro líquido de R$ 119,4 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 394,4 milhões, margem EBITDA de 77,6% sobre a receita. Em 2018, distribuiu R$ 28,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018.
+> ALIANSCE SHOPPING CENTERS S/A (ALSC3) teve receita líquida de R$ 508,4 milhões e lucro líquido de R$ 119,4 milhões no exercício de 2018 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 394,4 milhões, margem EBITDA de 77,6% sobre a receita. Em 2018, distribuiu R$ 28,2 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2018. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 508,4 mi · 2018
 

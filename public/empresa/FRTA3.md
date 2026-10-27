@@ -1,19 +1,19 @@
 ---
 title: MASSA FALIDA DE POMIFRUTAS S/A (FRTA3) — análise financeira | Atlas Mercados
-description: MASSA FALIDA DE POMIFRUTAS S/A (FRTA3) teve receita líquida de R$ 7,5 milhões e prejuízo líquido de R$ 5,4 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,0 milhão, margem EBITDA de -13,6% sobre a receita. A série anual disponível vai de 2010 a 2023.
+description: MASSA FALIDA DE POMIFRUTAS S/A (FRTA3) teve receita líquida de R$ 7,5 milhões e prejuízo líquido de R$ 5,4 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,0 milhão, margem EBITDA de -13,6% sobre a receita. A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/FRTA3
 ---
 <!-- https://atlasmercados.com.br/empresa/FRTA3 — versão Markdown da página -->
 
 MA
 
-MASSA FALIDA DE POMIFRUTAS S/A
+MASSA FALIDA DE POMIFRUTAS S/A registro suspenso(a) - decisão adm na CVM sem pregão em 90 dias
 
 FRTA3 · CD_CVM 19658 · Agricultura (Açúcar, Álcool e Cana) · SC · DFP 14a · ITR 13a
 
 [Consolidado](https://atlasmercados.com.br/empresa/FRTA3?base=con) [Individual](https://atlasmercados.com.br/empresa/FRTA3?base=ind)
 
-> MASSA FALIDA DE POMIFRUTAS S/A (FRTA3) teve receita líquida de R$ 7,5 milhões e prejuízo líquido de R$ 5,4 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,0 milhão, margem EBITDA de -13,6% sobre a receita. A série anual disponível vai de 2010 a 2023.
+> MASSA FALIDA DE POMIFRUTAS S/A (FRTA3) teve receita líquida de R$ 7,5 milhões e prejuízo líquido de R$ 5,4 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 1,0 milhão, margem EBITDA de -13,6% sobre a receita. A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 7,5 mi · 2023
 

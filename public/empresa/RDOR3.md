@@ -1,6 +1,6 @@
 ---
 title: REDE D'OR SÃO LUIZ S.A. (RDOR3) — análise financeira | Atlas Mercados
-description: REDE D'OR SÃO LUIZ S.A. (RDOR3) teve receita líquida de R$ 55,7 bilhões e lucro líquido de R$ 4,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 11,7 bilhões, margem EBITDA de 21,0% sobre a receita. O valor de mercado era de R$ 89,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,4 e P/VPA de 4,13 sobre o último exercício. Em 2025, distribuiu R$ 9,5 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2018 a 2025.
+description: REDE D'OR SÃO LUIZ S.A. (RDOR3) teve receita líquida de R$ 55,7 bilhões e lucro líquido de R$ 4,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 11,7 bilhões, margem EBITDA de 21,0% sobre a receita. O valor de mercado era de R$ 98,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 20,2 e P/VPA de 4,53 sobre o último exercício. Em 2025, distribuiu R$ 9,5 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2018 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 108 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/RDOR3
 ---
 <!-- https://atlasmercados.com.br/empresa/RDOR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ RE
 
 REDE D'OR SÃO LUIZ S.A.
 
-RDOR3 · CD_CVM 24821 · Serviços Médicos · SP · DFP 8a · ITR 8a
+RDOR3 · CD_CVM 24821 · Serviços Médicos · SP · DFP 8a · ITR 8a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/RDOR3?base=con) [Individual](https://atlasmercados.com.br/empresa/RDOR3?base=ind)
 
-> REDE D'OR SÃO LUIZ S.A. (RDOR3) teve receita líquida de R$ 55,7 bilhões e lucro líquido de R$ 4,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 11,7 bilhões, margem EBITDA de 21,0% sobre a receita. O valor de mercado era de R$ 89,2 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 18,4 e P/VPA de 4,13 sobre o último exercício. Em 2025, distribuiu R$ 9,5 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2018 a 2025.
+> REDE D'OR SÃO LUIZ S.A. (RDOR3) teve receita líquida de R$ 55,7 bilhões e lucro líquido de R$ 4,8 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 11,7 bilhões, margem EBITDA de 21,0% sobre a receita. O valor de mercado era de R$ 98,0 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 20,2 e P/VPA de 4,53 sobre o último exercício. Em 2025, distribuiu R$ 9,5 bilhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2018 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 108 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 55,7 bi · 2025
 
@@ -36,6 +36,40 @@ RDOR3 · CD_CVM 24821 · Serviços Médicos · SP · DFP 8a · ITR 8a
 ## Lucro líquido — por exercício (DFP, R$)
 
 20182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 108 MW · 32 usinas ≥ 1 MW
+
+- Capacidade proporcional · 106 MW · inclui coligadas
+
+- Garantia física · 29 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Lagoinha I | Solar | CE | 41 MW | 40,8% | 17 |
+| Lagoinha II | Solar | CE | 41 MW | 40,8% | 17 |
+| Lagoinha III | Solar | CE | 41 MW | 40,8% | 17 |
+| Lagoinha IV | Solar | CE | 41 MW | 40,8% | 17 |
+| Lagoinha I | Solar | CE | 41 MW | 9,8% | 4 |
+| Lagoinha II | Solar | CE | 41 MW | 9,8% | 4 |
+| Lagoinha III | Solar | CE | 41 MW | 9,8% | 4 |
+| Lagoinha IV | Solar | CE | 41 MW | 9,8% | 4 |
+| REDE DOR SÃO LUIZ S A | Fóssil | SP | 3 MW | 100,0% | 3 |
+| Hospital São Luiz | Fóssil | SP | 2 MW | 100,0% | 2 |
+| Hospital Barra D´or | Fóssil | RJ | 2 MW | 100,0% | 2 |
+| REDE DOR SAO LUIZ SA | Fóssil | RJ | 1 MW | 100,0% | 1 |
+| Lagoinha I | Solar | CE | 41 MW | 2,4% | 1 |
+| Lagoinha II | Solar | CE | 41 MW | 2,4% | 1 |
+| Lagoinha III | Solar | CE | 41 MW | 2,4% | 1 |
+
+15 de 32 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -84,11 +118,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 17,1× mediana 37,6× faixa 15,4× – 370,3× abaixo da mediana
+P/L atual 19,0× mediana 37,2× faixa 15,4× – 370,3× abaixo da mediana
 
-P/VPA atual 3,7× mediana 3,4× faixa 2,1× – 25,9× acima da mediana
+P/VPA atual 4,2× mediana 3,4× faixa 2,1× – 25,9× acima da mediana
 
-Dividend Yield atual 11,6% mediana 1,4% faixa 0,2% – 12,7% acima da mediana
+Dividend Yield atual 9,9% mediana 1,4% faixa 0,2% – 12,7% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

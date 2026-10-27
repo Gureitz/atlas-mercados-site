@@ -21,7 +21,7 @@ IBGE · mensal · janeiro de 2015 a setembro de 2026 · 141 observações · col
 
 - Mínimo da série · -0,73% · agosto de 2022
 
-- Próxima leitura · 23/10/2026 · calendário do IBGE
+- Próxima leitura · 26/11/2026 · calendário do IBGE
 
 ## Série histórica — IPCA-15 no mês · mensal · janeiro de 2015 a setembro de 2026
 

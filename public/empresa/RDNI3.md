@@ -1,19 +1,19 @@
 ---
 title: RNI NEGÓCIOS IMOBILIÁRIOS S.A. (RDNI3) — análise financeira | Atlas Mercados
-description: RNI NEGÓCIOS IMOBILIÁRIOS S.A. (RDNI3) teve receita líquida de R$ 349,3 milhões e prejuízo líquido de R$ 199,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 125,9 milhões, margem EBITDA de -36,0% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: RNI NEGÓCIOS IMOBILIÁRIOS S.A. (RDNI3) teve receita líquida de R$ 349,3 milhões e prejuízo líquido de R$ 199,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 125,9 milhões, margem EBITDA de -36,0% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 16/12/2025, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/RDNI3
 ---
 <!-- https://atlasmercados.com.br/empresa/RDNI3 — versão Markdown da página -->
 
 RN
 
-RNI NEGÓCIOS IMOBILIÁRIOS S.A.
+RNI NEGÓCIOS IMOBILIÁRIOS S.A. sem pregão em 90 dias
 
-RDNI3 · CD_CVM 20451 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+RDNI3 · CD_CVM 20451 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 16/12/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/RDNI3?base=con) [Individual](https://atlasmercados.com.br/empresa/RDNI3?base=ind)
 
-> RNI NEGÓCIOS IMOBILIÁRIOS S.A. (RDNI3) teve receita líquida de R$ 349,3 milhões e prejuízo líquido de R$ 199,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 125,9 milhões, margem EBITDA de -36,0% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> RNI NEGÓCIOS IMOBILIÁRIOS S.A. (RDNI3) teve receita líquida de R$ 349,3 milhões e prejuízo líquido de R$ 199,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 125,9 milhões, margem EBITDA de -36,0% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 16/12/2025, segundo o COTAHIST).
 
 - Receita líq. · R$ 349,3 mi · 2025
 

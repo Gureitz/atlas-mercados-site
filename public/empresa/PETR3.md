@@ -1,6 +1,6 @@
 ---
 title: PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) — análise financeira | Atlas Mercados
-description: PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) teve receita líquida de R$ 497,5 bilhões e lucro líquido de R$ 110,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 230,0 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 700,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,3 e P/VPA de 1,68 sobre o último exercício. Em 2025, distribuiu R$ 42,3 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) teve receita líquida de R$ 497,5 bilhões e lucro líquido de R$ 110,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 230,0 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 805,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 1,93 sobre o último exercício. Em 2025, distribuiu R$ 42,3 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 5,4 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/PETR3
 ---
 <!-- https://atlasmercados.com.br/empresa/PETR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ PE
 
 PETRÓLEO BRASILEIRO S.A. - PETROBRAS
 
-PETR3, PETR4 · CD_CVM 9512 · Petróleo e Gás · RJ · DFP 16a · ITR 16a
+PETR3, PETR4 · CD_CVM 9512 · Petróleo e Gás · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PETR3?base=con) [Individual](https://atlasmercados.com.br/empresa/PETR3?base=ind)
 
-> PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) teve receita líquida de R$ 497,5 bilhões e lucro líquido de R$ 110,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 230,0 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 700,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,3 e P/VPA de 1,68 sobre o último exercício. Em 2025, distribuiu R$ 42,3 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> PETRÓLEO BRASILEIRO S.A. - PETROBRAS (PETR3) teve receita líquida de R$ 497,5 bilhões e lucro líquido de R$ 110,6 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 230,0 bilhões, margem EBITDA de 46,2% sobre a receita. O valor de mercado era de R$ 805,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 1,93 sobre o último exercício. Em 2025, distribuiu R$ 42,3 bilhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 5,4 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 497,5 bi · 2025
 
@@ -36,6 +36,40 @@ PETR3, PETR4 · CD_CVM 9512 · Petróleo e Gás · RJ · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 5.359 MW · 29 usinas ≥ 1 MW
+
+- Capacidade proporcional · 5.641 MW · inclui coligadas
+
+- Garantia física · 2.229 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Termorio (Antiga Governador Leonel Brizola) | Fóssil | RJ | 989 MW | 100,0% | 989 |
+| Termomacaé (Antiga Mário Lago) | Fóssil | RJ | 900 MW | 100,0% | 900 |
+| Baixada Fluminense | Fóssil | RJ | 530 MW | 100,0% | 530 |
+| Nova Piratininga (Antiga Fernando Gasparian) | Fóssil | SP | 386 MW | 100,0% | 386 |
+| Seropédica (Antiga Barbosa Lima Sobrinho) | Fóssil | RJ | 360 MW | 100,0% | 360 |
+| Três Lagoas (Antiga Luiz Carlos Prestes) | Fóssil | MS | 252 MW | 100,0% | 252 |
+| Cubatão (Euzébio Rocha) | Fóssil | SP | 250 MW | 100,0% | 250 |
+| Ibirité (Aureliano Chaves) | Fóssil | MG | 226 MW | 100,0% | 226 |
+| Termoceará | Fóssil | CE | 220 MW | 100,0% | 220 |
+| Termobahia (Antiga Celso Furtado) | Fóssil | BA | 186 MW | 100,0% | 186 |
+| Canoas (Antiga Sepé Tiaraju) | Fóssil | RS | 168 MW | 100,0% | 168 |
+| Vale do Açú (Antiga Jesus Soares Pereira) | Fóssil | RN | 110 MW | 100,0% | 110 |
+| Refinaria de Paulínea - REPLAN | Fóssil | SP | 107 MW | 100,0% | 107 |
+| U-50 | Fóssil | PE | 100 MW | 100,0% | 100 |
+| Unidade de Tratamento de Gás Monteiro Lobato (UTGCA) | Fóssil | SP | 95 MW | 100,0% | 95 |
+
+15 de 55 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -97,11 +131,11 @@ DRE · DFP · consolidado · 2025 · 43 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 6,2× mediana 4,6× faixa 1,8× – 62,5× acima da mediana
+P/L atual 6,0× mediana 4,7× faixa 1,8× – 62,5× acima da mediana
 
-P/VPA atual 1,5× mediana 1,2× faixa 0,6× – 1,6× acima da mediana
+P/VPA atual 1,7× mediana 1,2× faixa 0,6× – 1,7× acima da mediana
 
-Dividend Yield atual 6,3% mediana 17,4% faixa 1,0% – 67,6% abaixo da mediana
+Dividend Yield atual 5,3% mediana 17,2% faixa 1,0% – 67,6% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

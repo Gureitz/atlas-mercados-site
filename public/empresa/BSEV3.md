@@ -1,19 +1,19 @@
 ---
 title: BIOSEV S.A. (BSEV3) — análise financeira | Atlas Mercados
-description: BIOSEV S.A. (BSEV3) teve receita líquida de R$ 10,3 bilhões e lucro líquido de R$ 163,0 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2012 a 2021.
+description: BIOSEV S.A. (BSEV3) teve receita líquida de R$ 10,3 bilhões e lucro líquido de R$ 163,0 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2012 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/BSEV3
 ---
 <!-- https://atlasmercados.com.br/empresa/BSEV3 — versão Markdown da página -->
 
 BI
 
-BIOSEV S.A.
+BIOSEV S.A. registro cancelada na CVM sem pregão em 90 dias
 
 BSEV3 · CD_CVM 22845 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 10a · ITR 9a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BSEV3?base=con) [Individual](https://atlasmercados.com.br/empresa/BSEV3?base=ind)
 
-> BIOSEV S.A. (BSEV3) teve receita líquida de R$ 10,3 bilhões e lucro líquido de R$ 163,0 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2012 a 2021.
+> BIOSEV S.A. (BSEV3) teve receita líquida de R$ 10,3 bilhões e lucro líquido de R$ 163,0 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2012 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 10,3 bi · 2021
 

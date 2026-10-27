@@ -1,6 +1,6 @@
 ---
 title: Catálogo de proveniência dos dados de mercado — dados em Parquet e CSV — Atlas Mercados
-description: Catálogo de proveniência dos dados de mercado: 50 linhas, em Parquet e CSV (dado oficial como publicado).
+description: Catálogo de proveniência dos dados de mercado: 55 linhas, em Parquet e CSV (dado oficial como publicado).
 url: https://atlasmercados.com.br/dados/catalogo_fontes
 ---
 <!-- https://atlasmercados.com.br/dados/catalogo_fontes — versão Markdown da página -->
@@ -9,9 +9,9 @@ url: https://atlasmercados.com.br/dados/catalogo_fontes
 
 IBGE · dado oficial como publicado · catalogo_fontes
 
-> Catálogo de proveniência dos dados de mercado: 50 linhas, em Parquet e CSV (dado oficial como publicado).
+> Catálogo de proveniência dos dados de mercado: 55 linhas, em Parquet e CSV (dado oficial como publicado).
 
-- Linhas · 50 · 18 colunas
+- Linhas · 55 · 18 colunas
 
 - Período · — · cobertura temporal
 
@@ -34,7 +34,7 @@ Uma linha por (conjunto de dados, tabela oficial): título, tabela e endereço n
 | dataset | large_string | Conjunto de dados. |
 | tabela | large_string | Número da tabela no SIDRA do IBGE (ex.: 10653). |
 | titulo | large_string | Título da tabela oficial. |
-| fonte | large_string | — |
+| fonte | large_string | Fonte do combustível como a ANEEL publica (Potencial hidráulico, Gás natural…). |
 | tipo | large_string | bruto ou derivado. |
 | metodo | string | Método da estimativa (só derivados). |
 | url_sidra | large_string | Página da tabela no SIDRA. |

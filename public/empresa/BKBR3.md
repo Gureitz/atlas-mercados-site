@@ -1,19 +1,19 @@
 ---
 title: ZAMP S.A. (BKBR3) — análise financeira | Atlas Mercados
-description: ZAMP S.A. (BKBR3) teve receita líquida de R$ 5,2 bilhões e prejuízo líquido de R$ 107,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 523,5 milhões, margem EBITDA de 10,0% sobre a receita. A série anual disponível vai de 2016 a 2025.
+description: ZAMP S.A. (BKBR3) teve receita líquida de R$ 5,2 bilhões e prejuízo líquido de R$ 107,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 719,5 milhões, margem EBITDA de 13,8% sobre a receita. A série anual disponível vai de 2016 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 02/12/2025, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/BKBR3
 ---
 <!-- https://atlasmercados.com.br/empresa/BKBR3 — versão Markdown da página -->
 
 ZA
 
-ZAMP S.A.
+ZAMP S.A. sem pregão em 90 dias
 
-BKBR3, ZAMP3 · CD_CVM 24317 · Alimentos · SP · DFP 10a · ITR 10a
+BKBR3, ZAMP3 · CD_CVM 24317 · Alimentos · SP · DFP 10a · ITR 10a · último pregão 02/12/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/BKBR3?base=con) [Individual](https://atlasmercados.com.br/empresa/BKBR3?base=ind)
 
-> ZAMP S.A. (BKBR3) teve receita líquida de R$ 5,2 bilhões e prejuízo líquido de R$ 107,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 523,5 milhões, margem EBITDA de 10,0% sobre a receita. A série anual disponível vai de 2016 a 2025.
+> ZAMP S.A. (BKBR3) teve receita líquida de R$ 5,2 bilhões e prejuízo líquido de R$ 107,1 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 719,5 milhões, margem EBITDA de 13,8% sobre a receita. A série anual disponível vai de 2016 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 02/12/2025, segundo o COTAHIST).
 
 - Receita líq. · R$ 5,2 bi · 2025
 

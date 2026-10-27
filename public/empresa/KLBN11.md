@@ -1,6 +1,6 @@
 ---
 title: KLABIN S.A. (KLBN11) — análise financeira | Atlas Mercados
-description: KLABIN S.A. (KLBN11) teve receita líquida de R$ 20,7 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,8 bilhões, margem EBITDA de 32,7% sobre a receita. O valor de mercado era de R$ 23,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,9 e P/VPA de 1,62 sobre o último exercício. Em 2025, distribuiu R$ 2,1 bilhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: KLABIN S.A. (KLBN11) teve receita líquida de R$ 20,7 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,5 bilhões, margem EBITDA de 45,8% sobre a receita. O valor de mercado era de R$ 22,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,6 e P/VPA de 1,58 sobre o último exercício. Em 2025, distribuiu R$ 2,1 bilhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 668 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/KLBN11
 ---
 <!-- https://atlasmercados.com.br/empresa/KLBN11 — versão Markdown da página -->
@@ -9,11 +9,11 @@ KL
 
 KLABIN S.A.
 
-KLBN11, KLBN3, KLBN4 · CD_CVM 12653 · Papel e Celulose · SP · DFP 16a · ITR 16a
+KLBN11, KLBN3, KLBN4 · CD_CVM 12653 · Papel e Celulose · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/KLBN11?base=con) [Individual](https://atlasmercados.com.br/empresa/KLBN11?base=ind)
 
-> KLABIN S.A. (KLBN11) teve receita líquida de R$ 20,7 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,8 bilhões, margem EBITDA de 32,7% sobre a receita. O valor de mercado era de R$ 23,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,9 e P/VPA de 1,62 sobre o último exercício. Em 2025, distribuiu R$ 2,1 bilhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025.
+> KLABIN S.A. (KLBN11) teve receita líquida de R$ 20,7 bilhões e lucro líquido de R$ 1,7 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 9,5 bilhões, margem EBITDA de 45,8% sobre a receita. O valor de mercado era de R$ 22,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,6 e P/VPA de 1,58 sobre o último exercício. Em 2025, distribuiu R$ 2,1 bilhões em proventos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 668 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 20,7 bi · 2025
 
@@ -36,6 +36,30 @@ KLBN11, KLBN3, KLBN4 · CD_CVM 12653 · Papel e Celulose · SP · DFP 16a · ITR
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 668 MW · 7 usinas ≥ 1 MW
+
+- Capacidade proporcional · 668 MW · inclui coligadas
+
+- Garantia física · 234 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Klabin Celulose | Biomassa | PR | 330 MW | 100,0% | 330 |
+| Puma II | Biomassa | PR | 135 MW | 100,0% | 135 |
+| Klabin | Biomassa | PR | 113 MW | 100,0% | 113 |
+| Klabin Correia Pinto (Antiga Celucat) | Biomassa | SC | 38 MW | 100,0% | 38 |
+| Klabin Otacílio Costa (Antiga Igaras) | Biomassa | SC | 34 MW | 100,0% | 34 |
+| Salto Mauá | Hídrica | PR | 16 MW | 100,0% | 16 |
+| Palheiros Klabin | Hídrica | SC | 2 MW | 100,0% | 2 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -92,11 +116,11 @@ DRE · DFP · consolidado · 2025 · 38 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 31,4× mediana 10,9× faixa 4,1× – 32,2× acima da mediana
+P/L atual 42,5× mediana 11,1× faixa 4,1× – 42,5× acima da mediana
 
-P/VPA atual 1,5× mediana 2,2× faixa 1,5× – 10,7× abaixo da mediana
+P/VPA atual 1,4× mediana 2,1× faixa 1,4× – 10,7× abaixo da mediana
 
-Dividend Yield atual 9,0% mediana 5,4% faixa 0,1% – 9,9% acima da mediana
+Dividend Yield atual 9,1% mediana 5,5% faixa 0,1% – 9,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

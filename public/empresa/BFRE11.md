@@ -1,19 +1,19 @@
 ---
 title: BRAZILIAN FINANCE & REAL ESTATE S.A. (BFRE11) — análise financeira | Atlas Mercados
-description: BRAZILIAN FINANCE & REAL ESTATE S.A. (BFRE11) teve receita líquida de R$ 14,3 milhões e lucro líquido de R$ 15,9 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2023.
+description: BRAZILIAN FINANCE & REAL ESTATE S.A. (BFRE11) teve receita líquida de R$ 14,3 milhões e lucro líquido de R$ 15,9 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/BFRE11
 ---
 <!-- https://atlasmercados.com.br/empresa/BFRE11 — versão Markdown da página -->
 
 BR
 
-BRAZILIAN FINANCE & REAL ESTATE S.A.
+BRAZILIAN FINANCE & REAL ESTATE S.A. registro cancelada na CVM sem pregão em 90 dias
 
 BFRE11, BFRE12, BFRE3 · CD_CVM 17922 · Emp. Adm. Part. - Crédito Imobiliário · SP · DFP 14a · ITR 14a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BFRE11?base=con) [Individual](https://atlasmercados.com.br/empresa/BFRE11?base=ind)
 
-> BRAZILIAN FINANCE & REAL ESTATE S.A. (BFRE11) teve receita líquida de R$ 14,3 milhões e lucro líquido de R$ 15,9 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2023.
+> BRAZILIAN FINANCE & REAL ESTATE S.A. (BFRE11) teve receita líquida de R$ 14,3 milhões e lucro líquido de R$ 15,9 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 14,3 mi · 2023
 

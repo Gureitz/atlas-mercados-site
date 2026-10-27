@@ -1,19 +1,19 @@
 ---
 title: BR MALLS PARTICIPAÇOES S.A. (BRML3) — análise financeira | Atlas Mercados
-description: BR MALLS PARTICIPAÇOES S.A. (BRML3) teve receita líquida de R$ 1,6 bilhão e lucro líquido de R$ 875,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,6 bilhão, margem EBITDA de 98,2% sobre a receita. Em 2025, distribuiu R$ 785,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: BR MALLS PARTICIPAÇOES S.A. (BRML3) teve receita líquida de R$ 1,6 bilhão e lucro líquido de R$ 875,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,6 bilhão, margem EBITDA de 98,2% sobre a receita. Em 2025, distribuiu R$ 785,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/BRML3
 ---
 <!-- https://atlasmercados.com.br/empresa/BRML3 — versão Markdown da página -->
 
 BR
 
-BR MALLS PARTICIPAÇOES S.A.
+BR MALLS PARTICIPAÇOES S.A. sem pregão em 90 dias
 
 BRML3 · CD_CVM 19909 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · RJ · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRML3?base=con) [Individual](https://atlasmercados.com.br/empresa/BRML3?base=ind)
 
-> BR MALLS PARTICIPAÇOES S.A. (BRML3) teve receita líquida de R$ 1,6 bilhão e lucro líquido de R$ 875,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,6 bilhão, margem EBITDA de 98,2% sobre a receita. Em 2025, distribuiu R$ 785,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> BR MALLS PARTICIPAÇOES S.A. (BRML3) teve receita líquida de R$ 1,6 bilhão e lucro líquido de R$ 875,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,6 bilhão, margem EBITDA de 98,2% sobre a receita. Em 2025, distribuiu R$ 785,8 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 1,6 bi · 2025
 

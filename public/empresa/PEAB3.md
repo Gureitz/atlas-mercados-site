@@ -1,6 +1,6 @@
 ---
 title: CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA (PEAB3) — análise financeira | Atlas Mercados
-description: CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA (PEAB3) teve receita líquida de R$ 117,3 milhões e lucro líquido de R$ 33,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 48,5 milhões, margem EBITDA de 41,4% sobre a receita. O valor de mercado era de R$ 678,7 milhões em 30/09/2026 (cotação da B3 × ações informadas à CVM), com P/L de 20,1 e P/VPA de 0,74 sobre o último exercício. Em 2025, distribuiu R$ 17,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA (PEAB3) teve receita líquida de R$ 117,3 milhões e lucro líquido de R$ 33,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 48,5 milhões, margem EBITDA de 41,4% sobre a receita. O valor de mercado era de R$ 670,6 milhões em 07/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,9 e P/VPA de 0,74 sobre o último exercício. Em 2025, distribuiu R$ 17,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/PEAB3
 ---
 <!-- https://atlasmercados.com.br/empresa/PEAB3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CI
 
 CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA
 
-PEAB3, PEAB4 · CD_CVM 18708 · Emp. Adm. Part. - Sem Setor Principal · BA · DFP 16a · ITR 16a
+PEAB3, PEAB4 · CD_CVM 18708 · Emp. Adm. Part. - Sem Setor Principal · BA · DFP 16a · ITR 16a · último pregão 07/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/PEAB3?base=con) [Individual](https://atlasmercados.com.br/empresa/PEAB3?base=ind)
 
-> CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA (PEAB3) teve receita líquida de R$ 117,3 milhões e lucro líquido de R$ 33,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 48,5 milhões, margem EBITDA de 41,4% sobre a receita. O valor de mercado era de R$ 678,7 milhões em 30/09/2026 (cotação da B3 × ações informadas à CVM), com P/L de 20,1 e P/VPA de 0,74 sobre o último exercício. Em 2025, distribuiu R$ 17,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA (PEAB3) teve receita líquida de R$ 117,3 milhões e lucro líquido de R$ 33,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 48,5 milhões, margem EBITDA de 41,4% sobre a receita. O valor de mercado era de R$ 670,6 milhões em 07/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 19,9 e P/VPA de 0,74 sobre o último exercício. Em 2025, distribuiu R$ 17,5 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 117,3 mi · 2025
 
@@ -90,11 +90,11 @@ DRE · DFP · consolidado · 2025 · 36 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 15,4× mediana 19,1× faixa 1,6× – 1.826,8× abaixo da mediana
+P/L atual 14,9× mediana 19,1× faixa 1,6× – 1.826,8× abaixo da mediana
 
-P/VPA atual 0,8× mediana 1,0× faixa 0,6× – 1,7× abaixo da mediana
+P/VPA atual 0,7× mediana 1,0× faixa 0,6× – 1,7× abaixo da mediana
 
-Dividend Yield atual 2,5% mediana 2,4% faixa 1,8% – 52,6% acima da mediana
+Dividend Yield atual 2,7% mediana 2,4% faixa 1,8% – 52,6% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

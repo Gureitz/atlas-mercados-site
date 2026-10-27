@@ -1,19 +1,19 @@
 ---
-title: FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL (FICT3) — análise financeira | Atlas Mercados
-description: FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL (FICT3) teve receita líquida de R$ 77,1 milhões e prejuízo líquido de R$ 23,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 27,6 milhões em 26/02/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,71 sobre o último exercício. A série anual disponível vai de 2017 a 2025.
+title: FASA S.A. - EM RECUPERAÇÃO JUDICIAL (FICT3) — análise financeira | Atlas Mercados
+description: FASA S.A. - EM RECUPERAÇÃO JUDICIAL (FICT3) teve receita líquida de R$ 77,1 milhões e prejuízo líquido de R$ 23,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 27,6 milhões em 26/02/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,71 sobre o último exercício. A série anual disponível vai de 2017 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 26/02/2026, segundo o COTAHIST).
 url: https://atlasmercados.com.br/empresa/FICT3
 ---
 <!-- https://atlasmercados.com.br/empresa/FICT3 — versão Markdown da página -->
 
-FI
+FA
 
-FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL
+FASA S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
-FICT3, ATOM3 · CD_CVM 15423 · Emp. Adm. Part. - Alimentos · MG · DFP 16a · ITR 15a
+FICT3, ATOM3, FASA3 · CD_CVM 15423 · Emp. Adm. Part. - Alimentos · SP · DFP 16a · ITR 15a · último pregão 26/02/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/FICT3?base=con) [Individual](https://atlasmercados.com.br/empresa/FICT3?base=ind)
 
-> FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL (FICT3) teve receita líquida de R$ 77,1 milhões e prejuízo líquido de R$ 23,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 27,6 milhões em 26/02/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,71 sobre o último exercício. A série anual disponível vai de 2017 a 2025.
+> FASA S.A. - EM RECUPERAÇÃO JUDICIAL (FICT3) teve receita líquida de R$ 77,1 milhões e prejuízo líquido de R$ 23,4 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 27,6 milhões em 26/02/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,71 sobre o último exercício. A série anual disponível vai de 2017 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 26/02/2026, segundo o COTAHIST).
 
 - Receita líq. · R$ 77,1 mi · 2025
 
@@ -104,6 +104,6 @@ Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a
 
 Como citar
 
-Atlas Mercados. FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL — demonstrações financeiras. https://atlasmercados.com.br/empresa/FICT3. Dados: CVM Dados Abertos — DFP/ITR de FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL (CD_CVM 15423). Acesso em [data de acesso].
+Atlas Mercados. FASA S.A. - EM RECUPERAÇÃO JUDICIAL — demonstrações financeiras. https://atlasmercados.com.br/empresa/FICT3. Dados: CVM Dados Abertos — DFP/ITR de FASA S.A. - EM RECUPERAÇÃO JUDICIAL (CD_CVM 15423). Acesso em [data de acesso].
 
 Identificador da série: cvm:15423 · Permalink: [https://atlasmercados.com.br/empresa/FICT3](https://atlasmercados.com.br/empresa/FICT3) · [licença CC BY 4.0](https://atlasmercados.com.br/licenca)

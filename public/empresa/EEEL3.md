@@ -1,19 +1,19 @@
 ---
 title: CPFL TRANSMISSÃO S.A. (EEEL3) — análise financeira | Atlas Mercados
-description: CPFL TRANSMISSÃO S.A. (EEEL3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 318,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 881,9 milhões, margem EBITDA de 41,9% sobre a receita. Em 2025, distribuiu R$ 721,2 milhões em dividendos (DMPL). A série anual disponível vai de 2014 a 2025.
+description: CPFL TRANSMISSÃO S.A. (EEEL3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 318,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 881,9 milhões, margem EBITDA de 41,9% sobre a receita. Em 2025, distribuiu R$ 721,2 milhões em dividendos (DMPL). A série anual disponível vai de 2014 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/EEEL3
 ---
 <!-- https://atlasmercados.com.br/empresa/EEEL3 — versão Markdown da página -->
 
 CP
 
-CPFL TRANSMISSÃO S.A.
+CPFL TRANSMISSÃO S.A. sem pregão em 90 dias
 
 EEEL3, EEEL4 · CD_CVM 3204 · Energia Elétrica · RS · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/EEEL3?base=con) [Individual](https://atlasmercados.com.br/empresa/EEEL3?base=ind)
 
-> CPFL TRANSMISSÃO S.A. (EEEL3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 318,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 881,9 milhões, margem EBITDA de 41,9% sobre a receita. Em 2025, distribuiu R$ 721,2 milhões em dividendos (DMPL). A série anual disponível vai de 2014 a 2025.
+> CPFL TRANSMISSÃO S.A. (EEEL3) teve receita líquida de R$ 2,1 bilhões e lucro líquido de R$ 318,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 881,9 milhões, margem EBITDA de 41,9% sobre a receita. Em 2025, distribuiu R$ 721,2 milhões em dividendos (DMPL). A série anual disponível vai de 2014 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 2,1 bi · 2025
 

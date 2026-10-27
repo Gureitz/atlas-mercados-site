@@ -11,7 +11,7 @@ SA
 
 GRUPO SALTA EDUCAÇÃO S.A. Emp. Adm. Part. - Educação B3 · CVM
 
-SALT3 · 15 linhas × 7 períodos · BRL · CVM
+SALT3 · 16 linhas × 7 períodos · BRL · CVM
 
 [Projetar →](https://atlasmercados.com.br/projecao/SALT3) [Trimestral](https://atlasmercados.com.br/valuation/SALT3?p=tri) [Anual](https://atlasmercados.com.br/valuation/SALT3?p=anual) [Tudo](https://atlasmercados.com.br/valuation/SALT3?p=tudo)
 
@@ -29,6 +29,7 @@ Receita = volume × preço (driver específico não mapeado)
 | Custo dos produtos/serviços vendidosBRL | — | -R$ 349,7 mi | -R$ 374,3 mi | -R$ 352,9 mi | -R$ 360,6 mi | -R$ 432,2 mi | -R$ 428,6 mi |
 | Lucro brutoBRL | — | R$ 444,5 mi | R$ 331,2 mi | R$ 331,1 mi | R$ 247,3 mi | R$ 532,2 mi | R$ 354,4 mi |
 | Despesas operacionaisBRL | — | -R$ 201,5 mi | -R$ 218,2 mi | -R$ 225,6 mi | -R$ 239,1 mi | -R$ 270,6 mi | -R$ 243,8 mi |
+| Depreciação e amortizaçãoBRL | R$ 227,6 mi | R$ 65,2 mi | R$ 66,7 mi | R$ 65,1 mi | R$ 71,4 mi | R$ 67,3 mi | R$ 75,5 mi |
 | EBITBRL | — | R$ 243,0 mi | R$ 113,1 mi | R$ 105,6 mi | R$ 8,3 mi | R$ 261,6 mi | R$ 110,6 mi |
 | Resultado financeiro líquidoBRL | — | -R$ 75,7 mi | -R$ 82,2 mi | -R$ 85,5 mi | -R$ 65,5 mi | -R$ 101,8 mi | -R$ 97,7 mi |
 | Resultado antes dos impostos (LAIR)BRL | — | R$ 167,3 mi | R$ 30,9 mi | R$ 20,0 mi | -R$ 57,2 mi | R$ 159,8 mi | R$ 12,9 mi |

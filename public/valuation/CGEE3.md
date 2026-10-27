@@ -11,7 +11,7 @@ CG
 
 COMPANHIA ESTADUAL DE GERAÇÃO DE ENERGIA ELÉTRICA - CEEE-G Energia Elétrica B3 · CVM
 
-CGEE3 · 15 linhas × 19 períodos · BRL · CVM
+CGEE3 · 16 linhas × 19 períodos · BRL · CVM
 
 [Projetar →](https://atlasmercados.com.br/projecao/CGEE3) [Trimestral](https://atlasmercados.com.br/valuation/CGEE3?p=tri) [Anual](https://atlasmercados.com.br/valuation/CGEE3?p=anual) [Tudo](https://atlasmercados.com.br/valuation/CGEE3?p=tudo)
 
@@ -31,6 +31,7 @@ Atenção: Tarifa é decisão regulatória, não de mercado — a projeção dep
 | Custo dos produtos/serviços vendidosBRL | — | -R$ 72,6 mi | -R$ 90,8 mi | -R$ 97,2 mi | -R$ 88,0 mi | -R$ 69,6 mi | -R$ 55,4 mi | -R$ 44,3 mi | -R$ 43,3 mi | -R$ 42,3 mi | -R$ 44,4 mi | -R$ 35,3 mi | -R$ 66,0 mi | -R$ 53,7 mi | -R$ 58,4 mi | -R$ 36,6 mi | -R$ 40,7 mi | -R$ 39,5 mi | -R$ 43,3 mi |
 | Lucro brutoBRL | — | R$ 30,6 mi | R$ 12,7 mi | R$ 20,8 mi | R$ 19,1 mi | R$ 1,1 mi | R$ 56,8 mi | R$ 20,0 mi | R$ 20,1 mi | R$ 15,0 mi | R$ 9,3 mi | R$ 39,1 mi | R$ 24,4 mi | R$ 55,7 mi | R$ 72,2 mi | R$ 34,7 mi | R$ 12,2 mi | R$ 19,3 mi | R$ 203,8 mi |
 | Despesas operacionaisBRL | — | R$ 25,2 mi | -R$ 16,9 mi | -R$ 21,5 mi | -R$ 187,1 mi | -R$ 12,3 mi | R$ 112,1 mi | R$ 86,1 mi | -R$ 15,3 mi | R$ 12,6 mi | -R$ 10,9 mi | -R$ 41,3 mi | -R$ 37,3 mi | -R$ 48,6 mi | R$ 4,5 mi | -R$ 6,8 mi | -R$ 2,1 mi | R$ 1,7 mi | -R$ 150,1 mi |
+| Depreciação e amortizaçãoBRL | R$ 41,9 mi | R$ 29,5 mi | R$ 4,3 mi | R$ 56,1 mi | R$ 24,4 mi | R$ 20,8 mi | R$ 20,7 mi | R$ 3,9 mi | R$ 93,9 mi | R$ 19,7 mi | R$ 17,8 mi | -R$ 33,8 mi | R$ 69,8 mi | R$ 18,3 mi | R$ 18,3 mi | -R$ 33,2 mi | R$ 70,2 mi | R$ 18,5 mi | R$ 18,6 mi |
 | EBITBRL | — | R$ 55,8 mi | -R$ 4,2 mi | -R$ 742 mil | -R$ 168,0 mi | -R$ 11,3 mi | R$ 168,9 mi | R$ 106,2 mi | R$ 4,8 mi | R$ 27,6 mi | -R$ 1,5 mi | -R$ 2,2 mi | -R$ 12,9 mi | R$ 7,1 mi | R$ 76,7 mi | R$ 27,8 mi | R$ 10,1 mi | R$ 21,0 mi | R$ 53,7 mi |
 | Resultado financeiro líquidoBRL | — | R$ 10,6 mi | R$ 9,5 mi | R$ 25,8 mi | R$ 6,0 mi | -R$ 54,7 mi | -R$ 54,8 mi | -R$ 53,7 mi | -R$ 60,9 mi | R$ 0 | -R$ 49,9 mi | -R$ 49,8 mi | -R$ 89,3 mi | R$ 0 | -R$ 56,6 mi | -R$ 26,3 mi | -R$ 51,4 mi | R$ 0 | -R$ 43,1 mi |
 | Resultado antes dos impostos (LAIR)BRL | — | R$ 88,9 mi | R$ 28,2 mi | R$ 46,6 mi | -R$ 137,6 mi | -R$ 53,2 mi | R$ 126,5 mi | R$ 63,3 mi | -R$ 41,3 mi | -R$ 10,1 mi | -R$ 52,3 mi | -R$ 39,7 mi | -R$ 32,0 mi | -R$ 14,6 mi | R$ 32,5 mi | R$ 18,3 mi | -R$ 6,5 mi | -R$ 20,5 mi | R$ 10,6 mi |

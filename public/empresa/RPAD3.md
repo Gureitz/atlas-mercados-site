@@ -1,6 +1,6 @@
 ---
 title: ALFA HOLDINGS S.A. (RPAD3) — análise financeira | Atlas Mercados
-description: ALFA HOLDINGS S.A. (RPAD3) teve receitas da intermediação financeira de R$ 10,1 milhões e lucro líquido de R$ 52,4 milhões no exercício de 2012 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 654,5 milhões em 29/09/2026 (cotação da B3 × ações informadas à CVM), com P/L de 12,5 e P/VPA de 0,93 sobre o último exercício. Em 2025, distribuiu R$ 432.000 em dividendos (DMPL). A série anual disponível vai de 2010 a 2012.
+description: ALFA HOLDINGS S.A. (RPAD3) teve receitas da intermediação financeira de R$ 0 e lucro líquido de R$ 82,2 milhões no exercício de 2025 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 654,5 milhões em 19/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 0,64 sobre o último exercício. Em 2025, distribuiu R$ 432.000 em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/RPAD3
 ---
 <!-- https://atlasmercados.com.br/empresa/RPAD3 — versão Markdown da página -->
@@ -9,49 +9,87 @@ AL
 
 ALFA HOLDINGS S.A.
 
-RPAD3, RPAD5, RPAD6 · CD_CVM 9954 · Emp. Adm. Part. - Intermediação Financeira · SP · DFP 16a · ITR 16a
+RPAD3, RPAD5, RPAD6 · CD_CVM 9954 · Emp. Adm. Part. - Intermediação Financeira · SP · DFP 16a · ITR 16a · último pregão 19/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/RPAD3?base=con) [Individual](https://atlasmercados.com.br/empresa/RPAD3?base=ind)
 
-> ALFA HOLDINGS S.A. (RPAD3) teve receitas da intermediação financeira de R$ 10,1 milhões e lucro líquido de R$ 52,4 milhões no exercício de 2012 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 654,5 milhões em 29/09/2026 (cotação da B3 × ações informadas à CVM), com P/L de 12,5 e P/VPA de 0,93 sobre o último exercício. Em 2025, distribuiu R$ 432.000 em dividendos (DMPL). A série anual disponível vai de 2010 a 2012.
+> ALFA HOLDINGS S.A. (RPAD3) teve receitas da intermediação financeira de R$ 0 e lucro líquido de R$ 82,2 milhões no exercício de 2025 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 654,5 milhões em 19/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 0,64 sobre o último exercício. Em 2025, distribuiu R$ 432.000 em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
-- Receita líq. · R$ 10,1 mi · 2012
+- Receita líq. · R$ 0 · 2025
 
-- Lucro líq. · R$ 52,4 mi · 2012
+- Lucro líq. · R$ 82,2 mi · 2025
 
-- Margem líq. · 517,1% · LL / receita
+- Margem líq. · n/d · LL / receita
 
-- EBIT · -R$ 51,5 mi · result. oper.
+- EBIT · R$ 70,3 mi · result. oper.
 
-- Ativo total · R$ 3,3 bi · 2012
+- Ativo total · R$ 1,0 bi · 2025
 
-- Patrim. líq. · R$ 704,2 mi · 2012
+- Patrim. líq. · R$ 1,0 bi · 2025
 
-- ROE · 7,4% · LL / PL
+- ROE · 8,1% · LL / PL
 
 ## Receita líquida — por exercício (DFP, R$)
 
-201020112012
+201420152016201720182019202020212022202320242025
 
 ## Lucro líquido — por exercício (DFP, R$)
 
-201020112012
+201420152016201720182019202020212022202320242025
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
 ## Demonstração crua — linha a linha, fonte CVM
 
-[DFP](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP) [ITR](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=ITR)
+[DFP](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP) [ITR](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=ITR)
 
-[BPA](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=BPA&ano=2025) [BPP](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=BPP&ano=2025) [DFC_MI](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DFC_MI&ano=2025) [DMPL](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DMPL&ano=2025) [DRA](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRA&ano=2025) [DRE](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRE&ano=2025) [DVA](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DVA&ano=2025)
+[BPA](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=BPA&ano=2025) [BPP](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=BPP&ano=2025) [DFC_MI](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DFC_MI&ano=2025) [DMPL](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DMPL&ano=2025) [DRA](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRA&ano=2025) [DRE](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRE&ano=2025) [DVA](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DVA&ano=2025)
 
-[2025](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRE&ano=2025) [2024](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRE&ano=2024) [2023](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRE&ano=2023) [2022](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRE&ano=2022) [2021](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRE&ano=2021) [2020](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRE&ano=2020) [2019](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRE&ano=2019) [2018](https://atlasmercados.com.br/empresa/RPAD3?base=con&doc=DFP&demo=DRE&ano=2018)
+[2025](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRE&ano=2025) [2024](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRE&ano=2024) [2023](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRE&ano=2023) [2022](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRE&ano=2022) [2021](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRE&ano=2021) [2020](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRE&ano=2020) [2019](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRE&ano=2019) [2018](https://atlasmercados.com.br/empresa/RPAD3?base=ind&doc=DFP&demo=DRE&ano=2018)
 
-Sem dados para esta seleção.
+| Conta | Descrição | Valor (R$) |
+|---|---|---|
+| 3.01 | Receita de Venda de Bens e/ou Serviços | 0 |
+| 3.02 | Custo dos Bens e/ou Serviços Vendidos | 0 |
+| 3.03 | Resultado Bruto | 0 |
+| 3.04 | Despesas/Receitas Operacionais | 70.316.000 |
+| 3.04.01 | Despesas com Vendas | 0 |
+| 3.04.02 | Despesas Gerais e Administrativas | -1.830.000 |
+| 3.04.02.01 | Despesa de Pessoal | -792.000 |
+| 3.04.02.02 | Despesas Administrativas | -1.038.000 |
+| 3.04.03 | Perdas pela Não Recuperabilidade de Ativos | 0 |
+| 3.04.04 | Outras Receitas Operacionais | 509.000 |
+| 3.04.05 | Outras Despesas Operacionais | -114.000 |
+| 3.04.06 | Resultado de Equivalência Patrimonial | 71.751.000 |
+| 3.05 | Resultado Antes do Resultado Financeiro e dos Tributos | 70.316.000 |
+| 3.06 | Resultado Financeiro | 17.118.000 |
+| 3.06.01 | Receitas Financeiras | 17.118.000 |
+| 3.06.01.01 | Receita de Juros | 17.118.000 |
+| 3.06.02 | Despesas Financeiras | 0 |
+| 3.07 | Resultado Antes dos Tributos sobre o Lucro | 87.434.000 |
+| 3.08 | Imposto de Renda e Contribuição Social sobre o Lucro | -5.235.000 |
+| 3.08.01 | Corrente | -3.675.000 |
+| 3.08.02 | Diferido | -1.560.000 |
+| 3.09 | Resultado Líquido das Operações Continuadas | 82.199.000 |
+| 3.10 | Resultado Líquido de Operações Descontinuadas | 0 |
+| 3.10.01 | Lucro/Prejuízo Líquido das Operações Descontinuadas | 0 |
+| 3.10.02 | Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas | 0 |
+| 3.11 | Lucro/Prejuízo do Período | 82.199.000 |
+| 3.99 | Lucro por Ação - (Reais / Ação) | 0 |
+| 3.99.01 | Lucro Básico por Ação | 0 |
+| 3.99.01.01 | ON | 928 |
+| 3.99.01.02 | PNA | 1.021 |
+| 3.99.01.03 | PNB | 1.021 |
+| 3.99.02 | Lucro Diluído por Ação | 0 |
+| 3.99.02.01 | ON | 928 |
+| 3.99.02.02 | PNA | 1.021 |
+| 3.99.02.03 | PNB | 1.021 |
+
+DRE · DFP · individual · 2025 · 35 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 7,6× mediana 19,3× faixa 6,5× – 47,8× abaixo da mediana
+P/L atual 8,8× mediana 19,2× faixa 6,5× – 47,8× abaixo da mediana
 
 P/VPA atual 0,6× mediana 0,6× faixa 0,4× – 0,7× acima da mediana
 

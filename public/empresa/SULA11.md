@@ -1,19 +1,19 @@
 ---
 title: SUL AMERICA S/A (SULA11) — análise financeira | Atlas Mercados
-description: SUL AMERICA S/A (SULA11) teve receitas operacionais de R$ 20,4 bilhões e lucro líquido de R$ 332,7 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2021, distribuiu R$ 90,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2021.
+description: SUL AMERICA S/A (SULA11) teve receitas operacionais de R$ 20,4 bilhões e lucro líquido de R$ 332,7 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2021, distribuiu R$ 90,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/SULA11
 ---
 <!-- https://atlasmercados.com.br/empresa/SULA11 — versão Markdown da página -->
 
 SU
 
-SUL AMERICA S/A
+SUL AMERICA S/A registro cancelada na CVM sem pregão em 90 dias
 
 SULA11, SULA3, SULA4 · CD_CVM 21121 · Emp. Adm. Part. - Seguradoras e Corretoras · RJ · DFP 12a · ITR 12a
 
 [Consolidado](https://atlasmercados.com.br/empresa/SULA11?base=con) [Individual](https://atlasmercados.com.br/empresa/SULA11?base=ind)
 
-> SUL AMERICA S/A (SULA11) teve receitas operacionais de R$ 20,4 bilhões e lucro líquido de R$ 332,7 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2021, distribuiu R$ 90,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2021.
+> SUL AMERICA S/A (SULA11) teve receitas operacionais de R$ 20,4 bilhões e lucro líquido de R$ 332,7 milhões no exercício de 2021 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2021, distribuiu R$ 90,0 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2021. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 20,4 bi · 2021
 

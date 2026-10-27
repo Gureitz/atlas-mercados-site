@@ -1,19 +1,19 @@
 ---
 title: CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A. (CTCA3) — análise financeira | Atlas Mercados
-description: CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A. (CTCA3) teve receita líquida de R$ 470,6 milhões e lucro líquido de R$ 216,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2026, distribuiu R$ 59,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2026.
+description: CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A. (CTCA3) teve receita líquida de R$ 470,6 milhões e lucro líquido de R$ 216,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2026, distribuiu R$ 59,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2026. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/CTCA3
 ---
 <!-- https://atlasmercados.com.br/empresa/CTCA3 — versão Markdown da página -->
 
 CT
 
-CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A.
+CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A. sem pregão em 90 dias
 
 CTCA3 · CD_CVM 23981 · Agricultura (Açúcar, Álcool e Cana) · SP · DFP 11a · ITR 11a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CTCA3?base=con) [Individual](https://atlasmercados.com.br/empresa/CTCA3?base=ind)
 
-> CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A. (CTCA3) teve receita líquida de R$ 470,6 milhões e lucro líquido de R$ 216,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2026, distribuiu R$ 59,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2026.
+> CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A. (CTCA3) teve receita líquida de R$ 470,6 milhões e lucro líquido de R$ 216,5 milhões no exercício de 2026 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2026, distribuiu R$ 59,5 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2026. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 470,6 mi · 2026
 

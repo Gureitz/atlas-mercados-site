@@ -1,19 +1,19 @@
 ---
 title: CONSORCIO ALFA DE ADMINISTRACAO S.A (BRGE11) — análise financeira | Atlas Mercados
-description: CONSORCIO ALFA DE ADMINISTRACAO S.A (BRGE11) teve receitas da intermediação financeira de R$ 3,6 milhões e lucro líquido de R$ 49,1 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2023, distribuiu R$ 6,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023.
+description: CONSORCIO ALFA DE ADMINISTRACAO S.A (BRGE11) teve receitas da intermediação financeira de R$ 3,6 milhões e lucro líquido de R$ 49,1 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2023, distribuiu R$ 6,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/BRGE11
 ---
 <!-- https://atlasmercados.com.br/empresa/BRGE11 — versão Markdown da página -->
 
 CO
 
-CONSORCIO ALFA DE ADMINISTRACAO S.A
+CONSORCIO ALFA DE ADMINISTRACAO S.A registro cancelada na CVM sem pregão em 90 dias
 
 BRGE11, BRGE12, BRGE3, BRGE5, BRGE6, BRGE7, BRGE8 · CD_CVM 4707 · Emp. Adm. Part. - Intermediação Financeira · SP · DFP 14a · ITR 13a
 
 [Consolidado](https://atlasmercados.com.br/empresa/BRGE11?base=con) [Individual](https://atlasmercados.com.br/empresa/BRGE11?base=ind)
 
-> CONSORCIO ALFA DE ADMINISTRACAO S.A (BRGE11) teve receitas da intermediação financeira de R$ 3,6 milhões e lucro líquido de R$ 49,1 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2023, distribuiu R$ 6,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023.
+> CONSORCIO ALFA DE ADMINISTRACAO S.A (BRGE11) teve receitas da intermediação financeira de R$ 3,6 milhões e lucro líquido de R$ 49,1 milhões no exercício de 2023 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2023, distribuiu R$ 6,0 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2023. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 3,6 mi · 2023
 

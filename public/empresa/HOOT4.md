@@ -1,19 +1,19 @@
 ---
 title: HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL (HOOT4) — análise financeira | Atlas Mercados
-description: HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL (HOOT4) teve receita líquida de R$ 193,1 milhões e lucro líquido de R$ 30,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 87,9 milhões, margem EBITDA de 45,5% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL (HOOT4) teve receita líquida de R$ 193,1 milhões e lucro líquido de R$ 30,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 87,9 milhões, margem EBITDA de 45,5% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/HOOT4
 ---
 <!-- https://atlasmercados.com.br/empresa/HOOT4 — versão Markdown da página -->
 
 HO
 
-HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL
+HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL sem pregão em 90 dias
 
 HOOT4 · CD_CVM 6700 · Hospedagem e Turismo · RJ · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/HOOT4?base=con) [Individual](https://atlasmercados.com.br/empresa/HOOT4?base=ind)
 
-> HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL (HOOT4) teve receita líquida de R$ 193,1 milhões e lucro líquido de R$ 30,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 87,9 milhões, margem EBITDA de 45,5% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL (HOOT4) teve receita líquida de R$ 193,1 milhões e lucro líquido de R$ 30,6 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 87,9 milhões, margem EBITDA de 45,5% sobre a receita. A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 193,1 mi · 2025
 

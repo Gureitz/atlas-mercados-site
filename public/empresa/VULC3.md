@@ -1,6 +1,6 @@
 ---
 title: VULCABRAS S.A. (VULC3) — análise financeira | Atlas Mercados
-description: VULCABRAS S.A. (VULC3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 884,0 milhões, margem EBITDA de 24,8% sobre a receita. O valor de mercado era de R$ 4,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,8 e P/VPA de 1,82 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: VULCABRAS S.A. (VULC3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 884,0 milhões, margem EBITDA de 24,8% sobre a receita. O valor de mercado era de R$ 5,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,4 e P/VPA de 2,09 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 12 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/VULC3
 ---
 <!-- https://atlasmercados.com.br/empresa/VULC3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ VU
 
 VULCABRAS S.A.
 
-VULC3 · CD_CVM 11762 · Têxtil e Vestuário · SP · DFP 16a · ITR 16a
+VULC3 · CD_CVM 11762 · Têxtil e Vestuário · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/VULC3?base=con) [Individual](https://atlasmercados.com.br/empresa/VULC3?base=ind)
 
-> VULCABRAS S.A. (VULC3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 884,0 milhões, margem EBITDA de 24,8% sobre a receita. O valor de mercado era de R$ 4,4 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 3,8 e P/VPA de 1,82 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> VULCABRAS S.A. (VULC3) teve receita líquida de R$ 3,6 bilhões e lucro líquido de R$ 1,2 bilhão no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 884,0 milhões, margem EBITDA de 24,8% sobre a receita. O valor de mercado era de R$ 5,1 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 4,4 e P/VPA de 2,09 sobre o último exercício. Em 2025, distribuiu R$ 1,4 bilhão em dividendos (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 12 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 3,6 bi · 2025
 
@@ -36,6 +36,26 @@ VULC3 · CD_CVM 11762 · Têxtil e Vestuário · SP · DFP 16a · ITR 16a
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 12 MW · 2 usinas ≥ 1 MW
+
+- Capacidade proporcional · 23 MW · inclui coligadas
+
+- Garantia física · 0 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Ventos de Santa Martina 12 coligada | Eólica | RN | 63 MW | 16,0% | 10 |
+| Calçados Azaléia | Fóssil | BA | 8 MW | 100,0% | 8 |
+| Vulcabrás | Fóssil | CE | 5 MW | 100,0% | 5 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -84,11 +104,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 3,7× mediana 8,7× faixa 3,7× – 96,0× abaixo da mediana
+P/L atual 5,4× mediana 8,7× faixa 3,7× – 96,0× abaixo da mediana
 
-P/VPA atual 1,7× mediana 2,0× faixa 0,9× – 2,8× abaixo da mediana
+P/VPA atual 1,9× mediana 2,0× faixa 0,9× – 2,8× abaixo da mediana
 
-Dividend Yield atual 33,4% mediana 4,6% faixa 2,1% – 33,4% acima da mediana
+Dividend Yield atual 28,1% mediana 4,7% faixa 2,1% – 33,3% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

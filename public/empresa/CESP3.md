@@ -1,19 +1,19 @@
 ---
 title: CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO (CESP3) — análise financeira | Atlas Mercados
-description: CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO (CESP3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 335,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,4 bilhão, margem EBITDA de 82,9% sobre a receita. Em 2025, distribuiu R$ 812,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+description: CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO (CESP3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 335,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,4 bilhão, margem EBITDA de 82,9% sobre a receita. Em 2025, distribuiu R$ 812,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/CESP3
 ---
 <!-- https://atlasmercados.com.br/empresa/CESP3 — versão Markdown da página -->
 
 CE
 
-CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO
+CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO sem pregão em 90 dias
 
 CESP3, CESP5, CESP6 · CD_CVM 2577 · Energia Elétrica · SP · DFP 16a · ITR 16a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CESP3?base=con) [Individual](https://atlasmercados.com.br/empresa/CESP3?base=ind)
 
-> CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO (CESP3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 335,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,4 bilhão, margem EBITDA de 82,9% sobre a receita. Em 2025, distribuiu R$ 812,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025.
+> CESP - COMPANHIA ENERGÉTICA DE SÃO PAULO (CESP3) teve receita líquida de R$ 1,7 bilhão e lucro líquido de R$ 335,8 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,4 bilhão, margem EBITDA de 82,9% sobre a receita. Em 2025, distribuiu R$ 812,1 milhões em dividendos (DMPL). A série anual disponível vai de 2020 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 1,7 bi · 2025
 

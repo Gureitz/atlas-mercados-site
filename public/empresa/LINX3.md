@@ -1,19 +1,19 @@
 ---
 title: LINX S.A. (LINX3) — análise financeira | Atlas Mercados
-description: LINX S.A. (LINX3) teve receita líquida de R$ 876,4 milhões e prejuízo líquido de R$ 80,1 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 111,1 milhões, margem EBITDA de 12,7% sobre a receita. Em 2020, distribuiu R$ 10,3 milhões em dividendos (DMPL). A série anual disponível vai de 2011 a 2020.
+description: LINX S.A. (LINX3) teve receita líquida de R$ 876,4 milhões e prejuízo líquido de R$ 80,1 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 111,1 milhões, margem EBITDA de 12,7% sobre a receita. Em 2020, distribuiu R$ 10,3 milhões em dividendos (DMPL). A série anual disponível vai de 2011 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/LINX3
 ---
 <!-- https://atlasmercados.com.br/empresa/LINX3 — versão Markdown da página -->
 
 LI
 
-LINX S.A.
+LINX S.A. registro cancelada na CVM sem pregão em 90 dias
 
 LINX3 · CD_CVM 23035 · Comunicação e Informática · SP · DFP 10a · ITR 10a
 
 [Consolidado](https://atlasmercados.com.br/empresa/LINX3?base=con) [Individual](https://atlasmercados.com.br/empresa/LINX3?base=ind)
 
-> LINX S.A. (LINX3) teve receita líquida de R$ 876,4 milhões e prejuízo líquido de R$ 80,1 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 111,1 milhões, margem EBITDA de 12,7% sobre a receita. Em 2020, distribuiu R$ 10,3 milhões em dividendos (DMPL). A série anual disponível vai de 2011 a 2020.
+> LINX S.A. (LINX3) teve receita líquida de R$ 876,4 milhões e prejuízo líquido de R$ 80,1 milhões no exercício de 2020 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 111,1 milhões, margem EBITDA de 12,7% sobre a receita. Em 2020, distribuiu R$ 10,3 milhões em dividendos (DMPL). A série anual disponível vai de 2011 a 2020. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 876,4 mi · 2020
 

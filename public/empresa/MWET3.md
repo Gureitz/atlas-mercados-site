@@ -9,7 +9,7 @@ WE
 
 WETZEL S.A.
 
-MWET3, MWET4 · CD_CVM 11991 · Metalurgia e Siderurgia · SC · DFP 16a · ITR 16a
+MWET3, MWET4 · CD_CVM 11991 · Metalurgia e Siderurgia · SC · DFP 16a · ITR 16a · último pregão 08/09/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MWET3?base=con) [Individual](https://atlasmercados.com.br/empresa/MWET3?base=ind)
 

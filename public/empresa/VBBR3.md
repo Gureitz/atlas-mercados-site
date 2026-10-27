@@ -1,6 +1,6 @@
 ---
 title: VIBRA ENERGIA S/A (VBBR3) — análise financeira | Atlas Mercados
-description: VIBRA ENERGIA S/A (VBBR3) teve receita líquida de R$ 189,1 bilhões e lucro líquido de R$ 2,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,9 bilhões, margem EBITDA de 3,1% sobre a receita. O valor de mercado era de R$ 45,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 23,1 e P/VPA de 2,20 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2016 a 2025.
+description: VIBRA ENERGIA S/A (VBBR3) teve receita líquida de R$ 189,1 bilhões e lucro líquido de R$ 2,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,9 bilhões, margem EBITDA de 3,1% sobre a receita. O valor de mercado era de R$ 42,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,7 e P/VPA de 2,07 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2016 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,1 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/VBBR3
 ---
 <!-- https://atlasmercados.com.br/empresa/VBBR3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ VI
 
 VIBRA ENERGIA S/A
 
-VBBR3, BRDT3 · CD_CVM 24295 · Comércio (Atacado e Varejo) · RJ · DFP 10a · ITR 10a
+VBBR3, BRDT3 · CD_CVM 24295 · Comércio (Atacado e Varejo) · RJ · DFP 10a · ITR 10a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/VBBR3?base=con) [Individual](https://atlasmercados.com.br/empresa/VBBR3?base=ind)
 
-> VIBRA ENERGIA S/A (VBBR3) teve receita líquida de R$ 189,1 bilhões e lucro líquido de R$ 2,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,9 bilhões, margem EBITDA de 3,1% sobre a receita. O valor de mercado era de R$ 45,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 23,1 e P/VPA de 2,20 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2016 a 2025.
+> VIBRA ENERGIA S/A (VBBR3) teve receita líquida de R$ 189,1 bilhões e lucro líquido de R$ 2,0 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 5,9 bilhões, margem EBITDA de 3,1% sobre a receita. O valor de mercado era de R$ 42,9 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,7 e P/VPA de 2,07 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2016 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,1 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 189,1 bi · 2025
 
@@ -36,6 +36,40 @@ VBBR3, BRDT3 · CD_CVM 24295 · Comércio (Atacado e Varejo) · RJ · DFP 10a ·
 ## Lucro líquido — por exercício (DFP, R$)
 
 2016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 1.098 MW · 30 usinas ≥ 1 MW
+
+- Capacidade proporcional · 862 MW · inclui coligadas
+
+- Garantia física · 326 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Hélio Valgas 5 | Solar | MG | 50 MW | 96,0% | 48 |
+| Hélio Valgas 6 | Solar | MG | 50 MW | 96,0% | 48 |
+| Hélio Valgas 3 | Solar | MG | 50 MW | 86,7% | 43 |
+| Hélio Valgas 4 | Solar | MG | 50 MW | 86,7% | 43 |
+| Brígida | Solar | PE | 32 MW | 100,0% | 32 |
+| Brigida 2 | Solar | PE | 32 MW | 100,0% | 32 |
+| Bom Nome 1-5 | Solar | PE | 50 MW | 55,0% | 28 |
+| Bom Nome 1-6 | Solar | PE | 50 MW | 55,0% | 28 |
+| Hélio Valgas 9 | Solar | MG | 50 MW | 55,0% | 28 |
+| Hélio Valgas 10 | Solar | MG | 50 MW | 55,0% | 28 |
+| Solatio Varzea 4 | Solar | MG | 45 MW | 58,0% | 26 |
+| Hélio Valgas 1 | Solar | MG | 50 MW | 51,0% | 26 |
+| Hélio Valgas 2 | Solar | MG | 50 MW | 51,0% | 26 |
+| Hélio Valgas 7 | Solar | MG | 50 MW | 51,0% | 26 |
+| Hélio Valgas 8 | Solar | MG | 50 MW | 51,0% | 26 |
+
+15 de 51 usinas de 1 MW ou mais com participação do grupo.
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -92,11 +126,11 @@ DRE · DFP · consolidado · 2025 · 38 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 15,2× mediana 8,0× faixa 2,1× – 36,2× acima da mediana
+P/L atual 8,5× mediana 8,2× faixa 2,1× – 36,2× acima da mediana
 
-P/VPA atual 2,1× mediana 1,7× faixa 0,9× – 2,9× acima da mediana
+P/VPA atual 1,8× mediana 1,7× faixa 0,9× – 2,9× acima da mediana
 
-Dividend Yield atual 2,7% mediana 6,1% faixa 2,7% – 12,5% abaixo da mediana
+Dividend Yield atual 2,9% mediana 6,0% faixa 2,8% – 12,5% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

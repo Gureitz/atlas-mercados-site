@@ -1,6 +1,6 @@
 ---
 title: CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO (SBSP3) — análise financeira | Atlas Mercados
-description: CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO (SBSP3) teve receita líquida de R$ 38,1 bilhões e lucro líquido de R$ 8,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 14,8 bilhões, margem EBITDA de 38,9% sobre a receita. O valor de mercado era de R$ 99,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,8 e P/VPA de 2,35 sobre o último exercício. Em 2025, distribuiu R$ 2,4 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO (SBSP3) teve receita líquida de R$ 38,1 bilhões e lucro líquido de R$ 8,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 14,8 bilhões, margem EBITDA de 38,9% sobre a receita. O valor de mercado era de R$ 112,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,3 e P/VPA de 2,66 sobre o último exercício. Em 2025, distribuiu R$ 2,4 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,4 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/SBSP3
 ---
 <!-- https://atlasmercados.com.br/empresa/SBSP3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CI
 
 CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO
 
-SBSP3 · CD_CVM 14443 · Saneamento, Serv. Água e Gás · SP · DFP 16a · ITR 16a
+SBSP3 · CD_CVM 14443 · Saneamento, Serv. Água e Gás · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/SBSP3?base=con) [Individual](https://atlasmercados.com.br/empresa/SBSP3?base=ind)
 
-> CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO (SBSP3) teve receita líquida de R$ 38,1 bilhões e lucro líquido de R$ 8,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 14,8 bilhões, margem EBITDA de 38,9% sobre a receita. O valor de mercado era de R$ 99,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 11,8 e P/VPA de 2,35 sobre o último exercício. Em 2025, distribuiu R$ 2,4 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO (SBSP3) teve receita líquida de R$ 38,1 bilhões e lucro líquido de R$ 8,5 bilhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 14,8 bilhões, margem EBITDA de 38,9% sobre a receita. O valor de mercado era de R$ 112,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,3 e P/VPA de 2,66 sobre o último exercício. Em 2025, distribuiu R$ 2,4 bilhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 1,4 GW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 38,1 bi · 2025
 
@@ -36,6 +36,35 @@ SBSP3 · CD_CVM 14443 · Saneamento, Serv. Água e Gás · SP · DFP 16a · ITR 
 ## Lucro líquido — por exercício (DFP, R$)
 
 201020112012202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 1.445 MW · 12 usinas ≥ 1 MW
+
+- Capacidade proporcional · 1.250 MW · inclui coligadas
+
+- Garantia física · 307 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Henry Borden | Hídrica | SP | 889 MW | 79,7% | 708 |
+| Fótons de São George 01 (Antiga Panorama 04) | Solar | MS | 78 MW | 97,5% | 76 |
+| Fótons de São George 02 (Antiga Panorama 05) | Solar | MS | 78 MW | 97,5% | 76 |
+| Fótons de São George 03 (Antiga Panorama 06) | Solar | MS | 78 MW | 97,5% | 76 |
+| Fótons de São George 04 (Antiga Panorama 07) | Solar | MS | 78 MW | 97,5% | 76 |
+| Fótons de São George 05 (Antiga Panorama 08) | Solar | MS | 78 MW | 97,5% | 76 |
+| Fótons de São Paulino 01 | Solar | MS | 50 MW | 99,9% | 50 |
+| Fótons de São Paulino 02 | Solar | MS | 50 MW | 99,9% | 50 |
+| Pirapora | Hídrica | SP | 25 MW | 79,7% | 20 |
+| Porto Góes | Hídrica | SP | 25 MW | 79,7% | 20 |
+| Rasgão | Hídrica | SP | 22 MW | 79,7% | 18 |
+| PCT Barueri Biogás | Biomassa | SP | 3 MW | 100,0% | 3 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -86,11 +115,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 10,7× mediana 12,5× faixa 2,3× – 30,0× abaixo da mediana
+P/L atual 13,9× mediana 12,5× faixa 2,3× – 30,0× acima da mediana
 
-P/VPA atual 2,1× mediana 1,5× faixa 0,5× – 2,6× acima da mediana
+P/VPA atual 2,5× mediana 1,5× faixa 0,5× – 2,6× acima da mediana
 
-Dividend Yield atual 2,5% mediana 2,0% faixa 1,0% – 12,1% acima da mediana
+Dividend Yield atual 2,1% mediana 2,0% faixa 1,0% – 12,1% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

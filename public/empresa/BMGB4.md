@@ -1,6 +1,6 @@
 ---
 title: BANCO BMG S/A (BMGB4) — análise financeira | Atlas Mercados
-description: BANCO BMG S/A (BMGB4) teve receitas da intermediação financeira de R$ 8,7 bilhões e lucro líquido de R$ 587,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 4,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 0,92 sobre o último exercício. Em 2025, distribuiu R$ 323,6 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2025.
+description: BANCO BMG S/A (BMGB4) teve receitas da intermediação financeira de R$ 8,7 bilhões e lucro líquido de R$ 587,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 4,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 1,01 sobre o último exercício. Em 2025, distribuiu R$ 323,6 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2025.
 url: https://atlasmercados.com.br/empresa/BMGB4
 ---
 <!-- https://atlasmercados.com.br/empresa/BMGB4 — versão Markdown da página -->
@@ -9,11 +9,11 @@ BA
 
 BANCO BMG S/A
 
-BMGB4, BMGB11 · CD_CVM 24600 · Bancos · SP · DFP 9a · ITR 9a
+BMGB4, BMGB11 · CD_CVM 24600 · Bancos · SP · DFP 9a · ITR 9a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/BMGB4?base=con) [Individual](https://atlasmercados.com.br/empresa/BMGB4?base=ind)
 
-> BANCO BMG S/A (BMGB4) teve receitas da intermediação financeira de R$ 8,7 bilhões e lucro líquido de R$ 587,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 4,3 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,3 e P/VPA de 0,92 sobre o último exercício. Em 2025, distribuiu R$ 323,6 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2025.
+> BANCO BMG S/A (BMGB4) teve receitas da intermediação financeira de R$ 8,7 bilhões e lucro líquido de R$ 587,3 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 4,7 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,0 e P/VPA de 1,01 sobre o último exercício. Em 2025, distribuiu R$ 323,6 milhões em juros sobre capital próprio (DMPL). A série anual disponível vai de 2017 a 2025.
 
 - Receita líq. · R$ 8,7 bi · 2025
 
@@ -92,11 +92,11 @@ DRE · DFP · consolidado · 2025 · 38 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 6,5× mediana 7,5× faixa 5,1× – 124,8× abaixo da mediana
+P/L atual 7,4× mediana 7,5× faixa 5,1× – 124,8× abaixo da mediana
 
-P/VPA atual 0,8× mediana 0,5× faixa 0,3× – 0,9× acima da mediana
+P/VPA atual 0,9× mediana 0,5× faixa 0,3× – 0,9× acima da mediana
 
-Dividend Yield atual 8,4% mediana 9,7% faixa 3,6% – 17,6% abaixo da mediana
+Dividend Yield atual 7,0% mediana 9,6% faixa 3,6% – 17,6% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

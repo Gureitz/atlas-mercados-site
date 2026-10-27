@@ -1,6 +1,6 @@
 ---
 title: CRUZEIRO DO SUL EDUCACIONAL S.A. (CSED3) — análise financeira | Atlas Mercados
-description: CRUZEIRO DO SUL EDUCACIONAL S.A. (CSED3) teve receita líquida de R$ 2,8 bilhões e lucro líquido de R$ 296,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 744,5 milhões, margem EBITDA de 26,3% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,7 e P/VPA de 1,24 sobre o último exercício. Em 2025, distribuiu R$ 177,0 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+description: CRUZEIRO DO SUL EDUCACIONAL S.A. (CSED3) teve receita líquida de R$ 2,8 bilhões e lucro líquido de R$ 296,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 877,8 milhões, margem EBITDA de 30,9% sobre a receita. O valor de mercado era de R$ 2,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,3 e P/VPA de 1,54 sobre o último exercício. Em 2025, distribuiu R$ 177,0 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/CSED3
 ---
 <!-- https://atlasmercados.com.br/empresa/CSED3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CR
 
 CRUZEIRO DO SUL EDUCACIONAL S.A.
 
-CSED3 · CD_CVM 25526 · Educação · SP · DFP 7a · ITR 7a
+CSED3 · CD_CVM 25526 · Educação · SP · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CSED3?base=con) [Individual](https://atlasmercados.com.br/empresa/CSED3?base=ind)
 
-> CRUZEIRO DO SUL EDUCACIONAL S.A. (CSED3) teve receita líquida de R$ 2,8 bilhões e lucro líquido de R$ 296,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 744,5 milhões, margem EBITDA de 26,3% sobre a receita. O valor de mercado era de R$ 2,0 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,7 e P/VPA de 1,24 sobre o último exercício. Em 2025, distribuiu R$ 177,0 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
+> CRUZEIRO DO SUL EDUCACIONAL S.A. (CSED3) teve receita líquida de R$ 2,8 bilhões e lucro líquido de R$ 296,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 877,8 milhões, margem EBITDA de 30,9% sobre a receita. O valor de mercado era de R$ 2,5 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 8,3 e P/VPA de 1,54 sobre o último exercício. Em 2025, distribuiu R$ 177,0 milhões em dividendos (DMPL). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 2,8 bi · 2025
 
@@ -87,11 +87,11 @@ DRE · DFP · consolidado · 2025 · 33 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 6,5× mediana 13,6× faixa 4,6× – 211,0× abaixo da mediana
+P/L atual 7,9× mediana 13,5× faixa 4,6× – 211,0× abaixo da mediana
 
-P/VPA atual 1,1× mediana 1,1× faixa 0,5× – 11,8× abaixo da mediana
+P/VPA atual 1,5× mediana 1,1× faixa 0,5× – 11,8× acima da mediana
 
-Dividend Yield atual 10,0% mediana 3,6% faixa 0,5% – 51,9% acima da mediana
+Dividend Yield atual 7,2% mediana 3,8% faixa 0,5% – 51,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

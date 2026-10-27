@@ -1,6 +1,6 @@
 ---
 title: DOTZ S.A. (DOTZ3) — análise financeira | Atlas Mercados
-description: DOTZ S.A. (DOTZ3) teve receita líquida de R$ 230,8 milhões e prejuízo líquido de R$ 469.000 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 60,4 milhões, margem EBITDA de 26,2% sobre a receita. O valor de mercado era de R$ 142,5 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
+description: DOTZ S.A. (DOTZ3) teve receita líquida de R$ 230,8 milhões e prejuízo líquido de R$ 469.000 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 61,1 milhões, margem EBITDA de 26,5% sobre a receita. O valor de mercado era de R$ 173,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/DOTZ3
 ---
 <!-- https://atlasmercados.com.br/empresa/DOTZ3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ DO
 
 DOTZ S.A.
 
-DOTZ3 · CD_CVM 25836 · Comunicação e Informática · SP · DFP 7a · ITR 6a
+DOTZ3 · CD_CVM 25836 · Comunicação e Informática · SP · DFP 7a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/DOTZ3?base=con) [Individual](https://atlasmercados.com.br/empresa/DOTZ3?base=ind)
 
-> DOTZ S.A. (DOTZ3) teve receita líquida de R$ 230,8 milhões e prejuízo líquido de R$ 469.000 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 60,4 milhões, margem EBITDA de 26,2% sobre a receita. O valor de mercado era de R$ 142,5 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
+> DOTZ S.A. (DOTZ3) teve receita líquida de R$ 230,8 milhões e prejuízo líquido de R$ 469.000 no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 61,1 milhões, margem EBITDA de 26,5% sobre a receita. O valor de mercado era de R$ 173,2 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 230,8 mi · 2025
 
@@ -88,7 +88,7 @@ DRE · DFP · consolidado · 2025 · 34 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 18,9× mediana 39,7× faixa 10,1× – 136,0× abaixo da mediana
+P/L atual 6,0× mediana 19,4× faixa 6,0× – 136,0× abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

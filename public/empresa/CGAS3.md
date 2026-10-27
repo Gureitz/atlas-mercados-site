@@ -1,6 +1,6 @@
 ---
 title: COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS (CGAS3) — análise financeira | Atlas Mercados
-description: Análise financeira de COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS (CGAS3, CD_CVM 15636) a partir da CVM: receita n/d, lucro líquido n/d, patrimônio n/d no exercício . DFP/ITR, metodologia explícita.
+description: COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS (CGAS3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 16,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,6 e P/VPA de 11,40 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/CGAS3
 ---
 <!-- https://atlasmercados.com.br/empresa/CGAS3 — versão Markdown da página -->
@@ -9,29 +9,92 @@ CO
 
 COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS
 
-CGAS3, CGAS5 · CD_CVM 15636 · Emp. Adm. Part. - Saneamento, Serv. Água e Gás · SP · DFP 16a · ITR 16a
+CGAS3, CGAS5 · CD_CVM 15636 · Emp. Adm. Part. - Saneamento, Serv. Água e Gás · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/CGAS3?base=con) [Individual](https://atlasmercados.com.br/empresa/CGAS3?base=ind)
 
-Sem DFP consolidada para esta companhia. Tente a outra variante acima.
+> COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS (CGAS3) teve receita líquida de R$ 11,6 bilhões e lucro líquido de R$ 1,5 bilhão no exercício de 2025 (individual), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 16,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 10,6 e P/VPA de 11,40 sobre o último exercício. Em 2025, distribuiu R$ 1,2 bilhão em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+
+- Receita líq. · R$ 11,6 bi · 2025
+
+- Lucro líq. · R$ 1,5 bi · 2025
+
+- Margem líq. · 13,3% · LL / receita
+
+- EBIT · R$ 3,0 bi · result. oper.
+
+- Ativo total · R$ 14,9 bi · 2025
+
+- Patrim. líq. · R$ 1,4 bi · 2025
+
+- ROE · 107,3% · LL / PL
+
+## Receita líquida — por exercício (DFP, R$)
+
+201420152016201720182019202020212022202320242025
+
+## Lucro líquido — por exercício (DFP, R$)
+
+201420152016201720182019202020212022202320242025
+
+Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
 ## Demonstração crua — linha a linha, fonte CVM
 
-[DFP](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP) [ITR](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=ITR)
+[DFP](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP) [ITR](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=ITR)
 
-[BPA](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=BPA&ano=2025) [BPP](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=BPP&ano=2025) [DFC_MI](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DFC_MI&ano=2025) [DMPL](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DMPL&ano=2025) [DRA](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRA&ano=2025) [DRE](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRE&ano=2025) [DVA](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DVA&ano=2025)
+[BPA](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=BPA&ano=2025) [BPP](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=BPP&ano=2025) [DFC_MI](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DFC_MI&ano=2025) [DMPL](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DMPL&ano=2025) [DRA](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRA&ano=2025) [DRE](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRE&ano=2025) [DVA](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DVA&ano=2025)
 
-[2025](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRE&ano=2025) [2024](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRE&ano=2024) [2023](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRE&ano=2023) [2022](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRE&ano=2022) [2021](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRE&ano=2021) [2020](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRE&ano=2020) [2019](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRE&ano=2019) [2018](https://atlasmercados.com.br/empresa/CGAS3?base=con&doc=DFP&demo=DRE&ano=2018)
+[2025](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRE&ano=2025) [2024](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRE&ano=2024) [2023](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRE&ano=2023) [2022](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRE&ano=2022) [2021](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRE&ano=2021) [2020](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRE&ano=2020) [2019](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRE&ano=2019) [2018](https://atlasmercados.com.br/empresa/CGAS3?base=ind&doc=DFP&demo=DRE&ano=2018)
 
-Sem dados para esta seleção.
+| Conta | Descrição | Valor (R$) |
+|---|---|---|
+| 3.01 | Receita de Venda de Bens e/ou Serviços | 11.589.616.000 |
+| 3.02 | Custo dos Bens e/ou Serviços Vendidos | -8.089.763.000 |
+| 3.03 | Resultado Bruto | 3.499.853.000 |
+| 3.04 | Despesas/Receitas Operacionais | -510.524.000 |
+| 3.04.01 | Despesas com Vendas | -168.230.000 |
+| 3.04.02 | Despesas Gerais e Administrativas | -283.580.000 |
+| 3.04.03 | Perdas pela Não Recuperabilidade de Ativos | 0 |
+| 3.04.04 | Outras Receitas Operacionais | 0 |
+| 3.04.05 | Outras Despesas Operacionais | -58.714.000 |
+| 3.04.06 | Resultado de Equivalência Patrimonial | 0 |
+| 3.05 | Resultado Antes do Resultado Financeiro e dos Tributos | 2.989.329.000 |
+| 3.06 | Resultado Financeiro | -896.705.000 |
+| 3.06.01 | Receitas Financeiras | 663.019.000 |
+| 3.06.01.01 | Receitas Financeiras | 493.499.000 |
+| 3.06.01.02 | Derivativos | 0 |
+| 3.06.01.03 | Variação cambial líquida | 169.520.000 |
+| 3.06.02 | Despesas Financeiras | -1.559.724.000 |
+| 3.06.02.01 | Despesas Financeiras | -1.117.969.000 |
+| 3.06.02.02 | Variação cambial líquida | 0 |
+| 3.06.02.03 | Derivativos | -441.755.000 |
+| 3.07 | Resultado Antes dos Tributos sobre o Lucro | 2.092.624.000 |
+| 3.08 | Imposto de Renda e Contribuição Social sobre o Lucro | -546.146.000 |
+| 3.08.01 | Corrente | -432.303.000 |
+| 3.08.02 | Diferido | -113.843.000 |
+| 3.09 | Resultado Líquido das Operações Continuadas | 1.546.478.000 |
+| 3.10 | Resultado Líquido de Operações Descontinuadas | 0 |
+| 3.10.01 | Lucro/Prejuízo Líquido das Operações Descontinuadas | 0 |
+| 3.10.02 | Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas | 0 |
+| 3.11 | Lucro/Prejuízo do Período | 1.546.478.000 |
+| 3.99 | Lucro por Ação - (Reais / Ação) | 0 |
+| 3.99.01 | Lucro Básico por Ação | 0 |
+| 3.99.01.01 | Ordinárias | 11.423 |
+| 3.99.01.02 | Preferenciais | 12.565 |
+| 3.99.02 | Lucro Diluído por Ação | 0 |
+| 3.99.02.01 | Ordinárias | 11.423 |
+| 3.99.02.02 | Preferenciais | 12.565 |
+
+DRE · DFP · individual · 2025 · 36 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 10,7× mediana 10,3× faixa 5,6× – 47,6× acima da mediana
+P/L atual 10,7× mediana 10,4× faixa 5,6× – 47,6× acima da mediana
 
-P/VPA atual 9,5× mediana 14,6× faixa 5,3× – 48,4× abaixo da mediana
+P/VPA atual 10,3× mediana 14,6× faixa 5,3× – 48,4× abaixo da mediana
 
-Dividend Yield atual 7,3% mediana 8,9% faixa 3,1% – 15,0% abaixo da mediana
+Dividend Yield atual 7,3% mediana 8,8% faixa 3,1% – 15,0% abaixo da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

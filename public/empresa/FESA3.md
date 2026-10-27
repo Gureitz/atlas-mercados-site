@@ -1,6 +1,6 @@
 ---
 title: CIA FERRO LIGAS BAHIA FERBASA (FESA3) — análise financeira | Atlas Mercados
-description: CIA FERRO LIGAS BAHIA FERBASA (FESA3) teve receita líquida de R$ 2,3 bilhões e lucro líquido de R$ 188,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 249,3 milhões, margem EBITDA de 10,7% sobre a receita. O valor de mercado era de R$ 2,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,3 e P/VPA de 0,76 sobre o último exercício. Em 2025, distribuiu R$ 182,6 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: CIA FERRO LIGAS BAHIA FERBASA (FESA3) teve receita líquida de R$ 2,3 bilhões e lucro líquido de R$ 188,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 325,0 milhões, margem EBITDA de 13,9% sobre a receita. O valor de mercado era de R$ 2,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,8 e P/VPA de 0,85 sobre o último exercício. Em 2025, distribuiu R$ 182,6 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 170 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 url: https://atlasmercados.com.br/empresa/FESA3
 ---
 <!-- https://atlasmercados.com.br/empresa/FESA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ CI
 
 CIA FERRO LIGAS BAHIA FERBASA
 
-FESA3, FESA4 · CD_CVM 3069 · Metalurgia e Siderurgia · BA · DFP 16a · ITR 16a
+FESA3, FESA4 · CD_CVM 3069 · Metalurgia e Siderurgia · BA · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/FESA3?base=con) [Individual](https://atlasmercados.com.br/empresa/FESA3?base=ind)
 
-> CIA FERRO LIGAS BAHIA FERBASA (FESA3) teve receita líquida de R$ 2,3 bilhões e lucro líquido de R$ 188,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 249,3 milhões, margem EBITDA de 10,7% sobre a receita. O valor de mercado era de R$ 2,5 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 13,3 e P/VPA de 0,76 sobre o último exercício. Em 2025, distribuiu R$ 182,6 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> CIA FERRO LIGAS BAHIA FERBASA (FESA3) teve receita líquida de R$ 2,3 bilhões e lucro líquido de R$ 188,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 325,0 milhões, margem EBITDA de 13,9% sobre a receita. O valor de mercado era de R$ 2,8 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 14,8 e P/VPA de 0,85 sobre o último exercício. Em 2025, distribuiu R$ 182,6 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Pelos dados abertos da ANEEL, as usinas em operação de suas controladas somam 170 MW de potência fiscalizada (SIGA, 01/10/2026) — controlada = participação efetiva de 50% ou mais pela composição societária declarada à ANEEL, cálculo do site.
 
 - Receita líq. · R$ 2,3 bi · 2025
 
@@ -36,6 +36,32 @@ FESA3, FESA4 · CD_CVM 3069 · Metalurgia e Siderurgia · BA · DFP 16a · ITR 1
 ## Lucro líquido — por exercício (DFP, R$)
 
 201420152016201720182019202020212022202320242025
+
+## Setor elétrico — ANEEL · usinas (SIGA) e distribuidoras (SAMP) · atribuição pela composição societária (calc.)
+
+- Capacidade em controladas · 170 MW · 7 usinas ≥ 1 MW
+
+- Capacidade proporcional · 188 MW · inclui coligadas
+
+- Garantia física · 81 MWm · controladas
+
+- Consumidores · — · distribuidoras controladas
+
+- Energia faturada 12m · — · TUSD · controladas
+
+| Usina (maiores pela fatia do grupo) | Fonte | UF | Potência da usina | Participação efetiva | MW proporcionais |
+|---|---|---|---|---|---|
+| Inhambu | Eólica | BA | 31 MW | 100,0% | 31 |
+| Coqueirinho | Eólica | BA | 30 MW | 100,0% | 30 |
+| Tamanduá Mirim | Eólica | BA | 30 MW | 100,0% | 30 |
+| Corrupião | Eólica | BA | 28 MW | 100,0% | 28 |
+| Caititu | Eólica | BA | 22 MW | 100,0% | 22 |
+| Teiu | Eólica | BA | 17 MW | 100,0% | 17 |
+| Angical | Eólica | BA | 13 MW | 100,0% | 13 |
+| Ventos de São Bernardo coligada | Eólica | PE | 45 MW | 22,5% | 10 |
+| Ventos de São Ciro coligada | Eólica | PI | 36 MW | 22,5% | 8 |
+
+Participação efetiva = produto das fatias pela cadeia societária declarada à ANEEL; controlada (≥ 50%) conta 100%, como nas demonstrações consolidadas. Capacidade = potência fiscalizada (SIGA, 2026-10-01). [Setor elétrico no Brasil](https://atlasmercados.com.br/energia).
 
 Metodologia & fonte. Dados das demonstrações oficiais (DFP anual e ITR trimestral) da CVM Dados Abertos, normalizados: escala monetária convertida para R$, apenas o exercício corrente (ORDEM = ÚLTIMO) e a maior versão por período (reapresentações resolvidas). Plano de contas padrão — bancos e seguradoras usam plano próprio, então comparações entre setores diferentes exigem cautela. Não é recomendação de investimento.
 
@@ -86,11 +112,11 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 15,1× mediana 9,6× faixa 2,0× – 99,4× acima da mediana
+P/L atual 18,8× mediana 9,9× faixa 2,0× – 99,4× acima da mediana
 
-P/VPA atual 0,7× mediana 1,1× faixa 0,3× – 2,7× abaixo da mediana
+P/VPA atual 0,8× mediana 1,1× faixa 0,3× – 2,7× abaixo da mediana
 
-Dividend Yield atual 7,5% mediana 5,8% faixa 1,6% – 40,9% acima da mediana
+Dividend Yield atual 6,6% mediana 5,8% faixa 1,6% – 40,9% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,6 +1,6 @@
 ---
 title: AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL (AMER3) — análise financeira | Atlas Mercados
-description: AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL (AMER3) teve receita líquida de R$ 12,3 bilhões e prejuízo líquido de R$ 271,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 9,3% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL (AMER3) teve receita líquida de R$ 12,3 bilhões e prejuízo líquido de R$ 271,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 9,3% sobre a receita. O valor de mercado era de R$ 1,3 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,28 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/AMER3
 ---
 <!-- https://atlasmercados.com.br/empresa/AMER3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AM
 
 AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL
 
-AMER3, BTOW3 · CD_CVM 20990 · Comércio (Atacado e Varejo) · RJ · DFP 16a · ITR 16a
+AMER3, BTOW3 · CD_CVM 20990 · Comércio (Atacado e Varejo) · RJ · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/AMER3?base=con) [Individual](https://atlasmercados.com.br/empresa/AMER3?base=ind)
 
-> AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL (AMER3) teve receita líquida de R$ 12,3 bilhões e prejuízo líquido de R$ 271,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 9,3% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL (AMER3) teve receita líquida de R$ 12,3 bilhões e prejuízo líquido de R$ 271,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,1 bilhão, margem EBITDA de 9,3% sobre a receita. O valor de mercado era de R$ 1,3 bilhão em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,28 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 12,3 bi · 2025
 
@@ -88,7 +88,7 @@ DRE · DFP · consolidado · 2025 · 32 linhas · R$
 
 P/L atual 21,0× mediana 26,8× faixa 17,6× – 421,2× abaixo da mediana
 
-P/VPA atual 0,1× mediana 3,5× faixa 0,1× – 11,1× abaixo da mediana
+P/VPA atual 0,3× mediana 3,3× faixa 0,1× – 11,1× abaixo da mediana
 
 Dividend Yield atual 61,0% mediana 4,2% faixa 2,5% – 61,0% acima da mediana
 

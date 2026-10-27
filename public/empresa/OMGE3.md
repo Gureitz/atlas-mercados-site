@@ -1,19 +1,19 @@
 ---
 title: SERENA GERAÇÃO S.A. (OMGE3) — análise financeira | Atlas Mercados
-description: SERENA GERAÇÃO S.A. (OMGE3) teve receita líquida de R$ 5,7 bilhões e lucro líquido de R$ 101,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2013 a 2025.
+description: SERENA GERAÇÃO S.A. (OMGE3) teve receita líquida de R$ 5,7 bilhões e lucro líquido de R$ 101,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 22,5% sobre a receita. A série anual disponível vai de 2013 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/OMGE3
 ---
 <!-- https://atlasmercados.com.br/empresa/OMGE3 — versão Markdown da página -->
 
 SE
 
-SERENA GERAÇÃO S.A.
+SERENA GERAÇÃO S.A. sem pregão em 90 dias
 
 OMGE3 · CD_CVM 23426 · Emp. Adm. Part. - Energia Elétrica · SP · DFP 13a · ITR 13a
 
 [Consolidado](https://atlasmercados.com.br/empresa/OMGE3?base=con) [Individual](https://atlasmercados.com.br/empresa/OMGE3?base=ind)
 
-> SERENA GERAÇÃO S.A. (OMGE3) teve receita líquida de R$ 5,7 bilhões e lucro líquido de R$ 101,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. A série anual disponível vai de 2013 a 2025.
+> SERENA GERAÇÃO S.A. (OMGE3) teve receita líquida de R$ 5,7 bilhões e lucro líquido de R$ 101,7 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 1,3 bilhão, margem EBITDA de 22,5% sobre a receita. A série anual disponível vai de 2013 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 5,7 bi · 2025
 

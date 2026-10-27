@@ -11,7 +11,7 @@ AD
 
 B100 S.A. Intermediação Financeira B3 · CVM
 
-ADMF3 · 15 linhas × 11 períodos · BRL · CVM
+ADMF3 · 16 linhas × 11 períodos · BRL · CVM
 
 [Projetar →](https://atlasmercados.com.br/projecao/ADMF3) [Trimestral](https://atlasmercados.com.br/valuation/ADMF3?p=tri) [Anual](https://atlasmercados.com.br/valuation/ADMF3?p=anual) [Tudo](https://atlasmercados.com.br/valuation/ADMF3?p=tudo)
 
@@ -31,6 +31,7 @@ Atenção: Banco não tem lucro bruto no sentido industrial: a ponte passa por m
 | Custo dos produtos/serviços vendidosBRL | — | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 |
 | Lucro brutoBRL | — | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 0 | R$ 29,5 mi | R$ 10,0 mi | -R$ 39,5 mi | R$ 0 | R$ 2,5 mi |
 | Despesas operacionaisBRL | — | -R$ 5 mil | -R$ 71 mil | -R$ 13 mil | -R$ 89 mil | -R$ 325 mil | -R$ 16,4 mi | -R$ 441,6 mi | -R$ 5,2 mi | -R$ 4,7 mi | -R$ 6,4 mi |
+| Depreciação e amortizaçãoBRL | — | — | — | — | — | — | R$ 160 mil | R$ 202 mil | — | — | R$ 0 |
 | EBITBRL | — | -R$ 5 mil | -R$ 71 mil | -R$ 13 mil | -R$ 89 mil | -R$ 325 mil | R$ 13,1 mi | -R$ 431,6 mi | -R$ 44,7 mi | -R$ 4,7 mi | -R$ 3,9 mi |
 | Resultado financeiro líquidoBRL | — | R$ 0 | R$ 0 | -R$ 1 mil | -R$ 1 mil | R$ 159 mil | R$ 3,2 mi | R$ 0 | -R$ 4,8 mi | -R$ 18 mil | R$ 1,7 mi |
 | Resultado antes dos impostos (LAIR)BRL | — | -R$ 5 mil | -R$ 71 mil | -R$ 14 mil | -R$ 90 mil | -R$ 166 mil | R$ 16,2 mi | -R$ 431,6 mi | -R$ 49,5 mi | -R$ 4,7 mi | -R$ 2,2 mi |

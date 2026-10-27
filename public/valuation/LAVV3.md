@@ -11,7 +11,7 @@ LA
 
 LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A Construção Civil, Mat. Constr. e Decoração B3 · CVM
 
-LAVV3 · 14 linhas × 27 períodos · BRL · CVM
+LAVV3 · 15 linhas × 27 períodos · BRL · CVM
 
 [Projetar →](https://atlasmercados.com.br/projecao/LAVV3) [Trimestral](https://atlasmercados.com.br/valuation/LAVV3?p=tri) [Anual](https://atlasmercados.com.br/valuation/LAVV3?p=anual) [Tudo](https://atlasmercados.com.br/valuation/LAVV3?p=tudo)
 
@@ -31,6 +31,7 @@ Atenção: Receita é reconhecida por evolução de obra, não por venda. IR pel
 | Custo dos produtos/serviços vendidosBRL | — | -R$ 25,5 mi | -R$ 29,7 mi | -R$ 47,3 mi | -R$ 107,2 mi | -R$ 53,9 mi | -R$ 150,6 mi | -R$ 84,7 mi | -R$ 66,3 mi | -R$ 65,6 mi | -R$ 126,6 mi | -R$ 80,3 mi | -R$ 96,5 mi | -R$ 109,9 mi | -R$ 190,2 mi | -R$ 136,1 mi | -R$ 167,8 mi | -R$ 183,6 mi | -R$ 206,1 mi | -R$ 265,7 mi | -R$ 370,7 mi | -R$ 209,1 mi | -R$ 317,3 mi | -R$ 268,2 mi | -R$ 351,5 mi | -R$ 253,9 mi | -R$ 323,7 mi |
 | Lucro brutoBRL | — | R$ 16,9 mi | R$ 21,6 mi | R$ 39,4 mi | R$ 71,9 mi | R$ 36,5 mi | R$ 109,6 mi | R$ 64,6 mi | R$ 43,0 mi | R$ 34,0 mi | R$ 53,1 mi | R$ 48,5 mi | R$ 50,7 mi | R$ 49,2 mi | R$ 93,3 mi | R$ 68,9 mi | R$ 87,9 mi | R$ 101,6 mi | R$ 89,1 mi | R$ 127,8 mi | R$ 204,7 mi | R$ 125,6 mi | R$ 164,6 mi | R$ 146,6 mi | R$ 178,6 mi | R$ 119,0 mi | R$ 171,7 mi |
 | Despesas operacionaisBRL | — | -R$ 4,7 mi | -R$ 3,3 mi | -R$ 9,8 mi | -R$ 13,1 mi | -R$ 16,7 mi | -R$ 19,3 mi | -R$ 21,1 mi | -R$ 20,1 mi | -R$ 20,9 mi | -R$ 28,3 mi | -R$ 23,4 mi | -R$ 27,2 mi | -R$ 21,3 mi | -R$ 27,3 mi | -R$ 26,7 mi | -R$ 3,9 mi | -R$ 31,3 mi | -R$ 18,0 mi | -R$ 35,3 mi | -R$ 41,6 mi | -R$ 32,1 mi | -R$ 29,3 mi | -R$ 31,6 mi | -R$ 49,4 mi | -R$ 47,4 mi | -R$ 49,4 mi |
+| Depreciação e amortizaçãoBRL | R$ 393 mil | R$ 102 mil | R$ 102 mil | R$ 109 mil | R$ 122 mil | R$ 173 mil | R$ 198 mil | R$ 167 mil | R$ 253 mil | R$ 249 mil | R$ 246 mil | R$ 176 mil | R$ 204 mil | R$ 182 mil | R$ 199 mil | R$ 186 mil | R$ 350 mil | R$ 333 mil | R$ 302 mil | -R$ 1,5 mi | R$ 2,1 mi | R$ 277 mil | R$ 94 mil | R$ 8,1 mi | R$ 2,3 mi | R$ 1,7 mi | R$ 4,4 mi |
 | EBITBRL | — | R$ 12,2 mi | R$ 18,3 mi | R$ 29,6 mi | R$ 58,8 mi | R$ 19,9 mi | R$ 90,3 mi | R$ 43,5 mi | R$ 22,9 mi | R$ 13,1 mi | R$ 24,9 mi | R$ 25,0 mi | R$ 23,5 mi | R$ 27,9 mi | R$ 66,0 mi | R$ 42,2 mi | R$ 84,0 mi | R$ 70,3 mi | R$ 71,1 mi | R$ 92,5 mi | R$ 163,1 mi | R$ 93,5 mi | R$ 135,3 mi | R$ 115,0 mi | R$ 129,2 mi | R$ 71,7 mi | R$ 122,3 mi |
 | Resultado financeiro líquidoBRL | — | R$ 163 mil | R$ 363 mil | R$ 366 mil | R$ 6,5 mi | R$ 6,8 mi | R$ 12,5 mi | R$ 14,2 mi | R$ 11,1 mi | R$ 17,9 mi | R$ 17,4 mi | R$ 14,3 mi | R$ 18,1 mi | R$ 7,3 mi | R$ 16,0 mi | R$ 16,2 mi | R$ 15,2 mi | R$ 9,1 mi | R$ 8,7 mi | R$ 10,6 mi | R$ 9,4 mi | R$ 9,3 mi | R$ 9,2 mi | R$ 16,8 mi | R$ 10,4 mi | R$ 6,4 mi | -R$ 3,4 mi |
 | Resultado antes dos impostos (LAIR)BRL | — | R$ 12,4 mi | R$ 18,7 mi | R$ 29,9 mi | R$ 65,3 mi | R$ 26,7 mi | R$ 102,8 mi | R$ 57,7 mi | R$ 34,0 mi | R$ 31,0 mi | R$ 42,3 mi | R$ 39,4 mi | R$ 41,6 mi | R$ 35,2 mi | R$ 82,0 mi | R$ 58,4 mi | R$ 99,2 mi | R$ 79,4 mi | R$ 79,8 mi | R$ 103,1 mi | R$ 172,5 mi | R$ 102,8 mi | R$ 144,4 mi | R$ 131,8 mi | R$ 139,7 mi | R$ 78,1 mi | R$ 118,9 mi |

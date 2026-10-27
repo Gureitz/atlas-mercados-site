@@ -1,6 +1,6 @@
 ---
 title: MOURA DUBEUX ENGENHARIA S/A (MDNE3) — análise financeira | Atlas Mercados
-description: MOURA DUBEUX ENGENHARIA S/A (MDNE3) teve receita líquida de R$ 2,4 bilhões e lucro líquido de R$ 420,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 462,7 milhões, margem EBITDA de 19,6% sobre a receita. O valor de mercado era de R$ 2,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,4 e P/VPA de 1,78 sobre o último exercício. Em 2025, distribuiu R$ 401,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+description: MOURA DUBEUX ENGENHARIA S/A (MDNE3) teve receita líquida de R$ 2,4 bilhões e lucro líquido de R$ 420,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 462,7 milhões, margem EBITDA de 19,6% sobre a receita. O valor de mercado era de R$ 3,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,5 e P/VPA de 2,08 sobre o último exercício. Em 2025, distribuiu R$ 401,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/MDNE3
 ---
 <!-- https://atlasmercados.com.br/empresa/MDNE3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ MO
 
 MOURA DUBEUX ENGENHARIA S/A
 
-MDNE3 · CD_CVM 21067 · Construção Civil, Mat. Constr. e Decoração · PE · DFP 16a · ITR 16a
+MDNE3 · CD_CVM 21067 · Construção Civil, Mat. Constr. e Decoração · PE · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/MDNE3?base=con) [Individual](https://atlasmercados.com.br/empresa/MDNE3?base=ind)
 
-> MOURA DUBEUX ENGENHARIA S/A (MDNE3) teve receita líquida de R$ 2,4 bilhões e lucro líquido de R$ 420,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 462,7 milhões, margem EBITDA de 19,6% sobre a receita. O valor de mercado era de R$ 2,7 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 6,4 e P/VPA de 1,78 sobre o último exercício. Em 2025, distribuiu R$ 401,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
+> MOURA DUBEUX ENGENHARIA S/A (MDNE3) teve receita líquida de R$ 2,4 bilhões e lucro líquido de R$ 420,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 462,7 milhões, margem EBITDA de 19,6% sobre a receita. O valor de mercado era de R$ 3,2 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/L de 7,5 e P/VPA de 2,08 sobre o último exercício. Em 2025, distribuiu R$ 401,7 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 2,4 bi · 2025
 
@@ -84,11 +84,11 @@ DRE · DFP · consolidado · 2025 · 30 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/L atual 4,9× mediana 6,8× faixa 3,8× – 9,4× abaixo da mediana
+P/L atual 5,6× mediana 6,8× faixa 3,8× – 9,4× abaixo da mediana
 
-P/VPA atual 1,2× mediana 0,8× faixa 0,4× – 7,0× acima da mediana
+P/VPA atual 1,4× mediana 0,8× faixa 0,4× – 7,0× acima da mediana
 
-Dividend Yield atual 16,1% mediana 2,8% faixa 1,6% – 16,1% acima da mediana
+Dividend Yield atual 12,8% mediana 2,9% faixa 1,6% – 15,8% acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 

@@ -1,6 +1,6 @@
 ---
 title: GAFISA SA (GFSA3) — análise financeira | Atlas Mercados
-description: GAFISA SA (GFSA3) teve receita líquida de R$ 619,7 milhões e prejuízo líquido de R$ 544,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 399,1 milhões, margem EBITDA de -64,4% sobre a receita. A série anual disponível vai de 2010 a 2025.
+description: GAFISA SA (GFSA3) teve receita líquida de R$ 619,7 milhões e prejuízo líquido de R$ 544,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 399,1 milhões, margem EBITDA de -64,4% sobre a receita. O valor de mercado era de R$ 9,6 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,01 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 url: https://atlasmercados.com.br/empresa/GFSA3
 ---
 <!-- https://atlasmercados.com.br/empresa/GFSA3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ GA
 
 GAFISA SA
 
-GFSA3, GAFS3 · CD_CVM 16101 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a
+GFSA3, GAFS3 · CD_CVM 16101 · Construção Civil, Mat. Constr. e Decoração · SP · DFP 16a · ITR 16a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/GFSA3?base=con) [Individual](https://atlasmercados.com.br/empresa/GFSA3?base=ind)
 
-> GAFISA SA (GFSA3) teve receita líquida de R$ 619,7 milhões e prejuízo líquido de R$ 544,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 399,1 milhões, margem EBITDA de -64,4% sobre a receita. A série anual disponível vai de 2010 a 2025.
+> GAFISA SA (GFSA3) teve receita líquida de R$ 619,7 milhões e prejuízo líquido de R$ 544,5 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 399,1 milhões, margem EBITDA de -64,4% sobre a receita. O valor de mercado era de R$ 9,6 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 0,01 sobre o último exercício. A série anual disponível vai de 2010 a 2025.
 
 - Receita líq. · R$ 619,7 mi · 2025
 

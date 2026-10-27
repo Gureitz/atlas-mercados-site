@@ -1,6 +1,6 @@
 ---
 title: AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A. (AERI3) — análise financeira | Atlas Mercados
-description: AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A. (AERI3) teve receita líquida de R$ 746,0 milhões e prejuízo líquido de R$ 901,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 426,8 milhões, margem EBITDA de -57,2% sobre a receita. O valor de mercado era de R$ 137,9 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
+description: AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A. (AERI3) teve receita líquida de R$ 746,0 milhões e prejuízo líquido de R$ 901,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 414,0 milhões, margem EBITDA de -55,5% sobre a receita. O valor de mercado era de R$ 136,7 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
 url: https://atlasmercados.com.br/empresa/AERI3
 ---
 <!-- https://atlasmercados.com.br/empresa/AERI3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ AE
 
 AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A.
 
-AERI3 · CD_CVM 25283 · Máquinas, Equipamentos, Veículos e Peças · CE · DFP 7a · ITR 7a
+AERI3 · CD_CVM 25283 · Máquinas, Equipamentos, Veículos e Peças · CE · DFP 7a · ITR 7a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/AERI3?base=con) [Individual](https://atlasmercados.com.br/empresa/AERI3?base=ind)
 
-> AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A. (AERI3) teve receita líquida de R$ 746,0 milhões e prejuízo líquido de R$ 901,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 426,8 milhões, margem EBITDA de -57,2% sobre a receita. O valor de mercado era de R$ 137,9 milhões em 02/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
+> AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A. (AERI3) teve receita líquida de R$ 746,0 milhões e prejuízo líquido de R$ 901,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 414,0 milhões, margem EBITDA de -55,5% sobre a receita. O valor de mercado era de R$ 136,7 milhões em 23/10/2026 (cotação da B3 × ações informadas à CVM). A série anual disponível vai de 2019 a 2025.
 
 - Receita líq. · R$ 746,0 mi · 2025
 

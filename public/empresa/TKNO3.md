@@ -1,19 +1,19 @@
 ---
 title: TEKNO S.A. INDÚSTRIA E COMÉRCIO (TKNO3) — análise financeira | Atlas Mercados
-description: TEKNO S.A. INDÚSTRIA E COMÉRCIO (TKNO3) teve receita líquida de R$ 297,0 milhões e lucro líquido de R$ 30,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 40,8 milhões, margem EBITDA de 13,7% sobre a receita. O valor de mercado era de R$ 634,9 milhões em 22/04/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,2 e P/VPA de 2,20 sobre o último exercício. Em 2025, distribuiu R$ 59,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+description: TEKNO S.A. INDÚSTRIA E COMÉRCIO (TKNO3) teve receita líquida de R$ 297,0 milhões e lucro líquido de R$ 30,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 40,8 milhões, margem EBITDA de 13,7% sobre a receita. O valor de mercado era de R$ 634,9 milhões em 22/04/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,2 e P/VPA de 2,20 sobre o último exercício. Em 2025, distribuiu R$ 59,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 22/04/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/TKNO3
 ---
 <!-- https://atlasmercados.com.br/empresa/TKNO3 — versão Markdown da página -->
 
 TE
 
-TEKNO S.A. INDÚSTRIA E COMÉRCIO
+TEKNO S.A. INDÚSTRIA E COMÉRCIO registro cancelada na CVM sem pregão em 90 dias
 
-TKNO3, TKNO4 · CD_CVM 11231 · Emp. Adm. Part. - Metalurgia e Siderurgia · SP · DFP 16a · ITR 15a
+TKNO3, TKNO4 · CD_CVM 11231 · Emp. Adm. Part. - Metalurgia e Siderurgia · SP · DFP 16a · ITR 15a · último pregão 22/04/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/TKNO3?base=con) [Individual](https://atlasmercados.com.br/empresa/TKNO3?base=ind)
 
-> TEKNO S.A. INDÚSTRIA E COMÉRCIO (TKNO3) teve receita líquida de R$ 297,0 milhões e lucro líquido de R$ 30,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 40,8 milhões, margem EBITDA de 13,7% sobre a receita. O valor de mercado era de R$ 634,9 milhões em 22/04/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,2 e P/VPA de 2,20 sobre o último exercício. Em 2025, distribuiu R$ 59,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025.
+> TEKNO S.A. INDÚSTRIA E COMÉRCIO (TKNO3) teve receita líquida de R$ 297,0 milhões e lucro líquido de R$ 30,0 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 40,8 milhões, margem EBITDA de 13,7% sobre a receita. O valor de mercado era de R$ 634,9 milhões em 22/04/2026 (cotação da B3 × ações informadas à CVM), com P/L de 21,2 e P/VPA de 2,20 sobre o último exercício. Em 2025, distribuiu R$ 59,7 milhões em dividendos e juros sobre capital próprio (DMPL). A série anual disponível vai de 2010 a 2025. Não teve negociação na B3 nos últimos 90 dias (último pregão em 22/04/2026, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 297,0 mi · 2025
 

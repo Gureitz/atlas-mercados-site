@@ -1,19 +1,19 @@
 ---
 title: CIA SEGUROS ALIANCA DA BAHIA (CSAB3) — análise financeira | Atlas Mercados
-description: CIA SEGUROS ALIANCA DA BAHIA (CSAB3) teve receitas operacionais de R$ 4,5 milhões e lucro líquido de R$ 18,2 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 4,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2022.
+description: CIA SEGUROS ALIANCA DA BAHIA (CSAB3) teve receitas operacionais de R$ 4,5 milhões e lucro líquido de R$ 18,2 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 4,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/CSAB3
 ---
 <!-- https://atlasmercados.com.br/empresa/CSAB3 — versão Markdown da página -->
 
 CI
 
-CIA SEGUROS ALIANCA DA BAHIA
+CIA SEGUROS ALIANCA DA BAHIA registro cancelada na CVM sem pregão em 90 dias
 
 CSAB3, CSAB4 · CD_CVM 3115 · Seguradoras e Corretoras · BA · DFP 13a · ITR 13a
 
 [Consolidado](https://atlasmercados.com.br/empresa/CSAB3?base=con) [Individual](https://atlasmercados.com.br/empresa/CSAB3?base=ind)
 
-> CIA SEGUROS ALIANCA DA BAHIA (CSAB3) teve receitas operacionais de R$ 4,5 milhões e lucro líquido de R$ 18,2 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 4,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2022.
+> CIA SEGUROS ALIANCA DA BAHIA (CSAB3) teve receitas operacionais de R$ 4,5 milhões e lucro líquido de R$ 18,2 milhões no exercício de 2022 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. Em 2022, distribuiu R$ 4,9 milhões em dividendos (DMPL). A série anual disponível vai de 2010 a 2022. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST. O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 4,5 mi · 2022
 

@@ -1,19 +1,19 @@
 ---
 title: ATACADÃO S.A. (CRFB3) — análise financeira | Atlas Mercados
-description: ATACADÃO S.A. (CRFB3) teve receita líquida de R$ 115,6 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,1 bilhões, margem EBITDA de 5,3% sobre a receita. Em 2024, distribuiu R$ 201,0 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2024.
+description: ATACADÃO S.A. (CRFB3) teve receita líquida de R$ 115,6 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,1 bilhões, margem EBITDA de 5,3% sobre a receita. Em 2024, distribuiu R$ 201,0 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 30/05/2025, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 url: https://atlasmercados.com.br/empresa/CRFB3
 ---
 <!-- https://atlasmercados.com.br/empresa/CRFB3 — versão Markdown da página -->
 
 AT
 
-ATACADÃO S.A.
+ATACADÃO S.A. registro cancelada na CVM sem pregão em 90 dias
 
-CRFB3 · CD_CVM 24171 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · SP · DFP 9a · ITR 9a
+CRFB3 · CD_CVM 24171 · Emp. Adm. Part. - Comércio (Atacado e Varejo) · SP · DFP 9a · ITR 9a · último pregão 30/05/2025
 
 [Consolidado](https://atlasmercados.com.br/empresa/CRFB3?base=con) [Individual](https://atlasmercados.com.br/empresa/CRFB3?base=ind)
 
-> ATACADÃO S.A. (CRFB3) teve receita líquida de R$ 115,6 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,1 bilhões, margem EBITDA de 5,3% sobre a receita. Em 2024, distribuiu R$ 201,0 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2024.
+> ATACADÃO S.A. (CRFB3) teve receita líquida de R$ 115,6 bilhões e lucro líquido de R$ 1,9 bilhão no exercício de 2024 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 6,1 bilhões, margem EBITDA de 5,3% sobre a receita. Em 2024, distribuiu R$ 201,0 milhões em dividendos (DMPL). A série anual disponível vai de 2016 a 2024. Não teve negociação na B3 nos últimos 90 dias (último pregão em 30/05/2025, segundo o COTAHIST). O registro de companhia aberta consta como cancelado no cadastro da CVM.
 
 - Receita líq. · R$ 115,6 bi · 2024
 

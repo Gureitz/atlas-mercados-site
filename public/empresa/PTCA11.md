@@ -1,19 +1,19 @@
 ---
 title: PRÁTICA PRODUTOS S.A. (PTCA11) — análise financeira | Atlas Mercados
-description: PRÁTICA PRODUTOS S.A. (PTCA11) teve receita líquida de R$ 388,7 milhões e lucro líquido de R$ 20,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 44,6 milhões, margem EBITDA de 11,5% sobre a receita. Em 2025, distribuiu R$ 24,0 milhões em dividendos (DMPL). A série anual disponível vai de 2017 a 2025.
+description: PRÁTICA PRODUTOS S.A. (PTCA11) teve receita líquida de R$ 388,7 milhões e lucro líquido de R$ 20,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 44,6 milhões, margem EBITDA de 11,5% sobre a receita. Em 2025, distribuiu R$ 24,0 milhões em dividendos (DMPL). A série anual disponível vai de 2017 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 url: https://atlasmercados.com.br/empresa/PTCA11
 ---
 <!-- https://atlasmercados.com.br/empresa/PTCA11 — versão Markdown da página -->
 
 PR
 
-PRÁTICA PRODUTOS S.A.
+PRÁTICA PRODUTOS S.A. sem pregão em 90 dias
 
 PTCA11, PTCA3 · CD_CVM 24546 · Emp. Adm. Part. - Máqs., Equip., Veíc. e Peças · MG · DFP 9a · ITR 9a
 
 [Consolidado](https://atlasmercados.com.br/empresa/PTCA11?base=con) [Individual](https://atlasmercados.com.br/empresa/PTCA11?base=ind)
 
-> PRÁTICA PRODUTOS S.A. (PTCA11) teve receita líquida de R$ 388,7 milhões e lucro líquido de R$ 20,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 44,6 milhões, margem EBITDA de 11,5% sobre a receita. Em 2025, distribuiu R$ 24,0 milhões em dividendos (DMPL). A série anual disponível vai de 2017 a 2025.
+> PRÁTICA PRODUTOS S.A. (PTCA11) teve receita líquida de R$ 388,7 milhões e lucro líquido de R$ 20,2 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de R$ 44,6 milhões, margem EBITDA de 11,5% sobre a receita. Em 2025, distribuiu R$ 24,0 milhões em dividendos (DMPL). A série anual disponível vai de 2017 a 2025. Não teve negociação na B3 nos últimos dois anos, segundo o COTAHIST.
 
 - Receita líq. · R$ 388,7 mi · 2025
 

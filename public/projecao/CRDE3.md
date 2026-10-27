@@ -11,7 +11,7 @@ CR
 
 FICA EMPREENDIMENTOS IMOBILIARIOS S.A. Projeção
 
-Realizado até 1T2026 · projeção de 40 trimestres (10 anos), de 2T2026 a 1T2036
+Realizado até 2T2026 · projeção de 40 trimestres (10 anos), de 3T2026 a 2T2036
 
 [← Estrutura](https://atlasmercados.com.br/valuation/CRDE3)
 

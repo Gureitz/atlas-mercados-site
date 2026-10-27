@@ -1,6 +1,6 @@
 ---
 title: INFRACOMMERCE CXAAS S.A. (IFCM3) — análise financeira | Atlas Mercados
-description: INFRACOMMERCE CXAAS S.A. (IFCM3) teve receita líquida de R$ 710,0 milhões e prejuízo líquido de R$ 341,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 3,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 15,94 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
+description: INFRACOMMERCE CXAAS S.A. (IFCM3) teve receita líquida de R$ 710,0 milhões e prejuízo líquido de R$ 341,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 36,5 milhões, margem EBITDA de -5,1% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 17,30 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
 url: https://atlasmercados.com.br/empresa/IFCM3
 ---
 <!-- https://atlasmercados.com.br/empresa/IFCM3 — versão Markdown da página -->
@@ -9,11 +9,11 @@ IN
 
 INFRACOMMERCE CXAAS S.A.
 
-IFCM3, IFCM11 · CD_CVM 25747 · Comércio (Atacado e Varejo) · SP · DFP 6a · ITR 6a
+IFCM3, IFCM11 · CD_CVM 25747 · Comércio (Atacado e Varejo) · SP · DFP 6a · ITR 6a · último pregão 23/10/2026
 
 [Consolidado](https://atlasmercados.com.br/empresa/IFCM3?base=con) [Individual](https://atlasmercados.com.br/empresa/IFCM3?base=ind)
 
-> INFRACOMMERCE CXAAS S.A. (IFCM3) teve receita líquida de R$ 710,0 milhões e prejuízo líquido de R$ 341,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O valor de mercado era de R$ 3,1 bilhões em 02/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 15,94 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
+> INFRACOMMERCE CXAAS S.A. (IFCM3) teve receita líquida de R$ 710,0 milhões e prejuízo líquido de R$ 341,9 milhões no exercício de 2025 (consolidado), segundo as demonstrações financeiras padronizadas (DFP) entregues à CVM. O EBITDA — lucro operacional (EBIT) mais depreciação e amortização do fluxo de caixa, cálculo do site — foi de -R$ 36,5 milhões, margem EBITDA de -5,1% sobre a receita. O valor de mercado era de R$ 3,4 bilhões em 23/10/2026 (cotação da B3 × ações informadas à CVM), com P/VPA de 17,30 sobre o último exercício. A série anual disponível vai de 2020 a 2025.
 
 - Receita líq. · R$ 710,0 mi · 2025
 
@@ -94,7 +94,7 @@ DRE · DFP · consolidado · 2025 · 40 linhas · R$
 
 ## Múltiplos ao longo do tempo — preço da B3 × ações e resultado da CVM · o múltiplo contra a própria história
 
-P/VPA atual 22,0× mediana 0,5× faixa 0,1× – 27,7× acima da mediana
+P/VPA atual 25,2× mediana 0,5× faixa 0,1× – 27,7× acima da mediana
 
 Série mensal desde 2020 (a CVM só publica a composição de capital nos ZIPs a partir daquele ano). Cada ponto usa o resultado que já era público no mês — os fundamentos entram com defasagem de 100 dias, então o múltiplo é o que se poderia calcular na época, sem olhar o futuro.
 
